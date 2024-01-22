@@ -5,63 +5,67 @@
        </requirements>
        <command detect_errors="exit_code">
        <![CDATA[
-              mkdir input
-              #for $files in ${inputdir}:
-                     ln -s $files input/str( $files ) # check if this okay
-              #end for
-              mkdir '${results}'
-              mkdir pfam_dir
-              #for $pfam in ${pfam_dir}:
-                     ln -s $pfam pfam_dir/str( $pfam ) #check if this is okay
+              mkdir input;
+
+              #for $files in $inputdir:
+                     ln -s $files input/$files.element_identifier;
               #end for
 
+              mkdir results;
 
-              python3 bigscape.py 
+              mkdir pfam_dir;
+
+              #for $pfam in $pfam_dir:
+                     ln -s $pfam pfam_dir/$pfam.element_identifier;
+              #end for
+
+              bigscape 
               --inputdir input
-              --outputdir '${results}'
-              #if ${use_label.is_select} == "yes":
+              --outputdir results
+              #if $use_label.is_select == "yes":
                      --label '${label}'
               #end if
-              #if ${include_gbk.is_select} == "yes":
+              #if $include_gbk.is_select == "yes":
                      --include_gbk_str '${include_gbk_str}'
               #end if
-              #if ${exclude_gbk.is_select} == "yes":
+              #if $exclude_gbk.is_select == "yes":
                      --exclude_gbk_str '${exclude_gbk_str}'
               #end if
-              #if ${core} != 0:
-                     --core ${core}
-              #end if
+              --pfam_dir pfam_dir
+              --core ${core}
               ${verbose}
               ${include_singletons}
               --domain_overlap_cutoff ${domain_overlap_cutoff}
               --min_bgc_size ${min}
               ${mix}
-              ${no_classifiy}
-              # if ${banned_classes}.value: 
-                     #for $banned in str( $banned_classes ).split( "," ):
+              ${no_classify}
+              #if $banned_classes.value: 
+                     #for $banned in $banned_classes.split( "," ):
                             --banned_classes '$banned'
                      #end for
               #end if
               --cutoffs ${cutoffs}
               ${clans_off}
-              #if ${clans_cutoff.is_select} == "yes":
+              #if $clans_cutoff.is_select == "yes":
                      --clans_cutoff ${clans_cutoff_val1} ${clans_cutoff_val2}
               #end if
               ${hybrids_off}
               --mode '${mode.value}'
-              #if ${anchor.is_select} == "yes":
+              #if $anchor.is_select == "yes":
                      ln -s ${anchorfile}
                      --anchorfile ${anchorfile}
               #end if
               ${force_hmmscan}
               ${skip_ma}
               ${mibig}
+              ${mibig21}
               ${mibig14}
               ${mibig13}
-              #if ${query.is_select} == "yes":
+              #if $query.is_select == "yes":
                      ls -s ${query_bgc}include_gbk_str
                      --query_bgc ${query_bgc}
               #end if
+              ;
        ]]>
        </command>
        <inputs>
@@ -110,10 +114,10 @@
                      </when>
                      <when value="no" />
               </conditional>
-              <param argument="--pfam_dir" format=".h3f,.h3i,.h3m,.h3p" multiple="true" type="data"
+              <param argument="--pfam_dir" format=".h3f,.h3i,.h3m,.h3p,.hmm" multiple="true" type="data"
                      label="Data from the Pfam database"
-                     help="Use the Pfam database with all 4 file: .h3f,.h3i,.h3m,.h3p" />
-              <param argument="--cores" type="integer" value="0" optional="true" name="core"
+                     help="Use the Pfam database with all 5 file(4 of them will can be contain when hmmpress the .hmm file first!): .h3f,.h3i,.h3m,.h3p,.hmm" />
+              <param argument="--cores" type="integer" value="1" optional="true" name="core"
                      label="How many cores should be use"
                      help="By default BiG-SCAPE use all cores which can be used at the time." />
               <param argument="--verbose" type="boolean" truevalue="--verbose" falsevalue="" checked="False"
@@ -202,6 +206,9 @@
                      label="Skip multiple alignment of domains sequences"
                      help="Use if alignments have been generated in a previous run. Domain sequence alignment will also be skipped if BiG-SCAPE reutilizes an output directory (when they are used in (input_files)) and no new BGCs are found within the input folder." />
               <param argument="--mibig" type="boolean" truevalue="--mibig" falsevalue="" checked="False"
+                     label="Include MIBiG database (version 3.1)"
+                     help="processed (with antiSMASH) GenBank files ready in BiG-SCAPE. Here only the version 3.1 will be inlcuded!" />
+              <param argument="--mibig21" type="boolean" truevalue="--mibig21" falsevalue="" checked="False"
                      label="Include MIBiG database (version 2.1)"
                      help="processed (with antiSMASH) GenBank files ready in BiG-SCAPE. Here only the version 2.1 will be inlcuded!" />
               <param argument="--mibig14" type="boolean" truevalue="--mibig14" falsevalue="" checked="False"
@@ -225,7 +232,7 @@
               </conditional>
        </inputs>
        <outputs>
-              <data name="results" /> 
+              <data name="results" from_work_dir="results" /> 
        </outputs>
        <help>
        <![CDATA[
