@@ -12,3 +12,6 @@ TODO:
     - Wichtig das man Formate angibt wenn man Datein selber schreiben muss
     - Infos und Links einfügen für Daten die man braucht (Pfamm)
     - Überlegen ob man die Grafik sowie Text von Git übernehmen
+
+ERRORS COMMING FROM OPTIONS:
+- domain_overlap_cutoff -> Wird nicht zum float gecastet wenn man diese Option nutzt!
