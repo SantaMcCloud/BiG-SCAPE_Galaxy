@@ -16,3 +16,6 @@ TODO:
 ERRORS COMMING FROM OPTIONS:
 - domain_overlap_cutoff -> Wird nicht zum float gecastet wenn man diese Option nutzt!
     - Über Local run bestätig (siehe .log file) das dies nicht gemacht wird!
+
+WORKING OPTIONS:
+- label works fine 
