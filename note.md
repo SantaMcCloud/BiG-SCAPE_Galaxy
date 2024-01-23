@@ -1,5 +1,4 @@
 Fragen die noch offen sind:
-- Wie kann man den Output bestimmen wenn es sich nur um ein DIR handelt? -> Noch zu entscheiden -> Siehe GOOGLEDOCS
 - Option --verbose lässt das programm mehr details printen das in eine log datei und als output geben?
 
 TODO:
@@ -22,7 +21,7 @@ ERRORS COMMING FROM OPTIONS:
     - Über Local run bestätig (siehe .log file) das dies nicht gemacht wird!
     - Comment im RP geschriebend as es gefixt wird noch vor dem neuen release, wenn sie es machen
 
-WORKING OPTIONS:
+WORKING OPTIONS [Nur einlzeln getetst und geschaut ob das Programm durchläuft]:
 - label works fine 
 - exclude and include works fine 
 - verbose geht (man kann jederzeit das > [filename] setzen egal wo)
@@ -31,17 +30,17 @@ WORKING OPTIONS:
 - min_bgc_size sollte gehen -> kein error bekommen -> getestet
 - mix geht -> kein error bekommen -> getestet
 - no_classify geht -> kein error bekommen -> geteste
-- banned_classes geht -> kein error bekommen
-- clans-off geht -> kein error bekommen
-- cutoffs geht -> kein error bekommen
-- hybrids-off geht -> kein error bekommen
-- force_hmmscan geht -> kein error bekommen
-- mibig geht -> kein error bekommen
-- skip_ma -> kein error bekommen
+- banned_classes geht -> kein error bekommen -> getestet aber nicht mit jedem einzelnen Input
+- clans-off geht -> kein error bekommen -> getestet
+- cutoffs geht -> kein error bekommen -> getestet
+- hybrids-off geht -> kein error bekommen -> getestet
+- force_hmmscan geht -> kein error bekommen -> getestet
+- mibig geht -> erorr bekommen siehe .log file-> getestest aber es kann zu fehler führen wenn gewisse .domtabel nix gefunden wird [maybe weil man es einzeln benutzt hat]
+- skip_ma -> kein error bekommen -> getestet
 - mibig21 geht -> kein error bekommen
 - mibig14 geht -> kein error bekommen
 - mibig13 geht -> kein error bekommen
-- clan_cutoff geht -> kein error bekommen -> geteste!
+- clan_cutoff geht -> kein error bekommen -> getestet
 - anchorfile geht -> kein error bekommen
 - domain_includelsit geht -> kein error bekommen
 - mode geht -> kein error bekommen
