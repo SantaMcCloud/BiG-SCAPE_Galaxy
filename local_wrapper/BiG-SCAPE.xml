@@ -23,7 +23,7 @@
 
               hmmpress pfam_dir/Pfam-A.hmm;
               
-              '$__tool_directory__'/BiG-SCAPE/bigscape.py 
+              python3 '$__tool_directory__'/BiG-SCAPE/bigscape.py 
               --inputdir input
               --outputdir results
               #if $use_label.is_select == "yes":
