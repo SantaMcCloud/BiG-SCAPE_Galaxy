@@ -4,6 +4,9 @@ Fragen die noch offen sind:
 TODO:
 - Update des recipe wenn eine antwort kommt 
 - Alle options testen -> Siehe WOKRING OPTINS welceh noch fehlen
+- Testen um 'parseHmmScan' mithilfe von neuem Argument 'genbankDict' zu fixen ist (nutzen von mibig optionen kann fehler davor reproduzieren)
+- Option [domain_overlap_cutoff] fixen und testen
+- neuen PR machen bzw alten überarbeteiten mit den neuen fixen -> Rücksprache halten davor mit Paul
 - Test erzeugen wenn man Outputs bekommt
 - änderung der mibig optionen da man nur eine nutzen kann wenn man einen nehme will!!
 - Outputs machen
@@ -20,11 +23,16 @@ ERRORS COMMING FROM OPTIONS:
 - domain_overlap_cutoff -> Wird nicht zum float gecastet wenn man diese Option nutzt!
     - Über Local run bestätig (siehe .log file) das dies nicht gemacht wird!
     - Comment im RP geschriebend as es gefixt wird noch vor dem neuen release, wenn sie es machen
+- mibig optionen bekommen ein Error dies liegt drana das die function 'parseHmmScan' aufgerufen wird
+    - Man rutscht in den Bereich wo der Error auftaucht wenn die .domtable keine domains enthält
+    - Nach Traceback globale var genbankDict ist zu diesem Punkt nicht definiert
+    - genbankDict wird vor der Function definiert definiert und auch gefüllt mit Inhalt
+    => möglicher fix wenn man genbankDict an die Funktion übergibt als argument -> Local austesten
 
 WORKING OPTIONS [Nur einlzeln getetst und geschaut ob das Programm durchläuft]:
-- label works fine 
-- exclude and include works fine 
-- verbose geht (man kann jederzeit das > [filename] setzen egal wo)
+- label works fine -> getestet
+- exclude and include works fine ->getestet 
+- verbose geht (man kann jederzeit das > [filename] setzen egal wo) -> getestet
 - cores geht bzw wird ignoriert -> wird über Galaxy geregt
 - include_singletons geht -> kein error bekommen -> getestet
 - min_bgc_size sollte gehen -> kein error bekommen -> getestet
@@ -37,13 +45,15 @@ WORKING OPTIONS [Nur einlzeln getetst und geschaut ob das Programm durchläuft]:
 - force_hmmscan geht -> kein error bekommen -> getestet
 - mibig geht -> erorr bekommen siehe .log file-> getestest aber es kann zu fehler führen wenn gewisse .domtabel nix gefunden wird [maybe weil man es einzeln benutzt hat]
 - skip_ma -> kein error bekommen -> getestet
-- mibig21 geht -> kein error bekommen
-- mibig14 geht -> kein error bekommen
-- mibig13 geht -> kein error bekommen
+- mibig21 geht -> erorr bekommen siehe .log file-> getestest aber es kann zu fehler führen wenn gewisse .domtabel nix gefunden wird [maybe weil man es einzeln benutzt hat]
+- mibig14 geht -> erorr bekommen siehe .log file-> getestest aber es kann zu fehler führen wenn gewisse .domtabel nix gefunden wird [maybe weil man es einzeln benutzt hat]
+- mibig13 geht erorr bekommen siehe .log file-> getestest aber es kann zu fehler führen wenn gewisse .domtabel nix gefunden wird [maybe weil man es einzeln benutzt hat]
 - clan_cutoff geht -> kein error bekommen -> getestet
-- anchorfile geht -> kein error bekommen
+- anchorfile geht -> kein error bekommen -> getestet und nimmt die ausgewählte datei
 - domain_includelsit geht -> kein error bekommen
 - mode geht -> kein error bekommen
+- query_bgc -> kein error bekommen
+- domain_overlap_cutoff -> error garnicht möglich
 
 DONE:
 - Did PR for fixing the import to make the recipe working + comment in the PR for fixing the option [-d | --domain_overlap_cutoff] -> NO ANSWER YET (23.01)

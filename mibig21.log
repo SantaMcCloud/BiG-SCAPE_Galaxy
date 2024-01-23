@@ -1,0 +1,45 @@
+LOCAL RUN WITH OPTION:
+
+(bigscape) sf373@LAPTOP-7RMLPR2D:~/sf373/BiG-SCAPE$ python3 bigscape.py -i input/ --pfam_dir pfam/ -o test/  --include_gbk_str G --mibig21
+
+
+   - - Processing input files - -
+ Output folder already exists
+ Including files with one or more of the following strings in their filename: 'G'
+ Skipping files with one or more of the following strings in their filename: 'final'
+
+ Trying to read bundled MIBiG BGCs as reference
+  MIBiG BGCs seem to have been extracted already
+
+Importing MIBiG files
+  Warning: Input set has files with no Biosynthetic Genes (affects alignment mode)
+   See no_biosynthetic_genes_list.txt
+
+ Starting with 1923 files
+ Files that had its sequence extracted: 1923
+
+Importing GenBank files
+  Warning: unknown product 'hydrogen-cyanide'
+
+ Starting with 2 files
+ Files that had its sequence extracted: 2
+
+Creating output directories
+
+Trying threading on 8 cores
+
+Predicting domains using hmmscan
+ Predicting domains for 1925 fasta files
+ Finished generating domtable files.
+
+Parsing hmmscan domtable files
+ Processing 1925 domtable files
+  No domains where found in BGC0000492.1.domtable. Removing it from further analysis
+Traceback (most recent call last):
+  File "bigscape.py", line 3333, in <module>
+    main()
+  File "bigscape.py", line 2522, in main
+    parseHmmScan(domtableFile, pfd_folder, pfs_folder, options.domain_overlap_cutoff)
+  File "bigscape.py", line 1294, in parseHmmScan
+    info = genbankDict.get(outputbase)
+NameError: name 'genbankDict' is not defined
