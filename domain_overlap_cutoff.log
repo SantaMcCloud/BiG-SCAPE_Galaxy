@@ -1,0 +1,45 @@
+(bigscape) sf373@LAPTOP-7RMLPR2D:~/sf373/BiG-SCAPE$ python3 bigscape.py -i input/ --pfam_dir pfam/ -o out/ -d 0.3 --include_gbk_str G
+<class 'str'> 0.3
+
+
+   - - Processing input files - -
+ Output folder already exists
+ Logs folder already exists
+ Cache folder already exists
+ BGC fastas folder already exists
+ Domtable folder already exists
+ Domains folder already exists
+ pfs folder already exists
+ pfd folder already exists
+ Including files with one or more of the following strings in their filename: 'G'
+ Skipping files with one or more of the following strings in their filename: 'final'
+
+Importing GenBank files
+  Warning: unknown product 'hydrogen-cyanide'
+
+ Starting with 2 files
+ Files that had its sequence extracted: 2
+
+Creating output directories
+ SVG folder already exists
+ Networks folder already exists
+
+Trying threading on 8 cores
+
+Predicting domains using hmmscan
+ Predicting domains for 2 fasta files
+ Finished generating domtable files.
+
+Parsing hmmscan domtable files
+ Processing 2 domtable files
+<class 'str'> 0.3
+Traceback (most recent call last):
+  File "bigscape.py", line 3334, in <module>
+    main()
+  File "bigscape.py", line 2523, in main
+    parseHmmScan(domtableFile, pfd_folder, pfs_folder, options.domain_overlap_cutoff)
+  File "bigscape.py", line 1279, in parseHmmScan
+    filtered_matrix, domains = check_overlap(pfd_matrix,overlapCutoff)
+  File "/home/sf373/sf373/BiG-SCAPE/functions.py", line 101, in check_overlap
+    if overlap_perc_loc1 > overlap_cutoff or overlap_perc_loc2 > overlap_cutoff:
+TypeError: '>' not supported between instances of 'float' and 'str'
