@@ -6,7 +6,8 @@ Fragen die noch offen sind:
 
 TODO:
 - Testen wenn das Recipe geupdated ist (PRIO) -> Siehe GOOGLEDOC ->LÖSUNG!!!! 
-- Issus schreiben für BiG-MAP 
+- Issus schreiben für BiG-MAP
+- änderung der mibig optionen da man nur eine nutzen kann wenn man einen nehme will!!
 - Letze Option einfügen -> domain_includelist.txt überschreiben mit eigener Datei -> schauen wie das geht und austesten (geht auch mit 1.1.6)
 - Update die Help Texte jedes Argument
 - Schreiben des Help Blocks 
@@ -17,9 +18,30 @@ TODO:
 ERRORS COMMING FROM OPTIONS:
 - domain_overlap_cutoff -> Wird nicht zum float gecastet wenn man diese Option nutzt!
     - Über Local run bestätig (siehe .log file) das dies nicht gemacht wird!
+    - Comment im RP geschriebend as es gefixt wird noch vor dem neuen release, wenn sie es machen
 
 WORKING OPTIONS:
 - label works fine 
 - exclude and include works fine 
-- verbose geht
+- verbose geht (man kann jederzeit das > [filename] setzen egal wo)
+- cores geht bzw wird ignoriert -> wird über Galaxy geregt
+- include_singletons geht -> kein error bekommen
+- min_bgc_size sollte gehen -> kein error bekommen
+- mix geht -> kein error bekommen
+- no_classify geht -> kein error bekommen
+- banned_classes geht -> kein error bekommen
+- clans-off geht -> kein error bekommen
+- cutoffs geht -> kein error bekommen
+- hybrids-off geht -> kein error bekommen
+- force_hmmscan geht -> kein error bekommen
+- mibig geht -> kein error bekommen
+- skip_ma -> kein error bekommen
+- mibig21 geht -> kein error bekommen
+- mibig14 geht -> kein error bekommen
+- mibig13 geht -> kein error bekommen
+- clan_cutoff geht -> kein error bekommen -> geteste!
+- anchorfile geht -> kein error bekommen
+- domain_includelsit geht -> kein error bekommen
+- mode geht -> kein error bekommen
+
 
