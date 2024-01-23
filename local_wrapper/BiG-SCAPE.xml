@@ -39,7 +39,6 @@
               --core \${GALAXY_SLOTS:-6}
               ${verbose}
               ${include_singletons}
-              --domain_overlap_cutoff $domain_overlap_cutoff
               --min_bgc_size $min
               ${mix}
               ${no_classify}
