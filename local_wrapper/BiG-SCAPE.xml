@@ -27,13 +27,13 @@
               --inputdir input
               --outputdir results
               #if $use_label.is_select == "yes":
-                     --label '${label}'
+                     --label ${label}
               #end if
               #if $include_gbk.is_select == "yes":
-                     --include_gbk_str '${include_gbk_str}'
+                     --include_gbk_str ${include_gbk_str}
               #end if
               #if $exclude_gbk.is_select == "yes":
-                     --exclude_gbk_str '${exclude_gbk_str}'
+                     --exclude_gbk_str ${exclude_gbk_str}
               #end if
               --pfam_dir pfam_dir
               --core \${GALAXY_SLOTS:-6}

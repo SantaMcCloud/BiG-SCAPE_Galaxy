@@ -19,3 +19,4 @@ ERRORS COMMING FROM OPTIONS:
 
 WORKING OPTIONS:
 - label works fine 
+- exclude and include works fine 
