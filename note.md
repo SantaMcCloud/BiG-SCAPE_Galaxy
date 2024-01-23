@@ -2,6 +2,7 @@ Fragen die noch offen sind:
 - Wie steht es mit den Cores muss/kann man diese begrenzen bzw. sollte man das tun? -> Core entfernen und Galaxy standart nehmen mti default
 - Wie kann man den Output bestimmen wenn es sich nur um ein DIR handelt? -> Noch zu entscheiden -> Siehe GOOGLEDOCS 
 - Man muss 5 Pfamm files zurverfügung stellen oder man macht das nur mit einer und nutzt dann hammscan auf diese ->  Entscheiden welche Variante besser ist! -> Nur die Hauptdatei machen
+- Option --verbose lässt dasd programm mehr details printen das in eine log datei und als output geben?
 
 TODO:
 - Testen wenn das Recipe geupdated ist (PRIO) -> Siehe GOOGLEDOC ->LÖSUNG!!!! 
@@ -20,3 +21,5 @@ ERRORS COMMING FROM OPTIONS:
 WORKING OPTIONS:
 - label works fine 
 - exclude and include works fine 
+- verbose geht
+

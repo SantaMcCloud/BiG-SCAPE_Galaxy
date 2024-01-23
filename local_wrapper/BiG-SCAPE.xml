@@ -43,8 +43,9 @@
               ${mix}
               ${no_classify}
               #if $banned_classes.value: 
-                     #for $banned in $banned_classes.split( "," ):
-                            --banned_classes '$banned'
+                     --banned_classes
+                     #for $banned in str( $banned_classes).split( "," ):  
+                            $banned  
                      #end for
               #end if
               --cutoffs $cutoffs
