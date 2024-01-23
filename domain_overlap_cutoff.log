@@ -1,3 +1,5 @@
+LOCAL RUN WITH OPTION:
+
 (bigscape) sf373@LAPTOP-7RMLPR2D:~/sf373/BiG-SCAPE$ python3 bigscape.py -i input/ --pfam_dir pfam/ -o out/ -d 0.3 --include_gbk_str G
 <class 'str'> 0.3
 
@@ -43,3 +45,84 @@ Traceback (most recent call last):
   File "/home/sf373/sf373/BiG-SCAPE/functions.py", line 101, in check_overlap
     if overlap_perc_loc1 > overlap_cutoff or overlap_perc_loc2 > overlap_cutoff:
 TypeError: '>' not supported between instances of 'float' and 'str'
+
+LOCAL RUN WITHOUT OPTION:
+
+python3 bigscape.py -i input/ --pfam_dir pfam/ -o out/  --include_gbk_str G
+<class 'float'> 0.1
+
+
+   - - Processing input files - -
+ Output folder already exists
+ Logs folder already exists
+ Cache folder already exists
+ BGC fastas folder already exists
+ Domtable folder already exists
+ Domains folder already exists
+ pfs folder already exists
+ pfd folder already exists
+ Including files with one or more of the following strings in their filename: 'G'
+ Skipping files with one or more of the following strings in their filename: 'final'
+
+Importing GenBank files
+  Warning: unknown product 'hydrogen-cyanide'
+
+ Starting with 2 files
+ Files that had its sequence extracted: 0
+
+Creating output directories
+ SVG folder already exists
+ Networks folder already exists
+
+Trying threading on 8 cores
+
+Predicting domains using hmmscan
+ All fasta files had already been processed
+ Finished generating domtable files.
+
+Parsing hmmscan domtable files
+ Processing 2 domtable files
+<class 'float'> 0.1
+<class 'float'> 0.1
+ New domain sequences to be added; cleaning domains folder
+ Finished generating pfs and pfd files.
+
+Processing domains sequence files
+ Adding sequences to corresponding domains file
+ Reading the ordered list of domains from the pfs files
+ Creating arrower-like figures for each BGC
+  Parsing hmm file for domain information
+    Done
+  Domains colors file was not found. An empty file will be created
+  Reading BGC information and writing SVG
+ Finished creating figures
+
+
+   - - Calculating distance matrix - -
+Performing multiple alignment of domain sequences
+
+ Using hmmalign
+launch_hmmalign took 52.864 seconds
+ Trying to read domain alignments (*.algn files)
+
+Generating distance network files with ALL available input files
+   Writing the complete Annotations file for the complete set
+
+ Working for each BGC class
+  Sorting the input BGCs
+
+  Warning: unknown product 'hydrogen-cyanide'
+
+  RiPPs (1 BGCs)
+   Writing annotation files
+   Calculating all pairwise distances
+generate_network took 0.025 seconds
+
+  Others (1 BGCs)
+   Writing annotation files
+   Calculating all pairwise distances
+generate_network took 0.027 seconds
+
+
+        Main function took 67.313 s
+(bigscape) sf373@LAPTOP-7RMLPR2D:~/sf373/BiG-SCAPE$ 
