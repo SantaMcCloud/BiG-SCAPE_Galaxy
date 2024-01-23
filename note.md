@@ -6,8 +6,6 @@ MERKEN:
 
 TODO:
 - Update des recipe wenn eine antwort kommt
-- Paul fragen ob die ganzen fixes auch so commite werden sollten!
-- Option [domain_overlap_cutoff] fixen und testen
 - Option [query_bgc] anschauen und maybe fixen
 - neuen PR machen bzw alten überarbeteiten mit den neuen fixen -> Rücksprache halten davor mit Paul
 - Test erzeugen wenn man Outputs bekommt
@@ -108,4 +106,5 @@ DONE:
 - Add hmmpress into command line since we only let the Pfam-A.hmm to be uplaoded. 
 - Did test all possible options -> right now there is one option which doesnt work at all and some other options which enter a error if not enough data is inputed
 - Include the var [genbankDict] as argument for the function [parseHmmScan] did fix the error (look at the mibig.log file) 
+- Fix [-d | --domain_overlap_cutoff] with anotate the type in the parse function (parse of the args). -> Evreything works fine then look in domain_overlap_cutoff.log for details
 

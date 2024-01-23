@@ -126,3 +126,143 @@ generate_network took 0.027 seconds
 
         Main function took 67.313 s
 (bigscape) sf373@LAPTOP-7RMLPR2D:~/sf373/BiG-SCAPE$ 
+
+LOCAL RUN WITH FIXED .py AND OPTION:
+
+(bigscape) sf373@LAPTOP-7RMLPR2D:~/sf373/BiG-SCAPE$ python3 bigscape.py -i input/ --pfam_dir pfam/ -o out/  --include_gbk_str G -d 0.3
+<class 'float'> 0.3
+
+
+   - - Processing input files - -
+ Output folder already exists
+ Including files with one or more of the following strings in their filename: 'G'
+ Skipping files with one or more of the following strings in their filename: 'final'
+
+Importing GenBank files
+  Warning: unknown product 'hydrogen-cyanide'
+
+ Starting with 2 files
+ Files that had its sequence extracted: 2
+
+Creating output directories
+
+Trying threading on 8 cores
+
+Predicting domains using hmmscan
+ Predicting domains for 2 fasta files
+ Finished generating domtable files.
+
+Parsing hmmscan domtable files
+ Processing 2 domtable files
+ New domain sequences to be added; cleaning domains folder
+ Finished generating pfs and pfd files.
+
+Processing domains sequence files
+ Adding sequences to corresponding domains file
+ Reading the ordered list of domains from the pfs files
+ Creating arrower-like figures for each BGC
+  Parsing hmm file for domain information
+    Done
+  Domains colors file was not found. An empty file will be created
+  Reading BGC information and writing SVG
+ Finished creating figures
+
+
+   - - Calculating distance matrix - -
+Performing multiple alignment of domain sequences
+
+ Using hmmalign
+launch_hmmalign took 50.314 seconds
+ Trying to read domain alignments (*.algn files)
+
+Generating distance network files with ALL available input files
+   Writing the complete Annotations file for the complete set
+
+ Working for each BGC class
+  Sorting the input BGCs
+
+  Warning: unknown product 'hydrogen-cyanide'
+
+  RiPPs (1 BGCs)
+   Writing annotation files
+   Calculating all pairwise distances
+generate_network took 0.024 seconds
+
+  Others (1 BGCs)
+   Writing annotation files
+   Calculating all pairwise distances
+generate_network took 0.030 seconds
+
+
+        Main function took 1067.127 s
+(bigscape) sf373@LAPTOP-7RMLPR2D:~/sf373/BiG-SCAPE$ 
+
+LOCAL RUN WITH FIXED .py WIHTOUT OPTION:
+
+(bigscape) sf373@LAPTOP-7RMLPR2D:~/sf373/BiG-SCAPE$ python3 bigscape.py -i input/ --pfam_dir pfam/ -o out/  --include_gbk_str G
+<class 'float'> 0.1
+
+
+   - - Processing input files - -
+ Output folder already exists
+ Including files with one or more of the following strings in their filename: 'G'
+ Skipping files with one or more of the following strings in their filename: 'final'
+
+Importing GenBank files
+  Warning: unknown product 'hydrogen-cyanide'
+
+ Starting with 2 files
+ Files that had its sequence extracted: 2
+
+Creating output directories
+
+Trying threading on 8 cores
+
+Predicting domains using hmmscan
+ Predicting domains for 2 fasta files
+ Finished generating domtable files.
+
+Parsing hmmscan domtable files
+ Processing 2 domtable files
+ New domain sequences to be added; cleaning domains folder
+ Finished generating pfs and pfd files.
+
+Processing domains sequence files
+ Adding sequences to corresponding domains file
+ Reading the ordered list of domains from the pfs files
+ Creating arrower-like figures for each BGC
+  Parsing hmm file for domain information
+    Done
+  Domains colors file was not found. An empty file will be created
+  Reading BGC information and writing SVG
+ Finished creating figures
+
+
+   - - Calculating distance matrix - -
+Performing multiple alignment of domain sequences
+
+ Using hmmalign
+launch_hmmalign took 40.842 seconds
+ Trying to read domain alignments (*.algn files)
+
+Generating distance network files with ALL available input files
+   Writing the complete Annotations file for the complete set
+
+ Working for each BGC class
+  Sorting the input BGCs
+
+  Warning: unknown product 'hydrogen-cyanide'
+
+  RiPPs (1 BGCs)
+   Writing annotation files
+   Calculating all pairwise distances
+generate_network took 0.023 seconds
+
+  Others (1 BGCs)
+   Writing annotation files
+   Calculating all pairwise distances
+generate_network took 0.026 seconds
+
+
+        Main function took 1042.637 s
+(bigscape) sf373@LAPTOP-7RMLPR2D:~/sf373/BiG-SCAPE$ 
