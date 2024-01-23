@@ -3,13 +3,14 @@ Fragen die noch offen sind:
 
 MERKEN:
 - Fix von mibigs options: [genbankDict] zu [parseHmmScan] als Argument geben
+- Fix von [domain_overlap_cutoff] in den man den Typ beim parsen der Argumente angibt in der .py
 
 TODO:
 - Update des recipe wenn eine antwort kommt
 - Option [query_bgc] anschauen und maybe fixen
 - neuen PR machen bzw alten überarbeteiten mit den neuen fixen -> Rücksprache halten davor mit Paul
 - Test erzeugen wenn man Outputs bekommt
-- änderung der mibig optionen da man nur eine nutzen kann wenn man einen nehme will!!
+- Änderung der mibig optionen da man nur eine nutzen kann wenn man einen nehme will!!
 - Outputs machen
 - Domaintable and Anchor file checken ob es so geht im Wrapper
 - Letze Option einfügen -> domain_includelist.txt überschreiben mit eigener Datei -> schauen wie das geht und austesten (geht auch mit 1.1.6)
@@ -101,7 +102,7 @@ WORKING OPTIONS [Nur einlzeln getetst und geschaut ob das Programm durchläuft]:
         - garnicht möglich, input wird als string gecastet nicht als float
 
 DONE:
-- Did PR for fixing the import to make the recipe working + comment in the PR for fixing the option [-d | --domain_overlap_cutoff] -> NO ANSWER YET (23.01)
+- Did PR for fixing the import to make the recipe working + comment in the PR for fixing the option [-d | --domain_overlap_cutoff]  -> NO ANSWER YET (23.01)
 - Removed Core param and add this as deafult together with \${GALAXY_SLOTS: -6}
 - Add hmmpress into command line since we only let the Pfam-A.hmm to be uplaoded. 
 - Did test all possible options -> right now there is one option which doesnt work at all and some other options which enter a error if not enough data is inputed
