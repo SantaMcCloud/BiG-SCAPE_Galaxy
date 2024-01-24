@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "/home/sf373/miniconda3/envs/bigscape/lib/python3.6/multiprocessing/pool.py", line 119, in worker
+    result = (True, func(*args, **kwds))
+  File "/home/sf373/miniconda3/envs/bigscape/lib/python3.6/multiprocessing/pool.py", line 44, in mapstar
+    return list(map(*args))
+  File "bigscape.py", line 563, in generate_dist_matrix
+    domain_list_B, dcg_a, dcg_b, core_pos_a, core_pos_b, go_a, go_b, bgc_class)
+  File "bigscape.py", line 1064, in cluster_distance_lcs
+    aligned_seqA = AlignedDomainSequences[sequence_tag_a]
+KeyError: 'AP018533.1.region001_ORF30:gid::pid::loc:28077:29259:strand:+:5:369'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "bigscape.py", line 3332, in <module>
+    main()
+  File "bigscape.py", line 3122, in main
+    network_matrix = generate_network(cluster_pairs, cores)
+  File "bigscape.py", line 479, in _wrap
+    ret = funct(*args)
+  File "bigscape.py", line 500, in generate_network
+    network_matrix = pool.map(generate_dist_matrix, cluster_pairs)
+  File "/home/sf373/miniconda3/envs/bigscape/lib/python3.6/multiprocessing/pool.py", line 266, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/sf373/miniconda3/envs/bigscape/lib/python3.6/multiprocessing/pool.py", line 644, in get
+    raise self._value
+KeyError: 'AP018533.1.region001_ORF30:gid::pid::loc:28077:29259:strand:+:5:369'

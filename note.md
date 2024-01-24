@@ -7,7 +7,7 @@ MERKEN:
 
 TODO:
 - Update des recipe wenn eine antwort kommt
-- Option [query_bgc] anschauen und maybe fixen
+- Option [query_bgc] anschauen und maybe fixen (aktuell dran) [aktuell schauen wie das dict angelegt ist und auch den Inhalt -> tracebakc wo das dict erstellt wird und da schauen dann]
 - neuen PR machen bzw alten überarbeteiten mit den neuen fixen -> Rücksprache halten davor mit Paul
 - fixes hochladen und mergen lassen -> siehe antwort PR
 - Test erzeugen wenn man Outputs bekommt
