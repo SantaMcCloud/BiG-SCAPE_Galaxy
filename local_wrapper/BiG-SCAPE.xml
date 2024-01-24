@@ -3,26 +3,30 @@
        <requirements>
               <requirement type="package" version="0.0.1">foobar</requirement>
        </requirements>
-       <command detect_errors="exit_code">
+      <command detect_errors="exit_code">
        <![CDATA[
               mkdir input;
-
               #for $files in $inputdir:
                      ln -s $files input/$files.element_identifier;
               #end for
 
               mkdir results;
 
-              mkdir pfam_dir;
+              mkdir pfam;
+              ln -s $pfam_dir pfam/$pfam_dir.element_identifier;
+              hmmpress pfam/Pfam-A.hmm;
 
-              #for $pfam in $pfam_dir:
-                     ln -s $pfam pfam_dir/$pfam.element_identifier;
-              #end for
+              #if $anchor.is_select == "yes":
+                     ln -s $anchorfile $anchorfile.element_identifier;
+              #end if
+              #if $query.is_select == "yes":
+                     ln -s $query_bgc $query_bgc.element_identifier;
+              #end if
+
+              ls pfam/;
 
               chmod a+x '$__tool_directory__'/BiG-SCAPE -R;
 
-              hmmpress pfam_dir/Pfam-A.hmm;
-              
               python3 '$__tool_directory__'/BiG-SCAPE/bigscape.py 
               --inputdir input
               --outputdir results
@@ -35,8 +39,8 @@
               #if $exclude_gbk.is_select == "yes":
                      --exclude_gbk_str ${exclude_gbk_str}
               #end if
-              --pfam_dir pfam_dir
-              --core \${GALAXY_SLOTS:-6}
+              --pfam_dir pfam
+              --core \${GALAXY_SLOTS:-8}
               ${verbose}
               ${include_singletons}
               --min_bgc_size $min
@@ -56,8 +60,7 @@
               ${hybrids_off}
               --mode ${mode.value}
               #if $anchor.is_select == "yes":
-                     ln -s ${anchorfile.element_identifier}
-                     --anchorfile ${anchorfile}
+                     --anchorfile ${anchorfile.element_identifier}
               #end if
               ${force_hmmscan}
               ${skip_ma}
@@ -66,7 +69,6 @@
               ${mibig14}
               ${mibig13}
               #if $query.is_select == "yes":
-                     ls -s ${query_bgc.element_identifier}
                      --query_bgc ${query_bgc.element_identifier}
               #end if
               ;

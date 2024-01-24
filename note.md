@@ -12,7 +12,6 @@ TODO:
 - Test erzeugen wenn man Outputs bekommt
 - Änderung der mibig optionen da man nur eine nutzen kann wenn man einen nehme will!!
 - Outputs machen
-- Domaintable and Anchor file checken ob es so geht im Wrapper
 - Letze Option einfügen -> domain_includelist.txt überschreiben mit eigener Datei -> schauen wie das geht und austesten (geht auch mit 1.1.6)
 - Update die Help Texte jedes Argument
     -Pfamm nur noch mit Pfam-A.hmm angeben 
@@ -108,4 +107,5 @@ DONE:
 - Did test all possible options -> right now there is one option which doesnt work at all and some other options which enter a error if not enough data is inputed
 - Include the var [genbankDict] as argument for the function [parseHmmScan] did fix the error (look at the mibig.log file) 
 - Fix [-d | --domain_overlap_cutoff] with anotate the type in the parse function (parse of the args). -> Evreything works fine then look in domain_overlap_cutoff.log for details
+- did test if the options [query_bgc] and [anchorfile] works in the way i implement it -> they do work (note: didnt done it with the fix .py) 
 
