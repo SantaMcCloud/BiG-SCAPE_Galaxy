@@ -2,12 +2,8 @@ Fragen die noch offen sind:
 - Option --verbose lässt das programm mehr details printen das in eine log datei und als output geben?
 - Option im wrapper einfügen das nur die MIBiG files als input genommen werden?
 
-MERKEN:
-- Fix von mibigs options: [genbankDict] zu [parseHmmScan] als Argument geben
-- Fix von [domain_overlap_cutoff] in den man den Typ beim parsen der Argumente angibt in der .py
-
 TODO:
-- Update des recipe wenn eine antwort kommt
+- Update des recipe wenn release da ist
 - Test erzeugen wenn man Outputs bekommt
 - Outputs machen -> siehe GOOGLEDOC 
 - Letze Option einfügen -> domain_includelist.txt überschreiben mit eigener Datei -> schauen wie das geht und austesten (geht auch mit 1.1.6)
