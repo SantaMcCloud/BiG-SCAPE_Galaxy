@@ -23,8 +23,6 @@
                      ln -s $query_bgc $query_bgc.element_identifier;
               #end if
 
-              ls pfam/;
-
               chmod a+x '$__tool_directory__'/BiG-SCAPE -R;
 
               python3 '$__tool_directory__'/BiG-SCAPE/bigscape.py 
