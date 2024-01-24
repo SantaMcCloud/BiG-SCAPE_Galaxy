@@ -12,7 +12,7 @@ TODO:
 - fixes hochladen und mergen lassen -> siehe antwort PR
 - Test erzeugen wenn man Outputs bekommt
 - Änderung der mibig optionen da man nur eine nutzen kann wenn man einen nehme will!!
-- Outputs machen
+- Outputs machen -> siehe GOOGLEDOC 
 - Letze Option einfügen -> domain_includelist.txt überschreiben mit eigener Datei -> schauen wie das geht und austesten (geht auch mit 1.1.6)
 - Update die Help Texte jedes Argument
     -Pfamm nur noch mit Pfam-A.hmm angeben 
