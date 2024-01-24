@@ -1,5 +1,6 @@
 Fragen die noch offen sind:
 - Option --verbose lässt das programm mehr details printen das in eine log datei und als output geben?
+- Option im wrapper einfügen das nur die MIBiG files als input genommen werden?
 
 MERKEN:
 - Fix von mibigs options: [genbankDict] zu [parseHmmScan] als Argument geben
@@ -7,11 +8,7 @@ MERKEN:
 
 TODO:
 - Update des recipe wenn eine antwort kommt
-- Option [query_bgc] anschauen und maybe fixen (aktuell dran) [aktuell schauen wie das dict angelegt ist und auch den Inhalt -> tracebakc wo das dict erstellt wird und da schauen dann]
-- neuen PR machen bzw alten überarbeteiten mit den neuen fixen -> Rücksprache halten davor mit Paul
-- fixes hochladen und mergen lassen -> siehe antwort PR
 - Test erzeugen wenn man Outputs bekommt
-- Änderung der mibig optionen da man nur eine nutzen kann wenn man einen nehme will!!
 - Outputs machen -> siehe GOOGLEDOC 
 - Letze Option einfügen -> domain_includelist.txt überschreiben mit eigener Datei -> schauen wie das geht und austesten (geht auch mit 1.1.6)
 - Update die Help Texte jedes Argument
@@ -109,4 +106,7 @@ DONE:
 - Include the var [genbankDict] as argument for the function [parseHmmScan] did fix the error (look at the mibig.log file) 
 - Fix [-d | --domain_overlap_cutoff] with anotate the type in the parse function (parse of the args). -> Evreything works fine then look in domain_overlap_cutoff.log for details
 - did test if the options [query_bgc] and [anchorfile] works in the way i implement it -> they do work (note: didnt done it with the fix .py) 
+- commit the 2 fixes of 3 and ask about the last error maybe there is a way of fixing it. Also they can merge it now so i can start doing the rest
+- chage the wrappe para for mibig since we only can use 1 version of it. test 2 different inputs both works fine with the local wrapper!
+
 
