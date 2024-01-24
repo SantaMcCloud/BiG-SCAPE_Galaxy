@@ -9,6 +9,7 @@ TODO:
 - Update des recipe wenn eine antwort kommt
 - Option [query_bgc] anschauen und maybe fixen
 - neuen PR machen bzw alten überarbeteiten mit den neuen fixen -> Rücksprache halten davor mit Paul
+- fixes hochladen und mergen lassen -> siehe antwort PR
 - Test erzeugen wenn man Outputs bekommt
 - Änderung der mibig optionen da man nur eine nutzen kann wenn man einen nehme will!!
 - Outputs machen
@@ -101,7 +102,7 @@ WORKING OPTIONS [Nur einlzeln getetst und geschaut ob das Programm durchläuft]:
         - garnicht möglich, input wird als string gecastet nicht als float
 
 DONE:
-- Did PR for fixing the import to make the recipe working + comment in the PR for fixing the option [-d | --domain_overlap_cutoff]  -> NO ANSWER YET (23.01)
+- Did PR for fixing the import to make the recipe working + comment in the PR for fixing the option [-d | --domain_overlap_cutoff]  -> ANSWER: They will wait till i push the fixes and merge it then.
 - Removed Core param and add this as deafult together with \${GALAXY_SLOTS: -6}
 - Add hmmpress into command line since we only let the Pfam-A.hmm to be uplaoded. 
 - Did test all possible options -> right now there is one option which doesnt work at all and some other options which enter a error if not enough data is inputed
