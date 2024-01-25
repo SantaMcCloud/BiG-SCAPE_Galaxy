@@ -10,7 +10,7 @@ TODO:
     - index.html
     - dir networks_files
 - Update die Help Texte jedes Argument
-    -Pfamm nur noch mit Pfam-A.hmm angeben 
+    - Pfamm nur noch mit Pfam-A.hmm angeben 
     - parameter überprüfen ob alle grenzen richtig sind und alle eingetragen sind was es an parameter gibt
 - Schreiben des Help Blocks 
     - Wichtig das man Formate angibt wenn man Datein selber schreiben muss
