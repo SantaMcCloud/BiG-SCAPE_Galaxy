@@ -7,7 +7,7 @@ TODO:
 - Test erzeugen wenn man Outputs bekommt
 - Outputs machen -> siehe GOOGLEDOC 
     - dir html_content
-    - index.html
+    - index.html -> erhalte ich als datei
     - dir networks_files
 - Update die Help Texte jedes Argument
     - Pfamm nur noch mit Pfam-A.hmm angeben 
@@ -108,5 +108,3 @@ DONE:
 - commit the 2 fixes of 3 and ask about the last error maybe there is a way of fixing it. Also they can merge it now so i can start doing the rest
 - chage the wrappe para for mibig since we only can use 1 version of it. test 2 different inputs both works fine with the local wrapper!
 - include the last option and the test show it was correct how i implement it so now you can use with the wrappe the option [domain_inlcudelist]
-
-
