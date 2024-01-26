@@ -5,10 +5,7 @@ Fragen die noch offen sind:
 TODO:
 - Update des recipe wenn release da ist
 - Test erzeugen wenn man Outputs bekommt
-- Outputs machen -> siehe GOOGLEDOC 
-    - dir html_content
-    - index.html -> erhalte ich als datei
-    - dir networks_files
+- Outputs machen -> bekomme zwar alle Datein als output jedoch nicht die Ordnerstruktur welche man braucht für die .html
 - Update die Help Texte jedes Argument
     - Pfamm nur noch mit Pfam-A.hmm angeben 
     - parameter überprüfen ob alle grenzen richtig sind und alle eingetragen sind was es an parameter gibt
