@@ -5,7 +5,11 @@ Fragen die noch offen sind:
 TODO:
 - Update des recipe wenn release da ist
 - Test erzeugen wenn man Outputs bekommt
-- Outputs machen -> bekomme zwar alle Datein als output jedoch nicht die Ordnerstruktur welche man braucht für die .html
+- Outputs machen -> siehe GOOGLEDOC 
+    - dir html_content
+    - index.html -> erhalte ich als datei 
+              <data name="index" from_work_dir="result/index.html" label="${tool.name} on ${on_string} : index.html" format="html"/>
+    - dir networks_files
 - Update die Help Texte jedes Argument
     - Pfamm nur noch mit Pfam-A.hmm angeben 
     - parameter überprüfen ob alle grenzen richtig sind und alle eingetragen sind was es an parameter gibt
