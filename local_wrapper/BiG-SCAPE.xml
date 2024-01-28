@@ -77,9 +77,9 @@
               #end if
               ;
 
-              mv result/*.html test;
-              mv result/network_files test;
-              mv result/html_content test;
+              mv result/*.html output;
+              mv result/network_files output;
+              mv result/html_content output;
 
               zip -r output.zip output;
        ]]>
@@ -267,6 +267,16 @@
        <outputs>
               <data name="output" label="graphical_and_network_output : ${tool.name}" from_work_dir="output.zip" format="zip" />
        </outputs>
+       <tests>
+              <test expect_num_outputs="1">
+                     <param name="pfam_dir" value="Pfam-A.hmm" ftype="hmm3"/>
+                     <param name="inputdir" value="GCF_000011105.1.gbk,GCF_008000775.1.gbk" ftype="genbank" />
+                     <conditional name="include_gbk">
+                            <param name="is_select" value="yes"/>
+                            <param name="include_gbk_str" value="G"/>
+                     </conditional>
+              </test>
+       </tests>
        <help>
        <![CDATA[
               # TODO: Wrote this section befor upload the tool!

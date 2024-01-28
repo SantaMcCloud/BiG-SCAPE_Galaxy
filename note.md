@@ -1,15 +1,10 @@
 Fragen die noch offen sind:
 - Option --verbose lässt das programm mehr details printen das in eine log datei und als output geben?
 - Option im wrapper einfügen das nur die MIBiG files als input genommen werden?
+- Option --qury_bgc rausnehmen da dies zu fehlern führt?
 
 TODO:
 - Update des recipe wenn release da ist
-- Test erzeugen wenn man Outputs bekommt
-- Outputs machen -> siehe GOOGLEDOC 
-    - dir html_content
-    - index.html -> erhalte ich als datei 
-              <data name="index" from_work_dir="result/index.html" label="${tool.name} on ${on_string} : index.html" format="html"/>
-    - dir networks_files
 - Update die Help Texte jedes Argument
     - Pfamm nur noch mit Pfam-A.hmm angeben 
     - parameter überprüfen ob alle grenzen richtig sind und alle eingetragen sind was es an parameter gibt
@@ -109,3 +104,5 @@ DONE:
 - commit the 2 fixes of 3 and ask about the last error maybe there is a way of fixing it. Also they can merge it now so i can start doing the rest
 - chage the wrappe para for mibig since we only can use 1 version of it. test 2 different inputs both works fine with the local wrapper!
 - include the last option and the test show it was correct how i implement it so now you can use with the wrappe the option [domain_inlcudelist]
+- include ouputs now in a .zip file since we need to keep the files structur to make the .html file working.
+- added test section with 1 test. Was hard to make thsi run since i got alwyas some errors but even then at some poit it just did run true and i dont know why but it passed which is good 
