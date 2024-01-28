@@ -45,6 +45,7 @@
               --core \${GALAXY_SLOTS:-8}
               ${verbose}
               ${include_singletons}
+              --domain_overlap_cutoff ${domain_overlap_cutoff}
               --min_bgc_size ${min_big_size}
               ${mix}
               ${no_classify}
@@ -86,11 +87,11 @@
        </command>
        <inputs>
               <param argument="--inputdir" format=".gbk" multiple="true" type="data"
-                     label="Data files with having either 'cluster' or 'region' in their name" 
-                     help="by default files with spcaes or with '_ORF' in threr name, duplicated names, files with sequence is shorter than (min_bgc_size) and any file whitch is not parseable by BioPython. With (exclude_gbk_str) or (include_gbk_str) you are able include or exclude with certain strings." />
+                     label="Data files to inlcude in the clsutering" 
+                     help="Add your .gbk files here" />
               <conditional name="use_label" >
                      <param name="is_select" type="select" label="Adding extra string to BiG-SCAPE runs?"
-                            help="Select yes if you want to have extra to add into the run names">
+                            help="Select yes if you want to add an extra str to the outputs">
                             <option value="yes" selected="False"> Yes </option>
                             <option value="no" selected="True"> No </option>
                      </param>
@@ -110,7 +111,7 @@
                      </param>
                      <when value="yes">
                             <param argument="--include_gbk_str" type="text" value="" optional="false" label="Include file(s) who contain followed string(s)"
-                                   help="Include file(s) with a space seperated list wherer any of the string(s) are contain in the file(s) name. To use all files just type an asterisk (*). If you evrey file this command overrides (exclude_gbk_str)">
+                                   help="Include file(s) with a space seperated list wherer any of the string(s) are contain in the file(s) name. To use all files just type an asterisk (*), this also overwrite the enclude_gbk_str command!">
                                    <validator type="empty_field" />
                             </param>
                      </when>
@@ -131,8 +132,8 @@
                      <when value="no" />
               </conditional>
               <param argument="--pfam_dir" format=".hmm" type="data"
-                     label="Data from the Pfam database"
-                     help="Use the Pfam database with all 5 file(4 of them will can be contain when hmmpress the .hmm file first!): .h3f,.h3i,.h3m,.h3p,.hmm" />
+                     label="Data file Pfam-A.hmm"
+                     help="Add Pfam-A.hmm file here please. Look at the help section where you can download it!" />
               <param argument="--verbose" type="boolean" truevalue="--verbose" falsevalue="" checked="False"
                      label="Print more detailed information about each step"
                      help="Getting more information about the analysis if toggled is true." />
@@ -143,17 +144,17 @@
                      label="Specify when domains are considered to overlap"
                      help="When using this option you can sprecify at which percentage domains are considered to overlap. Domain with the best score is kept. The default value is 0.1" />
               <param argument="--min_big_size" type="integer" value="0" min="0" 
-                     label="Minimum size of a BGC"
-                     help="Minimum size of a BGC to be included in teh analysis. The Default value is 0 base pairs. This also inlcudes the sum of all loci in a multi-record GenBandk file." />
+                     label="Minimum size of a BGC (bp)"
+                     help="Minimum size of a BGC to be included in the analysis. The Default value is 0 base pairs. This also inlcudes the sum of all loci in a multi-record GenBandk file." />
               <param argument="--mix" type="boolean" truevalue="--mix" falsevalue="" checked="False"
                      label="mix all classes in the analysis"
-                     help="BiG-SCAPE seperates the analysis according to the BGC product by default. IMPORTANT: If toggled, BiG-SCAPE will include an analysis mixing all classes. This  will lead to an all-vs-all distance calculation network, which might use a lot of memory!" />
+                     help="BiG-SCAPE seperates the analysis according to the BGC product by default. If used BiG-SCAPE will mix all classes and analyse them." />
               <param argument="--no_classify" type="boolean" truevalue="--no_classify" falsevalue="" checked="False"
                      label="No classified output based on the BGC product"
-                     help="By default, BiG-SCAPE classifies the output based on the BGC product. If toggled it will deactivate it. Note: when (--mix> is not activated, BiG-SCAPE will not create any network file!" />
+                     help="By default, BiG-SCAPE classifies the output based on the BGC product. If toggled it will deactivate it. Note: when (--mix) is not activated, BiG-SCAPE will not create any network file!" />
               <param argument="--banned_classes" type="select" optional="true" multiple="true" display="checkboxes"
                      label="Exluded classes from classification in BiG-SCAPE"
-                     help="You can exclude any of this classes to not be classifed. Multipe banned classes are possible. NOTE: When you use a manuelly terminal input you can use this classes in lowercase too. If you use multiple classes the list is space seperated." >
+                     help="You can exclude any of this classes to not be classifed. Multipe banned classes are possible." >
                      <option value="PKSI" selected="False">PKSI</option>
                      <option value="PKother" selected="False">PKother</option>
                      <option value="NRPS" selected="False">NRPS</option>
@@ -163,25 +164,25 @@
                      <option value="PKS-NRP_Hybrids" selected="False">PKS-NRP_Hybrids</option>
                      <option value="Others" selected="False">Others</option>
               </param>
-              <param argument="--cutoffs" type="text" value="0.3"  optional="false"
-                     label="Raw distance cutoffs"
-                     help="Generate networks using muliple raw distance cutoffs values. The default value here is 0.3. NOTE: Plese use only number between 0.0 and 1.0, also if you want to use mulpitle values please writen them as a space seperated list in the text field!">
+              <param argument="--cutoffs" type="text" value="0.3" min="0.0" max="1.0" optional="false"
+                     label="GCF cutoff value"
+                     help="Generate networks using muliple raw distance cutoffs values. The default value here is 0.3.">
                      <validator type="empty_field" />
               </param>
               <param argument="--clans-off" type="boolean" truevalue="--clans-off" falsevalue="" checked="False"
                      label="Turn off cluster GCFs into GCCs"
                      help="By default, BiG-SCAPE will perform a second layer of clustering to group GCFs into GCCs. Toggle to deactivate this." />
               <conditional name="clans_cutoff" >
-                     <param name="is_select" type="select" label="Clans cutoff?"
-                            help="Select yes if you want to use cutoffs for cluster families into clans">
+                     <param name="is_select" type="select" label="Change cutoff values for cluster GCF into GCC?"
+                            help="Select yes if you want to change cutoffs for cluster families into clans.">
                             <option value="yes" selected="False"> Yes </option>
                             <option value="no" selected="True"> No </option>
                      </param>
                      <when value="yes">
-                            <param name="clans_cutoff_val1" type="float" value="0.3" min="0.0" max="1.0" 
-                                   help="This value is for finding GCFs which will be used for clan calling. The default value is 0.3. NOTE: If this value here is not included in (--cutoffs) thsi will be automatically added there!" />
-                            <param name="clans_cutoff_val2" type="float" value="0.7" min="0.0" max="1.0"
-                                   help="This value is for clustering families inot clans. The default value is 0.7." />
+                            <param name="clans_cutoff_val1" type="float" value="0.3" min="0.0" max="1.0" label="GCF cutoff value"
+                                   help="This value is for finding GCFs which will be used for clan calling. The default value is 0.3." />
+                            <param name="clans_cutoff_val2" type="float" value="0.7" min="0.0" max="1.0" label="GCC cutoff value"
+                                   help="This value is for clustering families into clans. The default value is 0.7. Every pair of GCFs linked with a distance of this value or less will be taken into account!" />
                      </when>
                      <when value="no" />
               </conditional>
@@ -190,7 +191,7 @@
                      help="By default, BGCs with hybrid predicted products from the PKS/NRPS Hybrids and Others classes will be included into each subclass. Since it can happen that the same cluster may appear in different classes you can turn this off here." />
               <param argument="--mode" type="select"
                      label="Alignment Mode"
-                     help="Here you can choose between 3 Alignment Mode which are used in comparing each pair of gene cluters. glocal (default): The longest slice of common domain content per gene in both BGCs are used as distance between the subset of the domains. global: The whole list of the domains of each BGC are compared. auto: use glocal mode when at least one of the BGCs in each pair has the (contig_edge) annotation from antiSMASH v4+. If not use global mode on that pair." >
+                     help="Here you can choose between 3 Alignment Mode which are used in comparing each pair of gene cluters. glocal is the default mode." >
                      <option value="glocal">
                      glocal
                      </option>
@@ -202,15 +203,15 @@
                      </option>
               </param>
               <conditional name="anchor">
-                     <param name="is_select" type="select" label="Clans cutoff?"
-                            help="Select yes if you want to use cutoffs for cluster families into clans">
+                     <param name="is_select" type="select" label="Change Anchorfile?"
+                            help="Select yes if you want to use an Anchorfile. BiG-SCAPE has a default file which always be used." >
                             <option value="yes" selected="False"> Yes </option>
                             <option value="no" selected="True"> No </option>
                      </param>
                      <when value="yes">
                             <param argument="--anchorfile" type="data" format=".txt" optional="false"
                                    label="using a different anchorfile instead of default file"
-                                   help="Use a custom anchorfile (in .txt format) to give certain domains a special weight in the DSS index. BiG-SCPAE has a default anchorfile which will alawys be used! NOTE: When using a custom anchorfile please have at least 1 column with the hmm model id and if possible a seoncd column with a comment. TAB SEPERATED THE COLUMNS! WARNING: Please do not name the file as 'anchor_domains.txt' this is the default file which you dont want to use it if you choose this option!!!!" />
+                                   help="Use a custom anchorfile (in .txt format) to give certain domains a special weight in the DSS index." />
                      </when>
                      <when value="no" />
               </conditional>
@@ -219,7 +220,7 @@
                      help="Even if BiG-SCAPE finds poreccessed domtables files we can force the domain prediciton with hmmscan. Toggle to force hmmscan!" />
               <param argument="--skip_ma" type="boolean" truevalue="--skip_ma" falsevalue="" checked="False"
                      label="Skip multiple alignment of domains sequences"
-                     help="Use if alignments have been generated in a previous run. Domain sequence alignment will also be skipped if BiG-SCAPE reutilizes an output directory (when they are used in (input_files)) and no new BGCs are found within the input folder." />
+                     help="Use if alignments have been generated in a previous run. Domain sequence alignment will also be skipped if BiG-SCAPE reutilizes an output directory." />
               <conditional name="mibig">
                      <param name="is_select" type="select" label="Include BGCs from MIBiG database?"
                             help="Select yes and select which version of the database you want to use" >
@@ -238,8 +239,8 @@
                      <when value="no" />
               </conditional>
               <conditional name="query">
-                     <param name="is_select" type="select" label="Clans cutoff?"
-                            help="Select yes if you want to use cutoffs for cluster families into clans">
+                     <param name="is_select" type="select" label="Compare a diffrent genbank file with all BGCs?"
+                            help="Select yes if you want to use a .gbk file to compare with all other BGCs">
                             <option value="yes" selected="False"> Yes </option>
                             <option value="no" selected="True"> No </option>
                      </param>
@@ -259,7 +260,7 @@
                      <when value="yes">
                             <param argument="--domain_includelist" type="data" format=".txt" optional="false"
                                    label="Use a .txt file to include domains"
-                                   help="Upload a text file. Looking at the help section to see an example!" />
+                                   help="Upload a text file where the domains will be added to the run. Looking at the help section to see an example!" />
                      </when>
                      <when value="no" />
               </conditional>

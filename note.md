@@ -2,16 +2,17 @@ Fragen die noch offen sind:
 - Option --verbose lässt das programm mehr details printen das in eine log datei und als output geben?
 - Option im wrapper einfügen das nur die MIBiG files als input genommen werden?
 - Option --qury_bgc rausnehmen da dies zu fehlern führt?
+- Option --skip_ma ist eigentlich unnötig daher rausnehmen?
 
 TODO:
 - Update des recipe wenn release da ist
-- Update die Help Texte jedes Argument
-    - Pfamm nur noch mit Pfam-A.hmm angeben 
-    - parameter überprüfen ob alle grenzen richtig sind und alle eingetragen sind was es an parameter gibt
 - Schreiben des Help Blocks 
     - Wichtig das man Formate angibt wenn man Datein selber schreiben muss
     - Infos und Links einfügen für Daten die man braucht (Pfamm)
     - Überlegen ob man die Grafik sowie Text von Git übernehmen
+    - Modes hier beschreiben!
+- teste cutoffs und clan_cutoffs ob beide zusammen gehen bzw ob fehler auftretten und letzen test des wrapper machen! 1. local als auch mit dme wrapper machen!
+- NOCHMAL ALLE PARAMETER DURCH SCHAUEN OB ALLES PASST!!!!!!!!!!!!!!!
 
 ERRORS COMMING FROM OPTIONS:
 - domain_overlap_cutoff -> Wird nicht zum float gecastet wenn man diese Option nutzt!
@@ -105,4 +106,5 @@ DONE:
 - chage the wrappe para for mibig since we only can use 1 version of it. test 2 different inputs both works fine with the local wrapper!
 - include the last option and the test show it was correct how i implement it so now you can use with the wrappe the option [domain_inlcudelist]
 - include ouputs now in a .zip file since we need to keep the files structur to make the .html file working.
-- added test section with 1 test. Was hard to make thsi run since i got alwyas some errors but even then at some poit it just did run true and i dont know why but it passed which is good 
+- added test section with 1 test. Was hard to make thsi run since i got alwyas some errors but even then at some poit it just did run true and i dont know why but it passed which is good
+- did a first check and update some labels and help text of some parameters. Right now evreything should be added and should be correct!
