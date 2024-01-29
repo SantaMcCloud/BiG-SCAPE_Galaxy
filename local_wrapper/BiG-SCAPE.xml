@@ -87,7 +87,7 @@
        </command>
        <inputs>
               <param argument="--inputdir" format=".gbk" multiple="true" type="data"
-                     label="Data files to inlcude in the clsutering" 
+                     label="Data files to inlcude in the clustering" 
                      help="Add your .gbk files here" />
               <conditional name="use_label" >
                      <param name="is_select" type="select" label="Adding extra string to BiG-SCAPE runs?"
