@@ -13,6 +13,7 @@ TODO:
     - Modes hier beschreiben!
 - teste cutoffs und clan_cutoffs ob beide zusammen gehen bzw ob fehler auftretten und letzen test des wrapper machen! 1. local als auch mit dme wrapper machen!
 - NOCHMAL ALLE PARAMETER DURCH SCHAUEN OB ALLES PASST!!!!!!!!!!!!!!!
+    - schauen auch dass das richtige recipe drinnne ist!!!!!
 
 ERRORS COMMING FROM OPTIONS:
 - domain_overlap_cutoff -> Wird nicht zum float gecastet wenn man diese Option nutzt!

@@ -91,7 +91,7 @@
                      help="Add your .gbk files here" />
               <conditional name="use_label" >
                      <param name="is_select" type="select" label="Adding extra string to BiG-SCAPE runs?"
-                            help="Select yes if you want to add an extra str to the outputs">
+                            help="Select yes if you want to add an extra string to the outputs">
                             <option value="yes" selected="False"> Yes </option>
                             <option value="no" selected="True"> No </option>
                      </param>
@@ -166,9 +166,7 @@
               </param>
               <param argument="--cutoffs" type="text" value="0.3" min="0.0" max="1.0" optional="false"
                      label="GCF cutoff value"
-                     help="Generate networks using muliple raw distance cutoffs values. The default value here is 0.3.">
-                     <validator type="empty_field" />
-              </param>
+                     help="Generate networks using muliple raw distance cutoffs values. The default value here is 0.3."/>
               <param argument="--clans-off" type="boolean" truevalue="--clans-off" falsevalue="" checked="False"
                      label="Turn off cluster GCFs into GCCs"
                      help="By default, BiG-SCAPE will perform a second layer of clustering to group GCFs into GCCs. Toggle to deactivate this." />
