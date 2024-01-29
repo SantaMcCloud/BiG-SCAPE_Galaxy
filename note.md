@@ -6,6 +6,8 @@ Fragen die noch offen sind:
 
 TODO:
 - Update des recipe wenn release da ist
+    - mergen nicht wegen import error bei der lokalen version
+        - => selber releasen dann!
 - Schreiben des Help Blocks 
     - Wichtig das man Formate angibt wenn man Datein selber schreiben muss
     - Infos und Links einfügen für Daten die man braucht (Pfamm)
