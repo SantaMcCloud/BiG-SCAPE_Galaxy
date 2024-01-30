@@ -8,7 +8,7 @@ TODO:
 - Update des recipe wenn release da ist
     - mergen nicht wegen import error bei der lokalen version
         - => selber releasen dann!
-- teste cutoffs und clan_cutoffs ob beide zusammen gehen bzw ob fehler auftretten und letzen test des wrapper machen! 1. local als auch mit dme wrapper machen!
+- letzen test des wrapper machen!
 - NOCHMAL ALLE PARAMETER DURCH SCHAUEN OB ALLES PASST!!!!!!!!!!!!!!!
     - schauen auch dass das richtige recipe drinnne ist!!!!!
 
