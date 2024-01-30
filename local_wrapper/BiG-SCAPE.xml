@@ -189,7 +189,7 @@
                      help="By default, BGCs with hybrid predicted products from the PKS/NRPS Hybrids and Others classes will be included into each subclass. Since it can happen that the same cluster may appear in different classes you can turn this off here." />
               <param argument="--mode" type="select"
                      label="Alignment Mode"
-                     help="Here you can choose between 3 Alignment Mode which are used in comparing each pair of gene cluters. glocal is the default mode." >
+                     help="Here you can choose between 3 Alignment Mode which are used in comparing each pair of gene cluters. For more information look into the help section!" >
                      <option value="glocal">
                      glocal
                      </option>
@@ -278,7 +278,93 @@
        </tests>
        <help>
        <![CDATA[
-              # TODO: Wrote this section befor upload the tool!
+              .. class:: infomark
+
+              **What is BiG-SCAPE**
+
+              BiG-SCAPE (Biosynthetic Gene Similarity Clustering and Prospecting Engine) is a software package, written in Python, that constructs sequence similarity networks of Biosynthetic Gene Clusters (BGCs) and groups them into Gene Cluster Families (GCFs).
+
+              .. class:. infomark
+
+              **What it does**
+
+              BiG-SCAPE does this by rapidly calculating a distance matrix between gene clusters based on a comparison of their protein domain content, order, copy number and sequence identity.
+
+              In principle, BiG-SCAPE can also be used on any other gene clusters, such as pathogenicity islands, secretion system-encoding gene clusters, or even whole viral genomes.
+
+              Here a grapic how BiG-SCAPE works:
+
+              .. image:: bigscape_corason.png
+                     :alt: BiG-SCAPE + CORASON workflow
+
+              For more information you can visit `BiG-SCAPE on GitHub <https://github.com/medema-group/BiG-SCAPE>`_ or go on the `combine website <https://bigscape-corason.secondarymetabolites.org/index.html>`_.
+
+              **Input**
+
+              BiG-SCAPE use two kind of inputs:
+
+              - The genbank files from antiSMASH
+
+              .. class:: infomark
+
+              Note: By default BiG-SCAPE include any genbank file where the filename contains either region or cluster. You can use any genbank file with any name but when plese use include option!
+
+              - The Pfamm-A.hmm file
+
+              .. class:: infomark
+
+              Note: You can download this file here: https://www.ebi.ac.uk/interpro/download/pfam/ download here the Pfam-A models or you can use the command: *$ wget https://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz && gunzip Pfam-A.hmm.gz* in e.g. VSC.
+
+              There are two additionally inputs which can be used:
+
+              - An anchor_domains.txt file
+
+              .. class:: infomark:
+
+              Example (default file which will be used):
+
+              ::
+              
+               PF00668	Condensation domain [NRPS]
+               PF00501	AMP-binding enzyme [NRPS]
+               PF00109	Beta-ketoacyl synthase N-terminal [PKS]
+               PF02801	Beta-ketoacyl synthase C-terminal [PKS]
+               PF01397	Terpene synthase, N-terminal domain (Terpene_synth) [Terpene]
+               PF03936	Terpene synthase family, metal binding domain (Terpene_synth_C) [Terpene]
+               PF00195	Chalcone and stilbene synthases, N-terminal domain (Cahl_sti_synt_N)
+               PF02797	Chalcone and stilbene synthases, C-terminal domain (Chal_sti_synt_C)
+               PF05147	Lanthionine synthetase C-like protein (LANC_like) [lantipeptide/RiPP]
+               PF00494	Squalene/phytoene synthase (SQS_PSY) [Terpene]
+               PF00432	Prenyltransferase and squalene oxidase repeat (Prenyltrans)
+               PF02624	YcaO cyclodehydratase, ATP-ad MG2+-binding (YcaO) [RiPP]
+              
+              The first column contain the hmm model id while the second column is opionally for write a comment. The columns are tab seperated!
+
+              - A domain_includelist.txt
+
+              .. class:: infomark
+
+              Example:
+
+              ::
+
+               PF00067       Cytochrome P450
+               PF01451       Any Comment
+
+              The first column contain the hmm model id while the second column is opionally for write a comment. The columns are tab seperated and any line which start with a # will be ignored!
+
+
+              **Output**
+
+              BiG-SCAPE create a .hmt file where you can see all the result in certain graphics. It also produce for each BiG-SCAPE class there own .tsv file. It will also outout a .tsv file where evreything will be written in. The last output will be a dirrectoy whrer the whole content for the .hmtl file will be stored. This tool will provide this output as a .zip file since the order of each file/directory is important sicne the .html file doesn't work without it!
+
+              **Additionally information for the alignment Mode**
+
+              - glocal: Is the default mode. Here the subset of the domains used to calculate distance is redefined by finding the longest slice of common domain content per gene in both BGCs, then expands each slice.
+
+              - global: The whole list if domains of each BGC are compared.
+
+              - auto: Use glocal mode when at least one of the BGCs in each pair has the contig_edge annotation from antiSMASH. Otherwise global will be used.
        ]]>
        </help>
        <citations>
