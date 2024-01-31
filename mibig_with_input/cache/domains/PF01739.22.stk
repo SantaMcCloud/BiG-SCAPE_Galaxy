@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF495:gid::pid::loc:566059:566635:strand:+:73:190         NHTFFMREPQHFEFIQNSIL-PFWEENNKI..RNINIWSAGCSSGEEAYSIAMTLDDYF.GYNKELwNIKIIATDISTNSLEKAKRGIYIESNV.NNVPELWKKKYFIDTRMVHLK---------------------------------------------------------------------.--------------
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF495:gid::pid::loc:566059:566635:strand:+:73:190 PP 799*****************.899999999..*************************88.7666644***************************.************998876655....................................................................................
+GCF_000011105.1_ORF457:gid::pid:WP_010884591.1:loc:438528:439371:strand:+:71:269             NVTEFFRDPIVWKTFQNKILPELVQFKKSKgfRSIKIWSAACSTGQEPYSIAMTLYEVLgENLGGF.RVSILATDIDKEALQIAMRGEYPVDAVeKQVPRHMIYKYFDRISEERYRIKPHVKRLVTFRWFNLLS-SIYPKGFDVIFIRNVLIYMSKEAQEDIFRKLYDSLEDHGYLILGKTETILgRSANLFKL------
+#=GR GCF_000011105.1_ORF457:gid::pid:WP_010884591.1:loc:438528:439371:strand:+:71:269     PP 89******************87777666668999***********************761555667.***************************899*************************************.99**********************************************99666666665......
+#=GC PP_cons                                                                                 89******************8788888877..9************************87.666666.***************************.9***********999988888******************.99**********************************************99.66666665......
+#=GC RF                                                                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF495:gid::pid::loc:566059:566635:strand:+:73:190         -fvirlek
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF495:gid::pid::loc:566059:566635:strand:+:73:190 PP .5677889
+GCF_000011105.1_ORF457:gid::pid:WP_010884591.1:loc:438528:439371:strand:+:71:269             -ydlvakv
+#=GR GCF_000011105.1_ORF457:gid::pid:WP_010884591.1:loc:438528:439371:strand:+:71:269     PP .5678899
+#=GC PP_cons                                                                                 ........
+#=GC RF                                                                                      x.......
+//

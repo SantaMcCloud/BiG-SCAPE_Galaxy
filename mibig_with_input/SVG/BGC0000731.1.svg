@@ -1,0 +1,205 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="687.3" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="677.3" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>galF
+UDP-glucose pyrophosphorylase</title>
+			<polygon class="galF
+UDP-glucose pyrophosphorylase" points="15,10 44,40 15,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="15,28 28,28 40,40 28,52 15,52" stroke-linejoin="round" width="27" height="24" fill="rgb(211,145,90)" stroke="rgb(168,116,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>acidPPc
+acid phosphatase homologue</title>
+			<polygon class="acidPPc
+acid phosphatase homologue" points="58,10 79,40 58,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PAP2 (PF01569)
+"PAP2 superfamily"</title>
+				<polygon class="PF01569" points="63,28 67,28 72,36 72,44 67,52 63,52" stroke-linejoin="round" width="9" height="24" fill="rgb(102,182,88)" stroke="rgb(81,145,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wzi
+surface assembly of capsule</title>
+			<polygon class="wzi
+surface assembly of capsule" points="110,25 128,25 128,10 158,40 128,70 128,55 110,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Caps_assemb_Wzi (PF14052)
+"Capsule assembly protein Wzi"</title>
+				<polygon class="PF14052" points="118,28 141,28 153,40 141,52 118,52" stroke-linejoin="round" width="38" height="24" fill="rgb(197,72,151)" stroke="rgb(157,57,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wza
+multimeric putative translocation channel</title>
+			<polygon class="wza
+multimeric putative translocation channel" points="163,25 171,25 171,10 201,40 171,70 171,55 163,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Poly_export (PF02563)
+"Polysaccharide biosynthesis/export protein"</title>
+				<rect class="PF02563" x="171" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(219,92,156)" stroke="rgb(175,73,124)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SLBB (PF10531)
+"SLBB domain"</title>
+				<polygon class="PF10531" points="180,28 184,28 186,30 186,50 184,52 180,52" stroke-linejoin="round" width="6" height="24" fill="rgb(53,192,99)" stroke="rgb(42,153,79)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SLBB (PF10531)
+"SLBB domain"</title>
+				<polygon class="PF10531" points="188,32 193,37 193,43 188,48" stroke-linejoin="round" width="5" height="24" fill="rgb(53,192,99)" stroke="rgb(42,153,79)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Wza_C (PF18412)
+"Outer-membrane lipoprotein Wza C-terminal domain"</title>
+				<polygon class="PF18412" points="197,40 196,40 197,40" stroke-linejoin="round" width="2" height="24" fill="rgb(151,203,80)" stroke="rgb(120,162,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wzb
+protein tyrosine phosphatase</title>
+			<polygon class="wzb
+protein tyrosine phosphatase" points="201,10 215,40 201,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LMWPc (PF01451)
+"Low molecular weight phosphotyrosine protein phosphatase"</title>
+				<polygon class="PF01451" points="201,28 206,28 212,40 206,52 201,52" stroke-linejoin="round" width="13" height="24" fill="rgb(105,179,85)" stroke="rgb(84,143,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wzc
+putative transmembrane protein</title>
+			<polygon class="wzc
+putative transmembrane protein" points="216,25 258,25 258,10 288,40 258,70 258,55 216,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Wzz (PF02706)
+"Chain length determinant protein"</title>
+				<rect class="PF02706" x="217" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(216,77,57)" stroke="rgb(172,61,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GNVR (PF13807)
+"G-rich domain on putative tyrosine kinase"</title>
+				<rect class="PF13807" x="252" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(214,163,91)" stroke="rgb(171,130,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_31 (PF13614)
+"AAA domain"</title>
+				<polygon class="PF13614" points="268,28 272,28 282,38 282,42 272,52 268,52" stroke-linejoin="round" width="14" height="24" fill="rgb(103,181,56)" stroke="rgb(82,144,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wbaP
+UDP-Gal::undecaprenolphosphate Gal-1-P transferase</title>
+			<polygon class="wbaP
+UDP-Gal::undecaprenolphosphate Gal-1-P transferase" points="291,25 308,25 308,10 338,40 308,70 308,55 291,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_binding_3 (PF13727)
+"CoA-binding domain"</title>
+				<rect class="PF13727" x="298" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(115,219,79)" stroke="rgb(92,175,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Bac_transf (PF02397)
+"Bacterial sugar transferase"</title>
+				<polygon class="PF02397" points="319,28 322,28 334,40 322,52 319,52" stroke-linejoin="round" width="19" height="24" fill="rgb(100,199,213)" stroke="rgb(80,159,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wzy_K20
+serotype K20 polymerase</title>
+			<polygon class="wzy_K20
+serotype K20 polymerase" points="353,10 381,40 353,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Wzy_C (PF04932)
+"O-Antigen ligase"</title>
+				<polygon class="PF04932" points="357,28 365,28 373,36 373,44 365,52 357,52" stroke-linejoin="round" width="16" height="24" fill="rgb(226,159,71)" stroke="rgb(180,127,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative acetyltransferase</title>
+			<polygon class="
+putative acetyltransferase" points="381,10 398,40 381,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>wcaN
+glycosyltransferase</title>
+			<polygon class="wcaN
+glycosyltransferase" points="398,10 426,40 398,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="398,28 410,28 413,30 413,50 410,52 398,52" stroke-linejoin="round" width="15" height="24" fill="rgb(197,62,212)" stroke="rgb(157,49,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wcaO
+glycosyltransferase</title>
+			<polygon class="wcaO
+glycosyltransferase" points="427,25 434,25 434,10 464,40 434,70 434,55 427,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_transf_4 (PF13439)
+"Glycosyltransferase Family 4"</title>
+				<rect class="PF13439" x="428" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(67,194,123)" stroke="rgb(53,155,98)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="446,28 448,28 460,40 448,52 446,52" stroke-linejoin="round" width="16" height="24" fill="rgb(66,178,218)" stroke="rgb(52,142,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative glycosyl hydrolase</title>
+			<polygon class="
+putative glycosyl hydrolase" points="466,25 477,25 477,10 507,40 477,70 477,55 466,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>wbaZ
+glycosyltransferase</title>
+			<polygon class="wbaZ
+glycosyltransferase" points="514,25 522,25 522,10 552,40 522,70 522,55 514,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_transf_4 (PF13439)
+"Glycosyltransferase Family 4"</title>
+				<rect class="PF13439" x="515" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(67,194,123)" stroke="rgb(53,155,98)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="533,28 536,28 548,40 536,52 533,52" stroke-linejoin="round" width="16" height="24" fill="rgb(66,178,218)" stroke="rgb(52,142,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wzx
+flippase</title>
+			<polygon class="wzx
+flippase" points="562,25 574,25 574,10 604,40 574,70 574,55 562,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polysacc_synt (PF01943)
+"Polysaccharide biosynthesis protein"</title>
+				<polygon class="PF01943" points="562,28 587,28 588,29 588,51 587,52 562,52" stroke-linejoin="round" width="26" height="24" fill="rgb(87,191,113)" stroke="rgb(69,152,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gnd
+6-phosphogluconate dehydrogenase</title>
+			<polygon class="gnd
+6-phosphogluconate dehydrogenase" points="618,25 634,25 634,10 664,40 634,70 634,55 618,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_2 (PF03446)
+"NAD binding domain of 6-phosphogluconate dehydrogenase"</title>
+				<rect class="PF03446" x="618" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(119,80,223)" stroke="rgb(95,64,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>6PGD (PF00393)
+"6-phosphogluconate dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00393" points="635,28 648,28 660,40 648,52 635,52" stroke-linejoin="round" width="28" height="24" fill="rgb(70,217,77)" stroke="rgb(56,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,24 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_S8         PF00082.26   283 BGC0000477.1_ORF1:gid:truA:pid:ACA04487.1:loc:0:2016:strand:+ -            671   1.2e-36  126.7   0.0   1   1   2.7e-40   1.9e-36  126.1   0.0     2   269    15   260    14   284 0.87 Subtilase family
+PatG_C               PF18065.5    115 BGC0000477.1_ORF1:gid:truA:pid:ACA04487.1:loc:0:2016:strand:+ -            671   4.1e-36  123.7   0.0   1   1     1e-39   6.9e-36  122.9   0.0     5   115   557   667   553   667 0.97 PatG C-terminal
+PatG_D               PF18047.5    111 BGC0000477.1_ORF1:gid:truA:pid:ACA04487.1:loc:0:2016:strand:+ -            671   5.1e-22   78.6   0.0   1   1   1.2e-25   8.5e-22   77.9   0.0     1   110   395   508   395   509 0.96 PatG Domain
+YcaO                 PF02624.20   320 BGC0000477.1_ORF4:gid:truD:pid:ACA04490.1:loc:2951:5297:strand:+ -            781  6.9e-100  334.6   0.0   1   1  9.5e-104  9.8e-100  334.1   0.0     1   320   414   745   414   745 0.92 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+DUF4423_like         PF21084.1     76 BGC0000477.1_ORF4:gid:truD:pid:ACA04490.1:loc:2951:5297:strand:+ -            781   1.7e-39  134.2   0.7   1   1   2.8e-43   2.9e-39  133.4   0.7     1    76     7    82     7    82 0.99 Winged Helix-turn-helix domain
+DUF5837              PF19155.4     63 BGC0000477.1_ORF5:gid:truE1:pid:ACA04491.1:loc:5430:5631:strand:+ -             66   5.4e-20   71.6   0.0   1   1   3.5e-24   7.3e-20   71.2   0.0     1    60     1    65     1    66 0.91 Family of unknown function (DUF5837)
+DUF5838              PF19156.4    289 BGC0000477.1_ORF6:gid:truF1:pid:ACA04492.1:loc:5961:6882:strand:+ -            306   2.9e-72  243.7   0.0   1   1   1.6e-76   3.3e-72  243.5   0.0     1   289    14   304    14   304 0.94 Family of unknown function (DUF5838)
+DUF5838              PF19156.4    289 BGC0000477.1_ORF7:gid:truF2:pid:ACA04493.1:loc:6955:7894:strand:+ -            312   2.7e-75  253.6   0.8   1   1   1.5e-79   3.1e-75  253.4   0.8     1   289    14   303    14   303 0.94 Family of unknown function (DUF5838)
+PatG_C               PF18065.5    115 BGC0000477.1_ORF8:gid:truG:pid:ACA04494.1:loc:8064:11073:strand:+ -           1003   1.8e-28   99.0   0.0   1   1   5.7e-32   3.9e-28   97.9   0.0     3   115   881   993   879   993 0.97 PatG C-terminal
+PatG_D               PF18047.5    111 BGC0000477.1_ORF8:gid:truG:pid:ACA04494.1:loc:8064:11073:strand:+ -           1003   5.7e-19   68.8   0.0   1   1   2.6e-22   1.8e-18   67.2   0.0     2   106   735   832   734   837 0.97 PatG Domain
+Peptidase_S8         PF00082.26   283 BGC0000477.1_ORF8:gid:truG:pid:ACA04494.1:loc:8064:11073:strand:+ -           1003     5e-18   65.6   0.0   1   1   1.3e-21   9.3e-18   64.7   0.0    42   268   414   632   355   667 0.86 Subtilase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000477.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000477.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000477.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:58:14 2024
+# [ok]

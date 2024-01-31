@@ -1,0 +1,27 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Response_reg         PF00072.28   111 BGC0000488.1_ORF1:gid:cfgR:pid:CAD97576.1:loc:161:938:strand:+ -            258   5.7e-16   58.9   2.0   1   1   8.6e-20     9e-16   58.2   2.0     1   110     4   116     4   117 0.92 Response regulator receiver domain
+LytTR                PF04397.19    98 BGC0000488.1_ORF1:gid:cfgR:pid:CAD97576.1:loc:161:938:strand:+ -            258   4.2e-09   36.7   1.9   1   1     4e-13   4.2e-09   36.7   1.9     5    82   156   235   153   250 0.87 LytTr DNA-binding domain
+HATPase_c_5          PF14501.10   102 BGC0000488.1_ORF2:gid:cfgK:pid:CAD97577.1:loc:931:2209:strand:+ -            425   1.5e-09   37.9   4.5   1   1   1.5e-13   1.5e-09   37.9   4.5     5   101   309   412   306   413 0.86 GHKL domain
+HATPase_c            PF02518.30   111 BGC0000488.1_ORF2:gid:cfgK:pid:CAD97577.1:loc:931:2209:strand:+ -            425   6.2e-07   30.0   0.1   1   1   1.2e-10   1.3e-06   29.0   0.1     7    94   311   400   306   421 0.73 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+AgrB                 PF04647.19   185 BGC0000488.1_ORF3:gid:cfg02:pid:CAD97578.1:loc:2239:2839:strand:- -            199     3e-31  108.4  26.9   1   1   1.7e-35   3.5e-31  108.2  26.9     2   184     7   175     6   179 0.91 Accessory gene regulator B
+Bacteriocin_IId      PF09221.14    67 BGC0000488.1_ORF5:gid:cirA:pid:CAD97580.1:loc:3787:4006:strand:+ -             72     4e-11   43.2  13.3   1   1   2.1e-15   4.5e-11   43.0  13.3     1    67     5    72     5    72 0.92 Bacteriocin class IId cyclical uberolysin-like
+SpoIIM               PF01944.21   162 BGC0000488.1_ORF7:gid:cirC:pid:CAD97582.1:loc:5832:6390:strand:+ -            185     2e-24   86.6  16.1   1   1   1.2e-28   2.5e-24   86.3  16.1     2   160    34   182    31   184 0.89 Stage II sporulation protein M
+ABC_tran             PF00005.31   137 BGC0000488.1_ORF8:gid:cirD:pid:CAD97583.1:loc:6389:7055:strand:+ -            221   8.5e-21   75.2   0.0   1   1   1.2e-24   1.3e-20   74.7   0.0     1   136    28   169    28   170 0.88 ABC transporter
+HlyD_D23             PF16576.9    214 BGC0000488.1_ORF10:gid:cirG:pid:CAD97585.1:loc:7301:8729:strand:+ -            475   8.2e-17   61.4   7.5   1   1   2.3e-17   1.6e-13   50.7   1.5    56   190   207   344   194   346 0.85 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+HlyD_3               PF13437.10   106 BGC0000488.1_ORF10:gid:cirG:pid:CAD97585.1:loc:7301:8729:strand:+ -            475   2.5e-13   50.8   0.7   1   1   4.4e-15   3.1e-11   44.1   0.4     2    86   267   346   266   382 0.89 HlyD family secretion protein
+Biotin_lipoyl_2      PF13533.10    50 BGC0000488.1_ORF10:gid:cirG:pid:CAD97585.1:loc:7301:8729:strand:+ -            475   1.7e-11   43.9   5.4   1   1   5.2e-14   3.6e-10   39.6   0.3     7    47    87   127    81   129 0.90 Biotin-lipoyl like
+ABC_tran             PF00005.31   137 BGC0000488.1_ORF11:gid:cirH:pid:CAD97586.1:loc:8728:9475:strand:+ -            248   2.5e-34  119.1   0.1   1   1   6.8e-38   7.1e-34  117.6   0.0     1   136    29   177    29   178 0.89 ABC transporter
+MacB_PCD             PF12704.11   208 BGC0000488.1_ORF12:gid:cirI:pid:CAD97587.1:loc:9465:10734:strand:+ -            422   7.3e-33  114.8   1.7   1   1     7e-37   7.3e-33  114.8   1.7     1   207    21   263    21   264 0.74 MacB-like periplasmic core domain
+FtsX                 PF02687.25   120 BGC0000488.1_ORF12:gid:cirI:pid:CAD97587.1:loc:9465:10734:strand:+ -            422   2.6e-21   76.0  10.0   1   1   2.5e-25   2.6e-21   76.0  10.0     2   120   302   415   301   415 0.97 FtsX-like permease family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000488.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000488.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000488.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:20:34 2024
+# [ok]

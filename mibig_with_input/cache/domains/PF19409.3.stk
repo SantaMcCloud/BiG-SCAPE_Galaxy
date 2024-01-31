@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+BGC0000605.1_ORF1:gid:getA:pid:AEM00614.1:loc:0:174:strand:+:25:54             g-GAVTALTADHGMPEVGAS------TNCFCYICCSC
+#=GR BGC0000605.1_ORF1:gid:getA:pid:AEM00614.1:loc:0:174:strand:+:25:54     PP 6.68****************......8**********
+BGC0000613.1_ORF5:gid:tpdA:pid:ACS83781.1:loc:4676:4826:strand:+:17:46         .GVAVESLTAGHGMTEVGAS------CNCFCYICCSC
+#=GR BGC0000613.1_ORF5:gid:tpdA:pid:ACS83781.1:loc:4676:4826:strand:+:17:46 PP .689****************......9**********
+BGC0000606.1_ORF2:gid:lazA:pid:BAO57434.1:loc:2975:3149:strand:+:21:51         .ELTVTSLRDTVALPENGASWG-----SCSCQASSSC
+#=GR BGC0000606.1_ORF2:gid:lazA:pid:BAO57434.1:loc:2975:3149:strand:+:21:51 PP .79*****************98.....4499999999
+BGC0001155.1_ORF8:gid:pbtA:pid:AGY49587.1:loc:9416:9584:strand:+:22:51         .GMEVESLTAGHGMPEVGAS------CNCVCGFCCSC
+#=GR BGC0001155.1_ORF8:gid:pbtA:pid:AGY49587.1:loc:9416:9584:strand:+:22:51 PP .79*****************......9**********
+BGC0000604.1_ORF8:gid:tpdA:pid:ACS83766.1:loc:9461:9635:strand:+:24:53         .GMEVESLTAGHGMPEVGAS------CNCVCGFCCSC
+#=GR BGC0000604.1_ORF8:gid:tpdA:pid:ACS83766.1:loc:9461:9635:strand:+:24:53 PP .79*****************......9**********
+#=GC PP_cons                                                                   .789****************98....999********
+#=GC RF                                                                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

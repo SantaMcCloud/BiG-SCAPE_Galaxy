@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF76:gid::pid::loc:94006:97723:strand:+:567:635         YRKFDKetSTVTDEIHYLTADEEDLFVRAQANEPLTEDGKFVNHRVVCRtVN.GAVEMVPESRVDYMDIS
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF76:gid::pid::loc:94006:97723:strand:+:567:635 PP 99998766889**************************************888.****************9
+BGC0000610.1_ORF21:gid:nos5:pid:ACR48347.1:loc:26548:30094:strand:-:522:588                YRKVVD..GQVTDEVNYLTADEEDRFVIAQANAPLTADMRFEEARVLVR.RRgGEVDYVAPEDVDYMDVS
+#=GR BGC0000610.1_ORF21:gid:nos5:pid:ACR48347.1:loc:26548:30094:strand:-:522:588        PP 9*****..*****************************************.7758***************9
+BGC0000615.1_ORF5:gid:tpa5:pid:ADO67767.1:loc:3354:6822:strand:+:496:562                   YRKVID..GRISDQIDYLTADEEDLYVIAQANTPLNADGSFAESGVLVR.RKgGEFEQVDTSEVDYMDVS
+#=GR BGC0000615.1_ORF5:gid:tpa5:pid:ADO67767.1:loc:3354:6822:strand:+:496:562           PP 9*****..*****************************************.7758***************9
+BGC0000136.1_ORF63:gid:rpoB:pid:AAS07760.1:loc:105772:109276:strand:+:507:573              YRKVVE..GRVTDQIDYLTADEEDRFVKAQANAPISDDGTFIEDRVMAR.RKgGEVELIDPLDIDYMDVS
+#=GR BGC0000136.1_ORF63:gid:rpoB:pid:AAS07760.1:loc:105772:109276:strand:+:507:573      PP 9*****..*****************************************.7758***************9
+BGC0001381.1_ORF19:gid::pid:AJO72712.1:loc:19362:22830:strand:-:493:559                    YRRVID..GRVTDEIDYLSADQEDLHVVAQANEPLDAEGRFVSARVAVR.RKdSEVEVIDSAEVDYMDVS
+#=GR BGC0001381.1_ORF19:gid::pid:AJO72712.1:loc:19362:22830:strand:-:493:559            PP 9*****..*****************************************.5538***************9
+#=GC PP_cons                                                                               9***99..9****************************************.77.8***************9
+#=GC RF                                                                                    xxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx.xxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1692:gid::pid::loc:1901830:1902790:strand:+:181:302         ..IDVRFIELMPLGEANRV.YKKGYFNVKEMIEKIYG---LYKVK.NDE.KSTAEYYMF.KGAK.GRIGIITPLSCS.FCNTCNRIRLTSSGAIKLCLHSKEE.IDIKPFLHKPLL---FRESMKDIIKQKPEKHH-l.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1692:gid::pid::loc:1901830:1902790:strand:+:181:302 PP ..69***************.******99998877755...55555.667.89*******.****.************.*************************.**********74...899***********997.6.
+BGC0000917.1_ORF1:gid:moaA:pid:AAD21201.1:loc:216:1203:strand:+:180:308                          .c-DLTFIELMPMGDIPAGtRLDQFWPLDDVRAHLETRFRLIDNG.LNT.GGPARYVTV.AQTG.QRIGFISPLSHN.FCTSCNRVRLTCKGELYTCLGQEGS.SDLRPVLRAGVEGEALAREIRAAIARKPAGHA-f.
+#=GR BGC0000917.1_ORF1:gid:moaA:pid:AAD21201.1:loc:216:1203:strand:+:180:308                  PP .6.89**********9776378***********************.***.*********.****.************.*************************.*****************************997.5.
+BGC0000916.1_ORF17:gid:moaA:pid:AAC83144.1:loc:12823:13846:strand:+:189:318                      ..IQVRFIEFMDVGNDNGW.DFSKVVSKDEMLSMIQEEFDIEAVEpKYY.GEVAKYYRH.KDNG.AQFGLITSVSQS.FCSTCTRARLSSDGKFYGCLFSTVDgFNVKEFMRSGVSDDELQAKFEELWNIRDDRYS-d.
+#=GR BGC0000916.1_ORF17:gid:moaA:pid:AAC83144.1:loc:12823:13846:strand:+:189:318              PP ..69***************.************************98888.*********.****.************.**********************9887****************************9986.8.
+GCF_000011105.1_ORF106:gid:moaA:pid:WP_048053033.1:loc:97803:98736:strand:-:176:307              ai--LQLIELEVPREMENS.--QFFKDFFYPLKPLEEKFEKLAVKvKERrMHRRRKYFIpIDGKiVEVEVVRSMHNTvFCMNCTRLRLTADGYLKTCLLRRDDlIDILGPLRNGASDADLIEIFKRAVLLRRPYW--ts
+#=GR GCF_000011105.1_ORF106:gid:moaA:pid:WP_048053033.1:loc:97803:98736:strand:-:176:307      PP 86..788998887777654...444445567888999999988885333588888887743444599************************************9***********************99998765..79
+#=GC PP_cons                                                                                     ..6899****999999887.99888888899999998***88888.777.999999999.8999.************.***********************99.**********98***************99887...
+#=GC RF                                                                                          ..xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx.xxx.xxxxxxxxx.xxxx.xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

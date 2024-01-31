@@ -1,0 +1,16 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acetyltransf_1       PF00583.29   116 BGC0000852.1_ORF1:gid:ectA:pid:AAK12083.1:loc:415:958:strand:+ -            180   1.5e-07   31.9   0.0   1   1     1e-11   2.2e-07   31.4   0.0    23   114    50   142    31   143 0.86 Acetyltransferase (GNAT) family
+Aminotran_3          PF00202.25   403 BGC0000852.1_ORF2:gid:ectB:pid:AAK12084.1:loc:1009:2290:strand:+ -            426   4.9e-81  272.7   0.0   1   1   2.8e-85   5.7e-81  272.4   0.0     7   402    25   419    19   420 0.88 Aminotransferase class-III
+Ectoine_synth        PF06339.16   127 BGC0000852.1_ORF3:gid:ectC:pid:AAK12085.1:loc:2449:2854:strand:+ -            134   3.2e-60  202.1   0.2   1   1   1.8e-64   3.7e-60  202.0   0.2     1   125     1   126     1   128 0.98 Ectoine synthase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000852.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000852.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000852.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:38:33 2024
+# [ok]

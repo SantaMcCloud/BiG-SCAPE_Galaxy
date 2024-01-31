@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF3510:gid::pid::loc:3986542:3989749:strand:-:422:502         ar--VVVPDDERLFDLAEMI.RRGYKVEMISEITGVDKWFINKFKWIVEQEEKLKVLKI.eDLDKEYLHELKKKGFSDKGISDL-m.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3510:gid::pid::loc:3986542:3989749:strand:-:422:502 PP 75..678*************.**************************************.*********************987.6.
+GCA_000085225.1_ASM8522v1_genomic_ORF3512:gid::pid::loc:3991248:3994455:strand:-:422:502         .k-RVVVPDDERLFDLAEMI.RRGYKVEMIEQITGIDKWFINKFKWIVEQEEKLKVMKI.eDLTKDYLLELKKKGFSDKGISDL-m.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3512:gid::pid::loc:3991248:3994455:strand:-:422:502 PP .6.5778*************.**************************************.*********************987.6.
+BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:-:423:499                          .d-QLTHPTDQRLFYLLAAL.QAGWPLAKLATLTQITPFFLSKLQHIAQLIRNIKQVP-..--TSQHLLSAKKYGVSLATMAH--ya
+#=GR BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:-:423:499                  PP .5.799**************.************************************9.....9************9988886..58
+BGC0000684.1_ORF6:gid::pid:CBF70389.1:loc:15538:19258:strand:+:505:587                           ev--LKNPTDRRWLAVGQAMlHENYSVDKVHELTKIDKWFLYKLQNIVDNHNELKEIGSlfGVNKELMLKSKKLGFSDKQIAQL-v.
+#=GR BGC0000684.1_ORF6:gid::pid:CBF70389.1:loc:15538:19258:strand:+:505:587                   PP 75..99**************9*************************************************************98.6.
+BGC0000982.1_ORF3:gid::pid:AAW03322.1:loc:10859:14087:strand:+:426:507                           .d-YVRVARPERPRYVAQAF.REGMSVEEVHELSTIDPWFLRHIQGLVREAQAIQELGKldALPDEVLRAAKVDGFSDKYLAQL-l.
+#=GR BGC0000982.1_ORF3:gid::pid:AAW03322.1:loc:10859:14087:strand:+:426:507                   PP .7.578899***********.*************************************************************98.5.
+BGC0000203.1_ORF1:gid::pid:ADI71432.1:loc:149:3464:strand:+:424:502                              .d-SLRTPHEGRLYEVERAL.RLGASVQQVHEASGIDPWFVDQIALIGEVGAEVRDAPV..-LDGDLLRRAKRTGLSDRQIAAL-r.
+#=GR BGC0000203.1_ORF1:gid::pid:ADI71432.1:loc:149:3464:strand:+:424:502                      PP .6.79***************.*************************************6...********************98.6.
+#=GC PP_cons                                                                                     ...6889*************.*************************************9..********************987...
+#=GC RF                                                                                          ..xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxx..
+//

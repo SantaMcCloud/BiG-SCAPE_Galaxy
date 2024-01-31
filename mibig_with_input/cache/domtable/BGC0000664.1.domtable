@@ -1,0 +1,35 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lycopene_cycl        PF05834.16   380 BGC0000664.1_ORF1:gid:crtY:pid:BAG23653.1:loc:0:1242:strand:+ -            413   7.4e-96  321.7   0.0   1   1  8.1e-100   8.4e-96  321.5   0.0     1   378     6   384     6   386 0.94 Lycopene cyclase protein
+Ubie_methyltran      PF01209.22   233 BGC0000664.1_ORF2:gid:crtT:pid:BAG23654.1:loc:1238:1967:strand:+ -            242   1.3e-19   70.6   0.0   1   1   5.2e-23   1.5e-19   70.4   0.0     9   217     9   215     1   230 0.87 ubiE/COQ5 methyltransferase family
+Methyltransf_11      PF08241.16    95 BGC0000664.1_ORF2:gid:crtT:pid:BAG23654.1:loc:1238:1967:strand:+ -            242   2.6e-19   69.8   0.0   1   1   2.7e-22   8.1e-19   68.3   0.0     1    94    53   149    53   150 0.95 Methyltransferase domain
+Methyltransf_12      PF08242.16    98 BGC0000664.1_ORF2:gid:crtT:pid:BAG23654.1:loc:1238:1967:strand:+ -            242   1.2e-17   64.7   0.2   1   1   9.6e-21   2.9e-17   63.4   0.1     1    98    53   148    53   148 0.88 Methyltransferase domain
+Methyltransf_25      PF13649.10    97 BGC0000664.1_ORF2:gid:crtT:pid:BAG23654.1:loc:1238:1967:strand:+ -            242   1.8e-17   64.0   0.2   1   1   2.1e-20   6.3e-17   62.2   0.1     1    97    52   146    52   146 0.92 Methyltransferase domain
+Methyltransf_23      PF13489.10   163 BGC0000664.1_ORF2:gid:crtT:pid:BAG23654.1:loc:1238:1967:strand:+ -            242   7.4e-15   55.2   0.0   1   1   3.4e-18     1e-14   54.8   0.0    15   161    40   214    29   216 0.78 Methyltransferase domain
+Methyltransf_31      PF13847.10   150 BGC0000664.1_ORF2:gid:crtT:pid:BAG23654.1:loc:1238:1967:strand:+ -            242   4.2e-14   52.8   0.0   1   1   1.8e-17   5.5e-14   52.4   0.0     4   125    49   165    47   190 0.89 Methyltransferase domain
+MTS                  PF05175.18   170 BGC0000664.1_ORF2:gid:crtT:pid:BAG23654.1:loc:1238:1967:strand:+ -            242   3.9e-05   23.5   0.0   1   1   1.8e-08   5.3e-05   23.1   0.0    34   102    51   119    42   150 0.87 Methyltransferase small domain
+Amino_oxidase        PF01593.28   443 BGC0000664.1_ORF3:gid:crtU:pid:BAG23655.1:loc:1963:3520:strand:+ -            518   2.1e-43  149.4   3.8   1   1   9.6e-47   2.5e-43  149.2   3.8     1   443    45   488    45   488 0.86 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.10    68 BGC0000664.1_ORF3:gid:crtU:pid:BAG23655.1:loc:1963:3520:strand:+ -            518   2.3e-12   47.2   1.6   1   1   2.2e-15   5.7e-12   45.9   0.9     1    67    40   109    40   110 0.94 NAD(P)-binding Rossmann-like domain
+DAO                  PF01266.28   353 BGC0000664.1_ORF3:gid:crtU:pid:BAG23655.1:loc:1963:3520:strand:+ -            518   2.5e-11   43.9   3.9   1   1   2.5e-10   6.4e-07   29.4   0.4     2    36    38    72    37   134 0.88 FAD dependent oxidoreductase
+FAD_oxidored         PF12831.11   414 BGC0000664.1_ORF3:gid:crtU:pid:BAG23655.1:loc:1963:3520:strand:+ -            518   1.6e-07   31.2   1.6   1   1   9.3e-11   2.4e-07   30.6   1.6     2    50    38    86    37   109 0.81 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.28   414 BGC0000664.1_ORF3:gid:crtU:pid:BAG23655.1:loc:1963:3520:strand:+ -            518   2.5e-05   23.9   3.2   1   1     3e-08   7.9e-05   22.2   3.3     2    38    38    74    37    90 0.92 FAD binding domain
+DUF5914              PF19299.3    185 BGC0000664.1_ORF4:gid:crtV:pid:BAG23656.1:loc:3555:4572:strand:- -            338   3.9e-93  310.4   2.3   1   1   4.8e-97     5e-93  310.1   2.3     2   184   149   334   148   335 0.97 Domain of unknown function (DUF5914)
+Rieske               PF00355.30    88 BGC0000664.1_ORF4:gid:crtV:pid:BAG23656.1:loc:3555:4572:strand:- -            338   2.4e-14   53.2   0.0   1   1   4.5e-18   4.7e-14   52.3   0.0     1    70    53   122    53   133 0.95 Rieske [2Fe-2S] domain
+SQS_PSY              PF00494.23   263 BGC0000664.1_ORF5:gid:crtB:pid:BAG23657.1:loc:4568:5597:strand:- -            342   4.1e-70  236.7   9.7   1   1   2.7e-74   5.6e-70  236.2   9.7     3   263    29   291    27   291 0.96 Squalene/phytoene synthase
+Amino_oxidase        PF01593.28   443 BGC0000664.1_ORF6:gid:crtI:pid:BAG23658.1:loc:5593:7117:strand:- -            507   1.8e-67  228.8   2.5   1   1   9.6e-71     2e-67  228.6   2.5     1   442    18   489    18   490 0.96 Flavin containing amine oxidoreductase
+DAO                  PF01266.28   353 BGC0000664.1_ORF6:gid:crtI:pid:BAG23658.1:loc:5593:7117:strand:- -            507   5.8e-19   69.0  13.3   1   1   3.6e-20   7.5e-17   62.1  10.8     1   223    10   303    10   327 0.71 FAD dependent oxidoreductase
+NAD_binding_8        PF13450.10    68 BGC0000664.1_ORF6:gid:crtI:pid:BAG23658.1:loc:5593:7117:strand:- -            507     8e-11   42.3   0.5   1   1   1.2e-13   2.4e-10   40.7   0.5     1    55    13    67    13    77 0.93 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.28   414 BGC0000664.1_ORF6:gid:crtI:pid:BAG23658.1:loc:5593:7117:strand:- -            507   1.9e-07   30.8   9.9   1   1   5.1e-10   1.1e-06   28.4   7.1     1   256    10   358    10   371 0.73 FAD binding domain
+Pyr_redox            PF00070.31    81 BGC0000664.1_ORF6:gid:crtI:pid:BAG23658.1:loc:5593:7117:strand:- -            507   5.3e-07   30.3   0.6   1   1   8.4e-08   0.00018   22.2   1.1     1    34    10    43    10    47 0.93 Pyridine nucleotide-disulphide oxidoreductase
+polyprenyl_synt      PF00348.21   251 BGC0000664.1_ORF7:gid:crtE:pid:BAG23659.1:loc:7113:8391:strand:- -            425   5.3e-47  160.3   0.0   1   1   3.5e-51   7.3e-47  159.9   0.0     6   227    75   315    70   335 0.91 Polyprenyl synthetase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000664.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000664.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000664.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:18:45 2024
+# [ok]

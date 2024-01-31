@@ -1,0 +1,26 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+EryCIII-like_C       PF06722.16   145 BGC0001274.1_ORF1:gid:UGTB1:pid:ADT71703.1:loc:472:1771:strand:+ -            432   3.2e-17   63.0   0.0   1   1   8.3e-21   5.8e-17   62.1   0.0    16   129   300   414   287   420 0.93 Erythromycin biosynthesis protein CIII-like, C-terminal domain
+UDPGT                PF00201.22   499 BGC0001274.1_ORF1:gid:UGTB1:pid:ADT71703.1:loc:472:1771:strand:+ -            432   7.5e-11   41.7   0.0   1   1   1.6e-14   1.1e-10   41.1   0.0   322   419   315   411   282   427 0.88 UDP-glucoronosyl and UDP-glucosyl transferase
+Glyco_transf_28      PF03033.24   139 BGC0001274.1_ORF1:gid:UGTB1:pid:ADT71703.1:loc:472:1771:strand:+ -            432   9.2e-07   29.2   0.0   1   1   2.7e-10   1.9e-06   28.2   0.0     9    88    16   116     8   133 0.76 Glycosyltransferase family 28 N-terminal domain
+ABC_membrane         PF00664.27   274 BGC0001274.1_ORF2:gid:mdr:pid:AET14838.1:loc:1871:5771:strand:+ -           1299   5.7e-87  292.1  30.9   1   2   2.9e-47   1.2e-43  150.0  11.0     2   270    65   338    65   343 0.95 ABC transporter transmembrane region
+ABC_membrane         PF00664.27   274 BGC0001274.1_ORF2:gid:mdr:pid:AET14838.1:loc:1871:5771:strand:+ -           1299   5.7e-87  292.1  30.9   2   2   1.1e-46   4.6e-43  148.1  11.9     2   273   727  1001   726  1002 0.96 ABC transporter transmembrane region
+ABC_tran             PF00005.31   137 BGC0001274.1_ORF2:gid:mdr:pid:AET14838.1:loc:1871:5771:strand:+ -           1299   1.8e-67  226.4   0.1   1   2   1.7e-36   7.1e-33  114.4   0.0     1   137   411   569   411   569 0.92 ABC transporter
+ABC_tran             PF00005.31   137 BGC0001274.1_ORF2:gid:mdr:pid:AET14838.1:loc:1871:5771:strand:+ -           1299   1.8e-67  226.4   0.1   2   2   4.9e-35     2e-31  109.6   0.0     1   137  1071  1224  1071  1224 0.87 ABC transporter
+Hexapep              PF00132.28    36 BGC0001274.1_ORF3:gid::pid:AEK28753.1:loc:7784:8564:strand:+ -            259   1.6e-13   49.9   6.5   1   1   3.4e-16   2.4e-12   46.2   3.7     2    35   176   209   175   210 0.96 Bacterial transferase hexapeptide (six repeats)
+Hexapep_2            PF14602.10    34 BGC0001274.1_ORF3:gid::pid:AEK28753.1:loc:7784:8564:strand:+ -            259   5.9e-10   38.9   4.2   1   1   2.7e-13   1.9e-09   37.3   2.3     1    32   175   208   175   210 0.96 Hexapeptide repeat of succinyl-transferase
+Mac                  PF12464.12    53 BGC0001274.1_ORF3:gid::pid:AEK28753.1:loc:7784:8564:strand:+ -            259   5.5e-08   33.1   0.0   1   1   1.8e-11   1.3e-07   32.0   0.0     1    52    43   102    43   103 0.80 Maltose acetyltransferase
+EryCIII-like_C       PF06722.16   145 BGC0001274.1_ORF4:gid:UGTA1:pid:ADT71702.1:loc:16639:18031:strand:+ -            463   1.6e-16   60.7   0.0   1   1   3.4e-20   3.5e-16   59.6   0.0    23   132   312   421   300   434 0.93 Erythromycin biosynthesis protein CIII-like, C-terminal domain
+UDPGT                PF00201.22   499 BGC0001274.1_ORF4:gid:UGTA1:pid:ADT71702.1:loc:16639:18031:strand:+ -            463   7.2e-06   25.3   0.0   1   1   9.8e-10     1e-05   24.8   0.0   238   414   232   410   208   422 0.77 UDP-glucoronosyl and UDP-glucosyl transferase
+p450                 PF00067.26   462 BGC0001274.1_ORF5:gid::pid:ACD75398.1:loc:34790:36407:strand:+ -            538   2.7e-66  224.4   0.1   1   1   1.8e-70   3.7e-66  224.0   0.1    44   435   101   508    69   534 0.84 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001274.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001274.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001274.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:18:24 2024
+# [ok]

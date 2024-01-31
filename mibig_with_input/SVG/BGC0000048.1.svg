@@ -1,0 +1,260 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1780.9666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1770.9666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>DS34
+hypothetical protein</title>
+			<polygon class="DS34
+hypothetical protein" points="10,25 70,25 70,10 100,40 70,70 70,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ArgoL1 (PF08699)
+"Argonaute linker 1 domain"</title>
+				<rect class="PF08699" x="23" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(220,59,178)" stroke="rgb(176,47,142)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Piwi (PF02171)
+"Piwi domain"</title>
+				<polygon class="PF02171" points="61,28 84,28 92,36 92,44 84,52 61,52" stroke-linejoin="round" width="31" height="24" fill="rgb(215,65,161)" stroke="rgb(172,52,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DS33
+hypothetical protein</title>
+			<polygon class="DS33
+hypothetical protein" points="199,25 184,25 184,10 154,40 184,70 184,55 199,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lipase_GDSL_2 (PF13472)
+"GDSL-like Lipase/Acylhydrolase family"</title>
+				<rect class="PF13472" x="176" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(211,100,148)" stroke="rgb(168,80,118)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DS32
+putative methionine permease</title>
+			<polygon class="DS32
+putative methionine permease" points="295,25 271,25 271,10 241,40 271,70 271,55 295,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_permease_2 (PF13520)
+"Amino acid permease"</title>
+				<polygon class="PF13520" points="247,38 257,28 290,28 290,52 257,52 247,42" stroke-linejoin="round" width="43" height="24" fill="rgb(131,80,228)" stroke="rgb(104,64,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DS31
+putative translation elongation factor</title>
+			<polygon class="DS31
+putative translation elongation factor" points="410,40 434,10 434,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GST_C (PF00043)
+"Glutathione S-transferase, C-terminal domain"</title>
+				<polygon class="PF00043" points="415,39 424,28 424,28 424,52 424,52 415,41" stroke-linejoin="round" width="9" height="24" fill="rgb(111,184,77)" stroke="rgb(88,147,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GST_N (PF02798)
+"Glutathione S-transferase, N-terminal domain"</title>
+				<rect class="PF02798" x="427" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(100,68,184)" stroke="rgb(79,54,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DS30
+hypothetical protein</title>
+			<polygon class="DS30
+hypothetical protein" points="493,25 487,25 487,10 457,40 487,70 487,55 493,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NmrA (PF05368)
+"NmrA-like family"</title>
+				<polygon class="PF05368" points="468,33 473,28 492,28 492,52 473,52 468,47" stroke-linejoin="round" width="24" height="24" fill="rgb(102,214,88)" stroke="rgb(81,171,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DS29
+hypothetical protein</title>
+			<polygon class="DS29
+hypothetical protein" points="572,25 560,25 560,10 530,40 560,70 560,55 572,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>DS28
+putative MFS multidrug transporter</title>
+			<polygon class="DS28
+putative MFS multidrug transporter" points="650,25 626,25 626,10 596,40 626,70 626,55 650,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="605,35 612,28 643,28 643,52 612,52 605,45" stroke-linejoin="round" width="38" height="24" fill="rgb(228,207,98)" stroke="rgb(182,165,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DS27
+hypothetical protein</title>
+			<polygon class="DS27
+hypothetical protein" points="677,40 696,10 696,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1989 (PF09347)
+"Domain of unknown function (DUF1989)"</title>
+				<polygon class="PF09347" points="681,40 689,28 695,28 695,52 689,52" stroke-linejoin="round" width="16" height="24" fill="rgb(207,66,115)" stroke="rgb(165,52,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DS26
+hypothetical protein</title>
+			<polygon class="DS26
+hypothetical protein" points="716,25 720,25 720,10 750,40 720,70 720,55 716,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YqcI_YcgG (PF08892)
+"YqcI/YcgG family"</title>
+				<polygon class="PF08892" points="725,28 734,28 746,40 746,40 734,52 725,52" stroke-linejoin="round" width="21" height="24" fill="rgb(189,223,61)" stroke="rgb(151,178,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DS25
+putative amino acid permease</title>
+			<polygon class="DS25
+putative amino acid permease" points="861,25 828,25 828,10 798,40 828,70 828,55 861,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_permease (PF00324)
+"Amino acid permease"</title>
+				<polygon class="PF00324" points="809,33 814,28 856,28 856,52 814,52 809,47" stroke-linejoin="round" width="47" height="24" fill="rgb(108,63,226)" stroke="rgb(86,50,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>moxA
+putative flavin-binding monooxygenase</title>
+			<polygon class="moxA
+putative flavin-binding monooxygenase" points="992,25 950,25 950,10 920,40 950,70 950,55 992,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FMO-like (PF00743)
+"Flavin-binding monooxygenase-like"</title>
+				<rect class="PF00743" x="963" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(187,193,82)" stroke="rgb(149,154,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epoA
+epoxide hydrolase</title>
+			<polygon class="epoA
+epoxide hydrolase" points="1010,25 1023,25 1023,10 1053,40 1023,70 1023,55 1010,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EHN (PF06441)
+"Epoxide hydrolase N terminus"</title>
+				<rect class="PF06441" x="1011" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(213,148,83)" stroke="rgb(170,118,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>avfA
+averufin oxidase</title>
+			<polygon class="avfA
+averufin oxidase" points="1092,25 1090,25 1090,10 1060,40 1090,70 1090,55 1092,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>cypA
+cytochrome P450 monooxygenase</title>
+			<polygon class="cypA
+cytochrome P450 monooxygenase" points="1178,25 1154,25 1154,10 1124,40 1154,70 1154,55 1178,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="1129,39 1140,28 1173,28 1173,52 1140,52 1129,41" stroke-linejoin="round" width="44" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pksA
+polyketide synthase</title>
+			<polygon class="pksA
+polyketide synthase" points="1200,25 1413,25 1413,10 1443,40 1413,70 1413,55 1200,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SAT (PF16073)
+"Starter unit:ACP transacylase in aflatoxin biosynthesis"</title>
+				<rect class="PF16073" x="1201" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(77,185,114)" stroke="rgb(61,148,91)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="1237" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="1263" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="1290" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(132,93,193)" stroke="rgb(105,74,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase N-terminal domain"</title>
+				<rect class="PF14765" x="1350" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(189,61,178)" stroke="rgb(151,48,142)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="1374" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="1388" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="1402" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="1416,28 1427,28 1439,40 1439,40 1427,52 1416,52" stroke-linejoin="round" width="23" height="24" fill="rgb(69,76,223)" stroke="rgb(55,60,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DS19
+hypothetical protein</title>
+			<polygon class="DS19
+hypothetical protein" points="1498,25 1503,25 1503,10 1533,40 1503,70 1503,55 1498,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SURF1 (PF02104)
+"SURF1 family"</title>
+				<polygon class="PF02104" points="1509,28 1517,28 1529,40 1517,52 1509,52" stroke-linejoin="round" width="21" height="24" fill="rgb(101,183,59)" stroke="rgb(80,146,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DS18
+hypothetical protein</title>
+			<polygon class="DS18
+hypothetical protein" points="1604,25 1581,25 1581,10 1551,40 1581,70 1581,55 1604,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RPN5_C (PF18098)
+"26S proteasome regulatory subunit RPN5 C-terminal domain"</title>
+				<polygon class="PF18098" points="1556,39 1559,36 1559,44 1556,41" stroke-linejoin="round" width="3" height="24" fill="rgb(57,206,88)" stroke="rgb(45,164,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PCI (PF01399)
+"PCI domain"</title>
+				<polygon class="PF01399" points="1560,35 1567,28 1571,28 1571,52 1567,52 1560,45" stroke-linejoin="round" width="11" height="24" fill="rgb(94,223,101)" stroke="rgb(75,178,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DS17
+hypothetical protein</title>
+			<polygon class="DS17
+hypothetical protein" points="1631,25 1639,25 1639,10 1669,40 1639,70 1639,55 1631,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>DS16
+hypothetical protein</title>
+			<polygon class="DS16
+hypothetical protein" points="1684,25 1708,25 1708,10 1738,40 1708,70 1708,55 1684,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GPR_Gpa2_C (PF11970)
+"G protein-coupled glucose receptor regulating Gpa2 C-term"</title>
+				<rect class="PF11970" x="1712" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(68,188,72)" stroke="rgb(54,150,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DS15
+hypothetical protein</title>
+			<polygon class="DS15
+hypothetical protein" points="1746,40 1770,10 1770,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

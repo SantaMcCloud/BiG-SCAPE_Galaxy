@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000629.1_ORF17:gid::pid:ABX75353.1:loc:42211:42978:strand:+:45:224         gn--TYKKFEPYLHI.AHGCQSYPAVAANGDVSGGLQDTGSATGGCRDQS-..KGQTYVRGGWHNGRY.GIMYAWYMPKDMPNSgvsTGAHRHDWENVVIWVNNPANDNPTLLGGAASGHGSYKKTNNPQ---R-VGDRPKVEYFTNF-PTNHELQFT.DTL.........GRDLPLIAWESLPE.AARRGLESAEFGKA
+#=GR BGC0000629.1_ORF17:gid::pid:ABX75353.1:loc:42211:42978:strand:+:45:224 PP 86..679********.*********************************9...7**************.***************99999************************************97776...4.79***********.6********.***.........**************.************85
+BGC0000453.1_ORF11:gid::pid:ABA59542.1:loc:14515:15310:strand:+:46:253         gy---EQSFSPAYDYdGDGCYATPAIGPDGTLAPGLKTTGAINGSCRDKWDldNSQTYARSKC-NNGWcGIVYASYFEKDQAVHgsgLGGHRHDFEHVISWVNQA---SNQVDYVSTTQHRTVKTY--PRSQVRFDGSHPKVVYHKDGA-STHFFRLAnNNDeppenhygnWRYPPIVDWNGFPTtELRDRLMNADFGAA
+#=GR BGC0000453.1_ORF11:gid::pid:ABA59542.1:loc:14515:15310:strand:+:46:253 PP 97...689*****************************************9999**********.99999***************99999**************98...88***************9..9999****************7.********65569******985677*********99************86
+#=GC PP_cons                                                                   ....6789*******.*********************************99..9**************.***************...99***************9***99***************9778799*7*9************76********.888.........8889**********.************86
+#=GC RF                                                                        ..xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxx.........xxxxxxxxxxxxxx.xxxxxxxxxxxxxx
+
+BGC0000629.1_ORF17:gid::pid:ABX75353.1:loc:42211:42978:strand:+:45:224         .T-V--------------p.
+#=GR BGC0000629.1_ORF17:gid::pid:ABX75353.1:loc:42211:42978:strand:+:45:224 PP .4.5..............5.
+BGC0000453.1_ORF11:gid::pid:ABA59542.1:loc:14515:15310:strand:+:46:253         tIKVTDKDDRFRNLLN--ss
+#=GR BGC0000453.1_ORF11:gid::pid:ABA59542.1:loc:14515:15310:strand:+:46:253 PP 3356667789998887..69
+#=GC PP_cons                                                                   .456667789998887....
+#=GC RF                                                                        .xxxxxxxxxxxxxxxxx..
+//

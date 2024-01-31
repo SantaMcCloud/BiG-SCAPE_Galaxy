@@ -1,0 +1,19 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GMC_oxred_N          PF00732.23   218 BGC0000101.1_ORF1:gid::pid:CBF73676.1:loc:0:2176:strand:+ -            622   1.4e-36  126.5   0.0   1   1   2.7e-40   1.9e-36  126.1   0.0     1   217    38   342    38   343 0.97 GMC oxidoreductase
+GMC_oxred_C          PF05199.17   142 BGC0000101.1_ORF1:gid::pid:CBF73676.1:loc:0:2176:strand:+ -            622   2.8e-32  112.4   0.0   1   1   7.6e-36   5.3e-32  111.5   0.0     1   142   471   609   471   609 0.98 GMC oxidoreductase
+adh_short            PF00106.29   195 BGC0000101.1_ORF2:gid::pid:CBF73678.1:loc:2539:3396:strand:- -            266   9.7e-33  113.5   0.0   1   2   3.4e-28   2.4e-24   86.1   0.0     2   135     6   148     5   159 0.92 short chain dehydrogenase
+adh_short            PF00106.29   195 BGC0000101.1_ORF2:gid::pid:CBF73678.1:loc:2539:3396:strand:- -            266   9.7e-33  113.5   0.0   2   2   1.3e-09   8.9e-06   25.5   0.0   145   190   177   222   171   227 0.90 short chain dehydrogenase
+adh_short_C2         PF13561.10   236 BGC0000101.1_ORF2:gid::pid:CBF73678.1:loc:2539:3396:strand:- -            266   2.3e-18   66.9   0.0   1   1   9.1e-18   6.3e-14   52.3   0.0     5   122    13   139    11   160 0.79 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.14   180 BGC0000101.1_ORF2:gid::pid:CBF73678.1:loc:2539:3396:strand:- -            266   1.3e-10   41.7   0.0   1   1   2.7e-14   1.9e-10   41.1   0.0     3   124     7   133     6   155 0.83 KR domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000101.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000101.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000101.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 15:00:14 2024
+# [ok]

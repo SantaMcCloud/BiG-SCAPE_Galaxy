@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF833:gid::pid::loc:969574:970429:strand:+:123:248         VNAANNKLLGclqplHLCVDNEIHSCAGPRLREDCDKIIKKQGH.....lEYTGDAKITRGYCLP...AKFVVHTVGPIVSGGqPSKEQEKQLLHCYKSCLNTIKEiDEIKNIVFCGISTGVFGYPKKEAANLA.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF833:gid::pid::loc:969574:970429:strand:+:123:248 PP 9*******************************************.....778*************...************9777899999*************987578*********************9875.
+BGC0001342.1_ORF6:gid::pid:ADH04651.1:loc:10698:11289:strand:+:40:155                         VNAANASLAG.....GGGVDGAIHRAAGPELYELTRPF----GG......CATGSAVITGAGRIPl.pTRFIVHAVGPRYSTA.RDAECAALLRSAHEVSLRLCEE.KAVESVAFPAISTGVYGFPIARAAPIA.
+#=GR BGC0001342.1_ORF6:gid::pid:ADH04651.1:loc:10698:11289:strand:+:40:155                 PP 9*********.....***********************....**......*************998.8***************.**********************.************************986.
+GCF_008000775.1_ORF2939:gid::pid:WP_244626272.1:loc:3280409:3280985:strand:+:38:151           VNAANINLVL.....GSGVAGAIRRKGGKSIQEECNQI----GS......CEVGGAVITTGGNLN...VKHVIHAIGPIYKQY.PPKEAELHLSNAIKNSLEILQD.NKLSSISFPAISTGVYGFPKHPAADII.
+#=GR GCF_008000775.1_ORF2939:gid::pid:WP_244626272.1:loc:3280409:3280985:strand:+:38:151   PP 9*********.....***********************....**......***************...*************99.9999999***************.************************986.
+BGC0000243.1_ORF1:gid::pid:AAF81228.1:loc:338:872:strand:-:25:142                             VNAANSSLLG.....GGGVDGAIHRRGGPDILAACRELRASRYGk....gLPTGQAVATTAGRLD...ARWIVHTVGPVFS--.GAQDRSALLASCYRESLRLAAE.LGARSIAFPAISTGIYGWPMDDGARIA.
+#=GR BGC0000243.1_ORF1:gid::pid:AAF81228.1:loc:338:872:strand:-:25:142                     PP 9*********.....***********************8875445....7***************...************7...9*********************.************************996.
+BGC0000249.1_ORF4:gid::pid:AAG42849.1:loc:3876:4422:strand:-:20:137                           VNAANSSLLG.....GGGVDGAIHRRGGPAILAECRALRASRYGe....gLPTGRAVATTAGDLD...ARWVIHTVGPVWS--.STEDRSDLLASCYRESLRLAGE.LGARTVAFPALSTGVYRWPMGDAARIA.
+#=GR BGC0000249.1_ORF4:gid::pid:AAG42849.1:loc:3876:4422:strand:-:20:137                   PP 9*********.....***********************8876556....7***************...************7...9*********************.*************************97.
+GCF_000011105.1_ORF1416:gid::pid:WP_048053411.1:loc:1348562:1349126:strand:-:18:144           VNAANKYLEH.....GGGVAYAIAKAASGDVSEYTRISKEEMRRqlgkdwIEHGEVVVTPPMKLKengVKYVIHTVGPYCGGV.WSKDKEEKLKLAILGALKKADE.LGVKSIAFPAISAGIYGCPLKEVVRT-f
+#=GR GCF_000011105.1_ORF1416:gid::pid:WP_048053411.1:loc:1348562:1349126:strand:-:18:144   PP 9*********.....********************9999988778899*********************************99.**********************.**********************9986.7
+#=GC PP_cons                                                                                  9*********.....***********************998788......9**************...************999.9*********************.***********************9986.
+#=GC RF                                                                                       xxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxx...xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

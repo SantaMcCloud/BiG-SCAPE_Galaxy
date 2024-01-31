@@ -1,0 +1,19 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1264:gid::pid::loc:1446011:1451189:strand:+:132:161           ..VKTVACGYDFTFVLKNDGTLYSAGLNSSGQ.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1264:gid::pid::loc:1446011:1451189:strand:+:132:161   PP ..899**************************9.
+GCA_000085225.1_ASM8522v1_genomic_ORF1264:gid::pid::loc:1446011:1451189:strand:+:231:260           ..VKQIACGSSHTILIKNDGTMYTTGYNGVGQ.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1264:gid::pid::loc:1446011:1451189:strand:+:231:260   PP ..89***************************9.
+GCA_000085225.1_ASM8522v1_genomic_ORF1264:gid::pid::loc:1446011:1451189:strand:+:1287:1316         ..IKEVSISKTHIIILLNDGTMYGCGTNYHG-e
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1264:gid::pid::loc:1446011:1451189:strand:+:1287:1316 PP ..799*************************9.6
+GCA_000085225.1_ASM8522v1_genomic_ORF1264:gid::pid::loc:1446011:1451189:strand:+:1337:1366         ..VKHVSCGDNFTYFIKSDDSLWSIGKNSEYQ.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1264:gid::pid::loc:1446011:1451189:strand:+:1337:1366 PP ..89*************************998.
+BGC0000440.1_ORF3:gid:tei3:pid:CAE53335.1:loc:2345:3476:strand:+:29:57                             at---VAAGYAHTCAIRTGGTLWCWGSNANGQ.
+#=GR BGC0000440.1_ORF3:gid:tei3:pid:CAE53335.1:loc:2345:3476:strand:+:29:57                     PP 85...9*************************9.
+BGC0000440.1_ORF3:gid:tei3:pid:CAE53335.1:loc:2345:3476:strand:+:229:258                           wa--TVTAGYTFTCATRTDGTLWCFGENGYGQ.
+#=GR BGC0000440.1_ORF3:gid:tei3:pid:CAE53335.1:loc:2345:3476:strand:+:229:258                   PP 86..699************************9.
+BGC0000440.1_ORF3:gid:tei3:pid:CAE53335.1:loc:2345:3476:strand:+:278:307                           .w-TGVAAGFDTACASRADGSLWCWGNNAAGQ.
+#=GR BGC0000440.1_ORF3:gid:tei3:pid:CAE53335.1:loc:2345:3476:strand:+:278:307                   PP .7.679*************************9.
+#=GC PP_cons                                                                                       ..888**************************9.
+#=GC RF                                                                                            ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

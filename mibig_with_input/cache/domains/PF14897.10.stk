@@ -1,0 +1,41 @@
+# STOCKHOLM 1.0
+
+BGC0000790.1_ORF9:gid:wzy:pid:ABK27321.1:loc:7201:8350:strand:+:28:373           ..fr--LLFIVFFSLSFFSYYTN.GV--DWSVYYLRFIEDEGL---...F-....TSFEFGFVIILKLLLIVSDDnFGLAILLYYFLCFVLLSLILKKYKVNE.................pLFLGCLLL.--LFGYNLFLEQLRQLLACIIVFY.....AMLLYNqNKNLIELCILVITASTFHVSAVIILPT....IFL
+#=GR BGC0000790.1_ORF9:gid:wzy:pid:ABK27321.1:loc:7201:8350:strand:+:28:373   PP ..75..899**************.99..*********887765......4.....9****************9999**************************6.................555555555...55555558**************.....*888887999************************....999
+BGC0000780.1_ORF39:gid::pid:BAG50487.1:loc:38309:39464:strand:+:26:360           iife----YFSFLILFLFSSNSY.FNGWDAYTYLRYFNVIVDKGNYe.gFSvlyaSGLEIGYIAILSFSALISDN.FQFYILIQSLIVNTLLWFGVRKLNLN-..................FSLFALLF.FCASYTRLEMSTFRQGISFSLFVF.....SLPYLI.NGS-RKYIVTILFATLFHFSSVILLIL....WLV
+#=GR BGC0000780.1_ORF39:gid::pid:BAG50487.1:loc:38309:39464:strand:+:26:360   PP 7655....677888888888888.4456*************999988.8668889********************.**************************...................99999999.89999999****************.....******.999.88999******************....***
+BGC0001412.1_ORF12:gid:wzy:pid:AAD40716.1:loc:9913:11011:strand:+:25:364         ..kn--LFWLFVIVLAIIIGGRSiSV-PDTDQYYQLTLSSSILDIP...L-....YSYEIGFQLLTKILKLITNGsSFFYFGIIVLINSYFLFKSFSCFTDQSypskkssgtlinqiklqeFLLLYFSY.---WGLYYTGIVLRAGIAMSILIYlstllCSPYIS.LKKWSAIFLLAIISCSFHITALLGIIAliifYIS
+#=GR BGC0001412.1_ORF12:gid:wzy:pid:AAD40716.1:loc:9913:11011:strand:+:25:364 PP ..76..788999***********777.9***********9998887...4.....69****************99555666699999999999999999998899************965433333333....3333346889*******965422222556777.*********************5555553222444
+BGC0000763.1_ORF5:gid::pid:ACO05914.1:loc:6658:7795:strand:+:32:370              ...t-WLLCIAAMILIVFGGIRGlGTGMDDFQYRSFFEDFVRRIQIngfFNtvacFRYEPLIFAMAWLTSLFSHN.ASVFLFVFCAIAVSINTYFFKKMSPY-..................PVLALALY.SAHIFINKDINQIRFGLSSALFLG.....VLWSIYlKRYWWAFT-FFILSFMSHNTAVMVVTL....VPF
+#=GR BGC0000763.1_ORF5:gid::pid:ACO05914.1:loc:6658:7795:strand:+:32:370      PP ...7.89********************************9976554666559***********************.**************************...................********.*********************999.....888888556655555.6666********777766....444
+BGC0000789.1_ORF7:gid:wzy:pid:ABB29906.1:loc:10410:11463:strand:+:26:346         ...w-FWLLFLLFFSAVFVGLRV.DVGADYTEYAQIYNQSGN----...I-....TNFELGFDIIFNYGKRLGYD.YVFVSLFFFLLTTLFFIYSIKELNYKT.................lIYFCFLLFmFVPLTST-----IRQGLAIPFFVM.....CILNSD.--RPKVYFTSIALGCLFHYSILFMFFF....FWV
+#=GR BGC0000789.1_ORF7:gid:wzy:pid:ABB29906.1:loc:10410:11463:strand:+:26:346 PP ...6.6789999999********.***************987.......5.....9*******************.**********************99997.................75555555556666555.....8***********.....886555...66688889999**************....***
+#=GC PP_cons                                                                     .....789899999999999999.8889*********999987776...56....9*******************.999999*******************97..................66666666.88766667789*9********998.....888888.8888888899999********888888....777
+#=GC RF                                                                          ....xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx...xx....xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx..................xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx....xxx
+
+BGC0000790.1_ORF9:gid:wzy:pid:ABK27321.1:loc:7201:8350:strand:+:28:373           IS.FRNV.....TTFIIITVSSITSIVVFMIALYSAISSLAa..msFVFA....KIDYYLHQYPVVL----......NFGWLNILDALF--ILFYMRYRNAIDRqiniNILTRIIFVGSVIHLFSGSI-...TFLARVCFYFYFVGVYIYCYSLND----KTPRVFAIKNFNTLVLAAFVNVV----....---------
+#=GR BGC0000790.1_ORF9:gid:wzy:pid:ABK27321.1:loc:7201:8350:strand:+:28:373   PP 99.8888.....777777777776666666666666666553..324455....8888888777555..........555555555555..2222333333333356688888889898888888888....***************999999998....33333333333333333222222.................
+BGC0000780.1_ORF39:gid::pid:BAG50487.1:loc:38309:39464:strand:+:26:360           KK.LELKt...hALIAFAAIPMWYVTLGLYNLFISSTSILPds.lsFIVL....LLEHYSQYRQAGLSVLT......LVNLAIYLFLIFVFYTYKIEITKKP--....LLNTTMVLFGCLILLQFYTKFmpsLIVSRFEYYFSVSLI-LLIQLIPS-YAMGSRKYSPFIMLPLSLLMFFITFRYHLD....REVYFPYT-
+#=GR BGC0000780.1_ORF39:gid::pid:BAG50487.1:loc:38309:39464:strand:+:26:360   PP **.****6...54444444445577777777777777777677.778888....*************9999......************9999999999999......888888888888888888777899*************99.88999988.666666654444444444444444443344....57999996.
+BGC0001412.1_ORF12:gid:wzy:pid:AAD40716.1:loc:9913:11011:strand:+:25:364         KK.MTMR.....SYLLLFLLICIILFGKVSFWIVDMLDRNMpmifsLIEDtdfaKLQAYSNIDA---SI--......KISFRFLFCLLIGLFFIICKRMPLYY-....YKYLNVYIVGLFLGALFSAI-...EAFSRIMDFFVIYSFILISMRLSTINSFKIRFSIMFSIVLIQLLFVY--------....---------
+#=GR BGC0001412.1_ORF12:gid:wzy:pid:AAD40716.1:loc:9913:11011:strand:+:25:364 PP 44.5555.....6666666666655555555555555443355445444365556666666666...33........44444444444444444455544444.....88999**************9....************************44444444444444444444443.....................
+BGC0000763.1_ORF5:gid::pid:ACO05914.1:loc:6658:7795:strand:+:32:370              LFiRDWR....wWPVVIILFSLPLSVVGGSSFIALIAGHLG.....SMGE....RASGYNNDPSYAMDGSIlsvsnlKNIMLVFIFFYFMLTEELKRENYAQYRl..nYLLILSFAIGGAIRIFLYNF-...PSGSRLSNYLQQVEPIILTSLIFQ--ARRVWKPALFGMLVFFLLYYLYYNTISTK....-QAVVGY--
+#=GR BGC0000763.1_ORF5:gid::pid:ACO05914.1:loc:6658:7795:strand:+:32:370      PP 4435555....334556667778******************.....****....************999989966543333333333333444444444444448..666666677788999999999....***************999999999..66666668888888888888888776666.....666666..
+BGC0000789.1_ORF7:gid:wzy:pid:ABB29906.1:loc:10410:11463:strand:+:26:346         RH.IKQSycrafLIVLLFSLLSIFNIVEYIIMLLNYMPGLG.....AIST....KLLMYTQRYQVEFSMNS.....fVYKLAGLLLITM-FMPFIKVNEKL---....RCSYNLYFITVCIFILLKDNA...VLTNRLTYATNISLV-TFFSLLLSMIRGFYKKAIVSILFVFYFSFSYFKFTATDLrhsvESAYMPYKS
+#=GR BGC0000789.1_ORF7:gid:wzy:pid:ABB29906.1:loc:10410:11463:strand:+:26:346 PP **.88875654333333333334666666666666666666.....9999....99999876554444333.....3455555555544.44444444443.......9********************...*************99.66666666699999999************999999777699999******97
+#=GC PP_cons                                                                     77.7777.....55555556666777777777777777666.....7777....99999888877776677......555555555555555555555555543....888999999999999999998...****************999999885666666656666666666665566665555....778888877
+#=GC RF                                                                          xx.xxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxx....xxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxx
+
+BGC0000790.1_ORF9:gid:wzy:pid:ABK27321.1:loc:7201:8350:strand:+:28:373           lllnfasyfrneqapvgfynmnfqffntfndnylrtnaydky
+#=GR BGC0000790.1_ORF9:gid:wzy:pid:ABK27321.1:loc:7201:8350:strand:+:28:373   PP 2233344456667777888888899*****************
+BGC0000780.1_ORF39:gid::pid:BAG50487.1:loc:38309:39464:strand:+:26:360           g.........................................
+#=GR BGC0000780.1_ORF39:gid::pid:BAG50487.1:loc:38309:39464:strand:+:26:360   PP 9.........................................
+BGC0001412.1_ORF12:gid:wzy:pid:AAD40716.1:loc:9913:11011:strand:+:25:364         riiig.....................................
+#=GR BGC0001412.1_ORF12:gid:wzy:pid:AAD40716.1:loc:9913:11011:strand:+:25:364 PP 34579.....................................
+BGC0000763.1_ORF5:gid::pid:ACO05914.1:loc:6658:7795:strand:+:32:370              ev........................................
+#=GR BGC0000763.1_ORF5:gid::pid:ACO05914.1:loc:6658:7795:strand:+:32:370      PP 68........................................
+BGC0000789.1_ORF7:gid:wzy:pid:ABB29906.1:loc:10410:11463:strand:+:26:346         ..........................................
+#=GR BGC0000789.1_ORF7:gid:wzy:pid:ABB29906.1:loc:10410:11463:strand:+:26:346 PP ..........................................
+#=GC PP_cons                                                                     ..........................................
+#=GC RF                                                                          ..........................................
+//

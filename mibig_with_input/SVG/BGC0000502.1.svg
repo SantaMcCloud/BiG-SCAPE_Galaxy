@@ -1,0 +1,217 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="553.9333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="543.9333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>cerE
+putative cerecidin immunity protein</title>
+			<polygon class="cerE
+putative cerecidin immunity protein" points="50,25 40,25 40,10 10,40 40,70 40,55 50,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_3 (PF12698)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF12698" points="14,40 26,28 48,28 48,52 26,52" stroke-linejoin="round" width="36" height="24" fill="rgb(81,194,105)" stroke="rgb(64,155,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cerF
+putative cerecidin immunity protein</title>
+			<polygon class="cerF
+putative cerecidin immunity protein" points="50,40 79,10 79,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4162 (PF13732)
+"Domain of unknown function (DUF4162)"</title>
+				<polygon class="PF13732" points="54,40 58,36 58,44" stroke-linejoin="round" width="8" height="24" fill="rgb(62,115,222)" stroke="rgb(49,91,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="63,31 66,28 77,28 77,52 66,52 63,49" stroke-linejoin="round" width="14" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cerP
+serine protease protein</title>
+			<polygon class="cerP
+serine protease protein" points="132,25 113,25 113,10 83,40 113,70 113,55 132,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<polygon class="PF00082" points="87,40 99,28 114,28 114,52 99,52" stroke-linejoin="round" width="30" height="24" fill="rgb(179,95,73)" stroke="rgb(143,76,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cerT
+ABC transporter protein</title>
+			<polygon class="cerT
+ABC transporter protein" points="203,25 162,25 162,10 132,40 162,70 162,55 203,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="140,36 148,28 154,28 154,52 148,52 140,44" stroke-linejoin="round" width="14" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="161" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(62,71,183)" stroke="rgb(49,56,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="190" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(93,118,202)" stroke="rgb(74,94,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cerR
+transcription regulation protein</title>
+			<polygon class="cerR
+transcription regulation protein" points="204,40 212,10 212,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="207,40 210,28 211,28 211,52 210,52" stroke-linejoin="round" width="5" height="24" fill="rgb(225,67,110)" stroke="rgb(180,53,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>comQ
+pre-ComX modification protein</title>
+			<polygon class="comQ
+pre-ComX modification protein" points="222,25 223,25 223,10 253,40 223,70 223,55 222,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="225,28 236,28 248,40 248,40 236,52 225,52" stroke-linejoin="round" width="23" height="24" fill="rgb(216,200,102)" stroke="rgb(172,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>comX
+precursor of competence stimulating peptide</title>
+			<polygon class="comX
+precursor of competence stimulating peptide" points="253,40 258,10 258,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>comP
+histidine kinase protein</title>
+			<polygon class="comP
+histidine kinase protein" points="262,25 309,25 309,10 339,40 309,70 309,55 262,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HisKA_3 (PF07730)
+"Histidine kinase"</title>
+				<polygon class="PF07730" points="319,28 322,28 325,31 325,49 322,52 319,52" stroke-linejoin="round" width="6" height="24" fill="rgb(197,134,53)" stroke="rgb(157,107,42)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="329,35 334,40 329,45" stroke-linejoin="round" width="9" height="24" fill="rgb(94,146,210)" stroke="rgb(75,116,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>comA
+response regulator protein</title>
+			<polygon class="comA
+response regulator protein" points="339,10 360,40 339,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="339,28 348,28 350,31 350,49 348,52 339,52" stroke-linejoin="round" width="11" height="24" fill="rgb(59,131,198)" stroke="rgb(47,104,158)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="354,36 357,40 354,44" stroke-linejoin="round" width="5" height="24" fill="rgb(225,67,110)" stroke="rgb(180,53,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cerM
+cerecidin modification protein</title>
+			<polygon class="cerM
+cerecidin modification protein" points="467,25 392,25 392,10 362,40 392,70 392,55 467,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="366,40 378,28 396,28 396,52 378,52" stroke-linejoin="round" width="34" height="24" fill="rgb(91,189,96)" stroke="rgb(72,151,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4135 (PF13575)
+"Domain of unknown function (DUF4135)"</title>
+				<rect class="PF13575" x="408" y="28" stroke-linejoin="round" width="37" height="24" fill="rgb(170,90,215)" stroke="rgb(135,72,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cerA7
+cerecidin precursor</title>
+			<polygon class="cerA7
+cerecidin precursor" points="473,40 480,10 480,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mersacidin (PF16934)
+"Two-component Enterococcus faecalis cytolysin (EFC)"</title>
+				<polygon class="PF16934" points="476,40 478,32 478,48" stroke-linejoin="round" width="5" height="24" fill="rgb(62,188,143)" stroke="rgb(49,150,114)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cerA6
+cerecidin precursor</title>
+			<polygon class="cerA6
+cerecidin precursor" points="482,40 489,10 489,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mersacidin (PF16934)
+"Two-component Enterococcus faecalis cytolysin (EFC)"</title>
+				<polygon class="PF16934" points="485,40 487,32 487,48" stroke-linejoin="round" width="5" height="24" fill="rgb(62,188,143)" stroke="rgb(49,150,114)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cerA5
+cerecidin precursor</title>
+			<polygon class="cerA5
+cerecidin precursor" points="491,40 498,10 498,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mersacidin (PF16934)
+"Two-component Enterococcus faecalis cytolysin (EFC)"</title>
+				<polygon class="PF16934" points="494,40 496,32 496,48" stroke-linejoin="round" width="5" height="24" fill="rgb(62,188,143)" stroke="rgb(49,150,114)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cerA4
+cerecidin precursor</title>
+			<polygon class="cerA4
+cerecidin precursor" points="499,40 506,10 506,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mersacidin (PF16934)
+"Two-component Enterococcus faecalis cytolysin (EFC)"</title>
+				<polygon class="PF16934" points="502,40 504,32 504,48" stroke-linejoin="round" width="5" height="24" fill="rgb(62,188,143)" stroke="rgb(49,150,114)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cerA3
+cerecidin precursor</title>
+			<polygon class="cerA3
+cerecidin precursor" points="508,40 515,10 515,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mersacidin (PF16934)
+"Two-component Enterococcus faecalis cytolysin (EFC)"</title>
+				<polygon class="PF16934" points="511,40 513,32 513,48" stroke-linejoin="round" width="5" height="24" fill="rgb(62,188,143)" stroke="rgb(49,150,114)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cerA2
+cerecidin precursor</title>
+			<polygon class="cerA2
+cerecidin precursor" points="517,40 524,10 524,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mersacidin (PF16934)
+"Two-component Enterococcus faecalis cytolysin (EFC)"</title>
+				<polygon class="PF16934" points="520,40 522,32 522,48" stroke-linejoin="round" width="5" height="24" fill="rgb(62,188,143)" stroke="rgb(49,150,114)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cerA1
+cerecidin precursor</title>
+			<polygon class="cerA1
+cerecidin precursor" points="526,40 533,10 533,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mersacidin (PF16934)
+"Two-component Enterococcus faecalis cytolysin (EFC)"</title>
+				<polygon class="PF16934" points="529,40 531,32 531,48" stroke-linejoin="round" width="5" height="24" fill="rgb(62,188,143)" stroke="rgb(49,150,114)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,20 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lipase_GDSL          PF00657.26   208 BGC0000088.1_ORF1:gid::pid:AAD34550.1:loc:1812:6865:strand:- -           1529   3.6e-31  109.1   5.7   1   2   1.8e-26   9.5e-23   81.6   0.0     1   207    61   244    61   245 0.95 GDSL-like Lipase/Acylhydrolase
+Lipase_GDSL          PF00657.26   208 BGC0000088.1_ORF1:gid::pid:AAD34550.1:loc:1812:6865:strand:- -           1529   3.6e-31  109.1   5.7   2   2   3.4e-09   1.8e-05   25.2   2.0     1   187  1174  1414  1174  1426 0.60 GDSL-like Lipase/Acylhydrolase
+Lipase_GDSL_2        PF13472.10   177 BGC0000088.1_ORF1:gid::pid:AAD34550.1:loc:1812:6865:strand:- -           1529   8.8e-29  101.4   0.9   1   2     6e-20   3.1e-16   60.6   0.2     2   175    64   238    64   240 0.77 GDSL-like Lipase/Acylhydrolase family
+Lipase_GDSL_2        PF13472.10   177 BGC0000088.1_ORF1:gid::pid:AAD34550.1:loc:1812:6865:strand:- -           1529   8.8e-29  101.4   0.9   2   2   3.7e-13   1.9e-09   38.5   0.0     2   105  1177  1321  1176  1421 0.76 GDSL-like Lipase/Acylhydrolase family
+FG-GAP_3             PF13517.10    61 BGC0000088.1_ORF1:gid::pid:AAD34550.1:loc:1812:6865:strand:- -           1529   2.5e-24   85.8  43.7   1   2   9.2e-14   4.8e-10   40.1   2.9     1    59   390   457   342   458 0.95 FG-GAP-like repeat
+FG-GAP_3             PF13517.10    61 BGC0000088.1_ORF1:gid::pid:AAD34550.1:loc:1812:6865:strand:- -           1529   2.5e-24   85.8  43.7   2   2   1.2e-10   6.4e-07   30.1   4.7     1    61   762   822   762   822 0.92 FG-GAP-like repeat
+p450                 PF00067.26   462 BGC0000088.1_ORF3:gid:lovA:pid:AAD34552.1:loc:9979:11712:strand:- -            528   2.5e-36  125.6   0.0   1   1   1.8e-40   3.8e-36  125.0   0.0   100   444   150   497   128   515 0.77 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000088.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000088.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000088.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:50:55 2024
+# [ok]

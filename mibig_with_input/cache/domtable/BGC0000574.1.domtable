@@ -1,0 +1,17 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_S9         PF00326.25   213 BGC0000574.1_ORF1:gid::pid:ADG11017.1:loc:0:2445:strand:+ -            814   6.3e-25   88.1   0.0   1   1   6.4e-27   3.3e-23   82.5   0.0    50   211   614   789   609   791 0.81 Prolyl oligopeptidase family
+Asn_synthase         PF00733.25   354 BGC0000574.1_ORF2:gid::pid:ADG11018.1:loc:2330:4184:strand:- -            617   7.5e-26   91.8   0.1   1   1   6.2e-30   1.3e-25   91.0   0.1     2   354   222   580   221   580 0.79 Asparagine synthase
+Transglut_core3      PF13471.10   117 BGC0000574.1_ORF3:gid::pid:ADG11019.1:loc:4186:4837:strand:- -            216   9.4e-18   64.4   3.1   1   1     1e-21   2.1e-17   63.3   0.1    17   116   117   214   104   215 0.86 Transglutaminase-like superfamily
+GntR                 PF00392.25    64 BGC0000574.1_ORF7:gid::pid:ADG11023.1:loc:5540:6137:strand:- -            198   8.3e-10   38.4   0.1   1   1     4e-14   8.3e-10   38.4   0.1     7    59    22    73    17    75 0.92 Bacterial regulatory proteins, gntR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000574.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000574.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000574.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:20:19 2024
+# [ok]

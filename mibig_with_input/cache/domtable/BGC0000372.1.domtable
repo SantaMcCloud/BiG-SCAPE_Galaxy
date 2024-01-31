@@ -1,0 +1,28 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Zn_clus              PF00172.22    39 BGC0000372.1_ORF1:gid::pid:EAL92294.1:loc:0:1288:strand:- -            411   1.6e-07   31.5  11.8   1   1   7.7e-12   1.6e-07   31.5  11.8     2    33    27    57    26    64 0.91 Fungal Zn(2)-Cys(6) binuclear cluster domain
+MFS_1                PF07690.20   347 BGC0000372.1_ORF2:gid::pid:EAL92293.2:loc:2581:4062:strand:+ -            449   2.1e-30  106.0  40.6   1   1   1.4e-33     3e-29  102.2  38.2     4   346    53   396    47   397 0.81 Major Facilitator Superfamily
+Methyltransf_2       PF00891.22   210 BGC0000372.1_ORF3:gid::pid:EAL92292.1:loc:4631:5993:strand:- -            433   1.4e-29  103.1   0.0   1   1   8.8e-34   1.8e-29  102.8   0.0    54   210   224   387   176   387 0.86 O-methyltransferase domain
+AMP-binding          PF00501.32   382 BGC0000372.1_ORF4:gid::pid:EAL92291.2:loc:6328:13058:strand:+ -           2202  8.6e-119  396.9   0.0   1   2   1.6e-61   8.5e-58  196.2   0.0     1   382    29   375    29   375 0.88 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0000372.1_ORF4:gid::pid:EAL92291.2:loc:6328:13058:strand:+ -           2202  8.6e-119  396.9   0.0   2   2     3e-62   1.6e-58  198.6   0.0     2   382  1085  1416  1084  1416 0.83 AMP-binding enzyme
+Condensation         PF00668.24   456 BGC0000372.1_ORF4:gid::pid:EAL92291.2:loc:6328:13058:strand:+ -           2202   2.1e-90  303.8   0.0   1   2     2e-52     1e-48  166.4   0.0     4   443   625  1049   623  1053 0.86 Condensation domain
+Condensation         PF00668.24   456 BGC0000372.1_ORF4:gid::pid:EAL92291.2:loc:6328:13058:strand:+ -           2202   2.1e-90  303.8   0.0   2   2   5.7e-43   2.9e-39  135.2   0.0     3   410  1664  2056  1662  2060 0.86 Condensation domain
+PP-binding           PF00550.29    67 BGC0000372.1_ORF4:gid::pid:EAL92291.2:loc:6328:13058:strand:+ -           2202   3.5e-27   94.6   0.7   1   3   6.4e-11   3.3e-07   30.6   0.1     3    67   526   589   524   589 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0000372.1_ORF4:gid::pid:EAL92291.2:loc:6328:13058:strand:+ -           2202   3.5e-27   94.6   0.7   2   3   4.5e-11   2.3e-07   31.1   0.0     2    64  1571  1636  1570  1639 0.90 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0000372.1_ORF4:gid::pid:EAL92291.2:loc:6328:13058:strand:+ -           2202   3.5e-27   94.6   0.7   3   3   1.5e-10     8e-07   29.4   0.0     3    66  2136  2198  2134  2199 0.96 Phosphopantetheine attachment site
+Trp_DMAT             PF11991.12   357 BGC0000372.1_ORF5:gid::pid:EAL92290.2:loc:13751:15223:strand:+ -            472  8.3e-117  390.7   0.0   1   1  5.8e-121  1.2e-116  390.2   0.0     4   356    69   428    66   429 0.94 Tryptophan dimethylallyltransferase
+Fungal_trans         PF04082.22   261 BGC0000372.1_ORF6:gid::pid:EAL92289.2:loc:15445:17952:strand:- -            754   2.7e-18   66.2   0.0   1   1   3.9e-22   4.1e-18   65.6   0.0     1   190   233   442   233   488 0.92 Fungal specific transcription factor domain
+Zn_clus              PF00172.22    39 BGC0000372.1_ORF6:gid::pid:EAL92289.2:loc:15445:17952:strand:- -            754     2e-08   34.4   7.9   1   1   3.8e-12     4e-08   33.4   7.9     1    35    32    66    32    70 0.92 Fungal Zn(2)-Cys(6) binuclear cluster domain
+FAD_binding_4        PF01565.27   139 BGC0000372.1_ORF7:gid::pid:EAL92288.1:loc:18428:19995:strand:- -            468   2.3e-24   85.9   8.0   1   1   1.8e-28   3.7e-24   85.2   8.0     1   130    41   167    41   174 0.96 FAD binding domain
+p450                 PF00067.26   462 BGC0000372.1_ORF8:gid::pid:EAL92287.1:loc:20338:22264:strand:- -            550   1.4e-39  136.3   0.0   1   1   1.6e-43   3.4e-39  135.1   0.0    28   442   107   524    89   532 0.87 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000372.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000372.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000372.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:38:08 2024
+# [ok]

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000709.1_ORF3:gid::pid:CAF33302.1:loc:2580:7962:strand:+:1510:1781                lma---ARLFADADPDGRLMAAALRKSIDSVLDPERTGRYDPNDLDEREKSLISALLEQELRASFPGLPG-----------FRLRLFLSGHDWAFPQIWDSGICLLVRADEEHARWSVGLLRTRPGMTVAP-VNRDAPSPLTTEAREAVLWLHRSAPLRENLLLRLPERDRVAILAPASGADRTAELFRRVRERPVPEAA
+#=GR BGC0000709.1_ORF3:gid::pid:CAF33302.1:loc:2580:7962:strand:+:1510:1781        PP 986...5678899****************************************************96555...........34566777789***************************************.********************************************************************
+BGC0000710.1_ORF21:gid:nemH:pid:CAH05112.1:loc:21746:27137:strand:-:1513:1784         lma---ARLFADADPDGRLMAAALRKSIDSVLDPERTGRYDPNDLDEREKSLISALLEQELRASFPGLPG-----------FRLRLFLSGHDWAFPQIWDSGICLLVRADEEHARWSVGLLRTRPGMTVAP-VNRDAPSPLTTEAREAVLWLHRSAPLRENLLLRLPERDRVAILAPASGADRTAELFRRVRERPVPEAA
+#=GR BGC0000710.1_ORF21:gid:nemH:pid:CAH05112.1:loc:21746:27137:strand:-:1513:1784 PP 986...5678899****************************************************96555...........34566777789***************************************.********************************************************************
+#=GC PP_cons                                                                          ......5678899****************************************************96555...........34566777789***************************************.********************************************************************
+#=GC RF                                                                               ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000709.1_ORF3:gid::pid:CAF33302.1:loc:2580:7962:strand:+:1510:1781                LRAVTRRRDNARTVRE---AAAVLREEGVLVVGGN-RRGRELAGALRLPVPDADAYVSVRLTRRRPHHAAPSIVAGGVAWVAAGPDDPLEP
+#=GR BGC0000709.1_ORF3:gid::pid:CAF33302.1:loc:2580:7962:strand:+:1510:1781        PP ****************...*************888.89**************************************************886
+BGC0000710.1_ORF21:gid:nemH:pid:CAH05112.1:loc:21746:27137:strand:-:1513:1784         LRAVTRRRDNARTVRE---AAAVLREEGVLVVGGN-RRGRELAGALRLPVPDADAYVSVRLTRRRPHHAAPSIVAGGVAWVAAGPDDPLEP
+#=GR BGC0000710.1_ORF21:gid:nemH:pid:CAH05112.1:loc:21746:27137:strand:-:1513:1784 PP ****************...*************888.89**************************************************886
+#=GC PP_cons                                                                          ****************...*************888.89**************************************************886
+#=GC RF                                                                               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

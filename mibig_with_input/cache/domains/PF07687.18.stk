@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF482:gid::pid::loc:552399:553710:strand:-:198:299            ..es---NGFVGKKVKFIGKESHAGsAPHDGINALN......AAMLAINNVNAL--RETfKESERVRFHPIITKGGD....IVNVVPADVHMESYVR...ARTINGMIDANERINK----------almagg
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF482:gid::pid::loc:552399:553710:strand:-:198:299    PP ..76...689999***********************......*********999..33349999*************....**********999999...7665555555555555..........56789*
+GCA_000085225.1_ASM8522v1_genomic_ORF817:gid::pid::loc:952962:954330:strand:+:178:277            slan------LSVKFKFKGITAHAAqAPHNGRSALDa...veIMNVGANYLREH-----.-VIDSIRMHYVITNGGG....RPNVVPGFAESWYFIR...GKKARDAEHVLDRLIKVAQ-------gaam..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF817:gid::pid::loc:952962:954330:strand:+:178:277    PP *997......68999******************7654...44666666666666.......5668999999999999....****************...***********99988765.......7789..
+GCA_000085225.1_ASM8522v1_genomic_ORF943:gid::pid::loc:1120235:1121462:strand:+:207:311          ...c-ENFNAANATITIHGRNVHPGsAKNKMVNAIH......IAAEISEMFPAD-----.-----ERPETTEGYEGFwhlnSIGGNVENVSMAYIIRdhcREKFENRKSIMIENIEKINKKYDN--rv....
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF943:gid::pid::loc:1120235:1121462:strand:+:207:311  PP ...8.689****************************......************...........*************888888899**********999999999999999999999998865..78....
+GCA_000085225.1_ASM8522v1_genomic_ORF3006:gid::pid::loc:3424858:3426238:strand:-:181:279         tavn-------SVKFHFKGKTAHAGsDPQNGRSALDaveltnVGANYLREHVT------.---SDVRIHYTITDGGV....APNIVPDKASVWYYTR...ALSREAVESTYERLVKVAK-------gaam..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3006:gid::pid::loc:3424858:3426238:strand:-:181:279 PP *987.......68999*****************99988666633333333333..........3599**********....****************...********99999999876.......6679..
+BGC0000368.1_ORF13:gid:griF:pid:CBA63682.1:loc:21079:22273:strand:+:186:288                      rsfa-----LGTLDVTYTGRAAHPSlNPHEGRNAAD......ALTVAQVALGLLRQ---.--QLPPEWRVHGITTAAg..tAPNAIPDRATATYEIR...ALAAEDLRELRQRVEDCFRAG-----alat..
+#=GR BGC0000368.1_ORF13:gid:griF:pid:CBA63682.1:loc:21079:22273:strand:+:186:288              PP 9866.....6678899*****************999......77666666666633......3567777777765444..4****************...****************99875.....5789..
+#=GC PP_cons                                                                                     .....6889888999**********.*******999......77777777777833333.97667999999999999....****************...999999999999888888787865........
+#=GC RF                                                                                          ....xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxx......xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxx......
+//

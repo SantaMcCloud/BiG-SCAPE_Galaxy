@@ -1,0 +1,183 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="621.2666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="611.2666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+NDP-hexose 3,4-isomerase</title>
+			<polygon class="
+NDP-hexose 3,4-isomerase" points="21,25 35,25 35,10 65,40 35,70 35,55 21,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+glycosyltransferase</title>
+			<polygon class="
+glycosyltransferase" points="66,25 78,25 78,10 108,40 78,70 78,55 66,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EryCIII-like_N (PF21036)
+"Erythromycin biosynthesis protein CIII-like, N-terminal domain"</title>
+				<rect class="PF21036" x="68" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(205,88,112)" stroke="rgb(164,70,89)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EryCIII-like_C (PF06722)
+"Erythromycin biosynthesis protein CIII-like, C-terminal domain"</title>
+				<polygon class="PF06722" points="93,29 104,40 93,51" stroke-linejoin="round" width="14" height="24" fill="rgb(48,103,191)" stroke="rgb(38,82,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+N-methyltransferase</title>
+			<polygon class="
+N-methyltransferase" points="109,10 133,40 109,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="113,28 119,28 122,31 122,49 119,52 113,52" stroke-linejoin="round" width="9" height="24" fill="rgb(224,103,106)" stroke="rgb(179,82,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+crotonyl CoA reductase</title>
+			<polygon class="
+crotonyl CoA reductase" points="136,25 151,25 151,10 181,40 151,70 151,55 136,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="146" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(217,198,105)" stroke="rgb(173,158,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="160,28 165,28 174,37 174,43 165,52 160,52" stroke-linejoin="round" width="14" height="24" fill="rgb(79,114,198)" stroke="rgb(63,91,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative regulatory protein</title>
+			<polygon class="
+putative regulatory protein" points="189,25 223,25 223,10 253,40 223,70 223,55 189,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GAF (PF01590)
+"GAF domain"</title>
+				<rect class="PF01590" x="197" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(91,61,214)" stroke="rgb(72,48,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GGDEF_2 (PF17853)
+"GGDEF-like domain"</title>
+				<polygon class="PF17853" points="228,28 236,28 239,31 239,49 236,52 228,52" stroke-linejoin="round" width="11" height="24" fill="rgb(221,82,72)" stroke="rgb(176,65,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_30 (PF13556)
+"PucR C-terminal helix-turn-helix domain"</title>
+				<polygon class="PF13556" points="245,37 248,40 245,43" stroke-linejoin="round" width="5" height="24" fill="rgb(84,158,188)" stroke="rgb(67,126,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative regulatory protein</title>
+			<polygon class="
+putative regulatory protein" points="294,25 283,25 283,10 253,40 283,70 283,55 294,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_5 (PF13546)
+"DDE superfamily endonuclease"</title>
+				<polygon class="PF13546" points="265,32 269,28 290,28 290,52 269,52 265,48" stroke-linejoin="round" width="25" height="24" fill="rgb(114,214,85)" stroke="rgb(91,171,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+NDP-hexose 4-ketoreductase</title>
+			<polygon class="
+NDP-hexose 4-ketoreductase" points="309,25 311,25 311,10 341,40 311,70 311,55 309,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="310,28 325,28 332,35 332,45 325,52 310,52" stroke-linejoin="round" width="22" height="24" fill="rgb(215,89,157)" stroke="rgb(172,71,125)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+4-keto-6-deoxy NDP-hexose 2,3-reductase</title>
+			<polygon class="
+4-keto-6-deoxy NDP-hexose 2,3-reductase" points="344,25 347,25 347,10 377,40 347,70 347,55 344,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldo_ket_red (PF00248)
+"Aldo/keto reductase family"</title>
+				<polygon class="PF00248" points="346,28 361,28 373,40 361,52 346,52" stroke-linejoin="round" width="29" height="24" fill="rgb(96,196,138)" stroke="rgb(76,156,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+NDP-hexose 3-C-methyltransferase</title>
+			<polygon class="
+NDP-hexose 3-C-methyltransferase" points="420,25 409,25 409,10 379,40 409,70 409,55 420,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_14 (PF08484)
+"C-methyltransferase C-terminal domain"</title>
+				<polygon class="PF08484" points="383,40 394,29 394,51" stroke-linejoin="round" width="15" height="24" fill="rgb(131,189,66)" stroke="rgb(104,151,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_23 (PF13489)
+"Methyltransferase domain"</title>
+				<polygon class="PF13489" points="395,28 395,28 411,28 411,52 395,52 395,52" stroke-linejoin="round" width="16" height="24" fill="rgb(62,214,70)" stroke="rgb(49,171,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_13 (PF08421)
+"Putative zinc binding domain"</title>
+				<rect class="PF08421" x="413" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(65,65,206)" stroke="rgb(52,52,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+glycosyltransferase</title>
+			<polygon class="
+glycosyltransferase" points="427,25 437,25 437,10 467,40 437,70 437,55 427,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_trans_4_4 (PF13579)
+"Glycosyl transferase 4-like domain"</title>
+				<rect class="PF13579" x="428" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(109,95,198)" stroke="rgb(87,76,158)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EryCIII-like_C (PF06722)
+"Erythromycin biosynthesis protein CIII-like, C-terminal domain"</title>
+				<polygon class="PF06722" points="453,30 463,40 453,50" stroke-linejoin="round" width="13" height="24" fill="rgb(48,103,191)" stroke="rgb(38,82,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+NDP-hexose 3,5-epimerase</title>
+			<polygon class="
+NDP-hexose 3,5-epimerase" points="469,10 489,40 469,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>dTDP_sugar_isom (PF00908)
+"dTDP-4-dehydrorhamnose 3,5-epimerase"</title>
+				<polygon class="PF00908" points="469,28 477,28 485,40 477,52 469,52" stroke-linejoin="round" width="17" height="24" fill="rgb(135,62,227)" stroke="rgb(108,49,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+transaldolase</title>
+			<polygon class="
+transaldolase" points="490,25 496,25 496,10 526,40 496,70 496,55 490,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TAL_FSA (PF00923)
+"Transaldolase/Fructose-6-phosphate aldolase"</title>
+				<polygon class="PF00923" points="493,28 510,28 522,40 510,52 493,52" stroke-linejoin="round" width="32" height="24" fill="rgb(93,197,162)" stroke="rgb(74,157,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+exporter/resistance protein</title>
+			<polygon class="
+exporter/resistance protein" points="584,25 557,25 557,10 527,40 557,70 557,55 584,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="533,38 543,28 545,28 545,52 543,52 533,42" stroke-linejoin="round" width="12" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="565" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

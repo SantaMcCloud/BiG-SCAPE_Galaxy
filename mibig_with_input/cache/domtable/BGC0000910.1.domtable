@@ -1,0 +1,15 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Tyrosinase           PF00264.24   214 BGC0000910.1_ORF1:gid:SCO2700:pid:CAB92266.1:loc:0:867:strand:- -            288   2.4e-43  149.2   1.5   1   1   1.4e-47     3e-43  148.9   1.5     2   214    30   239    29   239 0.79 Common central domain of tyrosinase
+MelC1                PF06236.15   115 BGC0000910.1_ORF2:gid:SCO2701:pid:CAB92267.1:loc:850:1420:strand:- -            189     4e-43  146.3   3.7   1   1   3.7e-47   7.7e-43  145.4   3.7     1   114    58   170    58   171 0.97 Tyrosinase co-factor MelC1
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000910.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000910.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000910.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:16:05 2024
+# [ok]

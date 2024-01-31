@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1408:gid::pid::loc:1606063:1606711:strand:-:16:209         ...ph---IVTAFKKRYFDAYYCKTRNEALQQILDLIPQNHV.......................VSWGGSETLKEMGV...........QTAVREKGFKVIDRDLAKT..................-PEERTEIMRQALLCDTFLMSSN-AISEDGQLFNIDGNGNRvAAMIFGPKNVIVVAGMNKIVKNIDDAIQRTR
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1408:gid::pid::loc:1606063:1606711:strand:-:16:209 PP ...86...67899*****************************.......................**************...........*******************...................**********************.*************************************************
+GCA_000085225.1_ASM8522v1_genomic_ORF1993:gid::pid::loc:2216796:2217435:strand:-:13:206         .....IEKTIKSLENNNMKGYLVSNKEELLKKIEEIVKVGSL.......................VGCGGSMTLFETGV...........IDFIR-EKYNFLDRYAKDI..................KPEEMKEIYRKSFSADAYFTSTN-AITEDGELYNLDGNGNRvAAMIYGPDKVIVIAGVNKIVKDVDEAIKRTK
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1993:gid::pid::loc:2216796:2217435:strand:-:13:206 PP .....799**********************************.......................**************...........99998.89***********..................***********************.*************************************************
+BGC0001138.1_ORF1:gid::pid:AET51836.1:loc:0:639:strand:-:108:208                                vaeld-------------------------------------.......................--------------...........-------------------..................-------------AAAGVVTGCAVAIAETGTIVLDAGADQGrRAITLVPDYHLCVVPAERIVASVPQALPHLD
+#=GR BGC0001138.1_ORF1:gid::pid:AET51836.1:loc:0:639:strand:-:108:208                        PP *8765.......................................................................................................................................566678******************************************************
+BGC0001138.1_ORF2:gid::pid:AET51837.1:loc:635:2066:strand:-:71:299                              .....LERLEASVTAAGGTVHWAADAAEANRIVTDLVRATGHdevvkvksmatqeiglnealgeaGITAYETDLAELIVqlgddtpshilVPAIHRNRSEIREIFRTRMaewgvpapegltddpralAEAARVHLREKFLSTKVAISGANFAVADTGTLVVLESEGNG.RMCLTLPDTLISVVGIEKVVPTWSDLEVFLQ
+#=GR BGC0001138.1_ORF2:gid::pid:AET51837.1:loc:635:2066:strand:-:71:299                      PP .....6899*******************************8899999*************************************************************************************************************************.*******************************
+#=GC PP_cons                                                                                    .....6998999****************************99.......................**************...........****9*9************..................*************99999***********************.*******************************
+#=GC RF                                                                                         .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......................xxxxxxxxxxxxxx...........xxxxxxxxxxxxxxxxxxx..................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1408:gid::pid::loc:1606063:1606711:strand:-:16:209         TiaSPAVVQRFQDvNTPCYINGscidcTSPESICAYMVTTRISR-PAKKIKVILV.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1408:gid::pid::loc:1606063:1606711:strand:-:16:209 PP **999999996543899999999************998887776.7999****98.
+GCA_000085225.1_ASM8522v1_genomic_ORF1993:gid::pid::loc:2216796:2217435:strand:-:13:206         TiaAPANCKRLST.NTGCKTTGicidcSSPGRICCSY-TLIKRQLTPERIHVIFL.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1993:gid::pid::loc:2216796:2217435:strand:-:13:206 PP *************.***********************.5559999********96.
+BGC0001138.1_ORF1:gid::pid:AET51836.1:loc:0:639:strand:-:108:208                                P..-------LR-.---PLTWI.....SGPSATSDIELDRVEGVHGPRTLEVVIV.
+#=GR BGC0001138.1_ORF1:gid::pid:AET51836.1:loc:0:639:strand:-:108:208                        PP *.........44.....688**.....**************************98.
+BGC0001138.1_ORF2:gid::pid:AET51837.1:loc:635:2066:strand:-:71:299                              L..LPRSSTG-ER.MNPYTSTW.....TGV-TPGD----------GPREFHLVL-l
+#=GR BGC0001138.1_ORF2:gid::pid:AET51837.1:loc:635:2066:strand:-:71:299                      PP *..*******.**.********.....987.4444..........666666665.6
+#=GC PP_cons                                                                                    *..*******778.999999**.....**9*8888999888998*8999999987.
+#=GC RF                                                                                         x..xxxxxxxxxx.xxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

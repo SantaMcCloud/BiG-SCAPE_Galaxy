@@ -1,0 +1,23 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_3        PF01494.23   349 BGC0000272.1_ORF1:gid::pid:AAG26878.1:loc:614:2270:strand:+ -            551   1.1e-88  298.0   0.0   1   1   1.4e-92   1.5e-88  297.6   0.0     2   301    15   323    14   324 0.98 FAD binding domain
+Rng_hyd_C            PF21274.1    107 BGC0000272.1_ORF1:gid::pid:AAG26878.1:loc:614:2270:strand:+ -            551   1.8e-16   60.5   4.7   1   1   2.6e-20   2.7e-16   60.0   2.8     4   102   431   546   428   549 0.78 Aromatic-ring hydroxylase, C-terminal
+ketoacyl-synt        PF00109.30   252 BGC0000272.1_ORF2:gid::pid:AAG26879.1:loc:4211:5480:strand:+ -            422   3.3e-53  181.1   1.4   1   1   4.7e-57   4.9e-53  180.5   0.4     2   252     3   252     2   252 0.92 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0000272.1_ORF2:gid::pid:AAG26879.1:loc:4211:5480:strand:+ -            422   1.5e-34  118.7   0.5   1   1   2.6e-38   2.7e-34  117.9   0.5    13   119   271   375   265   375 0.96 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.30   252 BGC0000272.1_ORF3:gid::pid:AAG26880.1:loc:5476:6730:strand:+ -            417   8.5e-34  117.5   1.5   1   1   8.1e-38   8.5e-34  117.5   1.5     3   249     8   247     6   250 0.90 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0000272.1_ORF3:gid::pid:AAG26880.1:loc:5476:6730:strand:+ -            417   1.6e-24   86.4   0.3   1   1   4.3e-28   4.4e-24   85.0   0.2     2   118   259   370   258   371 0.94 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.29    67 BGC0000272.1_ORF4:gid::pid:AAG26884.1:loc:6762:7017:strand:+ -             84   1.6e-07   31.7   0.0   1   1   1.1e-11   2.4e-07   31.1   0.0     3    66    10    75     8    76 0.80 Phosphopantetheine attachment site
+Polyketide_cyc       PF03364.24   126 BGC0000272.1_ORF5:gid::pid:AAG26881.1:loc:7018:7498:strand:+ -            159   1.3e-16   61.2   2.0   1   1   1.5e-20   1.6e-16   60.9   2.0     1   107    11   122    11   136 0.88 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc2      PF10604.13   143 BGC0000272.1_ORF5:gid::pid:AAG26881.1:loc:7018:7498:strand:+ -            159   4.9e-16   59.5   3.6   1   1   5.4e-20   5.6e-16   59.3   3.6     3   143     4   145     2   145 0.80 Polyketide cyclase / dehydrase and lipid transport
+Cyclase_polyket      PF04673.16   104 BGC0000272.1_ORF6:gid::pid:AAG26882.1:loc:7518:7851:strand:+ -            110   8.2e-46  154.7   0.0   1   1   4.4e-50   9.1e-46  154.6   0.0     1   104     2   105     2   105 0.99 Polyketide synthesis cyclase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000272.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000272.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000272.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:44:51 2024
+# [ok]

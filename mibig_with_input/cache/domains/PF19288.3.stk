@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+BGC0000453.1_ORF8:gid::pid:ABA59539.1:loc:8508:11103:strand:+:719:844                  tg--GFTEFVTLPFIH......TNAPVYLAGIARPGPTDRDNHAVTAMARLLLhPHITNIQTSWVKLGTEGAAEMLRSGANDLGGTLMEETISRMA...GSSYG-SYRSIQdlKAIAELAGRPsRPRTTLY---------gevpaer
+#=GR BGC0000453.1_ORF8:gid::pid:ABA59539.1:loc:8508:11103:strand:+:719:844          PP 86..788888888888......888777666677777888888999*****99458****************************************...*9885.56677733578774444414555555.........6778899
+BGC0001359.1_ORF45:gid:gonM2:pid:CUW01201.1:loc:160389:161613:strand:+:251:370         .s-HGFRAFIPYTYQP......ENNHLKG----QTQATVFEYLRMLAIARIFL.DNVPHIQGSWLTTGKEAGQLSLHYGADDLGSVMLEENVVSSA...GAKHRSDRMELL..QLIRSADRVP.AQRDTTYHHL------vvhdd..
+#=GR BGC0001359.1_ORF45:gid:gonM2:pid:CUW01201.1:loc:160389:161613:strand:+:251:370 PP .5.8************......**99988....7788999*************.******************************************...************..**********.******9865......67889..
+BGC0001359.1_ORF47:gid:gonM3:pid:CUW01203.1:loc:162231:163395:strand:-:241:374         tg--GFQVFIPLRYQHdfvdmqDGKVRNKLQARTTMATGAEALKTFAVSRLLF.DNVPHVKVFWVMHGVSTAQLALNHGADDMDGSVVEYKITHDAddfGTPDKLTREDIL..DLIRDAGFRP.VERNTRYET-------ireypgp
+#=GR BGC0001359.1_ORF47:gid:gonM3:pid:CUW01203.1:loc:162231:163395:strand:-:241:374 PP 86..899999988764121122577788999999999****************.*****************************99999*999887666699**********..**********.*******96.......3456689
+#=GC PP_cons                                                                           ...8899999999887......888888877887888999999**********.89************************************9999...*9998*899999..8999988888.8888888865.............
+#=GC RF                                                                                ..xxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxx..xxxxxxxxxx.xxxxxxxxxxxxxxxx.......
+//

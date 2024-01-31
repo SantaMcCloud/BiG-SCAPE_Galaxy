@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0001277.1_ORF4:gid:OrfC:pid:AAO34674.1:loc:10154:11114:strand:-:27:301         gfsmganradg--------------VCKWEADWKK-DFQAIKSWNKGFNAVRLYSASDCNTLVKAV--PAAKATGMKILVGIWSTDDAHFGRDK--AALLKAIKQHGTGWIAAISVGSEDLYRKDISPQKLAQQIYDVRGMVHQYNK--------ALKVGH---TDTWTAWVDGTNDVVTKACD--IAITNG-----FPY
+#=GR BGC0001277.1_ORF4:gid:OrfC:pid:AAO34674.1:loc:10154:11114:strand:-:27:301 PP 98776655555..............4555555555.56667777777889999*********9988..9*******************998888..999999999999999****************************99976544........457777...899*****************..888888.....99*
+BGC0001278.1_ORF4:gid:OrfC:pid:AAO27749.1:loc:8299:9260:strand:-:27:301           gfsiganradg--------------ACKWEADWKK-DFQAIKSWNKGFNAVRLYSASDCNTLVKAV--PAAKATGMKILVGVWATDDAHFGRDK--AALLKAIKQHGTGWIAAISVGSEDLYREDISPQKLAQQIYDVRGMVHQYNKNL--------KVGH---TDTWTAWVDGRNDVVTKACD--IAITNG-----FPY
+#=GR BGC0001278.1_ORF4:gid:OrfC:pid:AAO27749.1:loc:8299:9260:strand:-:27:301   PP 88877665555..............5555566665.6677777888889999**********9988..9*******************998888..999999999999999******************************98876665........7777...899*****************..888888.....999
+#=GC PP_cons                                                                      .........................5555555555.6667777777889999**********9988..9*******************998888..999999999999999*****************************998765565......457777...899*****************..888888.....99*
+#=GC RF                                                                           ...........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0001277.1_ORF4:gid:OrfC:pid:AAO34674.1:loc:10154:11114:strand:-:27:301         WQGVPIKDalrLKTFQNSYWNVKKHVQAVNSKA-----TVWVGETGWPTKGP---NYQKAAATTASLQQYYNnVGCWLWQQKDASGFWFTAFDTPAQTTE-VEKYFGVANQDRKLKFSLTC
+#=GR BGC0001277.1_ORF4:gid:OrfC:pid:AAO34674.1:loc:10154:11114:strand:-:27:301 PP **9988874444566777777777777777664.....89************...89999999999999998567777889999**********999998.*****************987
+BGC0001278.1_ORF4:gid:OrfC:pid:AAO27749.1:loc:8299:9260:strand:-:27:301           WQGVPIKDalrLKTFQNSYWNVKKHVNAVNSK-----AAVWVGETGWPTKGP---NYQKAAATTASLQQFYNnVGCWLWQQKDASGFWFTAFDTPAHSTE-VEKYFGIANQDRKLKFGLTC
+#=GR BGC0001278.1_ORF4:gid:OrfC:pid:AAO27749.1:loc:8299:9260:strand:-:27:301   PP **999886333334444455555555555444.....579************...8**************99667778889999************9999.***************99876
+#=GC PP_cons                                                                      **999886...4455666666666666665554....589************...8999*999999*99999.67778889999**********999999.****************9977
+#=GC RF                                                                           xxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

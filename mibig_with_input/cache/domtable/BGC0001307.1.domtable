@@ -1,0 +1,18 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GtrA                 PF04138.18   116 BGC0001307.1_ORF1:gid::pid:ALT06551.1:loc:0:399:strand:+ -            132   6.2e-21   75.0  12.9   1   1   3.3e-25     7e-21   74.8  12.9     2   116     1   121     1   121 0.99 GtrA-like protein
+Asn_synthase         PF00733.25   354 BGC0001307.1_ORF3:gid:cptC:pid:ALT06553.1:loc:771:2586:strand:+ -            604   2.2e-39  136.3   1.4   1   1   1.3e-43   2.7e-39  136.0   1.4     2   354   209   593   208   593 0.82 Asparagine synthase
+PqqD                 PF05402.16    67 BGC0001307.1_ORF4:gid:cptB1:pid:ALT06554.1:loc:2569:2827:strand:+ -             85   9.5e-17   61.3   0.1   1   1   5.3e-21   1.1e-16   61.1   0.1     2    67    16    81    15    81 0.95 Coenzyme PQQ synthesis protein D (PqqD)
+Transglut_core3      PF13471.10   117 BGC0001307.1_ORF5:gid:cptB2:pid:ALT06555.1:loc:2823:3240:strand:+ -            138   1.5e-29  102.5   5.0   1   1   8.6e-34   1.8e-29  102.2   5.0     2   117    22   133    21   133 0.97 Transglutaminase-like superfamily
+Inhibitor_I36        PF03995.17    69 BGC0001307.1_ORF6:gid::pid:ALT06556.1:loc:3447:3831:strand:- -            127   3.6e-18   65.5   0.8   1   1   1.9e-21     4e-17   62.1   0.1     1    69    26    97    26    97 0.95 Peptidase inhibitor family I36
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001307.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001307.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001307.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:50:21 2024
+# [ok]

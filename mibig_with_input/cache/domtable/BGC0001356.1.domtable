@@ -1,0 +1,22 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Asn_synthase         PF00733.25   354 BGC0001356.1_ORF1:gid::pid:EHQ60560.1:loc:0:1950:strand:+ -            649   1.8e-26   93.8   0.0   1   2   2.2e-19   1.5e-15   57.9   0.0     2   128   245   385   244   428 0.82 Asparagine synthase
+Asn_synthase         PF00733.25   354 BGC0001356.1_ORF1:gid::pid:EHQ60560.1:loc:0:1950:strand:+ -            649   1.8e-26   93.8   0.0   2   2   4.8e-12   3.3e-08   33.7   0.1   238   333   518   616   500   632 0.74 Asparagine synthase
+GATase_7             PF13537.10   123 BGC0001356.1_ORF1:gid::pid:EHQ60560.1:loc:0:1950:strand:+ -            649   6.9e-19   68.2   0.0   1   1   1.8e-22   1.2e-18   67.4   0.0    17   122    64   166    53   167 0.92 Glutamine amidotransferase domain
+GATase_6             PF13522.10   130 BGC0001356.1_ORF1:gid::pid:EHQ60560.1:loc:0:1950:strand:+ -            649   1.5e-14   54.3   0.0   1   1   4.6e-18   3.2e-14   53.3   0.0    31   127    62   158    40   160 0.91 Glutamine amidotransferase domain
+PqqD                 PF05402.16    67 BGC0001356.1_ORF3:gid::pid:EHQ60562.1:loc:3123:3423:strand:+ -             99   4.2e-15   56.0   0.1   1   1   2.8e-19   5.8e-15   55.6   0.1     1    67    27    93    27    93 0.97 Coenzyme PQQ synthesis protein D (PqqD)
+Transglut_core3      PF13471.10   117 BGC0001356.1_ORF4:gid::pid:EHQ60563.1:loc:3452:3881:strand:+ -            142   2.2e-19   69.7   0.0   1   1   1.3e-23   2.7e-19   69.4   0.0    10   115    27   131    18   133 0.88 Transglutaminase-like superfamily
+ABC_tran             PF00005.31   137 BGC0001356.1_ORF5:gid::pid:EHQ60564.1:loc:3877:5701:strand:+ -            607   2.3e-32  112.7   0.0   1   1   1.1e-35   4.6e-32  111.7   0.0     1   137   377   526   377   526 0.89 ABC transporter
+ABC_membrane         PF00664.27   274 BGC0001356.1_ORF5:gid::pid:EHQ60564.1:loc:3877:5701:strand:+ -            607   1.6e-15   57.7  13.9   1   1   7.7e-19   3.2e-15   56.7  13.9    38   250    73   284    19   301 0.85 ABC transporter transmembrane region
+AAA_29               PF13555.10    61 BGC0001356.1_ORF5:gid::pid:EHQ60564.1:loc:3877:5701:strand:+ -            607   1.9e-07   30.9   0.1   1   1   1.1e-10   4.5e-07   29.7   0.1    16    50   381   415   375   419 0.88 P-loop containing region of AAA domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001356.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001356.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001356.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:16:13 2024
+# [ok]

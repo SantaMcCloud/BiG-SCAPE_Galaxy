@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000144.1_ORF43:gid::pid:AEZ53975.1:loc:119020:120190:strand:-:46:386             p-LYLGTYTSsGGAQGIGIAAFDPATGAITGKGSLAGVSDPSFLAS..--APGHLYAVNE--QQGSVTAIAVRD--GELSVLGS.SPTGGEGPCHLLVHGEGGHVLSANYTSGSVSVHPLAADGSLREASDLVQHTGSGPDPDRQEGPHAHMVLGTPSGRFVLAVDLGTDSVYTYRLDTGTGKLEAVVQNRVTPGLGPRH
+#=GR BGC0000144.1_ORF43:gid::pid:AEZ53975.1:loc:119020:120190:strand:-:46:386     PP 8.79*****98999********************************....999*******..6*********97..8*******.*******************************************************************************************************************
+BGC0000952.1_ORF34:gid:c104_19:pid:CBW45669.1:loc:61439:62486:strand:+:8:347         r-AFIGCFTT.NGGRGIVRAAVDPRTGALTAEGTVETVPDPSYLAVghRGSGPVLYCVSET-AHGAVAGFDVSGP--VPRPLGEpVATGAADPTHLAVCHD--HLVTADYGSGSVTVLPLAADGSPLAPSSVLRHEGSGPDRERQSAPHAHQVVQDPSGGWVLSVDLGTDSVRVCSLDPGTGQLALHSVMDLPPGTGPRH
+#=GR BGC0000952.1_ORF34:gid:c104_19:pid:CBW45669.1:loc:61439:62486:strand:+:8:347 PP 7.68******.***********************************5445678*******9.***********97..55666651556999*******555..9************************************************************************************************
+#=GC PP_cons                                                                         ..79******.99*********************************..45789*******9.8**********87.87888888.88899********887***************************************************************************************************
+#=GC RF                                                                              .xxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000144.1_ORF43:gid::pid:AEZ53975.1:loc:119020:120190:strand:-:46:386             AAFHPGGSHLYVANELGDSLSVCSYDDASGEITVLDSLPTVPSgDpAGERNYPAEVLLSPDGAYVYVSNRGHDSIARFAVGGGGGELTLLDTVPAQGSYPRHISLDPTGRWLFAANQKSGSVGVFARDEATGTLKAVGTPFAAPTPVCVL-p
+#=GR BGC0000144.1_ORF43:gid::pid:AEZ53975.1:loc:119020:120190:strand:-:46:386     PP *******************************************64466669**************************************************************************************************7.7
+BGC0000952.1_ORF34:gid:c104_19:pid:CBW45669.1:loc:61439:62486:strand:+:8:347         LVFHPRGSHAYVLGELRPTVTVCRWDAASGVLLPVGEFPLFPD.G.AGVAVQPSAPVVSRDGRHLWAAVRGTDTIEVLSLDETGEVARVVTSVPCGGHWPRDLVLHPSGAHLYAANERSGDVTWFDVD-ATGVPRRAGS-LAVPAASSVAF.
+#=GR BGC0000952.1_ORF34:gid:c104_19:pid:CBW45669.1:loc:61439:62486:strand:+:8:347 PP *******************************************.*.*********************************************************************************8.7999999886.89998888876.
+#=GC PP_cons                                                                         *******************************************.7.88889****************************************************************************9*9999999998*99999999976.
+#=GC RF                                                                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,18 @@
+#                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.32   382 BGC0001263.1_ORF2:gid:ps3:pid:CAI59267.1:loc:1649:6551:strand:+ -           1633   4.8e-56  190.4   0.0   1   1   1.7e-59   7.1e-56  189.8   0.0     1   381    80   421    80   422 0.86 AMP-binding enzyme
+NAD_binding_4        PF07993.16   258 BGC0001263.1_ORF2:gid:ps3:pid:CAI59267.1:loc:1649:6551:strand:+ -           1633   3.8e-46  157.5   0.0   1   1   1.4e-49   5.7e-46  156.9   0.0     1   241  1256  1481  1256  1496 0.91 Male sterility protein
+Condensation         PF00668.24   456 BGC0001263.1_ORF2:gid:ps3:pid:CAI59267.1:loc:1649:6551:strand:+ -           1633   1.7e-15   56.8   0.0   1   1   5.3e-15   2.2e-11   43.3   0.0   117   436   836  1125   830  1140 0.76 Condensation domain
+Epimerase            PF01370.25   240 BGC0001263.1_ORF2:gid:ps3:pid:CAI59267.1:loc:1649:6551:strand:+ -           1633     4e-12   46.2   0.0   1   1   2.1e-15   8.8e-12   45.1   0.0     1   158  1254  1430  1254  1500 0.83 NAD dependent epimerase/dehydratase family
+PP-binding           PF00550.29    67 BGC0001263.1_ORF2:gid:ps3:pid:CAI59267.1:loc:1649:6551:strand:+ -           1633   8.2e-09   35.8   0.0   1   1   6.5e-12   2.7e-08   34.1   0.0     2    65   625   688   624   689 0.95 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001263.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001263.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001263.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:44:31 2024
+# [ok]

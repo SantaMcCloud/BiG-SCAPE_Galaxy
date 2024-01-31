@@ -1,0 +1,371 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1213.5" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1203.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+YtkA</title>
+			<polygon class="
+YtkA" points="83,25 40,25 40,10 10,40 40,70 40,55 83,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MoCoBD_2 (PF20256)
+"Molybdopterin cofactor-binding domain"</title>
+				<polygon class="PF20256" points="15,39 26,28 42,28 42,52 26,52 15,41" stroke-linejoin="round" width="27" height="24" fill="rgb(197,58,50)" stroke="rgb(157,46,40)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MoCoBD_1 (PF02738)
+"Molybdopterin cofactor-binding domain"</title>
+				<rect class="PF02738" x="45" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(102,216,188)" stroke="rgb(81,172,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ald_Xan_dh_C (PF01315)
+"Aldehyde oxidase and xanthine dehydrogenase, a/b hammerhead domain"</title>
+				<rect class="PF01315" x="70" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(184,58,54)" stroke="rgb(147,46,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkB</title>
+			<polygon class="
+YtkB" points="116,25 113,25 113,10 83,40 113,70 113,55 116,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CO_deh_flav_C (PF03450)
+"CO dehydrogenase flavoprotein C-terminal domain"</title>
+				<polygon class="PF03450" points="87,40 92,35 92,45" stroke-linejoin="round" width="9" height="24" fill="rgb(115,210,95)" stroke="rgb(92,168,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_5 (PF00941)
+"FAD binding domain in molybdopterin dehydrogenase"</title>
+				<polygon class="PF00941" points="94,33 99,28 115,28 115,52 99,52 94,47" stroke-linejoin="round" width="21" height="24" fill="rgb(187,177,87)" stroke="rgb(149,141,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkC</title>
+			<polygon class="
+YtkC" points="116,40 133,10 133,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fer2_2 (PF01799)
+"[2Fe-2S] binding domain"</title>
+				<polygon class="PF01799" points="119,40 124,31 124,49" stroke-linejoin="round" width="7" height="24" fill="rgb(57,216,130)" stroke="rgb(45,172,104)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Fer2 (PF00111)
+"2Fe-2S iron-sulfur cluster binding domain"</title>
+				<polygon class="PF00111" points="124,31 126,28 130,28 130,52 126,52 124,49" stroke-linejoin="round" width="6" height="24" fill="rgb(149,66,181)" stroke="rgb(119,52,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkD</title>
+			<polygon class="
+YtkD" points="140,40 159,10 159,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_9 (PF13527)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13527" points="145,38 152,28 157,28 157,52 152,52 145,42" stroke-linejoin="round" width="12" height="24" fill="rgb(152,227,107)" stroke="rgb(121,181,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkE</title>
+			<polygon class="
+YtkE" points="196,25 195,25 195,10 165,40 195,70 195,55 196,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+YtkF</title>
+			<polygon class="
+YtkF" points="208,25 240,25 240,10 270,40 240,70 240,55 208,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_transf_3 (PF02515)
+"CoA-transferase family III"</title>
+				<rect class="PF02515" x="216" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(194,75,118)" stroke="rgb(155,60,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CoA_transf_3 (PF02515)
+"CoA-transferase family III"</title>
+				<polygon class="PF02515" points="240,28 253,28 262,37 262,43 253,52 240,52" stroke-linejoin="round" width="22" height="24" fill="rgb(194,75,118)" stroke="rgb(155,60,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkR1</title>
+			<polygon class="
+YtkR1" points="273,10 294,40 273,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+YtkG</title>
+			<polygon class="
+YtkG" points="346,25 322,25 322,10 292,40 322,70 322,55 346,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="296,40 300,36 300,44" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="306,30 308,28 342,28 342,52 308,52 306,50" stroke-linejoin="round" width="36" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkR2</title>
+			<polygon class="
+YtkR2" points="348,40 373,10 373,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DNA_alkylation (PF08713)
+"DNA alkylation repair enzyme"</title>
+				<polygon class="PF08713" points="352,40 362,28 371,28 371,52 362,52" stroke-linejoin="round" width="21" height="24" fill="rgb(227,96,165)" stroke="rgb(181,76,131)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkH</title>
+			<polygon class="
+YtkH" points="374,40 393,10 393,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FMN_red (PF03358)
+"NADPH-dependent FMN reductase"</title>
+				<polygon class="PF03358" points="378,40 386,28 392,28 392,52 386,52 378,40" stroke-linejoin="round" width="14" height="24" fill="rgb(161,216,66)" stroke="rgb(128,172,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkI</title>
+			<polygon class="
+YtkI" points="394,40 401,10 401,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fer4_13 (PF13370)
+"4Fe-4S single cluster domain of Ferredoxin I"</title>
+				<polygon class="PF13370" points="397,40 399,32 399,48" stroke-linejoin="round" width="5" height="24" fill="rgb(72,194,54)" stroke="rgb(57,155,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkR3</title>
+			<polygon class="
+YtkR3" points="401,40 422,10 422,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+YtkR4</title>
+			<polygon class="
+YtkR4" points="423,40 452,10 452,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+YtkR5</title>
+			<polygon class="
+YtkR5" points="452,40 479,10 479,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AP_endonuc_2 (PF01261)
+"Xylose isomerase-like TIM barrel"</title>
+				<polygon class="PF01261" points="456,40 467,28 477,28 477,52 467,52" stroke-linejoin="round" width="25" height="24" fill="rgb(208,156,85)" stroke="rgb(166,124,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkJ</title>
+			<polygon class="
+YtkJ" points="529,25 513,25 513,10 483,40 513,70 513,55 529,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PALP (PF00291)
+"Pyridoxal-phosphate dependent enzyme"</title>
+				<polygon class="PF00291" points="487,40 499,28 517,28 517,52 499,52" stroke-linejoin="round" width="33" height="24" fill="rgb(73,227,169)" stroke="rgb(58,181,135)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkK</title>
+			<polygon class="
+YtkK" points="538,25 577,25 577,10 607,40 577,70 577,55 538,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Molybdop_Fe4S4 (PF04879)
+"Molybdopterin oxidoreductase Fe4S4 domain"</title>
+				<rect class="PF04879" x="538" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(193,125,85)" stroke="rgb(154,100,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Molybdopterin (PF00384)
+"Molybdopterin oxidoreductase"</title>
+				<rect class="PF00384" x="543" y="28" stroke-linejoin="round" width="41" height="24" fill="rgb(209,83,222)" stroke="rgb(167,66,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Molydop_binding (PF01568)
+"Molydopterin dinucleotide binding domain"</title>
+				<polygon class="PF01568" points="593,30 603,40 593,50" stroke-linejoin="round" width="11" height="24" fill="rgb(124,199,64)" stroke="rgb(99,159,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkL</title>
+			<polygon class="
+YtkL" points="609,25 621,25 621,10 651,40 621,70 621,55 609,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyridoxal_deC (PF00282)
+"Pyridoxal-dependent decarboxylase conserved domain"</title>
+				<polygon class="PF00282" points="617,28 635,28 644,37 644,43 635,52 617,52" stroke-linejoin="round" width="27" height="24" fill="rgb(63,107,182)" stroke="rgb(50,85,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkM</title>
+			<polygon class="
+YtkM" points="652,25 659,25 659,10 689,40 659,70 659,55 652,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="654" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(217,198,105)" stroke="rgb(173,158,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="669,28 673,28 682,37 682,43 673,52 669,52" stroke-linejoin="round" width="13" height="24" fill="rgb(79,114,198)" stroke="rgb(63,91,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkN</title>
+			<polygon class="
+YtkN" points="689,25 699,25 699,10 729,40 699,70 699,55 689,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+YtkO</title>
+			<polygon class="
+YtkO" points="730,25 731,25 731,10 761,40 731,70 731,55 730,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>F420_oxidored (PF03807)
+"NADP oxidoreductase coenzyme F420-dependent"</title>
+				<rect class="PF03807" x="736" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(209,134,62)" stroke="rgb(167,107,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkP</title>
+			<polygon class="
+YtkP" points="764,25 770,25 770,10 800,40 770,70 770,55 764,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DHQ_synthase (PF01761)
+"3-dehydroquinate synthase"</title>
+				<polygon class="PF01761" points="771,28 784,28 796,40 796,40 784,52 771,52" stroke-linejoin="round" width="25" height="24" fill="rgb(71,149,225)" stroke="rgb(56,119,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkQ</title>
+			<polygon class="
+YtkQ" points="801,25 817,25 817,10 847,40 817,70 817,55 801,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="813,28 830,28 833,31 833,49 830,52 813,52" stroke-linejoin="round" width="20" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkS</title>
+			<polygon class="
+YtkS" points="847,25 856,25 856,10 886,40 856,70 856,55 847,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BtrH_N (PF14399)
+"Butirosin biosynthesis protein H, N-terminal"</title>
+				<rect class="PF14399" x="849" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(197,87,89)" stroke="rgb(157,69,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4872 (PF16169)
+"Domain of unknown function (DUF4872)"</title>
+				<polygon class="PF16169" points="863,28 869,28 880,39 880,41 869,52 863,52" stroke-linejoin="round" width="17" height="24" fill="rgb(105,217,195)" stroke="rgb(84,173,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkT</title>
+			<polygon class="
+YtkT" points="888,25 908,25 908,10 938,40 908,70 908,55 888,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="894" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(223,193,78)" stroke="rgb(178,154,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkU</title>
+			<polygon class="
+YtkU" points="939,10 963,40 939,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="945,28 950,28 955,34 955,46 950,52 945,52" stroke-linejoin="round" width="10" height="24" fill="rgb(201,85,64)" stroke="rgb(160,68,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkV</title>
+			<polygon class="
+YtkV" points="967,25 968,25 968,10 998,40 968,70 968,55 967,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CN_hydrolase (PF00795)
+"Carbon-nitrogen hydrolase"</title>
+				<polygon class="PF00795" points="967,28 982,28 992,38 992,42 982,52 967,52" stroke-linejoin="round" width="25" height="24" fill="rgb(51,122,182)" stroke="rgb(40,97,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkW</title>
+			<polygon class="
+YtkW" points="999,10 1020,40 999,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="1003,28 1008,28 1012,34 1012,46 1008,52 1003,52" stroke-linejoin="round" width="9" height="24" fill="rgb(224,103,106)" stroke="rgb(179,82,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkR6</title>
+			<polygon class="
+YtkR6" points="1020,25 1068,25 1068,10 1098,40 1068,70 1068,55 1020,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<rect class="PF07690" x="1021" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(228,207,98)" stroke="rgb(182,165,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkR7</title>
+			<polygon class="
+YtkR7" points="1104,10 1124,40 1104,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GyrI-like (PF06445)
+"GyrI-like small molecule binding domain"</title>
+				<polygon class="PF06445" points="1106,28 1112,28 1120,40 1112,52 1106,52" stroke-linejoin="round" width="17" height="24" fill="rgb(86,114,203)" stroke="rgb(68,91,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkR8</title>
+			<polygon class="
+YtkR8" points="1153,25 1153,25 1153,10 1123,40 1153,70 1153,55 1153,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<rect class="PF12833" x="1140" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(96,195,114)" stroke="rgb(76,156,91)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+YtkX</title>
+			<polygon class="
+YtkX" points="1166,25 1172,25 1172,10 1202,40 1172,70 1172,55 1166,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_3 (PF07859)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF07859" points="1179,28 1186,28 1198,40 1186,52 1179,52" stroke-linejoin="round" width="20" height="24" fill="rgb(216,68,121)" stroke="rgb(172,54,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

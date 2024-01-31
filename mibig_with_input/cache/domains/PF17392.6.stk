@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000997.1_ORF1:gid:hutU:pid:CAL80814.1:loc:236:1925:strand:+:351:546                ...PLFCEGKGPFRWVALSGDPDDIYKTDAKVKALF...........PDNPHLHRWLDQARERIAFQGLPARICWLGLGERHRAALAFNEMVRRGELKAPIVIGRDHLDCGSVASPNRETEAMRDGSDAVSDWPLLNALTATASGATWVSLHHGGGVGMGYSQHAGVVIVCDGTPEADRRLERVLWNDPALGVVRHADAG
+#=GR BGC0000997.1_ORF1:gid:hutU:pid:CAL80814.1:loc:236:1925:strand:+:351:546        PP ...89*******************************...........*********************************************************************************************************************************************************
+GCF_008000775.1_ORF10:gid::pid:WP_147661165.1:loc:10249:12280:strand:-:438:644         pic--FDYGYGPFRWVCLSRKDEDLDKTDIAARDIIkeiwesrpikrGQDRDNYIWMRDAKENKMVVGTKARILYADGEGRVKIALKFNEMVRDNEI-GPVMLGRDHHDVSGTDSPFRETSNIKDGSNIMADMAHQSWAGNAARGMTMVVLQNGGGVGTGKVINGGFGLVLDGSERVDNIIKLALDWDVYCGIARRAWAR
+#=GR GCF_008000775.1_ORF10:gid::pid:WP_147661165.1:loc:10249:12280:strand:-:438:644 PP 764..9****************************************99*************************************************.******************************************************************************************************
+#=GC PP_cons                                                                           ...89*******************************...........*********************************************************************************************************************************************************
+#=GC RF                                                                                ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000997.1_ORF1:gid:hutU:pid:CAL80814.1:loc:236:1925:strand:+:351:546                YELAETTAR-a
+#=GR BGC0000997.1_ORF1:gid:hutU:pid:CAL80814.1:loc:236:1925:strand:+:351:546        PP ****99875.7
+GCF_008000775.1_ORF10:gid::pid:WP_147661165.1:loc:10249:12280:strand:-:438:644         NPHAIETAK-t
+#=GR GCF_008000775.1_ORF10:gid::pid:WP_147661165.1:loc:10249:12280:strand:-:438:644 PP *****9987.7
+#=GC PP_cons                                                                           ****99886..
+#=GC RF                                                                                xxxxxxxxxx.
+//

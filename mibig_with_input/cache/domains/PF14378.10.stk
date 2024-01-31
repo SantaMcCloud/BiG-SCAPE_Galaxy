@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000722.1_ORF24:gid::pid:ABA41520.1:loc:39291:40647:strand:+:174:368         ..............qyvat-----ADQALGN-PSWVVGRILQATDPiGTHLL..GLVYAQLAVAAVVVALYQLR..nVGVEGRFPrhHLVRTFLVIGLLGPGIYMLFPVVGPVFAygpgaS-----GTGGVQWAVANLWPHTPPAVTAPHPMTYDGITprncMPSLHTAWATAIFIH---TRKGPrILRYAGTFWLIATL
+#=GR BGC0000722.1_ORF24:gid::pid:ABA41520.1:loc:39291:40647:strand:+:174:368 PP ..............87655.....5666664.4444444666665526799*..*****999999999888887..7777888752279***********************999655443.....443333333323334555555555555444445666*********998888...5544449*************
+BGC0000434.1_ORF5:gid::pid:BAI63270.1:loc:10430:11810:strand:-:181:376          qyvatadhalgnpswlvgr--------------------IVKATDP.ISTFVldDLVYGELAVAAVVVALYQLRnvaVERRFPSH..HLLRTFLVIGLVGPAIYMIFPVVGPIFAygpgtSGTGGVQWAA-ADLWP----HTPPPISIPHPMPYDGITprncMPSLHTAWATAIFIH--SRKGPR.ILRYAGTFWLIATL
+#=GR BGC0000434.1_ORF5:gid::pid:BAI63270.1:loc:10430:11810:strand:-:181:376  PP 9877665555544444444....................5555555.44333236788888777777776665441144555556..89***********************999877665555555433.34444....3444444444444444444555*********998887..666667.9*************
+#=GC PP_cons                                                                    ........................5666664.44444445655555.56666..89999888888888877766...66666666..79***********************999.....45555544333333332333444455555544444444....*********998888..655555.9*************
+#=GC RF                                                                         ...................xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx..xxxxxxxxxxxxxxxxxxxx...xxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx
+
+BGC0000722.1_ORF24:gid::pid:ABA41520.1:loc:39291:40647:strand:+:174:368         GATLGFGYHYGTDLIAGVVFALTI---eva
+#=GR BGC0000722.1_ORF24:gid::pid:ABA41520.1:loc:39291:40647:strand:+:174:368 PP ********************9975...788
+BGC0000434.1_ORF5:gid::pid:BAI63270.1:loc:10430:11810:strand:-:181:376          SATLGFGYHYGVDLIAGVVFTLTI---eaa
+#=GR BGC0000434.1_ORF5:gid::pid:BAI63270.1:loc:10430:11810:strand:-:181:376  PP *******************99875...778
+#=GC PP_cons                                                                    ********************9875......
+#=GC RF                                                                         xxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

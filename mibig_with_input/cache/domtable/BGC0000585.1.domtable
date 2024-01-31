@@ -1,0 +1,24 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ThiF                 PF00899.25   219 BGC0000585.1_ORF2:gid:mccB:pid:CAA40809.1:loc:300:1353:strand:+ -            350   1.3e-41  142.4   0.1   1   1   7.8e-46   1.6e-41  142.1   0.1    14   210   106   337    92   345 0.83 ThiF family
+MFS_1                PF07690.20   347 BGC0000585.1_ORF3:gid:mccC:pid:CAA40810.1:loc:1349:2564:strand:+ -            404   5.3e-12   45.5  23.9   1   1   2.6e-16   5.3e-12   45.5  23.9    11   336    16   350     7   358 0.71 Major Facilitator Superfamily
+Methyltransf_11      PF08241.16    95 BGC0000585.1_ORF4:gid:mccD:pid:CAA40811.1:loc:2560:3364:strand:+ -            267   4.3e-15   56.3   0.0   1   1   1.5e-18   7.7e-15   55.5   0.0     1    94    55   152    55   153 0.95 Methyltransferase domain
+Methyltransf_25      PF13649.10    97 BGC0000585.1_ORF4:gid:mccD:pid:CAA40811.1:loc:2560:3364:strand:+ -            267   2.1e-13   51.0   0.0   1   1   7.3e-17   3.8e-13   50.1   0.0     2    97    55   149    54   149 0.91 Methyltransferase domain
+Methyltransf_31      PF13847.10   150 BGC0000585.1_ORF4:gid:mccD:pid:CAA40811.1:loc:2560:3364:strand:+ -            267   1.6e-13   50.8   0.7   1   1   6.5e-17   3.4e-13   49.8   0.7     1   114    48   162    48   224 0.87 Methyltransferase domain
+Ubie_methyltran      PF01209.22   233 BGC0000585.1_ORF4:gid:mccD:pid:CAA40811.1:loc:2560:3364:strand:+ -            267     5e-08   32.8   0.0   1   1   1.4e-11   7.1e-08   32.3   0.0    42   154    45   156    38   177 0.84 ubiE/COQ5 methyltransferase family
+Orn_Arg_deC_N        PF02784.20   247 BGC0000585.1_ORF6:gid:mccE:pid:CAA40813.1:loc:3551:5117:strand:+ -            521   9.9e-16   58.0   0.0   1   1     2e-19   1.4e-15   57.6   0.0    32   246     1   208     1   209 0.83 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+Acetyltransf_1       PF00583.29   116 BGC0000585.1_ORF6:gid:mccE:pid:CAA40813.1:loc:3551:5117:strand:+ -            521   3.9e-13   49.9   0.0   1   1   1.1e-16   7.7e-13   48.9   0.0     5   116   381   494   377   494 0.82 Acetyltransferase (GNAT) family
+Acetyltransf_3       PF13302.11   138 BGC0000585.1_ORF6:gid:mccE:pid:CAA40813.1:loc:3551:5117:strand:+ -            521   1.8e-12   48.3   0.0   1   1   4.6e-16   3.2e-12   47.5   0.0    28   138   383   495   355   495 0.81 Acetyltransferase (GNAT) domain
+Peptidase_S66        PF02016.19   121 BGC0000585.1_ORF7:gid:mccF:pid:CAA40814.1:loc:5172:6207:strand:- -            344   1.2e-32  112.8   0.0   1   1   1.8e-36   1.9e-32  112.2   0.0     1   121    19   138    19   138 0.93 LD-carboxypeptidase N-terminal domain
+Peptidase_S66C       PF17676.5    120 BGC0000585.1_ORF7:gid:mccF:pid:CAA40814.1:loc:5172:6207:strand:- -            344   6.1e-27   94.8   0.0   1   1   1.2e-30   1.3e-26   93.8   0.0     1   119   211   325   211   326 0.89 LD-carboxypeptidase C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000585.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000585.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000585.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:51:43 2024
+# [ok]

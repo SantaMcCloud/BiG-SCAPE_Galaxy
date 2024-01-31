@@ -1,0 +1,101 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="500.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="490.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (MICCA_2630002)
+conserved hypothetical protein</title>
+			<polygon class=" (MICCA_2630002)
+conserved hypothetical protein" points="183,25 83,25 83,10 53,40 83,70 83,55 183,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PatG_C (PF18065)
+"PatG C-terminal"</title>
+				<polygon class="PF18065" points="57,40 65,32 65,48" stroke-linejoin="round" width="11" height="24" fill="rgb(123,196,84)" stroke="rgb(98,156,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PatG_D (PF18047)
+"PatG Domain"</title>
+				<polygon class="PF18047" points="69,28 69,28 80,28 80,52 69,52 69,52" stroke-linejoin="round" width="11" height="24" fill="rgb(218,110,91)" stroke="rgb(174,88,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<rect class="PF00082" x="89" y="28" stroke-linejoin="round" width="30" height="24" fill="rgb(179,95,73)" stroke="rgb(143,76,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Nitroreductase (PF00881)
+"Nitroreductase family"</title>
+				<rect class="PF00881" x="136" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(106,62,184)" stroke="rgb(84,49,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tenF (MICCA_2630003)
+TenF</title>
+			<polygon class="tenF (MICCA_2630003)
+TenF" points="220,25 218,25 218,10 188,40 218,70 218,55 220,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5838 (PF19156)
+"Family of unknown function (DUF5838)"</title>
+				<polygon class="PF19156" points="192,40 204,28 218,28 218,52 204,52" stroke-linejoin="round" width="28" height="24" fill="rgb(202,115,99)" stroke="rgb(161,92,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (MICCA_2630004)
+putative Sterol 24-C-methyltransferase</title>
+			<polygon class=" (MICCA_2630004)
+putative Sterol 24-C-methyltransferase" points="280,25 253,25 253,10 223,40 253,70 253,55 280,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5838 (PF19156)
+"Family of unknown function (DUF5838)"</title>
+				<polygon class="PF19156" points="227,40 239,28 252,28 252,52 239,52" stroke-linejoin="round" width="28" height="24" fill="rgb(202,115,99)" stroke="rgb(161,92,79)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<rect class="PF08241" x="264" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(201,85,64)" stroke="rgb(160,68,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (MICCA_2630005)
+conserved hypothetical protein</title>
+			<polygon class=" (MICCA_2630005)
+conserved hypothetical protein" points="378,25 331,25 331,10 301,40 331,70 331,55 378,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="305,40 317,28 337,28 337,52 317,52" stroke-linejoin="round" width="33" height="24" fill="rgb(69,185,74)" stroke="rgb(55,148,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4423_like (PF21084)
+"Winged Helix-turn-helix domain"</title>
+				<rect class="PF21084" x="370" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(137,88,180)" stroke="rgb(109,70,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mcaB (MICCA_2630006)
+putative microcyclamide biosynthesis protein</title>
+			<polygon class="mcaB (MICCA_2630006)
+putative microcyclamide biosynthesis protein" points="389,40 397,10 397,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (MICCA_2630007)
+conserved hypothetical protein</title>
+			<polygon class=" (MICCA_2630007)
+conserved hypothetical protein" points="466,25 431,25 431,10 401,40 431,70 431,55 466,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PatG_C (PF18065)
+"PatG C-terminal"</title>
+				<polygon class="PF18065" points="405,40 412,33 412,47" stroke-linejoin="round" width="11" height="24" fill="rgb(123,196,84)" stroke="rgb(98,156,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PatG_D (PF18047)
+"PatG Domain"</title>
+				<polygon class="PF18047" points="417,28 417,28 428,28 428,52 417,52 417,52" stroke-linejoin="round" width="11" height="24" fill="rgb(218,110,91)" stroke="rgb(174,88,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<rect class="PF00082" x="437" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(179,95,73)" stroke="rgb(143,76,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

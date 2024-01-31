@@ -1,0 +1,35 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_12      PF08242.16    98 BGC0000820.1_ORF1:gid:psmA:pid:AHL44339.1:loc:0:1008:strand:+ -            335     3e-15   56.9   0.2   1   1   2.4e-18   8.2e-15   55.5   0.1     1    98    47   142    47   142 0.90 Methyltransferase domain
+Methyltransf_23      PF13489.10   163 BGC0000820.1_ORF1:gid:psmA:pid:AHL44339.1:loc:0:1008:strand:+ -            335   4.6e-14   52.6   0.0   1   1     2e-17   6.9e-14   52.1   0.0    21   130    41   158    16   190 0.74 Methyltransferase domain
+Methyltransf_25      PF13649.10    97 BGC0000820.1_ORF1:gid:psmA:pid:AHL44339.1:loc:0:1008:strand:+ -            335   7.1e-14   52.5   0.0   1   1   4.3e-17   1.5e-13   51.4   0.0     1    97    46   140    46   140 0.93 Methyltransferase domain
+Methyltransf_31      PF13847.10   150 BGC0000820.1_ORF1:gid:psmA:pid:AHL44339.1:loc:0:1008:strand:+ -            335     1e-12   48.3   0.0   1   1   4.1e-16   1.4e-12   47.8   0.0     2   113    41   148    40   175 0.89 Methyltransferase domain
+Methyltransf_11      PF08241.16    95 BGC0000820.1_ORF1:gid:psmA:pid:AHL44339.1:loc:0:1008:strand:+ -            335   2.4e-10   41.1   0.0   1   1   1.3e-13   4.6e-10   40.2   0.0     1    93    47   142    47   144 0.93 Methyltransferase domain
+Methyltransf_4       PF02390.21   173 BGC0000820.1_ORF1:gid:psmA:pid:AHL44339.1:loc:0:1008:strand:+ -            335   1.5e-06   28.0   0.0   1   1   6.2e-10   2.1e-06   27.5   0.0     4    83    45   125    42   127 0.85 Putative methyltransferase
+Abhydrolase_3        PF07859.17   210 BGC0000820.1_ORF2:gid:psmB:pid:AHL44340.1:loc:1096:2026:strand:+ -            309   2.5e-65  220.4   1.3   1   1   4.4e-69   3.1e-65  220.1   1.3     1   208    76   283    76   285 0.95 alpha/beta hydrolase fold
+BD-FAE               PF20434.2    215 BGC0000820.1_ORF2:gid:psmB:pid:AHL44340.1:loc:1096:2026:strand:+ -            309   5.3e-21   75.3   0.0   1   1     1e-24   7.1e-21   74.9   0.0    10   111    70   168    63   192 0.90 BD-FAE
+COesterase           PF00135.32   515 BGC0000820.1_ORF2:gid:psmB:pid:AHL44340.1:loc:1096:2026:strand:+ -            309   1.5e-11   44.2   0.8   1   1   6.4e-15   4.4e-11   42.6   0.8    90   203    64   166    61   181 0.88 Carboxylesterase family
+Methyltransf_25      PF13649.10    97 BGC0000820.1_ORF3:gid:psmC:pid:AHL44341.1:loc:2059:2845:strand:+ -            261   3.7e-19   69.4   0.1   1   1   3.9e-22   1.3e-18   67.6   0.0     1    97    54   147    54   147 0.94 Methyltransferase domain
+Methyltransf_11      PF08241.16    95 BGC0000820.1_ORF3:gid:psmC:pid:AHL44341.1:loc:2059:2845:strand:+ -            261   1.3e-17   64.4   0.1   1   1   8.2e-21   2.8e-17   63.3   0.0     1    95    55   151    55   151 0.93 Methyltransferase domain
+Methyltransf_12      PF08242.16    98 BGC0000820.1_ORF3:gid:psmC:pid:AHL44341.1:loc:2059:2845:strand:+ -            261   1.5e-12   48.3   0.2   1   1   1.5e-15   5.2e-12   46.5   0.1     1    98    55   149    55   149 0.87 Methyltransferase domain
+Methyltransf_31      PF13847.10   150 BGC0000820.1_ORF3:gid:psmC:pid:AHL44341.1:loc:2059:2845:strand:+ -            261   1.2e-10   41.6   0.0   1   1   4.7e-14   1.6e-10   41.1   0.0     7   112    54   154    50   195 0.90 Methyltransferase domain
+Methyltransf_23      PF13489.10   163 BGC0000820.1_ORF3:gid:psmC:pid:AHL44341.1:loc:2059:2845:strand:+ -            261   1.9e-10   40.9   0.0   1   1   1.2e-13   4.1e-10   39.8   0.0     8   135    36   171    27   238 0.71 Methyltransferase domain
+Ubie_methyltran      PF01209.22   233 BGC0000820.1_ORF3:gid:psmC:pid:AHL44341.1:loc:2059:2845:strand:+ -            261   1.1e-08   35.0   0.0   1   1   4.5e-12   1.6e-08   34.4   0.0    12   156     9   156     2   168 0.79 ubiE/COQ5 methyltransferase family
+Methyltransf_25      PF13649.10    97 BGC0000820.1_ORF4:gid:psmD:pid:AHL44342.1:loc:2860:3664:strand:+ -            267     2e-13   51.0   0.1   1   1   1.2e-16   4.8e-13   49.8   0.1     1    93    60   147    60   150 0.88 Methyltransferase domain
+Methyltransf_11      PF08241.16    95 BGC0000820.1_ORF4:gid:psmD:pid:AHL44342.1:loc:2860:3664:strand:+ -            267   1.4e-11   45.1   0.3   1   1   9.1e-15   3.8e-11   43.7   0.1     1    91    61   151    61   155 0.81 Methyltransferase domain
+Methyltransf_23      PF13489.10   163 BGC0000820.1_ORF4:gid:psmD:pid:AHL44342.1:loc:2860:3664:strand:+ -            267   5.3e-09   36.2   0.1   1   1   2.3e-12   9.4e-09   35.4   0.1     8   135    41   175    34   242 0.79 Methyltransferase domain
+Methyltransf_12      PF08242.16    98 BGC0000820.1_ORF4:gid:psmD:pid:AHL44342.1:loc:2860:3664:strand:+ -            267   6.5e-08   33.4   0.1   1   1   4.1e-11   1.7e-07   32.1   0.1     1    95    61   150    61   153 0.84 Methyltransferase domain
+Carbam_trans_N       PF02543.19   346 BGC0000820.1_ORF5:gid:psmE:pid:AHL44343.1:loc:3667:5335:strand:+ -            555   2.4e-51  175.4   0.0   1   1   3.9e-53   4.1e-49  168.1   0.0     2   345     3   344     2   345 0.83 Carbamoyltransferase N-terminus
+Carbam_trans_C       PF16861.9    170 BGC0000820.1_ORF5:gid:psmE:pid:AHL44343.1:loc:3667:5335:strand:+ -            555   4.3e-44  150.3   0.0   1   1   5.9e-48   6.1e-44  149.8   0.0     7   147   395   534   388   541 0.94 Carbamoyltransferase C-terminus
+Pyridoxal_deC        PF00282.23   375 BGC0000820.1_ORF8:gid:psmH:pid:AHL44346.1:loc:7065:8547:strand:+ -            493  3.5e-101  338.9   0.0   1   1    2e-105  4.2e-101  338.6   0.0     1   373    45   414    45   416 0.94 Pyridoxal-dependent decarboxylase conserved domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000820.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000820.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000820.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:25:35 2024
+# [ok]

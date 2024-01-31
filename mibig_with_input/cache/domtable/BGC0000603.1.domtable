@@ -1,0 +1,33 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DDE_Tnp_1_2          PF13586.10    90 BGC0000603.1_ORF1:gid:cltQ:pid:ACS50120.1:loc:383:734:strand:+ -            116     4e-16   59.5   0.1   1   1     6e-20   6.2e-16   58.9   0.1     1    88    21   115    21   116 0.88 Transposase DDE domain
+DDE_Tnp_1            PF01609.25   200 BGC0000603.1_ORF1:gid:cltQ:pid:ACS50120.1:loc:383:734:strand:+ -            116   7.4e-12   45.6   0.2   1   1   9.7e-16     1e-11   45.2   0.2    74   199    14   114     8   115 0.85 Transposase DDE domain
+MLTR_LBD             PF17765.5    168 BGC0000603.1_ORF2:gid:cltP:pid:ACS50121.1:loc:1055:1949:strand:- -            297   7.3e-41  140.2   4.7   1   1     7e-45   7.3e-41  140.2   4.7     4   168   113   275   111   275 0.99 MmyB-like transcription regulator ligand binding domain
+HTH_31               PF13560.10    64 BGC0000603.1_ORF2:gid:cltP:pid:ACS50121.1:loc:1055:1949:strand:- -            297   1.6e-15   57.3   6.3   1   1   1.6e-19   1.6e-15   57.3   6.3     1    64    12    92    12    92 0.99 Helix-turn-helix domain
+MFS_1                PF07690.20   347 BGC0000603.1_ORF3:gid:cltO:pid:ACS50122.1:loc:2030:3467:strand:+ -            478   8.3e-38  130.4  79.2   1   2   3.5e-32   3.7e-28   98.6  28.0     2   181    11   193    10   198 0.89 Major Facilitator Superfamily
+MFS_1                PF07690.20   347 BGC0000603.1_ORF3:gid:cltO:pid:ACS50122.1:loc:2030:3467:strand:+ -            478   8.3e-38  130.4  79.2   2   2   9.1e-13   9.5e-09   34.8  34.0   127   346   197   413   195   414 0.75 Major Facilitator Superfamily
+Sugar_tr             PF00083.28   452 BGC0000603.1_ORF3:gid:cltO:pid:ACS50122.1:loc:2030:3467:strand:+ -            478   5.5e-06   25.7  11.2   1   1   5.3e-10   5.5e-06   25.7  11.2    47   188    41   180    10   186 0.77 Sugar (and other) transporter
+EthD                 PF07110.15    96 BGC0000603.1_ORF4:gid:cltN:pid:ACS50123.1:loc:3605:3941:strand:+ -            111   6.5e-18   65.9   0.4   1   1   3.8e-22     8e-18   65.6   0.4     1    96     8    95     8    95 0.93 EthD domain
+AAA_16               PF13191.10   167 BGC0000603.1_ORF7:gid:cltH:pid:ACS50126.1:loc:5830:8629:strand:+ -            932   1.8e-15   58.0   0.8   1   1   1.8e-19   1.8e-15   58.0   0.8     4   165     8   164     7   166 0.74 AAA ATPase domain
+GerE                 PF00196.23    57 BGC0000603.1_ORF7:gid:cltH:pid:ACS50126.1:loc:5830:8629:strand:+ -            932   9.1e-13   47.8   0.0   1   1   1.5e-16   1.5e-12   47.1   0.0     3    56   867   920   865   921 0.96 Bacterial regulatory proteins, luxR family
+Lant_dehydr_C        PF14028.10   255 BGC0000603.1_ORF8:gid:cltG:pid:ACS50127.1:loc:8699:9827:strand:- -            375     7e-18   65.9   0.2   1   1   4.5e-22   9.4e-18   65.5   0.2    34   253     6   332     2   334 0.80 Lantibiotic biosynthesis dehydratase C-term
+Lant_dehydr_C        PF14028.10   255 BGC0000603.1_ORF9:gid:cltF:pid:ACS50128.1:loc:9931:10957:strand:- -            341   1.9e-42  146.4   0.0   1   1   1.1e-46   2.2e-42  146.2   0.0     1   253    19   329    19   331 0.80 Lantibiotic biosynthesis dehydratase C-term
+Lant_dehydr_N        PF04738.17   649 BGC0000603.1_ORF10:gid:cltE:pid:ACS50129.1:loc:10928:13556:strand:- -            875   6.8e-38  130.4  10.9   1   1   6.1e-42   1.3e-37  129.5  10.9     1   631   141   789   141   794 0.78 Lantibiotic dehydratase, N terminus
+YcaO                 PF02624.20   320 BGC0000603.1_ORF11:gid:cltB:pid:ACS50130.1:loc:13570:15613:strand:- -            680   2.1e-77  260.7   1.9   1   1   1.7e-81   3.6e-77  260.0   1.9     2   319   275   635   272   636 0.87 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Nitroreductase       PF00881.28   168 BGC0000603.1_ORF13:gid:cltC:pid:ACS50132.1:loc:16068:17757:strand:- -            562   1.2e-14   55.0   0.1   1   2     2e-10   4.1e-06   27.3   0.1    30   163   115   256    84   258 0.78 Nitroreductase family
+Nitroreductase       PF00881.28   168 BGC0000603.1_ORF13:gid:cltC:pid:ACS50132.1:loc:16068:17757:strand:- -            562   1.2e-14   55.0   0.1   2   2   5.9e-10   1.2e-05   25.7   0.0    88   168   468   549   384   549 0.84 Nitroreductase family
+Nitroreductase       PF00881.28   168 BGC0000603.1_ORF16:gid:cltK:pid:ACS50135.1:loc:20446:20803:strand:- -            118   4.4e-18   66.2   0.2   1   1   4.6e-22   4.8e-18   66.1   0.2     2    70     8    75     7   107 0.79 Nitroreductase family
+DUF4096              PF13340.10    76 BGC0000603.1_ORF17:gid:cltL:pid:ACS50136.1:loc:20969:21206:strand:+ -             78   1.9e-16   60.3   3.2   1   1   1.1e-20   2.2e-16   60.1   3.2    23    75     7    58     1    59 0.89 Putative transposase of IS4/5 family (DUF4096)
+DUF4145              PF13643.10    88 BGC0000603.1_ORF18:gid::pid:ACS50137.1:loc:22134:22869:strand:- -            244   1.8e-11   44.2   0.0   1   1   1.3e-15   2.7e-11   43.6   0.0     9    87   167   243   159   244 0.92 Domain of unknown function (DUF4145)
+DUF6232              PF19744.3    117 BGC0000603.1_ORF20:gid::pid:ACS50139.1:loc:24142:24604:strand:+ -            153   4.1e-17   62.8   0.9   1   1   2.5e-21   5.2e-17   62.5   0.9     8   117     2   114     1   114 0.88 Family of unknown function (DUF6232)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000603.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000603.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000603.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:16:18 2024
+# [ok]

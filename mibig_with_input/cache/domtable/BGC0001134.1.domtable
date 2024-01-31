@@ -1,0 +1,16 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Cupin_8              PF13621.10   251 BGC0001134.1_ORF1:gid::pid:WP_041380364.1:loc:0:726:strand:- -            241   4.3e-17   63.1   0.1   1   1   1.3e-18   9.2e-15   55.4   0.1    13   245     8   210     4   214 0.73 Cupin-like domain
+JmjC_2               PF08007.16   127 BGC0001134.1_ORF1:gid::pid:WP_041380364.1:loc:0:726:strand:- -            241     2e-08   34.0   0.0   1   1     5e-12   3.5e-08   33.2   0.0    36   124   120   215   111   218 0.75 JmjC domain
+JmjC                 PF02373.26   114 BGC0001134.1_ORF1:gid::pid:WP_041380364.1:loc:0:726:strand:- -            241   2.9e-06   27.9   0.2   1   1   5.5e-09   3.8e-05   24.3   0.2     2   114   113   210   112   210 0.64 JmjC domain, hydroxylase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001134.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001134.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001134.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:32:43 2024
+# [ok]

@@ -1,0 +1,32 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Bac_DNA_binding      PF00216.25    90 BGC0000800.1_ORF1:gid:gumA:pid:AAA86369.1:loc:32:332:strand:+ -             99   3.8e-32  110.5   0.1   1   1   4.1e-36   4.3e-32  110.4   0.1     1    89     3    91     3    92 0.99 Bacterial DNA-binding protein
+HU-HIG               PF18291.5    125 BGC0000800.1_ORF1:gid:gumA:pid:AAA86369.1:loc:32:332:strand:+ -             99   2.3e-08   34.3   0.0   1   1   2.8e-12   2.9e-08   34.0   0.0    33   119     4    92     2    95 0.91 HU domain fused to wHTH, Ig, or Glycine-rich motif
+Poly_export          PF02563.20    77 BGC0000800.1_ORF2:gid:gumB:pid:AAA86370.1:loc:1333:1975:strand:+ -            213   2.7e-23   82.1   1.6   1   1   1.1e-26   1.1e-22   80.1   0.2     3    76    27   101    25   102 0.95 Polysaccharide biosynthesis/export protein
+SLBB                 PF10531.13    56 BGC0000800.1_ORF2:gid:gumB:pid:AAA86370.1:loc:1333:1975:strand:+ -            213   1.2e-09   38.0   0.6   1   1   1.9e-13     2e-09   37.3   0.6     1    53   108   161   108   164 0.93 SLBB domain
+GNVR                 PF13807.10    82 BGC0000800.1_ORF3:gid:gumC:pid:AAA86371.1:loc:2047:3397:strand:+ -            449   1.2e-20   73.4   0.2   1   1   4.1e-24   4.3e-20   71.6   0.2     8    81   364   437   354   438 0.94 G-rich domain on putative tyrosine kinase
+Wzz                  PF02706.19    91 BGC0000800.1_ORF3:gid:gumC:pid:AAA86371.1:loc:2047:3397:strand:+ -            449   4.4e-11   43.1   1.7   1   1   8.5e-15   8.9e-11   42.2   0.3     8    90     3    88     1    89 0.87 Chain length determinant protein
+Bac_transf           PF02397.20   180 BGC0000800.1_ORF4:gid:gumD:pid:AAA86372.1:loc:3639:5094:strand:+ -            484   1.1e-67  227.3   0.1   1   1   1.5e-71   1.6e-67  226.7   0.1     1   179   293   478   293   479 0.96 Bacterial sugar transferase
+CoA_binding_3        PF13727.10   175 BGC0000800.1_ORF4:gid:gumD:pid:AAA86372.1:loc:3639:5094:strand:+ -            484   1.5e-35  123.0   0.1   1   1   1.4e-39   1.5e-35  123.0   0.1     3   175    77   255    75   255 0.91 CoA-binding domain
+Acyl_transf_3        PF01757.26   326 BGC0000800.1_ORF6:gid:gumF:pid:AAA86374.1:loc:6471:7566:strand:+ -            364     1e-27   97.2  43.6   1   1   6.1e-32   1.3e-27   97.0  43.6     3   325    31   346    29   347 0.76 Acyltransferase family
+Acyl_transf_3        PF01757.26   326 BGC0000800.1_ORF7:gid:gumG:pid:AAA86375.1:loc:7562:8702:strand:+ -            379   5.6e-37  127.7  43.8   1   1   3.2e-41   6.6e-37  127.5  43.8     3   323    24   338    22   341 0.91 Acyltransferase family
+Glycos_transf_1      PF00534.24   172 BGC0000800.1_ORF8:gid:gumH:pid:AAA86376.1:loc:8698:9841:strand:+ -            380     4e-25   88.5   0.0   1   1   1.7e-28   7.2e-25   87.7   0.0    15   156   190   332   179   346 0.92 Glycosyl transferases group 1
+Glyco_transf_4       PF13439.10   170 BGC0000800.1_ORF8:gid:gumH:pid:AAA86376.1:loc:8698:9841:strand:+ -            380   1.4e-19   70.9   0.4   1   1   6.2e-23   2.6e-19   70.1   0.4     1   170    14   180    14   180 0.85 Glycosyltransferase Family 4
+Glyco_trans_1_4      PF13692.10   137 BGC0000800.1_ORF8:gid:gumH:pid:AAA86376.1:loc:8698:9841:strand:+ -            380   2.5e-17   63.7   0.0   1   1     2e-20   8.3e-17   62.0   0.0     2   134   191   331   190   334 0.84 Glycosyl transferases group 1
+Glyco_trans_4_4      PF13579.10   158 BGC0000800.1_ORF8:gid:gumH:pid:AAA86376.1:loc:8698:9841:strand:+ -            380   1.6e-12   48.3   0.6   1   1   3.8e-16   1.6e-12   48.3   0.6     1   158    15   175    15   175 0.82 Glycosyl transferase 4-like domain
+GT4-conflict         PF20706.1    385 BGC0000800.1_ORF8:gid:gumH:pid:AAA86376.1:loc:8698:9841:strand:+ -            380   2.6e-11   43.3   0.2   1   1     1e-14   4.3e-11   42.6   0.2   173   309   168   297   154   360 0.82 Family 4 Glycosyltransferase in conflict systems
+Polysacc_synt_3      PF13440.10   293 BGC0000800.1_ORF10:gid:gumJ:pid:AAA86378.1:loc:10883:12380:strand:+ -            498   1.5e-79  267.5   8.2   1   1   1.4e-83   1.5e-79  267.5   8.2     1   293    45   337    45   337 1.00 Polysaccharide biosynthesis protein
+Polysacc_synt        PF01943.21   274 BGC0000800.1_ORF10:gid:gumJ:pid:AAA86378.1:loc:10883:12380:strand:+ -            498   3.6e-76  256.4  11.5   1   1   3.5e-80   3.6e-76  256.4  11.5     3   274    23   288    22   288 0.99 Polysaccharide biosynthesis protein
+PS_pyruv_trans       PF04230.17   281 BGC0000800.1_ORF12:gid:gumL:pid:AAA86380.1:loc:13688:14483:strand:+ -            264   7.9e-19   68.8   0.0   1   1     6e-23   1.2e-18   68.2   0.0    64   280    60   208    33   209 0.87 Polysaccharide pyruvyl transferase
+Glyco_tran_WecG      PF03808.17   168 BGC0000800.1_ORF13:gid:gumM:pid:AAA86381.1:loc:14490:15282:strand:+ -            263     2e-53  180.8   0.0   1   1   1.8e-57   3.8e-53  179.9   0.0     4   168    80   244    77   244 0.96 Glycosyl transferase WecG/TagA/CpsF family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000800.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000800.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000800.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:28:56 2024
+# [ok]

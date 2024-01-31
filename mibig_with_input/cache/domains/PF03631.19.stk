@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1549:gid::pid::loc:1744297:1745137:strand:+:17:272         ..ny--SELSSKSAEVSFFLMLSIFPFLIFTISSIAYIPI--LHLNKYIALFRNMMPEGAFAVLSSIIVSAIDNRNLKFLAVSFVLTMWTFSRAVKALIKGMNRAYKVKETRSFFKILSISFLFTIMLLVLIFLSMIFLVYGEKIGYFIFnLVGLDEIF---IkIWDILRYTVGIITIIVIFTLLYKYTPNKKLTIKESA
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1549:gid::pid::loc:1744297:1745137:strand:+:17:272 PP ..86..578999*************************885..4789**********************99999999********************************************************************999988888877766...347***********************************
+BGC0000792.1_ORF2:gid::pid:AAC35915.1:loc:1557:2466:strand:+:26:279                             taei-----GNSSVVVAYYLLLSLFPLLIAVGNVLPYLRID---PNSVLPYIAEAIPKDVYKNLEPAIRSLLTQRSGGLLSVSALAAFWSASQSINALQNAMNKAFGVEQRKNFILVRVVSFLVILLFMVAIVGVVVILGLGQYIIELLQpIFHYSTSVID--.TFQALKWPLTTVVLLVIMCLIYAVVPNRKLSLRSIL
+#=GR BGC0000792.1_ORF2:gid::pid:AAC35915.1:loc:1557:2466:strand:+:26:279                     PP 9865.....5678899********************99854...579*************************************************************************************************99977787676655533...69**********************************
+#=GC PP_cons                                                                                    ......578788999*********************98854.47789*********************99999999********************************************************************999887.7777766633.3.7***********************************
+#=GC RF                                                                                         ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1549:gid::pid::loc:1744297:1745137:strand:+:17:272         PGAIFATFAWFLVSFLYSYYTNYYANYEVIYGSIAEIIVLMTWMYFSSWSIVIGYEVNSRL----yfrk
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1549:gid::pid::loc:1744297:1745137:strand:+:17:272 PP **********************************************************987....6778
+BGC0000792.1_ORF2:gid::pid:AAC35915.1:loc:1557:2466:strand:+:26:279                             PGAIFSTVGWMLLSQIFGLYVKYFSSRIASYQIIGSFIILMLWLNFAATIIILGAIVNAVVDE--yl..
+#=GR BGC0000792.1_ORF2:gid::pid:AAC35915.1:loc:1557:2466:strand:+:26:279                     PP ************************************************************987..69..
+#=GC PP_cons                                                                                    **********************************************************99887......
+#=GC RF                                                                                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....
+//

@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1873:gid::pid::loc:2091374:2092319:strand:-:2:145         ....ienn----SEKIKVLENDIKQLITISKANNIDLSDKINSLNEKLEKLKEDAFSHLSAYEKVTLSRDIKRPTTLEYIEHICSNFLELHGDRLFKDDPSMVGGIGQIGKFNVTIVGHQKGRDTKENIKRNFGMPHPEGYRKALRLMKQAE.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1873:gid::pid::loc:2091374:2092319:strand:-:2:145 PP ....9765....689****************************************************************************************************************************************8.
+BGC0000279.1_ORF34:gid:xanB3:pid:ADE22308.1:loc:40773:42468:strand:-:284:391                   eedpvvrd--------------------------------------------SQLLDQLPAWDCVQLAREAGRPTALEHIGYWLDGFVELHGDRAGEECSAIVGGVGRLDGLPVMVIGHQKGHTTAELVSRNFGMPSPAGYRKAARLMRLA-a
+#=GR BGC0000279.1_ORF34:gid:xanB3:pid:ADE22308.1:loc:40773:42468:strand:-:284:391           PP 99999876............................................577899*******************************************************************************************98.7
+BGC0000216.1_ORF27:gid:dacP3:pid:AFU65907.1:loc:32782:34546:strand:-:303:399                   ....lper---------------------------------------------------DPWHSVRLARDIARPGVADFAARAFADVQELHGDRLSKDCPAIFGGLARLGRTTVLLLGTRKGHTAAELAAHDFGMASPAGYRKVARLLRLA-a
+#=GR BGC0000216.1_ORF27:gid:dacP3:pid:AFU65907.1:loc:32782:34546:strand:-:303:399           PP ....9976...................................................69***************************************************************************************998.7
+BGC0000186.1_ORF17:gid:accA-2:pid:ABC35022.1:loc:83960:84929:strand:-:6:149                    ........YLDFEKAIGELDAKIDALRCSEDESAIDLSEEINRLSARSEKLTKELYERLTPWQIVQVARHPARPYTLDYVNFIFTDFHELHGDRSYADDQSIVGGLARFNDRPCVVVGHQKGRNTKERAMRNFGYPRPEGYRKALRLFKLAE.
+#=GR BGC0000186.1_ORF17:gid:accA-2:pid:ABC35022.1:loc:83960:84929:strand:-:6:149            PP ........69*********************************************************************************************************************************************8.
+BGC0000261.1_ORF6:gid:zhuF:pid:AAG30193.1:loc:7164:8901:strand:-:298:395                       ...dlaah---------------------------------------------------DPSRQVRAARAIDRPTTLDYIALLCEDFVELRGDRISGDCPAIVAGLARFGGRPVAVIGHQKGHDAQELRRRNFGMPIPSGYRKAARIMRLAD.
+#=GR BGC0000261.1_ORF6:gid:zhuF:pid:AAG30193.1:loc:7164:8901:strand:-:298:395               PP ...*9876...................................................577899*************************************************************************************97.
+#=GC PP_cons                                                                                   ........69**899*************************************8999***899****************************************************************************************98.
+#=GC RF                                                                                        ........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

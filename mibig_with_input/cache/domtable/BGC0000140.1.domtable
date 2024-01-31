@@ -1,0 +1,32 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Abhydrolase_6        PF12697.11   217 BGC0000140.1_ORF1:gid::pid:ACZ65471.1:loc:112:1258:strand:- -            381   1.8e-10   42.0   5.6   1   1   2.6e-14   1.8e-10   42.0   5.6     3   114   153   279   151   373 0.63 Alpha/beta hydrolase family
+Abhydrolase_1        PF00561.24   245 BGC0000140.1_ORF1:gid::pid:ACZ65471.1:loc:112:1258:strand:- -            381   1.4e-06   28.4   0.1   1   1   4.1e-10   2.8e-06   27.4   0.1     4   118   152   266   150   282 0.76 alpha/beta hydrolase fold
+FrsA-like            PF06500.15   414 BGC0000140.1_ORF1:gid::pid:ACZ65471.1:loc:112:1258:strand:- -            381   4.9e-06   25.8   0.0   1   1     1e-09   6.9e-06   25.3   0.0    95   296    44   253    37   263 0.80 Esterase FrsA-like
+TetR_C_11            PF16859.9    113 BGC0000140.1_ORF2:gid:rkI:pid:ACZ65472.1:loc:1381:2071:strand:- -            229   5.1e-21   75.3   7.7   1   1   4.9e-25   5.1e-21   75.3   7.7     3   112   107   217   105   218 0.95 Tetracyclin repressor-like, C-terminal domain
+TetR_N               PF00440.27    47 BGC0000140.1_ORF2:gid:rkI:pid:ACZ65472.1:loc:1381:2071:strand:- -            229   1.3e-11   44.3   0.0   1   1   2.1e-15   2.2e-11   43.5   0.0    13    47    61    95    48    95 0.86 Bacterial regulatory proteins, tetR family
+MFS_1                PF07690.20   347 BGC0000140.1_ORF3:gid:rkH:pid:ACZ65473.1:loc:2073:3669:strand:- -            531     3e-53  181.2  50.2   1   1   9.7e-56     2e-51  175.1  47.4     2   346    27   422    26   423 0.86 Major Facilitator Superfamily
+AMP-binding          PF00501.32   382 BGC0000140.1_ORF4:gid:rkA:pid:ACZ65474.1:loc:4024:5821:strand:+ -            598   1.1e-65  222.1   0.0   1   1   7.2e-70   1.5e-65  221.7   0.0     3   382    11   409     9   409 0.82 AMP-binding enzyme
+PP-binding           PF00550.29    67 BGC0000140.1_ORF5:gid:rkB:pid:ACZ65475.1:loc:5863:6178:strand:+ -            104   2.6e-14   53.4   0.0   1   1   1.6e-18   3.3e-14   53.1   0.0     2    67    26    91    25    91 0.95 Phosphopantetheine attachment site
+ketoacyl-synt        PF00109.30   252 BGC0000140.1_ORF6:gid:rkC:pid:ACZ65476.1:loc:6174:9195:strand:+ -           1006   3.7e-89  298.8   0.4   1   1   3.9e-91   1.6e-87  293.5   0.0     2   252     5   259     4   259 0.94 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.25   319 BGC0000140.1_ORF6:gid:rkC:pid:ACZ65476.1:loc:6174:9195:strand:+ -           1006   1.1e-61  209.2   0.5   1   1     4e-65   1.7e-61  208.7   0.5     2   276   530   806   529   823 0.96 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0000140.1_ORF6:gid:rkC:pid:ACZ65476.1:loc:6174:9195:strand:+ -           1006   1.3e-39  135.0   0.7   1   1   5.2e-41   2.1e-37  127.9   0.1     1   115   267   379   267   382 0.98 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.9    111 BGC0000140.1_ORF6:gid:rkC:pid:ACZ65476.1:loc:6174:9195:strand:+ -           1006   1.5e-11   44.8   0.0   1   1   6.8e-15   2.8e-11   44.0   0.0     2   107   386   492   386   495 0.80 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.29    67 BGC0000140.1_ORF6:gid:rkC:pid:ACZ65476.1:loc:6174:9195:strand:+ -           1006   9.2e-09   35.6   0.0   1   1   5.3e-12   2.2e-08   34.4   0.0     5    67   922   988   919   988 0.93 Phosphopantetheine attachment site
+ACP_syn_III          PF08545.14    80 BGC0000140.1_ORF7:gid:rkD:pid:ACZ65477.1:loc:9191:10223:strand:+ -            343   3.9e-14   52.5   0.2   1   1   1.2e-17   8.6e-14   51.4   0.2     3    64   120   190   118   201 0.82 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+Chal_sti_synt_N      PF00195.23   225 BGC0000140.1_ORF7:gid:rkD:pid:ACZ65477.1:loc:9191:10223:strand:+ -            343   8.9e-09   35.3   1.1   1   1   1.3e-12   8.9e-09   35.3   1.1    96   224    60   190    45   191 0.84 Chalcone and stilbene synthases, N-terminal domain
+PP-binding           PF00550.29    67 BGC0000140.1_ORF9:gid:rkF:pid:ACZ65479.1:loc:12147:12387:strand:+ -             79   3.7e-07   30.5   0.1   1   1   2.1e-10   4.5e-06   27.0   0.1     3    66    12    76    10    77 0.89 Phosphopantetheine attachment site
+Thioesterase         PF00975.24   226 BGC0000140.1_ORF10:gid:rkG:pid:ACZ65480.1:loc:12383:13187:strand:+ -            267     4e-37  128.8   0.0   1   1   2.3e-41   4.8e-37  128.5   0.0     2   225    24   254    23   255 0.90 Thioesterase domain
+Lactamase_B          PF00753.31   196 BGC0000140.1_ORF11:gid::pid:ACZ65481.1:loc:13196:14048:strand:- -            283   4.8e-15   56.2   9.2   1   1   6.7e-19     7e-15   55.7   9.2    16   196    38   207    19   207 0.90 Metallo-beta-lactamase superfamily
+Lactamase_B_2        PF12706.11   200 BGC0000140.1_ORF11:gid::pid:ACZ65481.1:loc:13196:14048:strand:- -            283   6.8e-07   29.3   3.6   1   1   8.9e-11   9.2e-07   28.9   3.6     1   146    38   170    38   202 0.72 Beta-lactamase superfamily domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000140.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000140.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000140.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:59:35 2024
+# [ok]

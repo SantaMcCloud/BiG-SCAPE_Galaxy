@@ -1,0 +1,32 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SNF2-rel_dom         PF00176.27   290 BGC0000498.1_ORF1:gid::pid:ACA51933.1:loc:0:2728:strand:+ -            908     7e-15   55.1   0.0   1   2   1.4e-09   7.1e-06   25.5   0.0     1   140    89   274    89   278 0.81 SNF2-related domain
+SNF2-rel_dom         PF00176.27   290 BGC0000498.1_ORF1:gid::pid:ACA51933.1:loc:0:2728:strand:+ -            908     7e-15   55.1   0.0   2   2     6e-10   3.1e-06   26.7   0.0   154   283   311   457   292   464 0.69 SNF2-related domain
+ResIII               PF04851.19   164 BGC0000498.1_ORF1:gid::pid:ACA51933.1:loc:0:2728:strand:+ -            908     1e-11   45.2   6.9   1   1   5.9e-15   3.1e-11   43.7   3.3     2   139    84   273    83   321 0.71 Type III restriction enzyme, res subunit
+Helicase_C           PF00271.35   110 BGC0000498.1_ORF1:gid::pid:ACA51933.1:loc:0:2728:strand:+ -            908   6.2e-08   33.1   0.1   1   1   5.2e-11   2.7e-07   31.0   0.0    38   110   528   604   499   604 0.86 Helicase conserved C-terminal domain
+DEAD                 PF00270.33   166 BGC0000498.1_ORF1:gid::pid:ACA51933.1:loc:0:2728:strand:+ -            908   2.8e-06   27.4   1.8   1   1     4e-09   2.1e-05   24.6   0.2     1    92    87   174    87   207 0.75 DEAD/DEAH box helicase
+DUF5962              PF19387.3     99 BGC0000498.1_ORF2:gid::pid:AGR45950.1:loc:2797:3097:strand:+ -             99   1.6e-45  153.6   4.7   1   1   8.3e-50   1.7e-45  153.5   4.7     1    98     1    98     1    99 0.99 Family of unknown function (DUF5962)
+DUF5966              PF19391.3     95 BGC0000498.1_ORF3:gid::pid:AGR45951.1:loc:3111:3402:strand:+ -             96     7e-45  152.0  12.4   1   1   3.8e-49   7.8e-45  151.9  12.4     1    95     2    96     2    96 0.99 Family of unknown function (DUF5966)
+L_biotic_typeA       PF04604.17    50 BGC0000498.1_ORF4:gid:bovA:pid:ACA51934.1:loc:3540:3717:strand:+ -             58     2e-17   63.0   0.7   1   1   1.1e-21   2.4e-17   62.7   0.7     1    50     1    51     1    51 0.97 Type-A lantibiotic
+DUF4135              PF13575.10   378 BGC0000498.1_ORF5:gid:bovM:pid:ACA51935.2:loc:3797:6311:strand:+ -            837     3e-61  207.9   0.1   1   1   4.3e-65   4.4e-61  207.3   0.1     3   377   103   460   101   461 0.91 Domain of unknown function (DUF4135)
+LANC_like            PF05147.17   350 BGC0000498.1_ORF5:gid:bovM:pid:ACA51935.2:loc:3797:6311:strand:+ -            837   4.8e-28   97.9   5.7   1   1   4.6e-32   4.8e-28   97.9   5.7    99   343   613   831   538   836 0.82 Lanthionine synthetase C-like protein
+Peptidase_C39        PF03412.19   133 BGC0000498.1_ORF6:gid:bovT:pid:ACA51936.2:loc:6324:8367:strand:+ -            680   9.4e-32  109.8   0.2   1   1   3.7e-35   2.5e-31  108.4   0.2     5   131     7   130     3   132 0.95 Peptidase C39 family
+ABC_tran             PF00005.31   137 BGC0000498.1_ORF6:gid:bovT:pid:ACA51936.2:loc:6324:8367:strand:+ -            680   7.1e-23   82.0   0.0   1   1   2.2e-26   1.5e-22   80.9   0.0     2   137   482   629   481   629 0.87 ABC transporter
+ABC_membrane         PF00664.27   274 BGC0000498.1_ORF6:gid:bovT:pid:ACA51936.2:loc:6324:8367:strand:+ -            680   5.3e-12   46.2  18.1   1   1   1.2e-15     8e-12   45.6  18.1     5   273   162   422   160   423 0.89 ABC transporter transmembrane region
+ABC_tran             PF00005.31   137 BGC0000498.1_ORF7:gid:bovF:pid:ACA51937.2:loc:8341:9250:strand:+ -            302   4.7e-31  108.5   0.1   1   1   1.1e-32   1.1e-28  100.8   0.0     1   137    18   157    18   157 0.97 ABC transporter
+AAA_21               PF13304.10   304 BGC0000498.1_ORF7:gid:bovF:pid:ACA51937.2:loc:8341:9250:strand:+ -            302   2.3e-18   67.3   0.6   1   1   4.9e-16   5.1e-12   46.5   0.0   236   302   127   191   119   193 0.94 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_4      PF12730.11   179 BGC0000498.1_ORF8:gid:bovE:pid:ACA51938.2:loc:9233:9956:strand:+ -            240   3.9e-08   33.7  24.2   1   1   1.9e-12   3.9e-08   33.7  24.2     1   174     4   183     4   188 0.75 ABC-2 family transporter protein
+GerE                 PF00196.23    57 BGC0000498.1_ORF11:gid:bovR:pid:ACA51941.1:loc:12157:12754:strand:+ -            198   6.2e-15   54.7   0.1   1   1   1.1e-18   1.2e-14   53.8   0.1     2    56   136   190   135   191 0.95 Bacterial regulatory proteins, luxR family
+Response_reg         PF00072.28   111 BGC0000498.1_ORF11:gid:bovR:pid:ACA51941.1:loc:12157:12754:strand:+ -            198   1.1e-14   54.7   0.2   1   1   1.8e-18   1.8e-14   54.0   0.2     1   110     3   117     3   118 0.95 Response regulator receiver domain
+DUF3991              PF13154.10    74 BGC0000498.1_ORF15:gid::pid:AGR45948.1:loc:14380:14995:strand:+ -            205   2.9e-06   27.8   0.1   1   1   3.2e-10   6.7e-06   26.6   0.1     1    62   110   181   110   195 0.77 Protein of unknown function (DUF3991)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000498.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000498.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000498.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:28:33 2024
+# [ok]

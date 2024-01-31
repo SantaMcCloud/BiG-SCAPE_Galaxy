@@ -1,0 +1,17 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aminotran_1_2        PF00155.25   361 BGC0000948.1_ORF1:gid::pid:CAH08161.1:loc:0:1185:strand:- -            394   6.4e-55  187.0   0.0   1   1   1.1e-58   7.4e-55  186.8   0.0     2   360    43   383    42   384 0.95 Aminotransferase class I and II
+Beta_elim_lyase      PF01212.25   288 BGC0000948.1_ORF1:gid::pid:CAH08161.1:loc:0:1185:strand:- -            394   4.4e-08   32.9   0.0   1   1   1.1e-11   7.9e-08   32.1   0.0    35   223    90   265    84   320 0.83 Beta-eliminating lyase
+DAGK_cat             PF00781.28   125 BGC0000948.1_ORF2:gid::pid:CAH08162.1:loc:1419:2463:strand:+ -            347   1.5e-32  112.1   0.4   1   1   2.5e-36   2.6e-32  111.2   0.1     1   125     7   129     7   129 0.98 Diacylglycerol kinase catalytic domain
+YegS_C               PF19279.3    158 BGC0000948.1_ORF2:gid::pid:CAH08162.1:loc:1419:2463:strand:+ -            347   2.9e-19   69.5   0.0   1   1   1.4e-22   1.5e-18   67.3   0.0     5   140   140   274   136   293 0.90 YegS C-terminal NAD kinase beta sandwich-like domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000948.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000948.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000948.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:16:32 2024
+# [ok]

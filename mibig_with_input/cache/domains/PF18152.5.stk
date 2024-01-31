@@ -1,0 +1,19 @@
+# STOCKHOLM 1.0
+
+BGC0000889.1_ORF11:gid:fevY:pid:BAM73634.1:loc:10948:11971:strand:-:1:63                      ----MAPHATASDVAAVVARV.ESAGGEAFVSRGTSRTVVGLVGDVEQFGTLSLGALR.GVAEVVRIS-v
+#=GR BGC0000889.1_ORF11:gid:fevY:pid:BAM73634.1:loc:10948:11971:strand:-:1:63              PP ....899**************.************************************.********7.8
+GCA_000085225.1_ASM8522v1_genomic_ORF1813:gid::pid::loc:2028596:2029610:strand:+:1:67         MIVVLKMGADKNEVKKLIEAI.GREGVEVNPIDGTELTVLGLVGDTSKIDAKRIEANK.IVEKVMHVV-e
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1813:gid::pid::loc:2028596:2029610:strand:+:1:67 PP *********************.************************************.*******96.5
+BGC0000440.1_ORF36:gid:tcp27:pid:CAE53368.1:loc:66948:68004:strand:+:1:67                     MVVVMAPEATSADVDAVVRLV.ESVGGQAFVSRGLSRTIVGLVGDVADFEALNLGSLA.GVLRVIRVS-v
+#=GR BGC0000440.1_ORF36:gid:tcp27:pid:CAE53368.1:loc:66948:68004:strand:+:1:67             PP *********************.************************************.********7.8
+BGC0000824.1_ORF2:gid::pid:ACC79981.1:loc:1211:2312:strand:-:1:69                             MIIILKNGTPAEEITRISQELsETWKVTVEKSIGTHKVVLGLIGDTTSIDKLQIQEYSpWIEQVLRVQQ.
+#=GR BGC0000824.1_ORF2:gid::pid:ACC79981.1:loc:1211:2312:strand:-:1:69                     PP ******************9763779*****************************98855********96.
+BGC0000441.1_ORF29:gid::pid:CAG15026.1:loc:60325:61381:strand:+:1:67                          MVVVMAPEATSADVDAVVRLV.ESVGGQAFVSRGLSRTIVGLVGDVADFEALNLGSLA.GVLRVIRVS-v
+#=GR BGC0000441.1_ORF29:gid::pid:CAG15026.1:loc:60325:61381:strand:+:1:67                  PP *********************.************************************.********7.8
+BGC0001178.1_ORF30:gid::pid:AGS77329.1:loc:59793:60849:strand:+:1:67                          MVVVMAPEATPADVEAVVYLV.RSVGGQAFVSRGLSRTIVGLVGDVADFEALNLGSLT.GVLQVIRVS-v
+#=GR BGC0001178.1_ORF30:gid::pid:AGS77329.1:loc:59793:60849:strand:+:1:67                  PP *********************.************************************.********7.8
+BGC0001233.1_ORF1:gid:fegA:pid:ALK27898.1:loc:0:1068:strand:+:1:67                            MVVVMVPEATQEEVDAVVQLV.RSAGGDAFVSRGVSRTIVGLVGDVNDFDALNLGSLS.GVVQVMRVS-a
+#=GR BGC0001233.1_ORF1:gid:fegA:pid:ALK27898.1:loc:0:1068:strand:+:1:67                    PP *********************.************************************.********8.6
+#=GC PP_cons                                                                                  ********************9.***********************************9.********86.
+#=GC RF                                                                                       xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxx.
+//

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0001414.1_ORF12:gid:tnp2:pid:AKC91853.1:loc:34647:36300:strand:-:97:397         ..ALEALIEPRTRGDPVSPLRWTTLSLRTLASTLTAQGHPVGATTVGRLLHAMGYSLQGTAKTTEGARHPDRDA-------TATAFLDSHQPVISVDTKAKEWIGNRDRPGRTWRPGKGPIKVDCHTFVTDEMPVAIPYGIYDLATNTGWVNVGTDHDTAEFAVESIRRWWRRRGRTDHPNATRLLITADAGGSNDARRW
+#=GR BGC0001414.1_ORF12:gid:tnp2:pid:AKC91853.1:loc:34647:36300:strand:-:97:397 PP ..59*********************************************************************8.......5789*******************************************************************************************************************
+BGC0000444.1_ORF5:gid::pid::loc:4582:4802:strand:-:1:73                            el---------------------------------------------------------------------------------------------------------------------------------------------------------EEDPAAFAVAALHRWWTEEGRAAYPDARRLLITADGGGSNSSRAR
+#=GR BGC0000444.1_ORF5:gid::pid::loc:4582:4802:strand:-:1:73                    PP 97.........................................................................................................................................................5789*****************************************
+#=GC PP_cons                                                                       ..59*********************************************************************8.......5789**********************************************************************8899*****************************************
+#=GC RF                                                                            ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0001414.1_ORF12:gid:tnp2:pid:AKC91853.1:loc:34647:36300:strand:-:97:397         TWKKYLHAFAQESGLEITVCHFPPGTSKWNKIEHRMFCHITANWRGQPLTSYQVVVETIAATTTANGLSIGAELDTGSYPLGTTVTPAEFQALPIAPEAFHGDWNYTLAP
+#=GR BGC0001414.1_ORF12:gid:tnp2:pid:AKC91853.1:loc:34647:36300:strand:-:97:397 PP ***********************************************************************************************************987
+BGC0000444.1_ORF5:gid::pid::loc:4582:4802:strand:-:1:73                            AWKANLAVLATETGLEISVCHLPPGT------------------------------------------------------------------------------------
+#=GR BGC0000444.1_ORF5:gid::pid::loc:4582:4802:strand:-:1:73                    PP ************************98....................................................................................
+#=GC PP_cons                                                                       *************************9*********************************************************************************987
+#=GC RF                                                                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

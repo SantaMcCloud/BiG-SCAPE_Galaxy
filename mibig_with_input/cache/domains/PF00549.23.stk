@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+GCF_008000775.1_ORF2427:gid::pid:WP_170311417.1:loc:2684799:2686632:strand:-:176:301         ..VSKSGGMSNEMNFMIAQN.....SDGVYESIAIGGDRYPGASLIDHLLRYEQNPKIKMLVCLGEIG-GTDEYKI---VEALKDGR....-IKKPLVIWVTGTAASilPKGLQfGHAGAMAGSDLETADAKNKALKDIG--ai.
+#=GR GCF_008000775.1_ORF2427:gid::pid:WP_170311417.1:loc:2684799:2686632:strand:-:176:301 PP ..689***************.....*******************************************.****986...66777777.....888************99999999********************98765..57.
+BGC0001011.1_ORF6:gid::pid:ABC87498.1:loc:6852:7737:strand:-:157:276                         ..VSKSGTLTYQMMYELRDI.....GF--SSCVGIGGDPIIGTTHIDALAAFQADPDTDLIVMIGEIG-GDAEERAADFIKA-NVTK....----PVVGYVAGFTAP..EGKTM.GHAGAIVSGSSGTAQAKKEALEAAGV-k..
+#=GR BGC0001011.1_ORF6:gid::pid:ABC87498.1:loc:6852:7737:strand:-:157:276                 PP ..689*******99998887.....65..78*************************************.***********97.4555........************..*****.***********************986.9..
+BGC0001011.1_ORF7:gid::pid:ABC87499.1:loc:7758:8877:strand:-:236:366                         ig--NGAGLVMSTLDVVAYAgenhgNVKPANFLDIGGGAS-AEVMANGLEIILGDPDVKSVFVNVFGGITACDAVANGIVQALELLKskgeDVSKPLVVRLDGNNAE..-----.LGRKILTDANHPLVQQVDTMDGAA---era
+#=GR BGC0001011.1_ORF7:gid::pid:ABC87499.1:loc:7758:8877:strand:-:236:366                 PP 76..8*************9999998999************.9*********************************************99888889************........999999999999988877776665...678
+#=GC PP_cons                                                                                 ..689***********9999.....88**99*******************************************99***88887777....8889************..9****.*************9999999887776....
+#=GC RF                                                                                      ..xxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxx..xxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

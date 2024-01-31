@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2129:gid::pid::loc:2374346:2376632:strand:-:692:753         ...MRTWNETLSFDPKLPKEWK.NYSF.NINYRDNIINVDVCSDLIKIENLKG.K.PIKIIVYGKKYIL
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2129:gid::pid::loc:2374346:2376632:strand:-:692:753 PP ...9******************.****.*************************.*.**********986
+GCA_000085225.1_ASM8522v1_genomic_ORF3030:gid::pid::loc:3455431:3457822:strand:-:720:781         ...MKIKKDKLSFEPRIPKHWK.NIKF.NILFRDNLVSVNIEEYKSYYKLIKG.K.NISILHDNKEIKL
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3030:gid::pid::loc:3455431:3457822:strand:-:720:781 PP ...899****************.****.*************************.*.*********9976
+BGC0000692.1_ORF7:gid:aprO:pid:CAI47642.1:loc:8939:11282:strand:-:699:761                        das----GEVLRFAPRLPEGVT.ALRV.PLRWRGRGLTVALTADGLELVADGDnPlTLPVEVDGRRAEL
+#=GR BGC0000692.1_ORF7:gid:aprO:pid:CAI47642.1:loc:8939:11282:strand:-:699:761                PP 975....789************.****.********************996554566778999999776
+GCF_000011105.1_ORF694:gid::pid:WP_010884841.1:loc:659947:662161:strand:-:664:726                ...LNVKGNKIELNPNLPEKWK.YVKF.RIFFKGSWIEFKISRKKVRARMLEG.SrKVKISSFGKEVDL
+#=GR GCF_000011105.1_ORF694:gid::pid:WP_010884841.1:loc:659947:662161:strand:-:664:726        PP ...5789***************.****.*************************.88**********986
+BGC0000915.1_ORF55:gid::pid:AAD32752.1:loc:60849:63660:strand:+:741:804                          ...MRMREDRLHLDPMLPPQLGrGVTLrGLHWQGRTYDIAIGAHETTVRLTGG.A.PMTLYTPQGEHVL
+#=GR BGC0000915.1_ORF55:gid::pid:AAD32752.1:loc:60849:63660:strand:+:741:804                  PP ...9***************996269999***********************99.*.****999888765
+#=GC PP_cons                                                                                     ...899*9*************9.9***.**********************999.9.999****999876
+#=GC RF                                                                                          ...xxxxxxxxxxxxxxxxxxx.xxxx.xxxxxxxxxxxxxxxxxxxxxxxxx.x.xxxxxxxxxxxxx
+//

@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+BGC0000691.1_ORF2:gid:acbZ:pid:CAJ81018.1:loc:1727:5039:strand:+:977:1101            t-SRAGWASRDTVVWNtgvgstlqpvgGG...TD.GR.VYELAYAPVGGITVVGGELAGAYRTLRLTAQrdGLTESQRVRFPKLWRYGAFRV.ADAdrH.RLATALR.GQVVITERDASGKLLAATGVGAAG----dl
+#=GR BGC0000691.1_ORF2:gid:acbZ:pid:CAJ81018.1:loc:1727:5039:strand:+:977:1101    PP 6.79************5554444443333...44.45.7*****************************999*********************.854347.8******.********************9887....77
+BGC0000691.1_ORF22:gid:acbE:pid:CAJ81030.1:loc:28301:31418:strand:-:924:1038         r-ADAVRVDRDTIAWQtgtpdtlepagAA...TD.GR.VYDLVHAPNGGLRLVDGDLAGDYRSIRLTAQrdGLTEKQRRQAPELWQYPAFQA.AAA..-.--LPSGD.GQFYVTERDAQGRLMSVTGV--------r.
+#=GR BGC0000691.1_ORF22:gid:acbE:pid:CAJ81030.1:loc:28301:31418:strand:-:924:1038 PP 5.89************5555544443222...33.34.799*************999***********999*******************98.776......45678.*******************9........8.
+BGC0001006.1_ORF7:gid::pid:ABP55498.1:loc:16072:18913:strand:-:76:192                r-QKAHWIDRGTLAWP...........TG...PPgGT.TYALVAAASGGVTIVDGELAGTYRTVPLRVRhhGLTKAQRERFPHLAAYQALVL.DRKhlA.GVPAALR.GQLVVTERDTDGTLRVATGVQVPGVLDD..
+#=GR BGC0001006.1_ORF7:gid::pid:ABP55498.1:loc:16072:18913:strand:-:76:192        PP 6.79************...........88...76156.999**************9***********9999*********************.987334.6******.***************************9..
+BGC0000804.1_ORF1:gid:scatZ2:pid:EHN79423.1:loc:0:4860:strand:-:926:1042             .KAQAQWIDTDTVALP...........PSmnvKA.AA.STQLVYSRDGGITVDDGALSSEGRWLRLLPA..QLTESQKAAYPHLKAYTAYTVdPRD..RdRVRDALF.GQLILTQRLANGALATATGVQIQGVLDD..
+#=GR BGC0000804.1_ORF1:gid:scatZ2:pid:EHN79423.1:loc:0:4860:strand:-:926:1042     PP .69*************...........6633345.77.9******************************..*********************5566..526******.***************************9..
+BGC0000804.1_ORF2:gid:scatZ1:pid:EHN79424.1:loc:4856:7985:strand:-:919:1028          a-SAATWIDENTVVWH...........GT...GT.GVaAQQLVYAADGGLTLRDGVLSDEGQWLRLVPT..ELSAAQQAAHPELADTTAFSIdPRD..RdRIPEARRaKQLIATQRSDNGALLGATSV--------ta
+#=GR BGC0000804.1_ORF2:gid:scatZ1:pid:EHN79424.1:loc:4856:7985:strand:-:919:1028  PP 7.689***********...........98...76.552788*************99*************..*********************5566..526999987469****************98........89
+#=GC PP_cons                                                                         .689************...........66...55.55.899**************9*************..*********************.766..5.7*99999.9******************9*999***9..
+#=GC RF                                                                              .xxxxxxxxxxxxxxx...........xx...xx.xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxx.xxx..x.xxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

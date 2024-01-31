@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+BGC0000026.1_ORF16:gid:aviX10:pid:AAK83174.1:loc:11095:11506:strand:+:31:118         ...............ilef-----------------------------------NMLHLYPGKVRGLHYHPHFVEYLLFVEGSGVLITKDDAED.............-PNCKEEf..ihVSRGVCTRTPAGVMHSVHAI--SSLTFI-----------------------------------------amltkpwde...
+#=GR BGC0000026.1_ORF16:gid:aviX10:pid:AAK83174.1:loc:11095:11506:strand:+:31:118 PP ...............9875...................................68999**************************666665553..............3333335..57*******************9..344333.........................................34567899*...
+BGC0000285.1_ORF7:gid::pid:AAL78055.1:loc:5451:5991:strand:+:15:143                  ...vagaqdvtfkvtgehs------------------------------RAASSFEVVVPPGFDVGAHVHTRSEELFYVLDGELD-LLAFEPVTrsgdn...wreweSDTGQRVl...rAGPGSVMFVPPGCPHAFANSSGAPAKMFFQSSPPTH---------------------------------heryfeelieil
+#=GR BGC0000285.1_ORF7:gid::pid:AAL78055.1:loc:5451:5991:strand:+:15:143          PP ...*999999888776655..............................5678888999**************************.777766667888*...***9644444447...7899*****************9999999987665555.................................456778889999
+BGC0001083.1_ORF18:gid:mcl18:pid:AGH68903.1:loc:22145:22706:strand:+:8:136           pghgrklitkaqevtfkat-------------------------K-AQGSSVSIFEVVVPPGFDVGAHTHKDSQEFFYVLEGELQ-LLAFEPTRrtgds...whdweSPDGDKAv...rAAEGACMFVPSGVPHAFRNASDAPARMLFQ---------------------------------------cypspyheyyfe
+#=GR BGC0001083.1_ORF18:gid:mcl18:pid:AGH68903.1:loc:22145:22706:strand:+:8:136   PP **99988765554443333.........................3.5678899999999**************************.777777667****...*****99999987...7889*********************999876.......................................5667777899**
+BGC0000902.1_ORF1:gid::pid:CAM00566.1:loc:0:540:strand:-:15:143                      ...vagaqdvtfkvtgehs------------------------------RAASSFEVVVPPGFDVGAHVHTRSEELFYVLDGELD-LLAFEPVTrsgdn...wreweSDTGQRVl...rAGPGSVMFVPPGCPHAFANSSGAPAKMFFQSSPPTH---------------------------------heryfeelieil
+#=GR BGC0000902.1_ORF1:gid::pid:CAM00566.1:loc:0:540:strand:-:15:143              PP ...*999999888776655..............................5678888999**************************.777766667888*...***9644444447...7899*****************9999999987665555.................................456778889999
+BGC0000168.1_ORF3:gid::pid:ADI24942.1:loc:4972:5647:strand:+:63:150                  ...............tqls------------------------------------------------HYHSKAHECMAVLSGTAKIRFGVADTSddlyqntrassweE-----GgveleAEAGDVFIIPAGVAHKTYDT--KPEAE------------------------------------------fklltpgtghgi
+#=GR BGC0000168.1_ORF3:gid::pid:ADI24942.1:loc:4972:5647:strand:+:63:150          PP ...............9976................................................*****************999988888767887766554433.....045666***************99988..55555..........................................5667889999**
+#=GC PP_cons                                                                         ............................................3.5676788889999**************************777777766.............5555554.....99*****************99977777787665555.............................................
+#=GC RF                                                                              ...................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.............xxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx............
+
+BGC0000026.1_ORF16:gid:aviX10:pid:AAK83174.1:loc:11095:11506:strand:+:31:118         ..
+#=GR BGC0000026.1_ORF16:gid:aviX10:pid:AAK83174.1:loc:11095:11506:strand:+:31:118 PP ..
+BGC0000285.1_ORF7:gid::pid:AAL78055.1:loc:5451:5991:strand:+:15:143                  qa
+#=GR BGC0000285.1_ORF7:gid::pid:AAL78055.1:loc:5451:5991:strand:+:15:143          PP 99
+BGC0001083.1_ORF18:gid:mcl18:pid:AGH68903.1:loc:22145:22706:strand:+:8:136           e.
+#=GR BGC0001083.1_ORF18:gid:mcl18:pid:AGH68903.1:loc:22145:22706:strand:+:8:136   PP *.
+BGC0000902.1_ORF1:gid::pid:CAM00566.1:loc:0:540:strand:-:15:143                      qa
+#=GR BGC0000902.1_ORF1:gid::pid:CAM00566.1:loc:0:540:strand:-:15:143              PP 99
+BGC0000168.1_ORF3:gid::pid:ADI24942.1:loc:4972:5647:strand:+:63:150                  ..
+#=GR BGC0000168.1_ORF3:gid::pid:ADI24942.1:loc:4972:5647:strand:+:63:150          PP ..
+#=GC PP_cons                                                                         ..
+#=GC RF                                                                              ..
+//

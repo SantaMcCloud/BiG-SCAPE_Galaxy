@@ -1,0 +1,53 @@
+# STOCKHOLM 1.0
+
+BGC0000731.1_ORF3:gid:wzi:pid:BAF47026.1:loc:3029:4469:strand:+:85:471         lsal----KADFRVTGYTSTDQPGTPQGFGQTQPADNSLGLAFN---NSGEWWDVHLQGNVEGGERIsNGSRFNANGAYGAVKFWNQWLSFGQVPQWWGPGYEGSLIRGDAMRPMTGFLMQraEQAAPETWWLRWVGPWQYQISASQMNQYTAVPHAK-IIGGRFTFSPIQSLELGASRIMQWGGKGRPESLSNFWDGLT
+#=GR BGC0000731.1_ORF3:gid:wzi:pid:BAF47026.1:loc:3029:4469:strand:+:85:471 PP 8765....6678999*****************************...******************9999*****************************************************99**********************************.*****************************************
+BGC0000729.1_ORF3:gid:wzi:pid:BAF46995.1:loc:3027:4461:strand:+:85:469         lsal----KADFRVTGYTSTDQPGNPQGFGQTQPADNSLGLAFN---NSGEWWDIHLQGNVEGGERIsNGSRFNANGAYGAVKFWNQWLSFGQVPQWWGPGYEGSLIRGDAARPMTGFLMQraEQAAPETWWLRWIGPWQYQISASQMNQYTAVPHTK-IIGGRLTFSPFQSLELGASRIMQWGGEGRPQSFSSFWDGFT
+#=GR BGC0000729.1_ORF3:gid:wzi:pid:BAF46995.1:loc:3027:4461:strand:+:85:469 PP 8765....6678999*****************************...******************9999*****************************************************99**********************************.*****************************************
+BGC0000732.1_ORF3:gid:wzi:pid:BAF47041.1:loc:3028:4468:strand:+:85:471         lsal----KADFRVTGYTSTDQPGTPQGFGQTQPADNSLGLAFN---NSGEWWDVHLQGNVEGGERIsNGSRFNANGAYGAVKFWNQWLSFGQVPQWWGPGYEGSLIRGDAMRPMTGFLMQraEQAAPEIWWLRWVGPWQYQISASQMNQYAVIPHTK-IIGGRFTFSPFQSLELGASRIMQWGGEGRPESFSSFWNGLT
+#=GR BGC0000732.1_ORF3:gid:wzi:pid:BAF47041.1:loc:3028:4468:strand:+:85:471 PP 8765....6678999*****************************...******************9999*****************************************************99**********************************.*****************************************
+BGC0000730.1_ORF3:gid:wzi:pid:BAF47011.1:loc:5161:6601:strand:+:85:471         lsal----KADFRVTGYTSTDQPGTPQGFGQTQPADNSLGLAFN---NSGEWWDVHLQGNVEGGERIsNGSRFNANGAYGAVKFWNQWLSFGQVPQWWGPGYEGSLIRGDAMRPMTGFLMQraEQAAPETWWLRWVGPWQYQISASQMNQYTAVPHAK-IIGGRFTFSPIQSLELGASRIMQWGGKGRPESLSNFWDGLT
+#=GR BGC0000730.1_ORF3:gid:wzi:pid:BAF47011.1:loc:5161:6601:strand:+:85:471 PP 8765....6678999*****************************...******************9999*****************************************************99**********************************.*****************************************
+BGC0000749.1_ORF3:gid::pid:AAN52285.1:loc:3670:5110:strand:+:85:471            lsal----KADFRVTGYTSTDQPGTPQGFGQTQPADNSLGLAFN---NSGEWWDVHLQGNVEGGERIsNGSRFNANGAYGAVKFWNQWLSFGQVPQWWGPGYEGSLIRGDAMRPMTGFLMQraEQAAPETWWLRWVGPWQYQISASQMNQYNAVPHAK-IIGGRFTFSPIQSLELGASRIMQWGGKGRPESLSNFWDGLT
+#=GR BGC0000749.1_ORF3:gid::pid:AAN52285.1:loc:3670:5110:strand:+:85:471    PP 8765....6678999*****************************...******************9999*****************************************************99**********************************.*****************************************
+BGC0000728.1_ORF3:gid:wzi:pid:BAF46979.1:loc:3026:4460:strand:+:85:469         lsal----KADFRVTGYTSTDQPGTPQGFGQTQPADNSLGLAFN---NSGEWWDIHLQGNVEGGERIsNGSRFNANGAYGAVKFWNQWLSFGQVPQWWGPGYEGSLIRGDAARPMTGFLMQraEQAAPETWWLRWIGPWQYQISASQMNQYTAVPHTK-IIGGRLTFSPFQSLELGASRIMQWGGEGRPQSFSSFWDGFT
+#=GR BGC0000728.1_ORF3:gid:wzi:pid:BAF46979.1:loc:3026:4460:strand:+:85:469 PP 8765....6678999*****************************...******************9999*****************************************************99**********************************.*****************************************
+BGC0000733.1_ORF3:gid:wzi:pid:BAF47058.1:loc:3029:4469:strand:+:85:471         lsal----KADFRVTGYTSTDQPGTPQGFGQTQPADNSLGLAFN---NSGEWWDIHLQGNVEGGERIsNGSRFNANGAYGAVKFWNQWLSFGQVPQWWGPGYEGSLIRGDAMRPMTGFLMQraEQAAPETWWLRWVGPWQYQISASQMNQYAVIPHTK-IIGGRFTFSPFQSLELGASRIMQWGGEGRPESFSSFWNGLT
+#=GR BGC0000733.1_ORF3:gid:wzi:pid:BAF47058.1:loc:3029:4469:strand:+:85:471 PP 8765....6678999*****************************...******************9999*****************************************************99**********************************.*****************************************
+#=GC PP_cons                                                                   ........6678999*****************************...******************99.9****************************************************..9**********************************.*****************************************
+#=GC RF                                                                        ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000731.1_ORF3:gid:wzi:pid:BAF47026.1:loc:3029:4469:strand:+:85:471         GKD--NTAANDPNEPGNQLAGFDFKFKLEPTlGWPVSFYGQMIGEDESG-FLPSANMFLGGIEGHHGWGKDAVNWYLEAHDT---RTNMSRTNYSYTHHIYKDGYYQQGYPLGDAMGGDGQLVAGKVELITEDNQRWSTRLVYAKVNPENQ..SinKAFPHADTLKGIQLGWSGDVYQSVRLNTSLWYTNANNSDSDDVG
+#=GR BGC0000731.1_ORF3:gid:wzi:pid:BAF47026.1:loc:3029:4469:strand:+:85:471 PP *66..777777788**************9999*****************.*******************************9...99999*************************************************************..556***************************************99876
+BGC0000729.1_ORF3:gid:wzi:pid:BAF46995.1:loc:3027:4461:strand:+:85:469         GQD----NTGTDNEPGNQLAGFDFKFKLEPTlGWPISVYGQMVGEDEAG-YLPSANMYLAGVEGHHAWGKNAVNWYVETHDT---RDDRSRTDYIYTHHIYKDGYYQQGYPLGDAMGGDGQLVAGKVELVTEDNQRWSTRLVYAKVNPENQliN..KAFPHSDTLKGVQLGWSGDVYKSVRLNTNLWYTNADNSDSDD--
+#=GR BGC0000729.1_ORF3:gid:wzi:pid:BAF46995.1:loc:3027:4461:strand:+:85:469 PP **9....*********************9999*****************.*******************************9...999999************************************************************655..*************************************99987..
+BGC0000732.1_ORF3:gid:wzi:pid:BAF47041.1:loc:3028:4468:strand:+:85:471         GKD--NTSANDPNEPGNQLAGFDFKYKLEPTlGWPISFYGQLIGEDEAG-FLPSANMYLGGIEGHHGWGKDAINWYLEAHDT---RTNMSRTGYSYWHHLYTDGYYQQGYSLGDAMGGDGQLFAGKIELITEDNQRWSSRLVYAKVNPESQ..SinKAFPHADTLKGIQLGWSGDVYRSVRINTSLWYTNANNSDSDDVG
+#=GR BGC0000732.1_ORF3:gid:wzi:pid:BAF47041.1:loc:3028:4468:strand:+:85:471 PP *55..999999999**************9999*****************.*******************************9...99999**********************************************************999..556***************************************99876
+BGC0000730.1_ORF3:gid:wzi:pid:BAF47011.1:loc:5161:6601:strand:+:85:471         GKD--NTAANDPNEPGNQLAGFDFKFKLEPTlGWPVSFYGQMIGEDESG-FLPSANMFLGGIEGHHGWGKDAVNWYLEAHDT---RTNMSRTNYSYTHHIYKDGYYQQGYPLGDAMGGDGQLVAGKVELITEDNQRWSTRLVYAKVNPENQ..SinKAFPHADTLKGIQLGWSGDVYQSVRLNTSLWYTNANNSDSDDVG
+#=GR BGC0000730.1_ORF3:gid:wzi:pid:BAF47011.1:loc:5161:6601:strand:+:85:471 PP *66..777777788**************9999*****************.*******************************9...99999*************************************************************..556***************************************99876
+BGC0000749.1_ORF3:gid::pid:AAN52285.1:loc:3670:5110:strand:+:85:471            GKD--NTAANDPNEPGNQLAGFDFKFKLEPTlGWPVSFYGQMIGEDESG-FLPSANMFLGGIEGHHGWGKDAVNWYLEAHDT---RTNMSRTNYSYTHHIYKDGYYQQGYPLGDAMGGDGQLVAGKVELITEDNQRWSTRLVYAKVNPENQ..SinKAFPHADTLKGIQLGWSGDVYQSVRLNTSLWYTNANNSDSDDVG
+#=GR BGC0000749.1_ORF3:gid::pid:AAN52285.1:loc:3670:5110:strand:+:85:471    PP *66..777777788**************9999*****************.*******************************9...99999*************************************************************..556***************************************99876
+BGC0000728.1_ORF3:gid:wzi:pid:BAF46979.1:loc:3026:4460:strand:+:85:469         GQD----NTGTDNEPGNQLAGFDFKFKLEPTlGWPISVYGQMVGEDEAG-YLPSANMYLAGVEGHHAWGKNAVNWYVETHDT---RDDRSRTDYIYTHHIYKDGYYQQGYPLGDAMGGDGQLVAGKVELVTEDNQRWSTRLVYAKVNPENQliN..KAFPHSDTLKGVQLGWSGDVYKSVRLNTNLWYTNADNSDSDD--
+#=GR BGC0000728.1_ORF3:gid:wzi:pid:BAF46979.1:loc:3026:4460:strand:+:85:469 PP **9....*********************9999*****************.*******************************9...999999************************************************************655..*************************************99987..
+BGC0000733.1_ORF3:gid:wzi:pid:BAF47058.1:loc:3029:4469:strand:+:85:471         GKD--NTSANDPNEPGNQLAGFDFKYKLEPTlGWPISFYGQLIGEDEAG-FLPSANMYLGGIEGHHGWGKNALNWYLEAHDT---RTNMSRTGYSYWHHLYTDGYYQQGYSLGDAMGGDGQLLAGKVELITEDNQRWSSRLVYAKVNPENQpiN..KAFPHADTLKGVQLGWSGDVYQSVRLNTSLWYTNANNSDSDD--
+#=GR BGC0000733.1_ORF3:gid:wzi:pid:BAF47058.1:loc:3029:4469:strand:+:85:471 PP *55..999999999**************9999*****************.*******************************9...99999*************************************************************866..*************************************99987..
+#=GC PP_cons                                                                   *77..888899999**************999.*****************.*******************************9...99999*************************************************************..5..**************************************999876
+#=GC RF                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..x..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000731.1_ORF3:gid:wzi:pid:BAF47026.1:loc:3029:4469:strand:+:85:471         A----sa...
+#=GR BGC0000731.1_ORF3:gid:wzi:pid:BAF47026.1:loc:3029:4469:strand:+:85:471 PP 5....68...
+BGC0000729.1_ORF3:gid:wzi:pid:BAF46995.1:loc:3027:4461:strand:+:85:469         -----igasa
+#=GR BGC0000729.1_ORF3:gid:wzi:pid:BAF46995.1:loc:3027:4461:strand:+:85:469 PP .....66789
+BGC0000732.1_ORF3:gid:wzi:pid:BAF47041.1:loc:3028:4468:strand:+:85:471         A----sa...
+#=GR BGC0000732.1_ORF3:gid:wzi:pid:BAF47041.1:loc:3028:4468:strand:+:85:471 PP 5....68...
+BGC0000730.1_ORF3:gid:wzi:pid:BAF47011.1:loc:5161:6601:strand:+:85:471         A----sa...
+#=GR BGC0000730.1_ORF3:gid:wzi:pid:BAF47011.1:loc:5161:6601:strand:+:85:471 PP 5....68...
+BGC0000749.1_ORF3:gid::pid:AAN52285.1:loc:3670:5110:strand:+:85:471            A----sa...
+#=GR BGC0000749.1_ORF3:gid::pid:AAN52285.1:loc:3670:5110:strand:+:85:471    PP 5....68...
+BGC0000728.1_ORF3:gid:wzi:pid:BAF46979.1:loc:3026:4460:strand:+:85:469         -----igasa
+#=GR BGC0000728.1_ORF3:gid:wzi:pid:BAF46979.1:loc:3026:4460:strand:+:85:469 PP .....66789
+BGC0000733.1_ORF3:gid:wzi:pid:BAF47058.1:loc:3029:4469:strand:+:85:471         -----igasa
+#=GR BGC0000733.1_ORF3:gid:wzi:pid:BAF47058.1:loc:3029:4469:strand:+:85:471 PP .....66789
+#=GC PP_cons                                                                   5.........
+#=GC RF                                                                        xxxxx.....
+//

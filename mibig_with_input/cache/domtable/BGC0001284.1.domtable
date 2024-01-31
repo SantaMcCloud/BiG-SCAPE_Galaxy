@@ -1,0 +1,19 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.30   252 BGC0001284.1_ORF1:gid::pid:AKN45693.1:loc:0:5292:strand:+ -           1763   8.2e-79  265.0   0.0   1   1   4.5e-82   1.6e-78  264.0   0.0     2   252   391   639   390   639 0.96 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.25   319 BGC0001284.1_ORF1:gid::pid:AKN45693.1:loc:0:5292:strand:+ -           1763     2e-43  149.2   0.0   1   1   1.6e-46   5.6e-43  147.8   0.0     2   305   922  1228   921  1239 0.93 Acyl transferase domain
+SAT                  PF16073.9    239 BGC0001284.1_ORF1:gid::pid:AKN45693.1:loc:0:5292:strand:+ -           1763   4.4e-42  144.5   0.0   1   1   7.3e-45   2.5e-41  142.0   0.0     4   234    20   253    19   261 0.94 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Ketoacyl-synt_C      PF02801.26   119 BGC0001284.1_ORF1:gid::pid:AKN45693.1:loc:0:5292:strand:+ -           1763   1.2e-30  106.2   1.7   1   1   7.5e-34   2.6e-30  105.1   1.7     2   118   648   768   647   769 0.95 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.29    67 BGC0001284.1_ORF1:gid::pid:AKN45693.1:loc:0:5292:strand:+ -           1763   1.5e-10   41.4   4.3   1   1   1.2e-13   4.3e-10   39.9   4.3     4    67  1699  1762  1696  1762 0.94 Phosphopantetheine attachment site
+PS-DH                PF14765.10   164 BGC0001284.1_ORF1:gid::pid:AKN45693.1:loc:0:5292:strand:+ -           1763   4.1e-06   26.7   0.0   1   1     5e-09   1.7e-05   24.6   0.0    31   140  1481  1587  1464  1595 0.87 Polyketide synthase dehydratase N-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001284.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001284.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001284.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:30:15 2024
+# [ok]

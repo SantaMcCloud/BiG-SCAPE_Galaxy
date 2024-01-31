@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+BGC0000270.1_ORF37:gid::pid:AAL15616.1:loc:36862:38305:strand:-:26:401         ad--ALRTETVGGVLLLVATVTALVWANIPaLQHSYEAVSHFHFGPSALGLN--LSVAHWAADGLLAVFFFVAGIELKRELVAGDLRDPRAAVLPVVAALCGMAVPALVYTLTNLTGHGsTQGWAVPTATDIAFALAVLAVIGTSLPSALRAFLLTLAVVDDLFAILIIAIFFTERINFAALGGAVAGLAVFWLLLRKGV
+#=GR BGC0000270.1_ORF37:gid::pid:AAL15616.1:loc:36862:38305:strand:-:26:401 PP 85..789**********************8799**********999976665..***********************************************************9666655********************************************************************************
+BGC0000093.1_ORF1:gid::pid:ADC45511.1:loc:0:1337:strand:-:23:425               .r-DFLRTETGSAAVLVTAAFAALIWANLT.-PSAYEAFWHTHLSLRLGSHGIALNLREWVNSGLMTVFFFVVGLEARREFDMGELRERSRLALPVAAGLCGMLVPVALYLTINAGHAS.AQGWGAAMSTDTAFALGILAVVGRHMPSSLRVFILTITVVDDFLALAVIAIAYSSDLSVPALLVAVGTFAVVLLVRRLGV
+#=GR BGC0000093.1_ORF1:gid::pid:ADC45511.1:loc:0:1337:strand:-:23:425       PP .5.79***********************97..99*************************************************************************************.********************************************************************************
+#=GC PP_cons                                                                   ...789**********************98.999***********9988887**************************************************************88888.********************************************************************************
+#=GC RF                                                                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000270.1_ORF37:gid::pid:AAL15616.1:loc:36862:38305:strand:-:26:401         RGWYVYVPLAVVVWALMYNSGVHATIAGVAMGLMLRCTTREGEEH..............................SPGEHIEHLVRPLSAGLAVPLFALFSAGVVVSGGALGDVFTEPETLGVVLGLVVGKTLGIFGSTWLTARFTHAELSEDLEWADIFAVASLAGIGFTVSLLIGELAFAGDTllTDEVKAAVLTGSL
+#=GR BGC0000270.1_ORF37:gid::pid:AAL15616.1:loc:36862:38305:strand:-:26:401 PP *********************************************..............................***********************************************************************************************************944579************
+BGC0000093.1_ORF1:gid::pid:ADC45511.1:loc:0:1337:strand:-:23:425               RRGAVYAVLAVVAWVAMLESGVDPVVIGLAMGLLTYAYPAARSDLeratglfrlfreqptpelersvraglasaiSPNDRLQQIFHPWAGYVIVPLFALANAGIPISGEQLSRAFSSPVTLGILLGYTLGKPIGVIGASALTTWLSRGRIRLPVGWGALAVGGSLSGVGFTVSLLIATLAFHGTG..LQDAKIGILSAVL
+#=GR BGC0000093.1_ORF1:gid::pid:ADC45511.1:loc:0:1337:strand:-:23:425       PP ***********************************99775544437789*************************************************************************************************************************************988..*************
+#=GC PP_cons                                                                   *************************************98777777..............................***********************************************************************************************************966..*************
+#=GC RF                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..............................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxx
+
+BGC0000270.1_ORF37:gid::pid:AAL15616.1:loc:36862:38305:strand:-:26:401         IAALCATVLL.
+#=GR BGC0000270.1_ORF37:gid::pid:AAL15616.1:loc:36862:38305:strand:-:26:401 PP ******9986.
+BGC0000093.1_ORF1:gid::pid:ADC45511.1:loc:0:1337:strand:-:23:425               CSFLISWLI-t
+#=GR BGC0000093.1_ORF1:gid::pid:ADC45511.1:loc:0:1337:strand:-:23:425       PP *****9975.9
+#=GC PP_cons                                                                   *****99866.
+#=GC RF                                                                        xxxxxxxxxx.
+//

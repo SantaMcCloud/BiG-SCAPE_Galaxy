@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+
+BGC0000048.1_ORF4:gid:DS31:pid:ABS57482.1:loc:12029:12776:strand:-:2:76          ...sf--GTVYTRAGNPRTIAIRAVAVENNLDIDYQNVGPAKGVG--QEYLALNPLGKVPTLVRSdGFVLTECIAINLYLAQ..
+#=GR BGC0000048.1_ORF4:gid:DS31:pid:ABS57482.1:loc:12029:12776:strand:-:2:76  PP ...98..699*****************988888888888766643..89**************999**************96..
+BGC0000077.1_ORF2:gid:hpm2:pid:ACD39761.1:loc:4871:5661:strand:+:1:74            .....MVIKLYGSAM--STARVLVTLLEKELPYEHILVDISKGDQNKEEYLKLQPFGKVPVLDDN.GFIMYESRAICRYLAR..
+#=GR BGC0000077.1_ORF2:gid:hpm2:pid:ACD39761.1:loc:4871:5661:strand:+:1:74    PP .....7899*****9..999*********************************************.**************97..
+BGC0000011.1_ORF4:gid::pid:ACI31323.1:loc:7026:7839:strand:-:2:76                sfgvf-----YTRPFNPRSLSILAVAKANNLALEVKTITS--STEAPEEYLQVNPLGKIPTFVGSdGYVLTESIAIAVYVA-s.
+#=GR BGC0000011.1_ORF4:gid::pid:ACI31323.1:loc:7026:7839:strand:-:2:76        PP 99875.....777899***********************8..44566*****************99*************98.5.
+BGC0001026.1_ORF2:gid::pid:ACS68552.1:loc:1263:2002:strand:-:3:78                ...pf--GKIYSFMPNGRVFKIMAAAKLNNLDIEVADYQ-HMVTNKSAGFLEKFPLGKVPAFEGVdGLCLFESDAIARYIA-a.
+#=GR BGC0001026.1_ORF2:gid::pid:ACS68552.1:loc:1263:2002:strand:-:3:78        PP ...98..589*****************************.8999*******************988**************8.7.
+BGC0000152.1_ORF14:gid:stcT:pid:AAC49204.1:loc:48577:49291:strand:+:2:75         ...pf--GTLYTRPFNPRSLAILAIAKANNLPLKIKTITS--FKDATEEYLQLNPLGKIPTFVGAdGYVLTESIAIALY---ds
+#=GR BGC0000152.1_ORF14:gid:stcT:pid:AAC49204.1:loc:48577:49291:strand:+:2:75 PP ...98..69******************************7..66777*****************99***********99...9*
+BGC0000076.1_ORF2:gid:hpm2:pid:ACD39752.1:loc:3003:3793:strand:+:1:74            .....MVIKLYGSAM--STARVLVTLLEKELPYEHILVDISKGDQNKEEYLKLQPFGKVPVLDDN.GFIMYESRAICRYLAR..
+#=GR BGC0000076.1_ORF2:gid:hpm2:pid:ACD39752.1:loc:3003:3793:strand:+:1:74    PP .....7899*****9..999*********************************************.**************97..
+BGC0001271.1_ORF4:gid::pid:CBF90092.1:loc:6100:6899:strand:+:2:69                ...sf--GTLYTHNPTPRSTTLIALAKLHNLDVKIIHAE-KKNKEAFEELCRYNPLGQVPTFVGAdGFVLSE----------ci
+#=GR BGC0001271.1_ORF4:gid::pid:CBF90092.1:loc:6100:6899:strand:+:2:69        PP ...88..69*********999999999************.6777777*****************98999988..........78
+BGC0001245.1_ORF2:gid:lasG:pid:AHV78243.1:loc:4007:4775:strand:-:1:74            .....MVLKLYGSAM--STSRVLVTILEKELPYEFIRIDIAKGDQKSEEYMKLQPFGKVPVLDDD.GFVMFESRAICKYLDR..
+#=GR BGC0001245.1_ORF2:gid:lasG:pid:AHV78243.1:loc:4007:4775:strand:-:1:74    PP .....789*******..999*********************************************.**************97..
+#=GC PP_cons                                                                     .....787999999***99********************98988888*****************9.**************96..
+#=GC RF                                                                          .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx..
+//

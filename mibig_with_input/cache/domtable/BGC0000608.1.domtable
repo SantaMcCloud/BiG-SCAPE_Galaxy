@@ -1,0 +1,16 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+BATS                 PF06968.17    88 BGC0000608.1_ORF1:gid::pid:ADH93698.1:loc:304:1498:strand:- -            397   3.7e-06   27.2   0.1   1   1     4e-10   8.3e-06   26.1   0.1     1    84   276   376   276   380 0.77 Biotin and Thiamin Synthesis associated domain
+Radical_SAM          PF04055.25   167 BGC0000608.1_ORF3:gid::pid:ADH93700.1:loc:2257:3433:strand:+ -            391   4.2e-19   69.5   0.0   1   1     3e-23   6.2e-19   69.0   0.0     1   166     5   186     5   187 0.88 Radical SAM superfamily
+Lant_dehydr_C        PF14028.10   255 BGC0000608.1_ORF4:gid::pid:ADH93701.1:loc:3429:4371:strand:+ -            313   6.3e-06   26.7   0.0   1   1   1.2e-09   2.5e-05   24.8   0.0   106   254    96   294    85   295 0.70 Lantibiotic biosynthesis dehydratase C-term
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000608.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000608.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000608.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:17:05 2024
+# [ok]

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF975:gid::pid::loc:1149532:1150276:strand:+:12:242         s-KKPIIAMIHLK---GDT-----PEDIFERAKKEITIFEENGVDGIMLENYYGNYYDLE----------RILEYVsKANLSIPYGVNCLNVDTM-GFELATKYNASYIQVDSVVGHVKpRD----EATLEEFFKLQRS-KCPAYLIGGVRFKYQPVLSENDVEEDLKIG--MTRCDAIAVTENATGQETSMEKIELFRK
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF975:gid::pid::loc:1149532:1150276:strand:+:12:242 PP 7.799******98...444.....478**************************9999766..........55555514689*********98876.6***************9988544045....5555678887764.89999*********************9976..5668*********************988
+GCF_000011105.1_ORF1129:gid::pid:WP_010885295.1:loc:1088509:1089289:strand:+:4:255             n-NKPLIGVVHLPPLPGSPGYKGELDEVIDRAISDAAKYQEAGFDAIILENYGDFPYSKTVGKETVSAFSVVANEV.KREIALPLGINVLRNDCIAAYSIAYSIKADFIRVNVLTGVAF.TDQGIVEGCARELAELRTRLPSRIDVLADVHVKHATHFSN--FENALLDTIERGGADAVIVTGSRTGSEVDIQELITAKR
+#=GR GCF_000011105.1_ORF1129:gid::pid:WP_010885295.1:loc:1088509:1089289:strand:+:4:255     PP 7.79************************************************************************.******************************************.**************************************99..**************************************
+#=GC PP_cons                                                                                   ..79********9***777*****789****************************99988**********788888.789***********9998*8****************999877.77****7888899999887*999************************988**8889**********************99
+#=GC RF                                                                                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF975:gid::pid::loc:1149532:1150276:strand:+:12:242         NLGdFPLVIAAGVTLENAKKQLELGDMAIIGSYFKDNYKDFGNVSVEHVKTFMDEIK-k
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF975:gid::pid::loc:1149532:1150276:strand:+:12:242 PP 8877*************************************************9886.5
+GCF_000011105.1_ORF1129:gid::pid:WP_010885295.1:loc:1088509:1089289:strand:+:4:255             ISP.VPVLVGSGVNPRNIKLFWRYSDGFIVGTWVKEGGRTINEVSIERATKLAKLVK-s
+#=GR GCF_000011105.1_ORF1129:gid::pid:WP_010885295.1:loc:1088509:1089289:strand:+:4:255     PP ***.************************************************99886.7
+#=GC PP_cons                                                                                   998.************************************************99886..
+#=GC RF                                                                                        xxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

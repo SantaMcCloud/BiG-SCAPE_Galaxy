@@ -1,0 +1,159 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="457.43333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="447.43333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>tcmR
+tetracenomycin C resistance and export gene repressor</title>
+			<polygon class="tcmR
+tetracenomycin C resistance and export gene repressor" points="11,40 33,10 33,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_C_14 (PF17754)
+"MftR C-terminal domain"</title>
+				<polygon class="PF17754" points="15,40 24,28 24,28 24,52 24,52" stroke-linejoin="round" width="12" height="24" fill="rgb(163,49,185)" stroke="rgb(130,39,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="26" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(148,50,185)" stroke="rgb(118,40,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tcmA
+tetracenomycin C resistance and export protein</title>
+			<polygon class="tcmA
+tetracenomycin C resistance and export protein" points="39,25 62,25 62,10 92,40 62,70 62,55 39,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="42,28 76,28 81,33 81,47 76,52 42,52" stroke-linejoin="round" width="39" height="24" fill="rgb(228,207,98)" stroke="rgb(182,165,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tcmP
+O-methyltransferase</title>
+			<polygon class="tcmP
+O-methyltransferase" points="96,40 123,10 123,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LCM (PF04072)
+"Leucine carboxyl methyltransferase"</title>
+				<polygon class="PF04072" points="105,34 111,28 121,28 121,52 111,52 105,46" stroke-linejoin="round" width="16" height="24" fill="rgb(154,184,47)" stroke="rgb(123,147,37)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tcmG
+hydroxylase</title>
+			<polygon class="tcmG
+hydroxylase" points="141,25 167,25 167,10 197,40 167,70 167,55 141,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="141" y="28" stroke-linejoin="round" width="37" height="24" fill="rgb(215,66,156)" stroke="rgb(172,52,124)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Rng_hyd_C (PF21274)
+"Aromatic-ring hydroxylase, C-terminal"</title>
+				<polygon class="PF21274" points="184,32 192,40 184,48" stroke-linejoin="round" width="11" height="24" fill="rgb(153,227,106)" stroke="rgb(122,181,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tcmH
+hydroxylase</title>
+			<polygon class="tcmH
+hydroxylase" points="198,10 209,40 198,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABM (PF03992)
+"Antibiotic biosynthesis monooxygenase"</title>
+				<polygon class="PF03992" points="199,28 201,28 206,40 206,40 201,52 199,52" stroke-linejoin="round" width="7" height="24" fill="rgb(211,55,142)" stroke="rgb(168,44,113)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tcmI</title>
+			<polygon class="tcmI" points="209,10 220,40 209,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cyclase_polyket (PF04673)
+"Polyketide synthesis cyclase"</title>
+				<polygon class="PF04673" points="209,28 212,28 216,40 212,52 209,52" stroke-linejoin="round" width="10" height="24" fill="rgb(97,206,162)" stroke="rgb(77,164,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tcmJ</title>
+			<polygon class="tcmJ" points="220,10 235,40 220,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cupin_2 (PF07883)
+"Cupin domain"</title>
+				<polygon class="PF07883" points="225,28 225,28 231,40 225,52 225,52" stroke-linejoin="round" width="7" height="24" fill="rgb(191,63,205)" stroke="rgb(152,50,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tcmK
+tetracenomycin polyketide synthase condensing enzyme</title>
+			<polygon class="tcmK
+tetracenomycin polyketide synthase condensing enzyme" points="235,25 247,25 247,10 277,40 247,70 247,55 235,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="235" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="261,28 261,28 272,39 272,41 261,52 261,52" stroke-linejoin="round" width="11" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tcmL</title>
+			<polygon class="tcmL" points="278,25 289,25 289,10 319,40 289,70 289,55 278,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="278" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="303,29 313,39 313,41 303,51" stroke-linejoin="round" width="10" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tcmM
+acyl carrier protein</title>
+			<polygon class="tcmM
+acyl carrier protein" points="321,10 329,40 321,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="321,28 322,28 326,40 322,52 321,52" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tcmN</title>
+			<polygon class="tcmN" points="330,25 349,25 349,10 379,40 349,70 349,55 330,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polyketide_cyc (PF03364)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<rect class="PF03364" x="331" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(87,54,192)" stroke="rgb(69,43,153)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="356,28 363,28 375,40 363,52 356,52" stroke-linejoin="round" width="20" height="24" fill="rgb(91,124,224)" stroke="rgb(72,99,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tcmO
+O-methyltransferase</title>
+			<polygon class="tcmO
+O-methyltransferase" points="383,25 387,25 387,10 417,40 387,70 387,55 383,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dimerisation2 (PF16864)
+"Dimerisation domain"</title>
+				<rect class="PF16864" x="384" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(212,101,199)" stroke="rgb(169,80,159)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="394,28 400,28 412,40 400,52 394,52" stroke-linejoin="round" width="20" height="24" fill="rgb(91,124,224)" stroke="rgb(72,99,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

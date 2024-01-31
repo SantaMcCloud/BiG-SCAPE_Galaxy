@@ -1,0 +1,38 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.30   252 BGC0000252.1_ORF1:gid:nonK:pid:AAD37450.1:loc:248:1526:strand:+ -            425   4.9e-13   49.5   0.2   1   1   2.7e-16   2.8e-12   47.0   0.2    67   252    43   256     8   256 0.75 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0000252.1_ORF1:gid:nonK:pid:AAD37450.1:loc:248:1526:strand:+ -            425   1.2e-11   44.9   0.1   1   1   1.9e-15     2e-11   44.1   0.1     2   118   265   378   264   379 0.95 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.30   252 BGC0000252.1_ORF2:gid:nonJ:pid:AAD37451.1:loc:1515:2796:strand:+ -            426   6.6e-14   52.3   0.1   1   1   4.9e-18     1e-13   51.7   0.1    17   248    26   252    11   255 0.81 Beta-ketoacyl synthase, N-terminal domain
+adh_short_C2         PF13561.10   236 BGC0000252.1_ORF3:gid:nonM:pid:AAD37452.1:loc:2792:4394:strand:+ -            533     4e-54  183.9   8.8   1   2   1.7e-10   8.9e-07   28.9   0.3   118   234   107   221    98   223 0.76 Enoyl-(Acyl carrier protein) reductase
+adh_short_C2         PF13561.10   236 BGC0000252.1_ORF3:gid:nonM:pid:AAD37452.1:loc:2792:4394:strand:+ -            533     4e-54  183.9   8.8   2   2   4.7e-50   2.5e-46  158.4   3.1     1   235   269   502   269   503 0.95 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.29   195 BGC0000252.1_ORF3:gid:nonM:pid:AAD37452.1:loc:2792:4394:strand:+ -            533   1.6e-40  138.9   1.0   1   1   1.1e-42   5.5e-39  133.9   0.1     3   190   265   453   263   458 0.95 short chain dehydrogenase
+KR                   PF08659.14   180 BGC0000252.1_ORF3:gid:nonM:pid:AAD37452.1:loc:2792:4394:strand:+ -            533   9.4e-10   38.9   2.0   1   1   4.5e-13   2.3e-09   37.6   2.0     3   155   265   417   264   446 0.75 KR domain
+adh_short            PF00106.29   195 BGC0000252.1_ORF4:gid:nonE:pid:AAD37453.1:loc:4390:5206:strand:+ -            271   1.9e-42  145.1   0.0   1   1   3.6e-46   2.5e-42  144.8   0.0     2   188    12   198    11   202 0.98 short chain dehydrogenase
+adh_short_C2         PF13561.10   236 BGC0000252.1_ORF4:gid:nonE:pid:AAD37453.1:loc:4390:5206:strand:+ -            271   6.7e-33  114.4   0.1   1   1   1.9e-36   1.3e-32  113.5   0.1     1   226    17   233    17   239 0.93 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.14   180 BGC0000252.1_ORF4:gid:nonE:pid:AAD37453.1:loc:4390:5206:strand:+ -            271   2.3e-07   31.1   0.2   1   1   4.9e-11   3.4e-07   30.5   0.2     3   156    13   166    12   194 0.77 KR domain
+Peptidase_S15        PF02129.22   262 BGC0000252.1_ORF5:gid:nonD:pid:AAC26133.1:loc:5205:6915:strand:+ -            569   1.2e-62  212.2   0.6   1   1   1.4e-66   1.5e-62  211.9   0.6     1   261    17   282    17   283 0.95 X-Pro dipeptidyl-peptidase (S15 family)
+PepX_C               PF08530.14   217 BGC0000252.1_ORF5:gid:nonD:pid:AAC26133.1:loc:5205:6915:strand:+ -            569   1.1e-25   91.1   0.0   1   1   1.5e-29   1.5e-25   90.6   0.0     8   211   331   550   324   556 0.83 X-Pro dipeptidyl-peptidase C-terminal non-catalytic domain
+AMP-binding          PF00501.32   382 BGC0000252.1_ORF6:gid:nonL:pid:AAC26134.1:loc:6911:8579:strand:+ -            555   1.8e-60  205.0   0.2   1   1   2.3e-64   2.4e-60  204.5   0.2     2   381    26   397    25   398 0.84 AMP-binding enzyme
+AMP-binding_C        PF13193.10    76 BGC0000252.1_ORF6:gid:nonL:pid:AAC26134.1:loc:6911:8579:strand:+ -            555   3.2e-14   53.8   0.4   1   1   7.7e-18     8e-14   52.5   0.4     1    76   448   524   448   524 0.93 AMP-binding enzyme C-terminal domain
+ECH_1                PF00378.24   251 BGC0000252.1_ORF7:gid:nonS:pid:AAC26135.1:loc:8575:9469:strand:+ -            297   3.1e-37  128.4   0.0   1   1   3.6e-41   3.8e-37  128.2   0.0     4   250    45   296    42   297 0.87 Enoyl-CoA hydratase/isomerase
+ECH_2                PF16113.9    335 BGC0000252.1_ORF7:gid:nonS:pid:AAC26135.1:loc:8575:9469:strand:+ -            297   4.3e-22   79.2   0.0   1   1   4.7e-26   4.9e-22   79.1   0.0     2   186    48   233    47   290 0.84 Enoyl-CoA hydratase/isomerase
+Abhydrolase_1        PF00561.24   245 BGC0000252.1_ORF8:gid:nonR:pid:AAD37454.1:loc:9704:10544:strand:+ -            279   1.6e-25   90.4   0.0   1   1   1.5e-22   7.7e-19   68.5   0.0     5   139    43   176    41   186 0.93 alpha/beta hydrolase fold
+Abhydrolase_6        PF12697.11   217 BGC0000252.1_ORF8:gid:nonR:pid:AAD37454.1:loc:9704:10544:strand:+ -            279     5e-24   86.3   7.1   1   1   1.1e-27   5.9e-24   86.1   7.1     3   216    43   271    41   272 0.65 Alpha/beta hydrolase family
+Hydrolase_4          PF12146.12   237 BGC0000252.1_ORF8:gid:nonR:pid:AAD37454.1:loc:9704:10544:strand:+ -            279   8.4e-19   68.0   0.0   1   1   2.1e-22   1.1e-18   67.6   0.0     7   230    41   259    35   265 0.83 Serine aminopeptidase, S33
+Amidohydro_2         PF04909.18   286 BGC0000252.1_ORF10:gid:nonC:pid:AAD37456.1:loc:11254:12208:strand:+ -            317   1.6e-23   84.1  11.7   1   1     1e-27   2.1e-23   83.7  11.7    27   284    66   308    42   310 0.85 Amidohydrolase
+DJ-1_PfpI            PF01965.28   165 BGC0000252.1_ORF11:gid:nonF:pid:AAD37457.1:loc:12383:13088:strand:+ -            234   2.8e-16   60.0   0.0   1   1   8.6e-20   8.9e-16   58.3   0.0    13   163    31   230    25   232 0.82 DJ-1/PfpI family
+ThiJ_like            PF17124.9    186 BGC0000252.1_ORF11:gid:nonF:pid:AAD37457.1:loc:12383:13088:strand:+ -            234   1.4e-09   38.3   0.0   1   1   2.2e-13   2.3e-09   37.5   0.0     4   142    27   152    25   167 0.89 ThiJ/PfpI family-like
+TetR_N               PF00440.27    47 BGC0000252.1_ORF13:gid:nonG:pid:AAD37459.1:loc:13622:14351:strand:- -            242   6.1e-15   54.9   0.1   1   1   1.1e-18   1.1e-14   54.1   0.1     3    42    19    58    17    60 0.97 Bacterial regulatory proteins, tetR family
+TetR_C_14            PF17754.5    112 BGC0000252.1_ORF13:gid:nonG:pid:AAD37459.1:loc:13622:14351:strand:- -            242   1.8e-09   37.7   0.3   1   1   3.1e-13   3.3e-09   36.9   0.3     2   109    82   191    81   194 0.95 MftR C-terminal domain
+ETF                  PF01012.25   181 BGC0000252.1_ORF14:gid:nonH:pid:AAD37460.1:loc:14439:15270:strand:+ -            276     9e-42  143.1   3.5   1   1   5.6e-46   1.2e-41  142.8   3.5     2   180    40   224    39   225 0.93 Electron transfer flavoprotein domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000252.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000252.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000252.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:52:32 2024
+# [ok]

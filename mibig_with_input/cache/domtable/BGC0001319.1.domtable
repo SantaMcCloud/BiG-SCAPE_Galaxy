@@ -1,0 +1,24 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+UDPGT                PF00201.22   499 BGC0001319.1_ORF1:gid:Solyc07g043410.1:pid::loc:0:1449:strand:- -            482   1.7e-20   73.5   0.0   1   1   1.6e-24   3.2e-20   72.6   0.0   255   415   261   440   240   449 0.72 UDP-glucoronosyl and UDP-glucosyl transferase
+DIOX_N               PF14226.10   118 BGC0001319.1_ORF2:gid:Solyc07g043420.2:pid::loc:50284:51536:strand:+ -            342   2.4e-28   99.3   0.0   1   1   3.6e-32   3.8e-28   98.7   0.0     1   117    37   151    37   156 0.89 non-haem dioxygenase in morphine synthesis N-terminal
+2OG-FeII_Oxy         PF03171.24   101 BGC0001319.1_ORF2:gid:Solyc07g043420.2:pid::loc:50284:51536:strand:+ -            342   1.3e-27   96.3   0.0   1   1   2.9e-31   3.1e-27   95.1   0.0     4   101   196   291   193   291 0.94 2OG-Fe(II) oxygenase superfamily
+p450                 PF00067.26   462 BGC0001319.1_ORF3:gid:Solyc07g043460.2:pid::loc:117217:119076:strand:+ -            516   3.8e-90  303.1   0.0   1   1   2.6e-94   5.3e-90  302.6   0.0    25   455    82   504    71   510 0.91 Cytochrome P450
+UDPGT                PF00201.22   499 BGC0001319.1_ORF4:gid:Solyc07g043480.1:pid::loc:139729:141100:strand:+ -            456   1.1e-18   67.6   0.0   1   1   1.3e-22   2.8e-18   66.2   0.0   274   380   253   382   231   403 0.83 UDP-glucoronosyl and UDP-glucosyl transferase
+UDPGT                PF00201.22   499 BGC0001319.1_ORF5:gid:Solyc07g043490.1:pid::loc:188059:189511:strand:+ -            483   2.8e-26   92.6   0.1   1   1   5.1e-30   1.1e-25   90.7   0.1   263   389   270   406    91   445 0.71 UDP-glucoronosyl and UDP-glucosyl transferase
+UDPGT                PF00201.22   499 BGC0001319.1_ORF6:gid:Solyc07g043500.1:pid::loc:207859:209185:strand:+ -            441   1.1e-24   87.3   0.0   1   1     2e-28   2.1e-24   86.4   0.0   264   410   241   400   233   412 0.86 UDP-glucoronosyl and UDP-glucosyl transferase
+EryCIII-like_C       PF06722.16   145 BGC0001319.1_ORF6:gid:Solyc07g043500.1:pid::loc:207859:209185:strand:+ -            441   5.5e-08   33.0   0.0   1   1   9.9e-12     1e-07   32.1   0.0    37   123   315   406   298   422 0.83 Erythromycin biosynthesis protein CIII-like, C-terminal domain
+p450                 PF00067.26   462 BGC0001319.1_ORF7:gid:Solyc07g062520.2:pid::loc:8090150:8093672:strand:+ -            519   2.6e-86  290.4   0.0   1   1   1.7e-90   3.6e-86  290.0   0.0    26   439    87   495    80   512 0.90 Cytochrome P450
+p450                 PF00067.26   462 BGC0001319.1_ORF8:gid:Solyc12g006460.1:pid::loc:8093772:8098465:strand:- -            487   1.9e-56  192.0   0.4   1   1   1.1e-60   2.4e-56  191.6   0.4     1   442    44   466    44   482 0.83 Cytochrome P450
+Aminotran_3          PF00202.25   403 BGC0001319.1_ORF9:gid:Solyc12g006470.1:pid::loc:8116535:8122349:strand:+ -            458   1.1e-91  307.7   0.0   1   1   6.8e-96   1.4e-91  307.4   0.0    10   402    26   442    18   443 0.93 Aminotransferase class-III
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001319.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001319.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001319.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:20:12 2024
+# [ok]

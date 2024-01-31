@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000997.1_ORF1:gid:hutU:pid:CAL80814.1:loc:236:1925:strand:+:136:348                GTQGIVQGTYETFVELGRQHY....GGDWAGKWILTAGLGGMGGAQPLAAVLAGAHCIVVECQESRIDFRLRTRYVDHKAHSIDEALALIERA---TRPTSVALLGNAAELLPQFVERaragGARPGAVTDQTSAHDLVNG.YLPRGWSVAQWEAARQgseAERRRLTEAAASSCAEHVRAMLAFHQMGVPTIDYGNNIR
+#=GR BGC0000997.1_ORF1:gid:hutU:pid:CAL80814.1:loc:236:1925:strand:+:136:348        PP 9********************....****************************************************************9876...579******************9988779*****************.*********999888622267788999*******************************
+GCF_008000775.1_ORF10:gid::pid:WP_147661165.1:loc:10249:12280:strand:-:213:435         GPQGIVHGTYLTLLNAGRKYLnhsdDEDLKGVLYITSGLGGMSGAQGKAVEIANGITIIAEVNFSALKTRFDQGWIGKHSDNLEEIFSWVEDYRKRKESVSIGYNGNVVDLWQYVVDN....DIKVELASDQTSCHAAYEGgYTPAGLSYEDGRELLK...NDLHEFKKMVDKSLRRQFELIKIMHNRGTKFWDYGNSFL
+#=GR GCF_008000775.1_ORF10:gid::pid:WP_147661165.1:loc:10249:12280:strand:-:213:435 PP 9*******************98764499******************************************************************************************....************************************...***************************************
+#=GC PP_cons                                                                           9********************....79***************************************************************998***79********************....99*****************.***********99998...88999**********************************
+#=GC RF                                                                                xxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000997.1_ORF1:gid:hutU:pid:CAL80814.1:loc:236:1925:strand:+:136:348                QVALDHGVA.........DAFAFPGFVPA-c
+#=GR BGC0000997.1_ORF1:gid:hutU:pid:CAL80814.1:loc:236:1925:strand:+:136:348        PP *********.........*********97.6
+GCF_008000775.1_ORF10:gid::pid:WP_147661165.1:loc:10249:12280:strand:-:213:435         KAVYDAGAQdiailkdpkNGFIFPSYVED-l
+#=GR GCF_008000775.1_ORF10:gid::pid:WP_147661165.1:loc:10249:12280:strand:-:213:435 PP *********77777766555*******98.6
+#=GC PP_cons                                                                           *********.........77*******98..
+#=GC RF                                                                                xxxxxxxxx.........xxxxxxxxxxxx.
+//

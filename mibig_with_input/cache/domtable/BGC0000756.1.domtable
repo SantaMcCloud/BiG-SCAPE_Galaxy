@@ -1,0 +1,24 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_2      PF00535.30   168 BGC0000756.1_ORF2:gid:ccbF1:pid:ACY25513.1:loc:2046:3591:strand:+ -            514   1.2e-29  103.7   0.4   1   1   3.4e-33   2.4e-29  102.6   0.4     1   122   263   384   263   414 0.95 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.10   230 BGC0000756.1_ORF2:gid:ccbF1:pid:ACY25513.1:loc:2046:3591:strand:+ -            514   9.6e-14   52.0   0.0   1   1   2.1e-17   1.4e-13   51.4   0.0     4   127   262   380   259   432 0.91 Glycosyltransferase like family 2
+Glyco_tranf_2_2      PF10111.13   276 BGC0000756.1_ORF2:gid:ccbF1:pid:ACY25513.1:loc:2046:3591:strand:+ -            514   2.4e-06   27.5   2.7   1   1   3.4e-10   2.4e-06   27.5   2.7     1   107   263   366   263   379 0.81 Glycosyltransferase like family 2
+DDE_Tnp_IS1595       PF12762.11   154 BGC0000756.1_ORF4:gid::pid:ACY25515.1:loc:4579:5230:strand:+ -            216   6.3e-35  120.6   0.6   1   1   4.1e-39   8.5e-35  120.2   0.1     3   154    60   196    58   196 0.97 ISXO2-like transposase domain
+UDPG_MGDP_dh_N       PF03721.18   187 BGC0000756.1_ORF5:gid:ccbC:pid:ACY25516.1:loc:5413:6586:strand:+ -            390   9.2e-36  123.4   0.5   1   1     3e-39   1.6e-35  122.6   0.5     2   181     3   169     2   175 0.91 UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain
+UDPG_MGDP_dh         PF00984.23    94 BGC0000756.1_ORF5:gid:ccbC:pid:ACY25516.1:loc:5413:6586:strand:+ -            390   7.5e-27   93.5   0.0   1   1   2.7e-30   1.4e-26   92.6   0.0     2    93   193   282   192   283 0.97 UDP-glucose/GDP-mannose dehydrogenase family, central domain
+UDPG_MGDP_dh_C       PF03720.19   103 BGC0000756.1_ORF5:gid:ccbC:pid:ACY25516.1:loc:5413:6586:strand:+ -            390   6.6e-12   45.9   1.0   1   1   3.4e-13   1.8e-09   38.1   0.1     2    76   302   372   301   385 0.89 UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain
+NAD_Gly3P_dh_N       PF01210.27   158 BGC0000756.1_ORF5:gid:ccbC:pid:ACY25516.1:loc:5413:6586:strand:+ -            390     2e-05   24.8   0.0   1   1   8.2e-09   4.3e-05   23.7   0.0     1    80     3    85     3    91 0.79 NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus
+Glycos_transf_2      PF00535.30   168 BGC0000756.1_ORF6:gid:ccbB:pid:ACY25517.1:loc:7082:8012:strand:+ -            309   1.9e-31  109.5   0.2   1   1   1.8e-34   1.2e-30  106.8   0.1     1   130    42   169    42   203 0.86 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.10   230 BGC0000756.1_ORF6:gid:ccbB:pid:ACY25517.1:loc:7082:8012:strand:+ -            309   3.6e-12   46.8   0.0   1   1   7.8e-16   5.4e-12   46.2   0.0     4   127    41   159    39   212 0.85 Glycosyltransferase like family 2
+Glyco_tranf_2_2      PF10111.13   276 BGC0000756.1_ORF6:gid:ccbB:pid:ACY25517.1:loc:7082:8012:strand:+ -            309   6.3e-07   29.4   0.3   1   1     2e-10   1.4e-06   28.2   0.3     8   110    47   143    41   176 0.83 Glycosyltransferase like family 2
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000756.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000756.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000756.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:58:45 2024
+# [ok]

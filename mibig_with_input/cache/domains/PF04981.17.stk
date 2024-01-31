@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_008000775.1_ORF645:gid::pid:WP_147661774.1:loc:704272:705196:strand:-:7:252         CAKCGRPL...SEESNNynnyLCTDCNSKIIPNYIIPEKFTLRNCIYCGAYSlktkdQEYSWQY.-.KSLEIDDNDFLKKILKENIFLKF---NKKF.N-VKSEFSFENPdlSERVDI.................KTTVSIISKDLPE--V--QEELLIKIRDINCPYCAKRSGGRFDAIVQIRIQ.HQKDEKKLQEILA
+#=GR GCF_008000775.1_ORF645:gid::pid:WP_147661774.1:loc:704272:705196:strand:-:7:252 PP ********...5554556669******************************9998776677844...56677777888888888876444...3556.6.667777666658999999.................9999998866544..4..5556667899***********************.7777778888888
+GCF_000011105.1_ORF930:gid::pid:WP_048053273.1:loc:900808:901966:strand:+:4:272         CYRCGISEeegGPLING....LCQVCFRKENPVLLLPSEINTELCQNCGSYK.....KRGVWVDpKnYELEALIFEVAENALLEALEDNLKVKDFEVvNWEELDEISEIP.vGKAFVAyrvvdyhieyfpaiviyEVRSKARIHELQVEPHDERTTVTVYVRQTVCPRCQKFLAGYYEAILQVRVEgREFTKEEREEITK
+#=GR GCF_000011105.1_ORF930:gid::pid:WP_048053273.1:loc:900808:901966:strand:+:4:272 PP *******9666568999....*******************************.....******98568999999999999998888754445544442322444555556.4444444999**********************999888***************************************************
+#=GC PP_cons                                                                            *******9...556777....*******************************.....8889977.5.678888888888888888774444554455.424556666666..777666.................99999999887668*7**77888899*************************.9999999999999
+#=GC RF                                                                                 xxxxxxxx...xxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxx.x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx..xxxxxx.................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx
+
+GCF_008000775.1_ORF645:gid::pid:WP_147661774.1:loc:704272:705196:strand:-:7:252         YCLKIE...EKENfkrLSNFISKIDNVTNGFDLKVSTNAMARVLIARLRKKYHFEIKVSKKLIGVDSEKGSDLYRLSTLLRL
+#=GR GCF_008000775.1_ORF645:gid::pid:WP_147661774.1:loc:704272:705196:strand:-:7:252 PP 888887...5554433789**********************************************************99987
+GCF_000011105.1_ORF930:gid::pid:WP_048053273.1:loc:900808:901966:strand:+:4:272         LVQEKVdeiMKRD...RMGFIQDTIEKEEGIDFYMGSTSAARKLANAIREKYGGTISEAYELVGMDRQTSREVYRTSVTVRL
+#=GR GCF_000011105.1_ORF930:gid::pid:WP_048053273.1:loc:900808:901966:strand:+:4:272 PP ****99999999*...****************************************************************97
+#=GC PP_cons                                                                            999988...7777...899***********************************************************9997
+#=GC RF                                                                                 xxxxxx...xxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

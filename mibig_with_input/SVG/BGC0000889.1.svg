@@ -1,0 +1,228 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="678.9666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="668.9666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+putative prephenate dehydrogenase</title>
+			<polygon class="
+putative prephenate dehydrogenase" points="46,25 40,25 40,10 10,40 40,70 40,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PDH_C (PF20463)
+"Prephenate dehydrogenase, dimerization domain"</title>
+				<polygon class="PF20463" points="20,34 26,28 29,28 29,52 26,52 20,46" stroke-linejoin="round" width="9" height="24" fill="rgb(83,223,141)" stroke="rgb(66,178,112)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PDH_N (PF02153)
+"Prephenate dehydrogenase, nucleotide-binding domain"</title>
+				<rect class="PF02153" x="29" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(204,207,87)" stroke="rgb(163,165,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fevL
+decarboxylase</title>
+			<polygon class="fevL
+decarboxylase" points="99,25 80,25 80,10 50,40 80,70 80,55 99,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UbiD_C (PF20696)
+"3-octaprenyl-4-hydroxybenzoate carboxy-lyase C-terminal domain"</title>
+				<polygon class="PF20696" points="56,38 66,28 66,28 66,52 66,52 56,42" stroke-linejoin="round" width="10" height="24" fill="rgb(87,182,107)" stroke="rgb(69,145,85)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UbiD (PF01977)
+"3-octaprenyl-4-hydroxybenzoate carboxy-lyase Rift-related domain"</title>
+				<rect class="PF01977" x="67" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(185,92,107)" stroke="rgb(148,73,85)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UbiD_N (PF20695)
+"3-octaprenyl-4-hydroxybenzoate carboxy-lyase N-terminal domain"</title>
+				<rect class="PF20695" x="89" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(190,80,157)" stroke="rgb(152,64,125)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fevK
+decarboxylase</title>
+			<polygon class="fevK
+decarboxylase" points="100,40 121,10 121,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavoprotein (PF02441)
+"Flavoprotein"</title>
+				<polygon class="PF02441" points="104,40 113,28 121,28 121,52 113,52 104,40" stroke-linejoin="round" width="17" height="24" fill="rgb(103,178,79)" stroke="rgb(82,142,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fevM
+putative transcriptional regulator, MarR family</title>
+			<polygon class="fevM
+putative transcriptional regulator, MarR family" points="123,10 138,40 123,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MarR (PF01047)
+"MarR family"</title>
+				<polygon class="PF01047" points="126,28 128,28 131,33 131,47 128,52 126,52" stroke-linejoin="round" width="5" height="24" fill="rgb(157,188,64)" stroke="rgb(125,150,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fevA1
+putative FAD-dependent oxygenase</title>
+			<polygon class="fevA1
+putative FAD-dependent oxygenase" points="141,25 156,25 156,10 186,40 156,70 156,55 141,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_4 (PF01565)
+"FAD binding domain"</title>
+				<rect class="PF01565" x="145" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(194,197,94)" stroke="rgb(155,157,75)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BBE (PF08031)
+"Berberine and berberine like"</title>
+				<polygon class="PF08031" points="182,40 182,40 182,40" stroke-linejoin="round" width="3" height="24" fill="rgb(56,179,213)" stroke="rgb(44,143,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fevB
+putative bagremycin transporter</title>
+			<polygon class="fevB
+putative bagremycin transporter" points="187,25 204,25 204,10 234,40 204,70 204,55 187,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="191,28 218,28 226,36 226,44 218,52 191,52" stroke-linejoin="round" width="35" height="24" fill="rgb(228,207,98)" stroke="rgb(182,165,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fevR
+putative SARP-family transcriptional activator</title>
+			<polygon class="fevR
+putative SARP-family transcriptional activator" points="270,25 267,25 267,10 237,40 267,70 267,55 270,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BTAD (PF03704)
+"Bacterial transcriptional activator domain"</title>
+				<polygon class="PF03704" points="245,36 253,28 259,28 259,52 253,52 245,44" stroke-linejoin="round" width="14" height="24" fill="rgb(174,224,58)" stroke="rgb(139,179,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<rect class="PF00486" x="261" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(69,185,116)" stroke="rgb(55,148,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fevF
+o-aminophenol oxidase</title>
+			<polygon class="fevF
+o-aminophenol oxidase" points="304,25 304,25 304,10 274,40 304,70 304,55 304,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Tyrosinase (PF00264)
+"Common central domain of tyrosinase"</title>
+				<polygon class="PF00264" points="278,40 290,28 301,28 301,52 290,52 278,40" stroke-linejoin="round" width="23" height="24" fill="rgb(95,226,202)" stroke="rgb(76,180,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fevE
+copper chaperon</title>
+			<polygon class="fevE
+copper chaperon" points="306,40 317,10 317,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MelC1 (PF06236)
+"Tyrosinase co-factor MelC1"</title>
+				<polygon class="PF06236" points="309,40 314,28 316,28 316,52 314,52" stroke-linejoin="round" width="10" height="24" fill="rgb(213,63,121)" stroke="rgb(170,50,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fevA2
+putative FAD-dependent oxygenase</title>
+			<polygon class="fevA2
+putative FAD-dependent oxygenase" points="369,25 354,25 354,10 324,40 354,70 354,55 369,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BBE (PF08031)
+"Berberine and berberine like"</title>
+				<polygon class="PF08031" points="328,40 328,40 328,40" stroke-linejoin="round" width="4" height="24" fill="rgb(56,179,213)" stroke="rgb(44,143,170)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_4 (PF01565)
+"FAD binding domain"</title>
+				<rect class="PF01565" x="352" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(194,197,94)" stroke="rgb(155,157,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fevY
+putative phospho-2-dehydro-3-deoxyheptonate aldolase</title>
+			<polygon class="fevY
+putative phospho-2-dehydro-3-deoxyheptonate aldolase" points="408,25 404,25 404,10 374,40 404,70 404,55 408,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DAHP_synth_1 (PF00793)
+"DAHP synthetase I family"</title>
+				<polygon class="PF00793" points="378,40 390,28 400,28 400,52 390,52" stroke-linejoin="round" width="25" height="24" fill="rgb(66,201,123)" stroke="rgb(52,160,98)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DAHP_snth_FXD (PF18152)
+"DAHP synthase ferredoxin-like domain"</title>
+				<rect class="PF18152" x="401" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(115,187,54)" stroke="rgb(92,149,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fevW
+bagremycin synthetase</title>
+			<polygon class="fevW
+bagremycin synthetase" points="453,25 439,25 439,10 409,40 439,70 439,55 453,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="424,29 425,28 446,28 446,52 425,52 424,51" stroke-linejoin="round" width="22" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fevV
+tyrosine ammonia-lyase</title>
+			<polygon class="fevV
+tyrosine ammonia-lyase" points="509,25 483,25 483,10 453,40 483,70 483,55 509,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lyase_aromatic (PF00221)
+"Aromatic amino acid lyase"</title>
+				<polygon class="PF00221" points="457,40 469,28 504,28 504,52 469,52" stroke-linejoin="round" width="48" height="24" fill="rgb(198,213,89)" stroke="rgb(158,170,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fevI
+DhnA-type aldolase</title>
+			<polygon class="fevI
+DhnA-type aldolase" points="512,10 537,40 512,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DeoC (PF01791)
+"DeoC/LacD family aldolase"</title>
+				<polygon class="PF01791" points="514,28 523,28 533,40 523,52 514,52" stroke-linejoin="round" width="21" height="24" fill="rgb(154,53,201)" stroke="rgb(123,42,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fevH
+3,4-AHBA synthase</title>
+			<polygon class="fevH
+3,4-AHBA synthase" points="538,25 544,25 544,10 574,40 544,70 544,55 538,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DHQS (PF01959)
+"3-dehydroquinate synthase II"</title>
+				<polygon class="PF01959" points="538,28 558,28 570,40 558,52 538,52" stroke-linejoin="round" width="36" height="24" fill="rgb(72,159,184)" stroke="rgb(57,127,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fevO
+hypothetical protein</title>
+			<polygon class="fevO
+hypothetical protein" points="575,10 587,40 575,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>fevT
+putative LuxR-family transcriptional regulator</title>
+			<polygon class="fevT
+putative LuxR-family transcriptional regulator" points="591,25 598,25 598,10 628,40 598,70 598,55 591,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="620,37 623,40 620,43" stroke-linejoin="round" width="5" height="24" fill="rgb(225,67,110)" stroke="rgb(180,53,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="645,10 668,40 645,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

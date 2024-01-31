@@ -1,0 +1,20 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Poly_export          PF02563.20    77 BGC0000750.1_ORF1:gid:cpx2D:pid:AAQ62552.1:loc:0:1113:strand:- -            371   9.9e-15   54.7   1.0   1   1   1.5e-18   3.2e-14   53.1   0.1     9    76    88   174    81   175 0.91 Polysaccharide biosynthesis/export protein
+Glyphos_transf       PF04464.18   367 BGC0000750.1_ORF2:gid:cps2A:pid:AAQ62553.1:loc:1297:2434:strand:+ -            378   1.6e-10   40.7   0.3   1   1   1.5e-14     3e-10   39.8   0.3   162   293   130   257   116   268 0.75 CDP-Glycerol:Poly(glycerophosphate) glycerophosphotransferase
+CTP_transf_like      PF01467.30   133 BGC0000750.1_ORF3:gid:cps2B:pid:AAQ62554.1:loc:2487:2916:strand:+ -            142   1.5e-24   86.9   0.1   1   1   1.1e-28   2.3e-24   86.3   0.1     1   132     5   124     5   125 0.95 Cytidylyltransferase-like
+Glyphos_transf       PF04464.18   367 BGC0000750.1_ORF5:gid:cps2D:pid:AAQ62556.1:loc:4071:7935:strand:+ -           1287   2.6e-82  276.9   1.2   1   1   1.8e-85   2.6e-82  276.9   1.2     9   366   520   880   513   881 0.93 CDP-Glycerol:Poly(glycerophosphate) glycerophosphotransferase
+Glycos_transf_1      PF00534.24   172 BGC0000750.1_ORF5:gid:cps2D:pid:AAQ62556.1:loc:4071:7935:strand:+ -           1287   4.1e-27   95.0   0.8   1   1   2.3e-29   3.4e-26   92.0   0.0     8   156  1118  1261  1112  1279 0.91 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.10   137 BGC0000750.1_ORF5:gid:cps2D:pid:AAQ62556.1:loc:4071:7935:strand:+ -           1287     1e-23   84.3   0.0   1   1     2e-26   2.9e-23   82.9   0.0     2   132  1126  1258  1125  1262 0.88 Glycosyl transferases group 1
+TPR_8                PF13181.10    34 BGC0000750.1_ORF5:gid:cps2D:pid:AAQ62556.1:loc:4071:7935:strand:+ -           1287   3.9e-09   36.2  32.9   1   1   0.00011      0.17   12.4   0.2     2    33   297   328   296   329 0.94 Tetratricopeptide repeat
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000750.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000750.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000750.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:39:23 2024
+# [ok]

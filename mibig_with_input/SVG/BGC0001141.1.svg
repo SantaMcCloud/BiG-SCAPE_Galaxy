@@ -1,0 +1,195 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1275.4333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1265.4333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+putative F-box domain protein</title>
+			<polygon class="
+putative F-box domain protein" points="18,25 76,25 76,10 106,40 76,70 76,55 18,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+thiohydrolase</title>
+			<polygon class="
+thiohydrolase" points="165,25 163,25 163,10 133,40 163,70 163,55 165,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydrolase_4 (PF12146)
+"Serine aminopeptidase, S33"</title>
+				<polygon class="PF12146" points="137,40 149,28 161,28 161,52 149,52 137,40" stroke-linejoin="round" width="24" height="24" fill="rgb(190,94,85)" stroke="rgb(152,75,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative cytochrome P450</title>
+			<polygon class="
+putative cytochrome P450" points="194,25 221,25 221,10 251,40 221,70 221,55 194,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="198,28 234,28 242,36 242,44 234,52 198,52" stroke-linejoin="round" width="44" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative cytochrome P450</title>
+			<polygon class="
+putative cytochrome P450" points="271,25 295,25 295,10 325,40 295,70 295,55 271,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="274,28 309,28 318,37 318,43 309,52 274,52" stroke-linejoin="round" width="44" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative cytochrome P450</title>
+			<polygon class="
+putative cytochrome P450" points="360,25 386,25 386,10 416,40 386,70 386,55 360,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="364,28 399,28 407,36 407,44 399,52 364,52" stroke-linejoin="round" width="43" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative cytochrome P450</title>
+			<polygon class="
+putative cytochrome P450" points="492,25 472,25 472,10 442,40 472,70 472,55 492,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="446,40 458,28 488,28 488,52 458,52" stroke-linejoin="round" width="44" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+HRPKS</title>
+			<polygon class="
+HRPKS" points="549,25 762,25 762,10 792,40 762,70 762,55 549,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="550" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="576" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="589" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(200,86,70)" stroke="rgb(160,68,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="604" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(132,93,193)" stroke="rgb(105,74,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PKS_DH_N (PF21089)
+"Polyketide synthase dehydratase domain"</title>
+				<rect class="PF21089" x="643" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(67,151,200)" stroke="rgb(53,120,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase N-terminal domain"</title>
+				<rect class="PF14765" x="656" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(189,61,178)" stroke="rgb(151,48,142)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="717" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(217,198,105)" stroke="rgb(173,158,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N_2 (PF13602)
+"Zinc-binding dehydrogenase"</title>
+				<rect class="PF13602" x="733" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(183,68,113)" stroke="rgb(146,54,90)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="749" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(203,145,81)" stroke="rgb(162,116,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative large tegument protein UL36</title>
+			<polygon class="
+putative large tegument protein UL36" points="849,25 846,25 846,10 816,40 846,70 846,55 849,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+putative WD-40 protein</title>
+			<polygon class="
+putative WD-40 protein" points="1160,25 1029,25 1029,10 999,40 1029,70 1029,55 1160,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<polygon class="PF00400" points="1012,31 1015,28 1015,28 1015,52 1015,52 1012,49" stroke-linejoin="round" width="3" height="24" fill="rgb(219,126,74)" stroke="rgb(175,100,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="1020" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(219,126,74)" stroke="rgb(175,100,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="1025" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(219,126,74)" stroke="rgb(175,100,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="1029" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(219,126,74)" stroke="rgb(175,100,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="1033" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(219,126,74)" stroke="rgb(175,100,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="1038" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(219,126,74)" stroke="rgb(175,100,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="1042" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(219,126,74)" stroke="rgb(175,100,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="1046" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(219,126,74)" stroke="rgb(175,100,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="1054" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(219,126,74)" stroke="rgb(175,100,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="1059" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(219,126,74)" stroke="rgb(175,100,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="1063" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(219,126,74)" stroke="rgb(175,100,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative kinesin</title>
+			<polygon class="
+putative kinesin" points="1211,25 1235,25 1235,10 1265,40 1235,70 1235,55 1211,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ses_B (PF17046)
+"SesB domain on fungal death-pathway protein"</title>
+				<rect class="PF17046" x="1211" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(86,192,146)" stroke="rgb(68,153,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

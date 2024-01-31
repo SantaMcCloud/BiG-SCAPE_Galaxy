@@ -1,0 +1,23 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acyl_transf_1        PF00698.25   319 BGC0000205.1_ORF2:gid:bryP:pid:ABM63531.1:loc:2150:4052:strand:+ -            633   6.3e-72  242.9   0.0   1   2   4.8e-34   9.9e-30  104.3   0.0     1   276     4   276     4   302 0.89 Acyl transferase domain
+Acyl_transf_1        PF00698.25   319 BGC0000205.1_ORF2:gid:bryP:pid:ABM63531.1:loc:2150:4052:strand:+ -            633   6.3e-72  242.9   0.0   2   2     6e-44   1.2e-39  136.8   0.0     1   281   318   605   318   630 0.93 Acyl transferase domain
+ketoacyl-synt        PF00109.30   252 BGC0000205.1_ORF3:gid:bryQ:pid:ABM63532.1:loc:4217:5438:strand:+ -            406   8.7e-32  110.9   0.1   1   1   2.2e-35   2.3e-31  109.5   0.1     4   249     9   246     6   248 0.84 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0000205.1_ORF3:gid:bryQ:pid:ABM63532.1:loc:4217:5438:strand:+ -            406   2.2e-26   92.4   1.4   1   1   3.7e-30   3.8e-26   91.6   0.3     1   118   255   364   255   365 0.97 Beta-ketoacyl synthase, C-terminal domain
+HMG_CoA_synt_C       PF08540.14   280 BGC0000205.1_ORF4:gid:BryR:pid:ABM63533.1:loc:5462:6725:strand:+ -            420   2.7e-17   63.5   0.1   1   1   8.1e-16   8.4e-12   45.5   0.0   127   238   267   371   259   416 0.86 Hydroxymethylglutaryl-coenzyme A synthase C terminal
+HMG_CoA_synt_N       PF01154.21   174 BGC0000205.1_ORF4:gid:BryR:pid:ABM63533.1:loc:5462:6725:strand:+ -            420   9.1e-08   32.4   0.0   1   1   1.7e-11   1.8e-07   31.5   0.0    51   170    49   178     2   181 0.74 Hydroxymethylglutaryl-coenzyme A synthase N terminal
+tRNA_U5-meth_tr      PF05958.15   357 BGC0000205.1_ORF5:gid:BryS:pid:ABM63534.1:loc:7020:8118:strand:+ -            365  9.9e-150  498.7   6.3   1   1  2.7e-153  1.1e-149  498.5   6.3     3   357    12   365    10   365 0.97 tRNA (Uracil-5-)-methyltransferase
+Methyltransf_25      PF13649.10    97 BGC0000205.1_ORF5:gid:BryS:pid:ABM63534.1:loc:7020:8118:strand:+ -            365   7.6e-07   29.9   0.0   1   1   4.8e-10     2e-06   28.6   0.0     2    60   214   271   213   277 0.93 Methyltransferase domain
+Methyltransf_15      PF09445.14   165 BGC0000205.1_ORF5:gid:BryS:pid:ABM63534.1:loc:7020:8118:strand:+ -            365   5.6e-06   26.2   0.0   1   1   6.3e-09   2.6e-05   24.0   0.0     4    85   213   305   211   307 0.88 RNA cap guanine-N2 methyltransferase
+Proton_antipo_M      PF00361.24   294 BGC0000205.1_ORF6:gid::pid:ABM63535.1:loc:8121:9885:strand:- -            587   6.6e-39  134.1  24.6   1   1   3.2e-43   6.6e-39  134.1  24.6     1   290   135   404   135   407 0.94 Proton-conducting membrane transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000205.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000205.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000205.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:22:05 2024
+# [ok]

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000119.1_ORF41:gid:ptmW:pid:ACJ24881.1:loc:64634:65450:strand:+:16:268         dmvheqsg-----GTPAEHLDGLLARAQNGFEIDDTVIIRLRDALMHQTELRSCRQCNEppapRGYTTFRHIFLLPDGSSVVLWELQHSAGPGDGLQHELYADEEALLRAERRAhlrtggtswaevtleglRPEEVLRTPlPVETVRAYVADNSADHARRVLRRAENEDRPGKDVERLLETAFAHDIALAPKPRRRSGGE
+#=GR BGC0000119.1_ORF41:gid:ptmW:pid:ACJ24881.1:loc:64634:65450:strand:+:16:268 PP *9987665.....579****************************************96666558899**********************************************96666666666555444323333444457889**********************************************977777888
+BGC0000118.1_ORF26:gid::pid:BAF92607.1:loc:38550:39366:strand:+:16:268             dmvheqsg-----GTPAEHLDGLLARAQNGFEIDDTVIIRLRDALMHQTELRSCRQCNEppapRGYTTFRHIFLLPDGSSVVLWELQHSAGPGDGLQHELYADEEALLRAERRAhlrtggtswaevtleglRPEEVLRTPlPVETVRAYVADNSADHARRVLRRAENEDRPGKDVERLLETAFAHDIALAPKPRRRSGGE
+#=GR BGC0000118.1_ORF26:gid::pid:BAF92607.1:loc:38550:39366:strand:+:16:268     PP *9987665.....579****************************************96666558899**********************************************96666666666555444323333444457889**********************************************977777888
+#=GC PP_cons                                                                       .............579****************************************966....8899**********************************************9.................233334444.7889**********************************************977777888
+#=GC RF                                                                            ........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.................xxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000119.1_ORF41:gid:ptmW:pid:ACJ24881.1:loc:64634:65450:strand:+:16:268         DTTwCRFYEHAFLLAGGDEITLWELEHNLTSDGRLVCEVYLDEGAAEMAADRRAR---arg
+#=GR BGC0000119.1_ORF41:gid:ptmW:pid:ACJ24881.1:loc:64634:65450:strand:+:16:268 PP 88889************************************************95...469
+BGC0000118.1_ORF26:gid::pid:BAF92607.1:loc:38550:39366:strand:+:16:268             DTTwCRFYEHAFLLAGGDEITLWELEHNLTSDGRLVCEVYLDEGAAEMAADRRAR---arg
+#=GR BGC0000118.1_ORF26:gid::pid:BAF92607.1:loc:38550:39366:strand:+:16:268     PP 88889************************************************95...469
+#=GC PP_cons                                                                       888.9************************************************95......
+#=GC RF                                                                            xxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

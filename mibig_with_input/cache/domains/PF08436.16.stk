@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2069:gid::pid::loc:2307067:2308222:strand:-:145:228         ILPVDSEHSAIFQCLNGENKKNIEKIILTASGGPFRGKKKGELVNITKNEALKHPNWSMGRKISIDSSTLMNKGLEVIEARWLF
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2069:gid::pid::loc:2307067:2308222:strand:-:145:228 PP 89*********************************************************************************9
+BGC0000668.1_ORF29:gid::pid:AHI58844.1:loc:34707:35877:strand:-:129:212                          LLPADSEHSAIFQCLQGVPNQGLRRIILTASGGAFRDWPVEKLSNITVDDALKHPNWSMGRKITIDSATLMNKGLEVIEAHWLF
+#=GR BGC0000668.1_ORF29:gid::pid:AHI58844.1:loc:34707:35877:strand:-:129:212                  PP 68****************9****************************************************************9
+BGC0001126.1_ORF19:gid::pid:AHB62770.1:loc:23590:24811:strand:+:146:229                          LLPADSEHSAIFQCLQGVPDQGLRRILLTASGGAFRDWPVEKLSNITVDDALKHPNWSMGRKITIDSATLMNKGLEVIEAHWLF
+#=GR BGC0001126.1_ORF19:gid::pid:AHB62770.1:loc:23590:24811:strand:+:146:229                  PP 68****************9****************************************************************9
+BGC0000904.1_ORF11:gid:dxrB:pid:ABB90400.1:loc:13087:14341:strand:+:174:257                      ILPVDSEHSALFQCLQGGKEQDVRKLVVTASGGPFHGRGRAEMAAVTPEQALAHPVWNMGPVITINCANLVNKGLEVIEAHLLF
+#=GR BGC0000904.1_ORF11:gid:dxrB:pid:ABB90400.1:loc:13087:14341:strand:+:174:257              PP 89*********************************************************************************9
+#=GC PP_cons                                                                                     79*********************************************************************************9
+#=GC RF                                                                                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

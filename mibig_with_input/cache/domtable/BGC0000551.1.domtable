@@ -1,0 +1,18 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase              PF00069.29   263 BGC0000551.1_ORF1:gid:SCO6681:pid:CAA19960.1:loc:0:2793:strand:+ -            930   7.7e-10   38.8   0.0   1   1   1.1e-13   1.1e-09   38.2   0.0    12   191   267   457   256   491 0.85 Protein kinase domain
+RamS                 PF19402.3     43 BGC0000551.1_ORF2:gid:SCO6682:pid:CAA19961.1:loc:2830:2959:strand:+ -             42   4.1e-18   65.7   2.3   1   1   2.1e-22   4.4e-18   65.6   2.3     1    43     1    42     1    42 0.97 Lanthionine-containing peptide SapB precursor RamS
+ABC_tran             PF00005.31   137 BGC0000551.1_ORF3:gid:SCO6683:pid:CAA19962.1:loc:2994:4905:strand:+ -            636   2.6e-20   73.7   0.0   1   1   4.2e-24   4.4e-20   72.9   0.0     7   137   375   516   372   516 0.92 ABC transporter
+ABC_membrane         PF00664.27   274 BGC0000551.1_ORF3:gid:SCO6683:pid:CAA19962.1:loc:2994:4905:strand:+ -            636   1.3e-18   67.8   0.0   1   1   1.7e-22   1.8e-18   67.4   0.0     3   264    46   301    45   309 0.95 ABC transporter transmembrane region
+ABC_tran             PF00005.31   137 BGC0000551.1_ORF4:gid:SCO6684:pid:CAA19963.1:loc:4901:6728:strand:+ -            608   5.2e-22   79.2   0.0   1   1   3.9e-26   8.1e-22   78.6   0.0     2   136   394   538   393   539 0.88 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000551.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000551.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000551.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:16:07 2024
+# [ok]

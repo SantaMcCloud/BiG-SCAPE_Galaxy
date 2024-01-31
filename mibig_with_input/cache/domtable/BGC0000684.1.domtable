@@ -1,0 +1,30 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+RRM_1                PF00076.26    70 BGC0000684.1_ORF1:gid::pid:CBF70379.1:loc:369:1295:strand:- -            270   9.1e-09   35.3   0.0   1   1   1.2e-12   2.5e-08   33.9   0.0     2    65     8    71     7    76 0.92 RNA recognition motif
+Lactamase_B          PF00753.31   196 BGC0000684.1_ORF4:gid::pid:CBF70385.1:loc:7308:8305:strand:- -            309     1e-21   78.0   2.1   1   1   9.4e-24     2e-19   70.5   2.1     5   155    51   178    47   207 0.82 Metallo-beta-lactamase superfamily
+ketoacyl-synt        PF00109.30   252 BGC0000684.1_ORF5:gid::pid:CBF70387.1:loc:8737:14283:strand:+ -           1792   2.5e-72  243.7   0.0   1   1   1.2e-75   4.1e-72  243.0   0.0     3   252   393   642   391   642 0.96 Beta-ketoacyl synthase, N-terminal domain
+SAT                  PF16073.9    239 BGC0000684.1_ORF5:gid::pid:CBF70387.1:loc:8737:14283:strand:+ -           1792   6.1e-47  160.4   0.7   1   1   6.3e-50   2.2e-46  158.6   0.0    14   235    29   254    11   258 0.92 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Acyl_transf_1        PF00698.25   319 BGC0000684.1_ORF5:gid::pid:CBF70387.1:loc:8737:14283:strand:+ -           1792   1.6e-38  133.1   0.7   1   1   7.4e-42   2.6e-38  132.5   0.0     1   317   926  1243   926  1245 0.89 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0000684.1_ORF5:gid::pid:CBF70387.1:loc:8737:14283:strand:+ -           1792     9e-30  103.3   1.1   1   1   8.3e-33   2.9e-29  101.7   0.4     2   118   651   770   650   771 0.96 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.29    67 BGC0000684.1_ORF5:gid::pid:CBF70387.1:loc:8737:14283:strand:+ -           1792   3.9e-14   52.8   0.4   1   1   3.7e-17   1.3e-13   51.2   0.1     5    67  1726  1788  1724  1788 0.97 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.9    111 BGC0000684.1_ORF5:gid::pid:CBF70387.1:loc:8737:14283:strand:+ -           1792   1.4e-11   45.0   0.1   1   1   4.2e-14   1.5e-10   41.7   0.0     2   103   775   882   775   893 0.85 Ketoacyl-synthetase C-terminal extension
+CPSase_L_D2          PF02786.21   211 BGC0000684.1_ORF6:gid::pid:CBF70389.1:loc:15538:19258:strand:+ -           1173  8.9e-109  362.1   0.0   1   2   8.7e-88   3.6e-84  281.7   0.0     1   210   218   421   218   422 0.99 Carbamoyl-phosphate synthase L chain, ATP binding domain
+CPSase_L_D2          PF02786.21   211 BGC0000684.1_ORF6:gid::pid:CBF70389.1:loc:15538:19258:strand:+ -           1173  8.9e-109  362.1   0.0   2   2   1.6e-25   6.5e-22   78.3   0.0     1   207   755   959   755   962 0.90 Carbamoyl-phosphate synthase L chain, ATP binding domain
+CPSase_L_D3          PF02787.23    80 BGC0000684.1_ORF6:gid::pid:CBF70389.1:loc:15538:19258:strand:+ -           1173     3e-28   97.8   0.6   1   1     2e-31   8.1e-28   96.4   0.1     3    79   507   586   505   587 0.97 Carbamoyl-phosphate synthetase large chain, oligomerisation domain
+Dala_Dala_lig_C      PF07478.17   204 BGC0000684.1_ORF6:gid::pid:CBF70389.1:loc:15538:19258:strand:+ -           1173   4.3e-18   65.8   0.2   1   2   4.4e-11   1.8e-07   31.1   0.0    29   173   246   388   227   391 0.86 D-ala D-ala ligase C-terminus
+Dala_Dala_lig_C      PF07478.17   204 BGC0000684.1_ORF6:gid::pid:CBF70389.1:loc:15538:19258:strand:+ -           1173   4.3e-18   65.8   0.2   2   2     2e-11   8.4e-08   32.2   0.1     7   153   768   905   762   919 0.81 D-ala D-ala ligase C-terminus
+ATP-grasp            PF02222.26   171 BGC0000684.1_ORF6:gid::pid:CBF70389.1:loc:15538:19258:strand:+ -           1173   5.1e-18   65.4   0.0   1   2   7.4e-11   3.1e-07   30.4   0.0     2   149   227   379   226   394 0.85 ATP-grasp domain
+ATP-grasp            PF02222.26   171 BGC0000684.1_ORF6:gid::pid:CBF70389.1:loc:15538:19258:strand:+ -           1173   5.1e-18   65.4   0.0   2   2   1.8e-11   7.3e-08   32.4   0.0     3   146   765   914   763   932 0.88 ATP-grasp domain
+SET                  PF00856.32   105 BGC0000684.1_ORF7:gid::pid:CBF70391.1:loc:20114:21746:strand:+ -            497   1.4e-10   41.7   0.2   1   1   1.5e-13   1.5e-09   38.4   0.2     1   104    24   254    24   255 0.67 SET domain
+zf-MYND              PF01753.22    39 BGC0000684.1_ORF7:gid::pid:CBF70391.1:loc:20114:21746:strand:+ -            497   1.1e-07   32.0  13.2   1   1     1e-11   1.1e-07   32.0  13.2     1    39    59   107    59   107 0.83 MYND finger
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000684.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000684.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000684.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:18:58 2024
+# [ok]

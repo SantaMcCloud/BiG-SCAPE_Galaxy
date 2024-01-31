@@ -1,0 +1,23 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF4135              PF13575.10   378 BGC0000500.1_ORF1:gid:crnM:pid:AHF21237.1:loc:0:3012:strand:+ -           1003   1.8e-88  297.5   0.6   1   1   2.4e-92   2.5e-88  297.0   0.6     1   376   197   564   197   565 0.93 Domain of unknown function (DUF4135)
+LANC_like            PF05147.17   350 BGC0000500.1_ORF1:gid:crnM:pid:AHF21237.1:loc:0:3012:strand:+ -           1003   4.1e-35  121.2   6.8   1   1   9.5e-39   9.9e-35  119.9   6.8     2   335   679   989   678   999 0.80 Lanthionine synthetase C-like protein
+Mersacidin           PF16934.9     68 BGC0000500.1_ORF2:gid:crnA1:pid:AHF21238.1:loc:3126:3348:strand:+ -             73   1.9e-12   47.0   3.8   1   1   1.1e-16   2.4e-12   46.7   3.8     6    66     5    69     3    71 0.78 Two-component Enterococcus faecalis cytolysin (EFC)
+FMN_red              PF03358.19   153 BGC0000500.1_ORF3:gid:crnJ:pid:AHF21239.1:loc:3500:4223:strand:+ -            240     5e-22   78.3   0.0   1   1     7e-26   7.3e-22   77.8   0.0     2   143     3   147     2   152 0.90 NADPH-dependent FMN reductase
+Flavodoxin_2         PF02525.21   199 BGC0000500.1_ORF3:gid:crnJ:pid:AHF21239.1:loc:3500:4223:strand:+ -            240   4.8e-09   36.4   0.0   1   1   7.1e-13   7.3e-09   35.8   0.0     1   175     2   150     2   171 0.77 Flavodoxin-like fold
+ABC_tran             PF00005.31   137 BGC0000500.1_ORF4:gid:crnT:pid:AHF21240.1:loc:4232:6323:strand:+ -            696   3.4e-35  121.9   0.2   1   1   1.4e-38   7.2e-35  120.8   0.2     1   137   482   630   482   630 0.95 ABC transporter
+Peptidase_C39        PF03412.19   133 BGC0000500.1_ORF4:gid:crnT:pid:AHF21240.1:loc:4232:6323:strand:+ -            696   4.9e-33  114.0   0.1   1   1   2.5e-36   1.3e-32  112.6   0.1     3   131     4   130     2   132 0.97 Peptidase C39 family
+ABC_membrane         PF00664.27   274 BGC0000500.1_ORF4:gid:crnT:pid:AHF21240.1:loc:4232:6323:strand:+ -            696   3.2e-28   99.4  26.4   1   1   9.5e-32     5e-28   98.8  26.4     5   270   159   416   155   420 0.93 ABC transporter transmembrane region
+Peptidase_S8         PF00082.26   283 BGC0000500.1_ORF5:gid:crnP:pid:AHF21241.1:loc:6387:7752:strand:+ -            454     5e-41  141.1   1.9   1   1   3.3e-45   6.8e-41  140.6   1.9     1   283   153   437   153   437 0.83 Subtilase family
+Mersacidin           PF16934.9     68 BGC0000500.1_ORF6:gid:crnA2:pid:AHF21242.1:loc:7879:8059:strand:+ -             59   7.3e-12   45.1   0.1   1   1   4.2e-16   8.7e-12   44.9   0.1     5    48     4    47     2    56 0.89 Two-component Enterococcus faecalis cytolysin (EFC)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000500.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000500.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000500.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:41:06 2024
+# [ok]

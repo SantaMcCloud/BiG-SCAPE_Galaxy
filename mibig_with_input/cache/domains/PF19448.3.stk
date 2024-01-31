@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000766.1_ORF28:gid::pid:ABM21423.1:loc:32859:33585:strand:+:4:241         mr---INEHIVKKICQAMNYTLLDFRTVYEQAISEVNDNGIRPALWAKRADILTHDFEPDeEIKVLHVKRGnLWQIDPVADLENGDLYVLMSRKNLKERIKEAKRKqfSTHYLYSLILKNSYiKVKQQEELALfPIYSKEEQEEHvayRKEDCERILRNYNEK--INRIVVIAVDYVAEIATTACAYVFDDKYNVFDSLD
+#=GR BGC0000766.1_ORF28:gid::pid:ABM21423.1:loc:32859:33585:strand:+:4:241 PP 86...778888888888888855555555555555556*******************98879**********************************98555555554999************77778899***76777777777622257999**********..***********************************
+BGC0000767.1_ORF22:gid::pid:ABM21446.1:loc:21111:21837:strand:+:4:241         mr---INEHIVKKICQAMNYTLLDFRTVYEQAISEVNDNGIRPALWAKRADILTHDFEPDeEIKVLHVKRGnLWQIDPVADLENGDLYVLMSRKNLKERIKEAKRKqfSTHYLYSLILKNSYiKVKQQEELALfPIYSKEEQEEHvayRKEDCERILRNYNEK--INRIVVIAVDYVAEIAPPACAYVFDDKYNVFDSLD
+#=GR BGC0000767.1_ORF22:gid::pid:ABM21446.1:loc:21111:21837:strand:+:4:241 PP 86...778888888888888855555555555555556*******************98879**********************************98555555554999************77778899***76777777777622257999**********..***********************************
+#=GC PP_cons                                                                  .....778888888888888855555555555555556*******************988.9*********.************************9855555555..99************.7778899***.67777777776...57999**********..***********************************
+#=GC RF                                                                       ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxx.xxxxxxxxxx.xxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000766.1_ORF28:gid::pid:ABM21423.1:loc:32859:33585:strand:+:4:241         VSDYLLPAEYESTgSSVDKEKQVEIQQPIVKLKLRKKAKGNDK---------
+#=GR BGC0000766.1_ORF28:gid::pid:ABM21423.1:loc:32859:33585:strand:+:4:241 PP *****99988877345667777788888999999999998876.........
+BGC0000767.1_ORF22:gid::pid:ABM21446.1:loc:21111:21837:strand:+:4:241         VSDYLLPAEYESTgSSVDKEKQVEIHQPIVKLKLRKKAKGNDK---------
+#=GR BGC0000767.1_ORF22:gid::pid:ABM21446.1:loc:21111:21837:strand:+:4:241 PP ******9988876333444445555555999999999998876.........
+#=GC PP_cons                                                                  *****99988876.44556666666677999999999998876.........
+#=GC RF                                                                       xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

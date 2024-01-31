@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_008000775.1_ORF2029:gid::pid:WP_162306671.1:loc:2235310:2236075:strand:-:28:231         FSIAGVHGVGKTTVYLLLQKKLIenknILFMPERLRAN--PPVPFGSKD......-KNIAFRAELHYNQQMIKRNEII-KKFVTNHRERICISDRTPFTTIAYARAlSLPKIDYSLINDTFTSVS---WQ......KDHIIFLNAEPKTIMQRIYHRGsldISREKwnEGDFEYLKRVLKKYEEIFIE.-NKIeknnRIT
+#=GR GCF_008000775.1_ORF2029:gid::pid:WP_162306671.1:loc:2235310:2236075:strand:-:28:231 PP 589************99999873333366788888888..888866555.......6789999999999999998555.7777777788888888788777766542689999999998888888...88......99*******************8333355667799**************9988..2222222455
+BGC0001042.1_ORF7:gid::pid:ACY06272.1:loc:7388:8048:strand:+:2:212                          ICVGGMIGIGKTSVAELIAKELG....SMVFYESVEDN--PILPLFYTAgpeeiaAKRYPFLLQLYFLQTRFAAIKEA-YKQDDNVLDRSIYEDW-YFAKVNHDLG.RISSLEMQVYEGLLAEMMREIDGlpyrkaPDLMVYLRADFETVLRRIGLRG...RDFEQ.dQSLVEYYRTLWAGYDDWVHEhYSAS....DVL
+#=GR BGC0001042.1_ORF7:gid::pid:ACY06272.1:loc:7388:8048:strand:+:2:212                  PP 9**********************....***********..*******84333343799********************.99999***********.8*********.******************99998888999**********************...*****.9999**************97658899....9**
+#=GC PP_cons                                                                                79*****************9997....88999999999..999988875......7889********99999999777.888888899999999978999888887.89999999999999999999988......*********************9...67888..999**************987.8555....677
+#=GC RF                                                                                     xxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxx...xxxxx..xxxxxxxxxxxxxxxxxxxx.xxxx....xxx
+
+GCF_008000775.1_ORF2029:gid::pid:WP_162306671.1:loc:2235310:2236075:strand:-:28:231         RIWTEN---MTAEDVVNRIIEI------ieqrtr
+#=GR GCF_008000775.1_ORF2029:gid::pid:WP_162306671.1:loc:2235310:2236075:strand:-:28:231 PP 555555...4555555555554......457899
+BGC0001042.1_ORF7:gid::pid:ACY06272.1:loc:7388:8048:strand:+:2:212                          VIDMNRTDVVNSPDDAKRVVREVADA--la....
+#=GR BGC0001042.1_ORF7:gid::pid:ACY06272.1:loc:7388:8048:strand:+:2:212                  PP **********************9765..68....
+#=GC PP_cons                                                                                788888***77888888887779765........
+#=GC RF                                                                                     xxxxxxxxxxxxxxxxxxxxxxxxxxxx......
+//

@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+BGC0000048.1_ORF12:gid:epoA:pid:AAZ95015.1:loc:30020:31335:strand:+:15:130         p-SPFTVSISESKLQTLQDLIRLSPIgPADYNNSSpstGSKYGIRRDWLINAKKQWEDNFSWRTFEKKLKKYPQYTVPVKgesgeTIEIHFIALFSQRQDARPLAFYHGWPSSPFDF.
+#=GR BGC0000048.1_ORF12:gid:epoA:pid:AAZ95015.1:loc:30020:31335:strand:+:15:130 PP 6.79*******************9776333332224457889*************************************6668756***************************8776.
+BGC0000081.1_ORF54:gid::pid:AFV52152.1:loc:55632:56787:strand:-:1:106              .MRRFRIAVPEADLADLRRRLADTRW.PDELPG-V...GWSRGAPADYVRDLAEHWRTRYDWRATEAELNRHPQFLTEID.....GATVHLLHVRSPEPDATPLLLTHGWPGSVAEF.
+#=GR BGC0000081.1_ORF54:gid::pid:AFV52152.1:loc:55632:56787:strand:-:1:106      PP .589**********************.*96555.5...7*****************************************.....******************************98.
+BGC0000965.1_ORF15:gid::pid:AAL06662.1:loc:18030:19188:strand:-:1:106              .MRPFRIEIDQSDIDDLNRRIDATRW.PS-EIPGS...GWDRGVPLSYLKELTDHWRHGYDWRAAEAELNAFPQFVTTID.....GADVHFLHVRSPEPDAIPLILTHGWPGSVAEF.
+#=GR BGC0000965.1_ORF15:gid::pid:AAL06662.1:loc:18030:19188:strand:-:1:106      PP .68***********************.*7.56666...8*****************************************.....******************************98.
+BGC0000700.1_ORF21:gid:issA:pid:CAH60146.1:loc:18895:20062:strand:-:10:115         .PRPFTIAVDDAVLSDLTTRLERTRW.PS-PAPGA...PWSQGADLGYLREIVTYWTEKFDWRAQERRLNTFAHHRTEIE.....DTRIHFVHHRAAHGEGIPLILTHGWPSTFAE-l
+#=GR BGC0000700.1_ORF21:gid:issA:pid:CAH60146.1:loc:18895:20062:strand:-:10:115 PP .58***********************.97.55556...7*****************************************.....**********99*****************98.5
+BGC0001397.1_ORF10:gid::pid:ALU98426.1:loc:11882:13040:strand:-:1:106              .MRPFRIEIDQSDIDDLNRRIDATRW.PS-EIPGS...GWDRGVPLSYLKELTDHWRHGYDWRAAEAELNAFPQFVTTID.....GADVHFLHVRSPEPDAIPLILTHGWPGSVAEF.
+#=GR BGC0001397.1_ORF10:gid::pid:ALU98426.1:loc:11882:13040:strand:-:1:106      PP .68***********************.*7.56666...8*****************************************.....******************************98.
+BGC0000150.1_ORF21:gid::pid:ABP55155.1:loc:26035:27193:strand:+:1:106              .MRPFRIHVPQADLDDLSRRLAATRW.PTELPG-I...GWERGVPLDYLRDLADYWRNRYDWRAAERWLNDFPQFITEID.....GTDVHFVHVRSAEPNATPLILTHGWPGSFVEF.
+#=GR BGC0000150.1_ORF21:gid::pid:ABP55155.1:loc:26035:27193:strand:+:1:106      PP .68***********************.*86544.5...7*****************************************.....*******************************8.
+BGC0000112.1_ORF16:gid::pid:AAM77995.1:loc:22668:23826:strand:+:1:105              .MRPFQVQIPQADIDDLKRRLSETRW.PE--LVDV...GWSRGAPLSYIKELAEYWRDGFDWRAAERRINQYPQFTTEID.....GATIHFLHVRSPEPDATPMVITHGWPGTPVEF.
+#=GR BGC0000112.1_ORF16:gid::pid:AAM77995.1:loc:22668:23826:strand:+:1:105      PP .68***********************.*6..4445...7*****************************************.....****************************9998.
+BGC0000112.1_ORF23:gid::pid:AAM78002.1:loc:31854:33018:strand:-:1:106              .MEPFRIVIPQADLDDLHRRLDATRW.PS-EIPGT...GWSRGVPLDYLKELVGYWRDGYDWRAAEDRLNTVPQFTTEID.....GTNVHFMHIRSAEPDALPMIITHGWPGSVAEF.
+#=GR BGC0000112.1_ORF23:gid::pid:AAM78002.1:loc:31854:33018:strand:-:1:106      PP .58***********************.*7.56667...8*****************************************.....******************************98.
+BGC0000274.1_ORF11:gid::pid:AFY23023.1:loc:10283:11435:strand:+:6:112              .IRPFHIDIPQSELDDLRDRLARTRW.SGGELPGA...GWRHGVPQDELRTLVEYWADGYDWRAHEARINAYPQFVTEID.....GTTVHFLHVRSPEPDAFPLVLTHGWPGTFYEY.
+#=GR BGC0000274.1_ORF11:gid::pid:AFY23023.1:loc:10283:11435:strand:+:6:112      PP .79***********************.99999999...**9***************************************.....******************************95.
+#=GC PP_cons                                                                       .68***********************.97655566...8*9***************************************.....*****************************997.
+#=GC RF                                                                            .xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

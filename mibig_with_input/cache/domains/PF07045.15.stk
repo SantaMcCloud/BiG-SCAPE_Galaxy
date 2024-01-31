@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+BGC0001041.1_ORF30:gid::pid:ABP53516.1:loc:40846:41140:strand:+:2:95               a-ALLIGNVgTLGDPEAMAEYRAKVGSTLALHGGGFVIRNGTFEVLEGIWRPDHLSVMGFPSAEQAHRWYRSPEYREIVPLRAGTH-MDLILVEG-q
+#=GR BGC0001041.1_ORF30:gid::pid:ABP53516.1:loc:40846:41140:strand:+:2:95       PP 7.789*****************************************************************************9876.9******9.7
+BGC0001221.1_ORF14:gid:cnq733:pid:AIT42123.1:loc:12913:13267:strand:-:2:95         .TAYAIAKLqDAAPHPEVADYIERLPATFEPYGGRFLVHATPHEVKEGDWP-GGVVMIGFPGIAEARAWWDSPAYRELAPLRSRHIDGDIILVEGV.
+#=GR BGC0001221.1_ORF14:gid:cnq733:pid:AIT42123.1:loc:12913:13267:strand:-:2:95 PP .69******9999999********************************776.99****************************************97.
+BGC0000971.1_ORF11:gid::pid:CBW54666.1:loc:11416:11704:strand:+:2:95               .TALLIGNVgVIGDERAMAEYREKVLHTLELYGGGFMIRGGAFETLEGDWNPTHLSVMVFPTAHLARLWYTSPEYQAIVPLRAGTH-MDLVLVEG-e
+#=GR BGC0000971.1_ORF11:gid::pid:CBW54666.1:loc:11416:11704:strand:+:2:95       PP .588999**9999*********************************************************************9876.9******8.8
+#=GC PP_cons                                                                       .6899****.999***********************************999*******************************9987*9******97.
+#=GC RF                                                                            .xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1007:gid::pid::loc:1184733:1187382:strand:+:301:453         eilklkdtekfidevnkkgqvilktvrgqgnilekniiyifisvdg---------------------.----------------------------.EKIYYVDS---N--EVSKLDSIFSNNEIKKYGYNLKDDYISLKP-YNINLENMYFDiTIAEYLIDSTSStsYDCSAIAMKYLSkKVKSKEELLGKGV------
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1007:gid::pid::loc:1184733:1187382:strand:+:301:453 PP 9988877666666555555555555555555555544444444444...................................................33333333...3..3788**************************.999999997777***********97777789*******88888999998876......
+BGC0000341.1_ORF17:gid::pid:ABD65937.1:loc:24340:25633:strand:-:44:209                           ............................................pv---IADEAALAEAVAAFAAGSgPVAVDAERASGYR--YGQRAYLVQLRREgAGTALIDPVACPD--LSALGEALS--GVEWVLHAATQDLPCLRE-IGMVPSRLFDT.ELAGRLAGFPR-..VGLGAMVENVLG.FVLEKGHSAVDWSTRPLPE
+#=GR BGC0000341.1_ORF17:gid::pid:ABD65937.1:loc:24340:25633:strand:-:44:209                   PP ............................................85...4455556555555555445*************..*************9*************..*********..79************9999.***********.***********...************.*******************
+#=GC PP_cons                                                                                     .................................................445555655555555544.*************..*************.77777666***6*.3899********9*************9999.*******9988.***********9..9999********.9999***999998******
+#=GC RF                                                                                          ..............................................xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx..xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1007:gid::pid::loc:1184733:1187382:strand:+:301:453         -------------------------ksknyedlefedlaey
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1007:gid::pid::loc:1184733:1187382:strand:+:301:453 PP .........................4555667888899999
+BGC0000341.1_ORF17:gid::pid:ABD65937.1:loc:24340:25633:strand:-:44:209                           PWLRYAALDVELLVDLRDALEKELD................
+#=GR BGC0000341.1_ORF17:gid::pid:ABD65937.1:loc:24340:25633:strand:-:44:209                   PP **********************995................
+#=GC PP_cons                                                                                     **********************995................
+#=GC RF                                                                                          xxxxxxxxxxxxxxxxxxxxxxxxx................
+//

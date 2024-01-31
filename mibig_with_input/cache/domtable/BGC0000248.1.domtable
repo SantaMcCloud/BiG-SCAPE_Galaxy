@@ -1,0 +1,21 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.30   252 BGC0000248.1_ORF1:gid:ncnA:pid:AAD20267.1:loc:1435:2701:strand:+ -            421   1.8e-55  188.5   0.7   1   1   1.7e-59   1.8e-55  188.5   0.7     2   252     3   252     2   252 0.93 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0000248.1_ORF1:gid:ncnA:pid:AAD20267.1:loc:1435:2701:strand:+ -            421   5.9e-35  120.0   1.5   1   1   1.2e-38   1.2e-34  119.0   1.5     1   118   260   374   260   375 0.98 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.30   252 BGC0000248.1_ORF2:gid:ncnB:pid:AAD20268.1:loc:2697:3987:strand:+ -            429   4.2e-39  134.9   2.0   1   1     4e-43   4.2e-39  134.9   2.0     3   249    26   263    24   266 0.89 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0000248.1_ORF2:gid:ncnB:pid:AAD20268.1:loc:2697:3987:strand:+ -            429   2.1e-21   76.3   0.0   1   1   5.4e-25   5.6e-21   74.9   0.0     1   118   275   384   275   385 0.91 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.29    67 BGC0000248.1_ORF3:gid:ncnC:pid:AAD20269.1:loc:4031:4292:strand:+ -             86   5.3e-13   49.2   0.8   1   1     3e-17   6.3e-13   49.0   0.8     3    67    13    77    11    77 0.92 Phosphopantetheine attachment site
+Polyketide_cyc       PF03364.24   126 BGC0000248.1_ORF4:gid:ncnD:pid:AAD20270.1:loc:4288:5236:strand:+ -            315   9.9e-16   58.3   0.2   1   2   2.2e-11   2.3e-07   31.3   0.1     1   100    16   118    16   141 0.86 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc       PF03364.24   126 BGC0000248.1_ORF4:gid:ncnD:pid:AAD20270.1:loc:4288:5236:strand:+ -            315   9.9e-16   58.3   0.2   2   2   2.1e-09   2.2e-05   24.9   0.0     4   108   171   281   168   291 0.67 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc2      PF10604.13   143 BGC0000248.1_ORF4:gid:ncnD:pid:AAD20270.1:loc:4288:5236:strand:+ -            315   4.3e-14   53.2  12.7   1   1   2.9e-14     3e-10   40.7   3.2     3   143     9   150     7   150 0.74 Polyketide cyclase / dehydrase and lipid transport
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000248.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000248.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000248.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:43:07 2024
+# [ok]

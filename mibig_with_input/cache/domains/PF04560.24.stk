@@ -1,0 +1,19 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF76:gid::pid::loc:94006:97723:strand:+:1084:1160           GGQRFGEMEVWALEAYGAAHILQEILTVKSD----DVVGRVRTYEA--......---IVKGENIPEPG-IPESFKVLIKELQSLCLDVKVLT-d.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF76:gid::pid::loc:94006:97723:strand:+:1084:1160   PP 9******************************....***********...........***********.*******************9976.7.
+BGC0000610.1_ORF21:gid:nos5:pid:ACR48347.1:loc:26548:30094:strand:-:1069:1145                  GGQRFGEMEVWALEAYGAAYALQELLTIKSD----DVTGRVKVYEA--......---IVKGENIPEPG-IPESFKVLIKEMQSLCLNVEVL--ss
+#=GR BGC0000610.1_ORF21:gid:nos5:pid:ACR48347.1:loc:26548:30094:strand:-:1069:1145          PP 9******************************....***********...........***********.*******************986..57
+GCF_008000775.1_ORF378:gid::pid:WP_147661517.1:loc:426488:429875:strand:+:1033:1125            GGLRFGEMERDCLVGHGSAVLLKERLLDESDRTQILICEKCGLLGIYDrnrdrtYCPICGEKSLISSVTCSYAFKLLLQEMMSLGLAPRLIL-k.
+#=GR GCF_008000775.1_ORF378:gid::pid:WP_147661517.1:loc:426488:429875:strand:+:1033:1125    PP 9**********************************************9****************************************9986.6.
+BGC0000615.1_ORF5:gid:tpa5:pid:ADO67767.1:loc:3354:6822:strand:+:1043:1119                     GGQRFGEMEVWALEAYGAAYALQELLTIKSD----DVVGRVKVYEA--......---IVKGENIPEPG-IPESFKVLIKEMQSLCLNVEVL--ss
+#=GR BGC0000615.1_ORF5:gid:tpa5:pid:ADO67767.1:loc:3354:6822:strand:+:1043:1119             PP 9******************************....***********...........***********.*******************986..57
+BGC0000136.1_ORF63:gid:rpoB:pid:AAS07760.1:loc:105772:109276:strand:+:1052:1128                GGQRFGEMECWAMQAYGAAYTLQELLTIKSD----DVVGRVKVYEA--......---IVKGENIPEPG-IPESFKVLLKELQSLCLNVEVL--ss
+#=GR BGC0000136.1_ORF63:gid:rpoB:pid:AAS07760.1:loc:105772:109276:strand:+:1052:1128        PP 9******************************....***********...........***********.*******************986..57
+GCF_000011105.1_ORF1448:gid::pid:WP_010885625.1:loc:1375960:1379314:strand:-:1022:1114         GGLRFGEMERDVLVGHGAAMLLIERLLEESDKTEVWVCENCGHIAIEDkrrhkvYCPVCGEEERISKVEMSYAFKLLLDELKAMVIRPKLN--lt
+#=GR GCF_000011105.1_ORF1448:gid::pid:WP_010885625.1:loc:1375960:1379314:strand:-:1022:1114 PP 9*********************************************99***************************************9986..58
+BGC0001381.1_ORF19:gid::pid:AJO72712.1:loc:19362:22830:strand:-:1042:1118                      GGQRFGEMECWAMQAYGAAYTLQELLTIKSD----DVVGRVKVYEA--......---IVKGENIPEPG-IPESFKVLLKELQSLCLNVEVL--ss
+#=GR BGC0001381.1_ORF19:gid::pid:AJO72712.1:loc:19362:22830:strand:-:1042:1118              PP 9******************************....***********...........***********.*******************986..57
+#=GC PP_cons                                                                                   9*********************************************99......**********************************9876...
+#=GC RF                                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

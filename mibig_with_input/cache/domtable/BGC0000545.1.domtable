@@ -1,0 +1,31 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Sortase              PF04203.17   124 BGC0000545.1_ORF1:gid::pid:CAC60272.1:loc:0:297:strand:+ -             98   3.3e-10   40.0   0.0   1   1   1.7e-14   3.6e-10   39.9   0.0    41   123     5    96     1    97 0.78 Sortase domain
+Response_reg         PF00072.28   111 BGC0000545.1_ORF2:gid:rumR2:pid:CAC60273.1:loc:560:911:strand:- -            116   1.5e-11   44.6   0.1   1   1   8.5e-16   1.8e-11   44.4   0.1     1    99     4   100     4   109 0.93 Response regulator receiver domain
+ABC2_membrane_4      PF12730.11   179 BGC0000545.1_ORF4:gid:rumG:pid:CAC60275.1:loc:1260:2025:strand:- -            254   8.9e-33  113.9  25.5   1   1   4.3e-37   8.9e-33  113.9  25.5     1   179     6   187     6   187 0.90 ABC-2 family transporter protein
+ABC2_membrane_4      PF12730.11   179 BGC0000545.1_ORF5:gid:rumE:pid:CAC60276.1:loc:2095:2764:strand:- -            222   4.9e-09   36.6  18.9   1   1   2.4e-13   4.9e-09   36.6  18.9     2   173     4   176     3   182 0.71 ABC-2 family transporter protein
+ABC_tran             PF00005.31   137 BGC0000545.1_ORF6:gid:rumF:pid:CAB93668.2:loc:2760:3525:strand:- -            254     5e-31  108.4   0.0   1   1   6.9e-35   7.1e-31  107.9   0.0     1   137    20   160    20   160 0.96 ABC transporter
+AAA_21               PF13304.10   304 BGC0000545.1_ORF6:gid:rumF:pid:CAB93668.2:loc:2760:3525:strand:- -            254   1.3e-14   55.1   1.1   1   1   2.1e-14   2.2e-10   41.2   0.1   235   298   129   190    60   196 0.80 AAA domain, putative AbiEii toxin, Type IV TA system
+Response_reg         PF00072.28   111 BGC0000545.1_ORF7:gid:rumR:pid:CAB93669.1:loc:3673:4375:strand:+ -            233     1e-26   93.5   0.1   1   1   1.9e-30     2e-26   92.5   0.1     2   107    12   117    11   120 0.98 Response regulator receiver domain
+Trans_reg_C          PF00486.32    77 BGC0000545.1_ORF7:gid:rumR:pid:CAB93669.1:loc:3673:4375:strand:+ -            233   7.7e-22   77.4   0.0   1   1   1.8e-25   1.9e-21   76.1   0.0     5    77   157   229   153   229 0.97 Transcriptional regulatory protein, C terminal
+HATPase_c            PF02518.30   111 BGC0000545.1_ORF8:gid:rumK:pid:CAB93670.1:loc:4379:5759:strand:+ -            459   8.5e-23   81.1   0.1   1   1   1.9e-26   1.9e-22   80.0   0.1     2   109   343   452   342   454 0.92 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HisKA                PF00512.29    66 BGC0000545.1_ORF8:gid:rumK:pid:CAB93670.1:loc:4379:5759:strand:+ -            459   2.3e-10   40.5   0.1   1   1   4.4e-14   4.6e-10   39.6   0.1     2    64   229   292   228   294 0.92 His Kinase A (phospho-acceptor) domain
+L_biotic_typeA       PF04604.17    50 BGC0000545.1_ORF9:gid:rumA1:pid:CAB93671.1:loc:5925:6069:strand:+ -             47   4.2e-25   87.5   1.4   1   1   2.2e-29   4.5e-25   87.5   1.4     1    50     1    47     1    47 0.96 Type-A lantibiotic
+L_biotic_typeA       PF04604.17    50 BGC0000545.1_ORF10:gid:rumA2:pid:CAB93672.1:loc:6086:6230:strand:+ -             47   4.2e-25   87.5   1.4   1   1   2.2e-29   4.5e-25   87.5   1.4     1    50     1    47     1    47 0.96 Type-A lantibiotic
+L_biotic_typeA       PF04604.17    50 BGC0000545.1_ORF11:gid:rumA3:pid:CAB93673.1:loc:6248:6392:strand:+ -             47   4.2e-25   87.5   1.4   1   1   2.2e-29   4.5e-25   87.5   1.4     1    50     1    47     1    47 0.96 Type-A lantibiotic
+LANC_like            PF05147.17   350 BGC0000545.1_ORF12:gid:rumM:pid:CAB93674.2:loc:6550:9295:strand:+ -            914   1.1e-71  241.5   8.7   1   1   1.9e-75   1.9e-71  240.6   8.7     2   344   566   907   565   913 0.94 Lanthionine synthetase C-like protein
+DUF4135              PF13575.10   378 BGC0000545.1_ORF12:gid:rumM:pid:CAB93674.2:loc:6550:9295:strand:+ -            914     1e-56  193.0   0.0   1   1   1.4e-60   1.4e-56  192.5   0.0     1   376    92   450    92   452 0.89 Domain of unknown function (DUF4135)
+Peptidase_C39        PF03412.19   133 BGC0000545.1_ORF13:gid:rumT:pid:CAC60277.1:loc:9313:11380:strand:+ -            688   4.1e-32  111.0   0.1   1   1   1.2e-35   8.6e-32  110.0   0.1     3   128     2   125     1   129 0.97 Peptidase C39 family
+ABC_tran             PF00005.31   137 BGC0000545.1_ORF13:gid:rumT:pid:CAC60277.1:loc:9313:11380:strand:+ -            688     2e-21   77.3   0.1   1   1   5.5e-25   3.8e-21   76.4   0.1     1   137   476   614   476   614 0.86 ABC transporter
+ABC_membrane         PF00664.27   274 BGC0000545.1_ORF13:gid:rumT:pid:CAC60277.1:loc:9313:11380:strand:+ -            688   5.9e-13   49.3  18.1   1   1   1.3e-16   9.1e-13   48.7  18.1    20   245   163   389   151   413 0.89 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000545.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000545.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000545.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:43:18 2024
+# [ok]

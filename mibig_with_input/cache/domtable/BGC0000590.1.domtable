@@ -1,0 +1,20 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Histone_HNS          PF00816.25    92 BGC0000590.1_ORF1:gid::pid:ACP43448.1:loc:89:524:strand:+ -            144   1.9e-18   67.3   3.7   1   1   1.2e-22   2.4e-18   66.9   3.7     1    92    41   136    41   136 0.83 H-NS histone family
+HlyD_3               PF13437.10   106 BGC0000590.1_ORF4:gid::pid:ACP43451.1:loc:1839:3117:strand:+ -            425   4.1e-14   53.4   0.3   1   1   6.8e-15   2.8e-11   44.2   0.0     2    84   260   346   259   364 0.90 HlyD family secretion protein
+CusB_dom_1           PF00529.24    80 BGC0000590.1_ORF4:gid::pid:ACP43451.1:loc:1839:3117:strand:+ -            425   5.3e-14   52.1   0.0   1   1   1.6e-17   6.8e-14   51.8   0.0     1    78    36   396    36   398 0.96 Cation efflux system protein CusB domain 1
+HlyD_D23             PF16576.9    214 BGC0000590.1_ORF4:gid::pid:ACP43451.1:loc:1839:3117:strand:+ -            425   1.7e-13   50.5   0.5   1   1   1.7e-12   7.2e-09   35.4   0.1    59   183   210   337   186   344 0.85 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+ABC_membrane         PF00664.27   274 BGC0000590.1_ORF5:gid::pid:ACP43452.1:loc:3106:5230:strand:+ -            707   7.3e-47  160.5  16.3   1   1   1.9e-50   9.8e-47  160.1  16.3     4   272   182   447   179   449 0.98 ABC transporter transmembrane region
+Peptidase_C39        PF03412.19   133 BGC0000590.1_ORF5:gid::pid:ACP43452.1:loc:3106:5230:strand:+ -            707   7.1e-42  142.6   0.0   1   1   2.5e-45   1.3e-41  141.8   0.0     2   132    24   152    23   153 0.98 Peptidase C39 family
+ABC_tran             PF00005.31   137 BGC0000590.1_ORF5:gid::pid:ACP43452.1:loc:3106:5230:strand:+ -            707   1.6e-31  110.0   0.0   1   1   5.4e-35   2.8e-31  109.2   0.0     2   137   513   661   512   661 0.94 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000590.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000590.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000590.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:30:41 2024
+# [ok]

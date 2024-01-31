@@ -1,0 +1,24 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.26   462 BGC0001286.1_ORF1:gid:CYP3:pid:ALS30800.1:loc:99:2025:strand:- -            540   3.6e-71  240.5   0.0   1   1     2e-75   4.1e-71  240.3   0.0     2   460    61   523    60   525 0.91 Cytochrome P450
+Glyoxalase           PF00903.29   121 BGC0001286.1_ORF2:gid:RDO1:pid:ALS30794.1:loc:2965:3822:strand:+ -            176   2.6e-11   44.1   0.0   1   1   5.7e-15   5.9e-11   43.0   0.0     2   121    54   169    53   169 0.82 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+Lyase_1              PF00206.24   312 BGC0001286.1_ORF3:gid:TAD1:pid:ALS30796.1:loc:4311:5793:strand:- -            493   2.8e-40  138.8   0.0   1   1   4.4e-44   4.5e-40  138.2   0.0     7   310    60   343    58   345 0.90 Lyase
+ADSL_C               PF10397.13    79 BGC0001286.1_ORF3:gid:TAD1:pid:ALS30796.1:loc:4311:5793:strand:- -            493   4.3e-23   81.6   0.0   1   1   2.9e-26     3e-22   78.9   0.0     1    79   409   486   409   486 0.97 Adenylosuccinate lyase C-terminus
+MFS_1                PF07690.20   347 BGC0001286.1_ORF4:gid:ITP1:pid:ALS30797.1:loc:6812:8639:strand:- -            491   3.4e-51  174.4  28.4   1   1   3.2e-55   3.4e-51  174.4  28.4     2   346    53   443    52   445 0.83 Major Facilitator Superfamily
+Sugar_tr             PF00083.28   452 BGC0001286.1_ORF4:gid:ITP1:pid:ALS30797.1:loc:6812:8639:strand:- -            491   1.9e-11   43.7   5.7   1   1   1.8e-15   1.9e-11   43.7   5.7    43   202    79   233    25   252 0.87 Sugar (and other) transporter
+PrpF                 PF04303.17   384 BGC0001286.1_ORF5:gid:ADI1:pid:ALS30798.1:loc:9922:11337:strand:+ -            443     2e-87  293.7   0.1   1   1   1.3e-91   2.8e-87  293.3   0.1     4   382     5   359     2   361 0.92 PrpF protein
+Mito_carr            PF00153.31    96 BGC0001286.1_ORF6:gid:MTT1:pid:ALS30799.1:loc:12168:13404:strand:+ -            300   8.6e-61  201.9   3.4   1   3   2.1e-23   4.3e-19   68.2   0.0     3    95     8   102     6   103 0.95 Mitochondrial carrier protein
+Mito_carr            PF00153.31    96 BGC0001286.1_ORF6:gid:MTT1:pid:ALS30799.1:loc:12168:13404:strand:+ -            300   8.6e-61  201.9   3.4   2   3   1.4e-21     3e-17   62.3   0.0     3    94   107   200   105   202 0.94 Mitochondrial carrier protein
+Mito_carr            PF00153.31    96 BGC0001286.1_ORF6:gid:MTT1:pid:ALS30799.1:loc:12168:13404:strand:+ -            300   8.6e-61  201.9   3.4   3   3   2.5e-24   5.1e-20   71.2   0.3     4    91   210   294   207   298 0.92 Mitochondrial carrier protein
+HLH                  PF00010.30    53 BGC0001286.1_ORF7:gid:RIA1:pid:ALS30795.1:loc:13712:14958:strand:- -            381   1.7e-08   34.3   0.3   1   1   8.1e-13   1.7e-08   34.3   0.3     2    53    92   143    91   143 0.97 Helix-loop-helix DNA-binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001286.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001286.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001286.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:42:23 2024
+# [ok]

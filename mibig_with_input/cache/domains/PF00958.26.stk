@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF215:gid::pid::loc:254708:256244:strand:+:419:510            .........DELRKAGLYREIWQAFATLPDVKTVGVMGDERTYAYLVGLRAVTSSDGMTSDWYKMPYDVLERISNRIINEVDGVNRVVYDITSKPPGTIEW
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF215:gid::pid::loc:254708:256244:strand:+:419:510    PP .........699*****************************************************************************************
+GCF_008000775.1_ORF264:gid::pid:WP_147661407.1:loc:290749:291937:strand:+:330:394                eivdckkgv-----------------------------------YDVVIRSVNSIDARTASVTDLPYDLISSIAEHL-SEIPETKRIYFDMTPKPPGTIEY
+#=GR GCF_008000775.1_ORF264:gid::pid:WP_147661407.1:loc:290749:291937:strand:+:330:394        PP *99776665...................................6799**************************996.8*********************8
+GCF_008000775.1_ORF1441:gid:guaA:pid:WP_147662542.1:loc:1559987:1561547:strand:+:427:518         .........EEIKKAGLYDQIWQAFAVFLPVKSVGVMGDYRTYEYLCALRIVESIDAMTANFAKLDWSILEQISSRIINEVIGINRVVYDISNKPPATIEF
+#=GR GCF_008000775.1_ORF1441:gid:guaA:pid:WP_147662542.1:loc:1559987:1561547:strand:+:427:518 PP .........79*****************************************************************************************8
+GCF_000011105.1_ORF1266:gid:guaA:pid:WP_010885436.1:loc:1213453:1214380:strand:-:218:307         ........e-EVERAGLR--PWQAFAVLLGVKTVGVQGDIRAYKETIAVRIVESIDGMTANAMNVPWEVLQRIAFRITSEIPEVGRVLYDITNKPPATIEF
+#=GR GCF_000011105.1_ORF1266:gid:guaA:pid:WP_010885436.1:loc:1213453:1214380:strand:-:218:307 PP ........5.66666665..7*******************************************************************************8
+#=GC PP_cons                                                                                     .........688999998**9***********************99******************************9***********************8
+#=GC RF                                                                                          .........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

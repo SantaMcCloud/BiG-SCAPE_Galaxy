@@ -1,0 +1,256 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="969.5" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="959.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+AdmA</title>
+			<polygon class="
+AdmA" points="53,10 62,40 53,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+AdmB</title>
+			<polygon class="
+AdmB" points="65,10 88,40 65,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+AdmC</title>
+			<polygon class="
+AdmC" points="88,10 113,40 88,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="88,28 99,28 107,38 107,42 99,52 88,52" stroke-linejoin="round" width="19" height="24" fill="rgb(128,81,196)" stroke="rgb(102,64,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+AdmD</title>
+			<polygon class="
+AdmD" points="114,25 157,25 157,10 187,40 157,70 157,55 114,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="114" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="138" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+AdmE</title>
+			<polygon class="
+AdmE" points="192,10 203,40 192,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FabA (PF07977)
+"FabA-like domain"</title>
+				<polygon class="PF07977" points="194,28 195,28 199,40 195,52 194,52" stroke-linejoin="round" width="7" height="24" fill="rgb(87,207,212)" stroke="rgb(69,165,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+AdmF</title>
+			<polygon class="
+AdmF" points="203,10 231,40 203,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transglut_core (PF01841)
+"Transglutaminase-like superfamily"</title>
+				<polygon class="PF01841" points="207,28 215,28 216,29 216,51 215,52 207,52" stroke-linejoin="round" width="9" height="24" fill="rgb(91,195,111)" stroke="rgb(72,156,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+AdmG</title>
+			<polygon class="
+AdmG" points="231,10 244,40 231,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+AdmH</title>
+			<polygon class="
+AdmH" points="253,25 277,25 277,10 307,40 277,70 277,55 253,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lyase_aromatic (PF00221)
+"Aromatic amino acid lyase"</title>
+				<polygon class="PF00221" points="256,28 290,28 302,40 290,52 256,52" stroke-linejoin="round" width="47" height="24" fill="rgb(198,213,89)" stroke="rgb(158,170,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+AdmI</title>
+			<polygon class="
+AdmI" points="311,10 319,40 311,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+AdmJ</title>
+			<polygon class="
+AdmJ" points="318,25 341,25 341,10 371,40 341,70 341,55 318,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="320" y="28" stroke-linejoin="round" width="35" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+AdmK</title>
+			<polygon class="
+AdmK" points="377,25 404,25 404,10 434,40 404,70 404,55 377,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="379" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="427,37 430,40 427,43" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+AdmL</title>
+			<polygon class="
+AdmL" points="439,10 455,40 439,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SnoaL (PF07366)
+"SnoaL-like polyketide cyclase"</title>
+				<polygon class="PF07366" points="442,28 445,28 451,40 445,52 442,52" stroke-linejoin="round" width="11" height="24" fill="rgb(102,157,212)" stroke="rgb(81,125,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+AdmM</title>
+			<polygon class="
+AdmM" points="457,25 514,25 514,10 544,40 514,70 514,55 457,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="457" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="481" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="512" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="521,28 528,28 531,31 531,49 528,52 521,52" stroke-linejoin="round" width="10" height="24" fill="rgb(69,76,223)" stroke="rgb(55,60,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+AdmN</title>
+			<polygon class="
+AdmN" points="544,10 554,40 544,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dabb (PF07876)
+"Stress responsive A/B Barrel Domain"</title>
+				<polygon class="PF07876" points="544,28 546,28 551,40 546,52 544,52" stroke-linejoin="round" width="9" height="24" fill="rgb(83,189,179)" stroke="rgb(66,151,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+AdmO</title>
+			<polygon class="
+AdmO" points="555,25 621,25 621,10 651,40 621,70 621,55 555,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="555" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="579" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="602" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="611,28 635,28 647,40 635,52 611,52" stroke-linejoin="round" width="40" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+AdmP</title>
+			<polygon class="
+AdmP" points="652,25 679,25 679,10 709,40 679,70 679,55 652,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="652" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+AdmQ</title>
+			<polygon class="
+AdmQ" points="712,25 722,25 722,10 752,40 722,70 722,55 712,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="713,28 736,28 746,38 746,42 736,52 713,52" stroke-linejoin="round" width="33" height="24" fill="rgb(228,207,98)" stroke="rgb(182,165,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+AdmR</title>
+			<polygon class="
+AdmR" points="755,10 779,40 755,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>4PPT_N (PF17837)
+"4'-phosphopantetheinyl transferase N-terminal domain"</title>
+				<polygon class="PF17837" points="759,28 765,28 767,30 767,50 765,52 759,52" stroke-linejoin="round" width="8" height="24" fill="rgb(223,103,142)" stroke="rgb(178,82,113)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+AdmS</title>
+			<polygon class="
+AdmS" points="785,10 814,40 785,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+AdmT</title>
+			<polygon class="
+AdmT" points="824,25 824,25 824,10 854,40 824,70 824,55 824,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>zf-ACC (PF17848)
+"Acetyl-CoA carboxylase zinc finger domain"</title>
+				<rect class="PF17848" x="826" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(77,99,220)" stroke="rgb(61,79,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Carboxyl_trans (PF01039)
+"Carboxyl transferase domain"</title>
+				<polygon class="PF01039" points="829,28 838,28 850,40 838,52 829,52" stroke-linejoin="round" width="24" height="24" fill="rgb(185,80,158)" stroke="rgb(148,64,126)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+AdmU</title>
+			<polygon class="
+AdmU" points="861,10 867,40 861,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_Tnp_1 (PF01527)
+"Transposase"</title>
+				<polygon class="PF01527" points="861,28 861,28 864,40 861,52 861,52" stroke-linejoin="round" width="5" height="24" fill="rgb(142,96,211)" stroke="rgb(113,76,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

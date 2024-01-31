@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000521.1_ORF1:gid::pid:AAC72260.1:loc:0:498:strand:-:3:166            ktkkfkeielenellknkienasfs---------------PDRFINKIKDLIESNDF-----SSVKYLIKTLTDYLTLKEATHClLRNNTHSTDKndmllwtiyglyrnfdVKTIDCDLKFSINELNLILNTWNEDRIVSNIKGINST--N-IL..YPCNNIRNYYIYPLDIVICGGGNHSQFSAKLK------------
+#=GR BGC0000521.1_ORF1:gid::pid:AAC72260.1:loc:0:498:strand:-:3:166    PP 9999999888777665444433333...............35566666666665553.....99*************9999999455555555559**************944667999****************************5..4.44..5559***********************99876............
+BGC0000523.1_ORF3:gid::pid:CAC33835.1:loc:798:1200:strand:-:1:117         ........................f-----------------------------------------------------------.----------................-----------------------------AIKYIANSN-NPFSieESNGNVINVYFYPLGIALCERGNHSQLSAKLKGVGETSIERIMN
+#=GR BGC0000523.1_ORF3:gid::pid:CAC33835.1:loc:798:1200:strand:-:1:117 PP ........................9...................................................................................................................678888865.9**97678889999************************************
+#=GC PP_cons                                                              ........................................35566666666665553.....99*************9999999.5555555555................44667999*********************899999965.7*77..666999**********************9998************
+#=GC RF                                                                   .........................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxx................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000521.1_ORF1:gid::pid:AAC72260.1:loc:0:498:strand:-:3:166            --------------------------........-----------------------l..
+#=GR BGC0000521.1_ORF1:gid::pid:AAC72260.1:loc:0:498:strand:-:3:166    PP .........................................................9..
+BGC0000523.1_ORF3:gid::pid:CAC33835.1:loc:798:1200:strand:-:1:117         IEHVYDHVNYDGIYFYHIFSENEETNpyrfkaqnRTEFLAGIIFEIGRLLKNYP---elf
+#=GR BGC0000523.1_ORF3:gid::pid:CAC33835.1:loc:798:1200:strand:-:1:117 PP *****************54443333336777777889999**********9875...688
+#=GC PP_cons                                                              *****************544433333........889999**********9875......
+#=GC RF                                                                   xxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxxxxx...
+//

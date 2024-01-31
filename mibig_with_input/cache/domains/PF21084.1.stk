@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+
+BGC0000474.1_ORF4:gid:mcaD:pid:CAP64338.1:loc:2755:5086:strand:+:8:83           QIQPHFHVEVIEPKQVYLLGEQANYALTGQLYCQILPLLDGQHSREQIVEKLDGEVPSEYIDYVLDRLAEKGYLTE
+#=GR BGC0000474.1_ORF4:gid:mcaD:pid:CAP64338.1:loc:2755:5086:strand:+:8:83   PP 9*************************************************************************97
+BGC0000475.1_ORF4:gid:patD:pid:AAY21153.1:loc:3269:5624:strand:+:7:82           QIKPHFHVEIIEPKQVYLLGEQGNHALTGQLYCQILPFLNGEYTREQIVEKLDGQVPEEYIDFVLSRLVEKGYLTE
+#=GR BGC0000475.1_ORF4:gid:patD:pid:AAY21153.1:loc:3269:5624:strand:+:7:82   PP 9*************************************************************************97
+BGC0000481.1_ORF11:gid::pid:ZP_00672901.1:loc:10205:12515:strand:+:5:80         QIKPHFHIEIIEPKHVYLLGENSTDALTGEFYCQLIPLLDGQHSFEEICETLAEIAYPEDVEYVLNRLKTKGYLTE
+#=GR BGC0000481.1_ORF11:gid::pid:ZP_00672901.1:loc:10205:12515:strand:+:5:80 PP 9***************************************************9999******************97
+BGC0000471.1_ORF4:gid::pid:AFZ08005.1:loc:3181:5512:strand:+:8:83               QIKPHFHVEAIEPKQVYLLGEQSNHALTGQLYCQIVPLLNGQHTLEQIVEKLDGEVPAEYIDYVLDRLAEKGYLTE
+#=GR BGC0000471.1_ORF4:gid::pid:AFZ08005.1:loc:3181:5512:strand:+:8:83       PP 9*************************************************************************97
+BGC0000483.1_ORF4:gid::pid:CCH92967.1:loc:8735:11063:strand:-:8:83              QIQPHFHVEVIEPKQVYLLGEQANYALTGQLYCQILPLLDGQHNREQIVEKLDGEVPEEYIDYVLERLAEKGYLTE
+#=GR BGC0000483.1_ORF4:gid::pid:CCH92967.1:loc:8735:11063:strand:-:8:83      PP 9*************************************************************************97
+BGC0000480.1_ORF4:gid:tenD:pid:ACA04483.1:loc:3498:5832:strand:+:8:83           QIKPHFHIEVIEPKQVYLLGEQGNHALTGELYCQIVPLLDGQHTIEQIIQKLDGQVPAEYIDYVLNRLAEKGYLTE
+#=GR BGC0000480.1_ORF4:gid:tenD:pid:ACA04483.1:loc:3498:5832:strand:+:8:83   PP 9*************************************************************************97
+BGC0000473.1_ORF4:gid:mcaD:pid:CAO82084.1:loc:3549:5880:strand:+:8:83           QIQPHFHVEVIEPKQVYLLGEQANYALTGQLYCQILPLLDGQHSREQIVEKLDGEVPSEYIDYVLDRLAEKGYLTE
+#=GR BGC0000473.1_ORF4:gid:mcaD:pid:CAO82084.1:loc:3549:5880:strand:+:8:83   PP 9*************************************************************************97
+BGC0000477.1_ORF4:gid:truD:pid:ACA04490.1:loc:2951:5297:strand:+:7:82           QIKPHFHVEIIEPKQVYLLGEQGNHALTGQLYCQILPFLNGEYTREQIVEKLDGQVPEEYIDFVLSRLVEKGYLTE
+#=GR BGC0000477.1_ORF4:gid:truD:pid:ACA04490.1:loc:2951:5297:strand:+:7:82   PP 9*************************************************************************97
+#=GC PP_cons                                                                    9*************************************************************************97
+#=GC RF                                                                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

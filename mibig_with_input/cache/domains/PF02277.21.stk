@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF3335:gid::pid::loc:3814250:3815297:strand:-:11:346         i-YSLDNSSIEKTKQRLDRLIHPTGSLGKIEDICMQLAGIFGNENF.DTSKKVIIAFAGDHGVYEEGVAPDPQNITKLQFPNFSKGLCGVGVISKFVGADVVAVDVGINcDEKldgvLDYKIRKGTSNMAKGPAMSKQEAIRCLEIGIEIAEQCIEKDYKVIGIGEMGIANTTPSTAIISVISGCDPLEVTGIGAGLKKE
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3335:gid::pid::loc:3814250:3815297:strand:-:11:346 PP 6.5789999*************************************.************************************************************9985446698878********************************************************************************
+BGC0001055.1_ORF40:gid:cobT:pid:CAJ87606.1:loc:60333:61407:strand:-:11:345                      .IPAIDPAAMSRAQRHIDGLLKPVGSLGKLEALAIQLAGMPGLNGIpHVGKKAVLVMCADHGVWEEGVAISPKEVTAIQAENMTRGTTGVCVLAAQAGANVHVIDVGIDePIPg..lINMRVARGSGNIASAPAMSRRQAEKLLLDVICYTRELAKNGVTLFGVGELGMANTTPAAAIVSTITGWDPEEVVGIGANLPTD
+#=GR BGC0001055.1_ORF40:gid:cobT:pid:CAJ87606.1:loc:60333:61407:strand:-:11:345              PP .7899*************************************88776************************************************************9988889..9989********************************************************************************
+#=GC PP_cons                                                                                    .77899************************************9998.************************************************************99.766....888********************************************************************************
+#=GC RF                                                                                         .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF3335:gid::pid::loc:3814250:3815297:strand:-:11:346         RLKHKAEVIRKAIEINnpNPTDGVDILSKVGGFEIGSMAGVILGCSANRIPVVIDGFISYAAALIAYKINPKTREYMIASHLSAESGTKRALDILKLDPLLNMDMRLGEGSGAALAFDIIEASNYTYKNMATFDE---idm
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3335:gid::pid::loc:3814250:3815297:strand:-:11:346 PP ****************98567****************************************************************************************************************98...579
+BGC0001055.1_ORF40:gid:cobT:pid:CAJ87606.1:loc:60333:61407:strand:-:11:345                      KLANKIDVVRRAITLNqpNPQDGVDVLAKVGGFDLVGIAGVMLGAASCGLPVLLDGFLSYAAALAACQMSPAIKPYLIPSHLSAEKGARIALSHLGLEPYLNMDMRLGEGSGAALAMPIIEAACAIYNNMGELAAS--ni.
+#=GR BGC0001055.1_ORF40:gid:cobT:pid:CAJ87606.1:loc:60333:61407:strand:-:11:345              PP ****************98567*************************************************************************************************************998866..56.
+#=GC PP_cons                                                                                    ****************..567**************************************************************************************************************99876.....
+#=GC RF                                                                                         xxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

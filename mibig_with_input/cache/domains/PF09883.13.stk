@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_008000775.1_ORF544:gid::pid:WP_147661677.1:loc:598677:599511:strand:+:16:260         yyrwnaenpek-------SREKFISTLKKVLEERIpEDLHLKIqSLHYKVDDRIFVQLIGntkDDLIFVSNILNEITGKTYDTq.nVPKNKPLHGILTSIGKIGFgvFVDVGIEN-PVKEVLIPLHRlrlqlvndkkLSLKEIIEFYGFMDFLPVEIEVVKIENEKGgkmRFEGKFSDEFLEQLEEWINSGLDFIFTTGI
+#=GR GCF_008000775.1_ORF544:gid::pid:WP_147661677.1:loc:598677:599511:strand:+:16:260 PP *9999998875.......688999999999999996689999988888888888888888444577899********9998776.699999**************999******5.5577888899999999****99*********************9988876521256889*************************
+GCF_000011105.1_ORF577:gid::pid:WP_010884716.1:loc:553869:554616:strand:-:5:239          ..........i-PQKIY-GDRSGFDKLNKKLKSLL.GDLDVKW.KISVTKKQWVKIQVEG...EDSEISTNLIREEFGEIPYSlskVNEGDVLVGRFIELGKVGYgaYVDIGILSPRPKDALLPLYWlkr...tfgeKPVRQMIREFGWVDYLPVEVFVNKVEKLAQ...EIEVYLTDRWVKKIKGWTSDNHDKLFIVGT
+#=GR GCF_000011105.1_ORF577:gid::pid:WP_010884716.1:loc:553869:554616:strand:-:5:239  PP ..........5.69***.999**************.*******.****************...******************999999*******************************************...**9999****************************...******************************
+#=GC PP_cons                                                                             ............69***.78999************.89****9.9999999999999999...7899************9988...999****************..9******7*78899999*99..........9**********************9999888...7899**************************
+#=GC RF                                                                                  ...........xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxx.xxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_008000775.1_ORF544:gid::pid:WP_147661677.1:loc:598677:599511:strand:+:16:260         SRQMIKRTIAKRGHSMDIVQIDRLGPLETVVICKEGTNAPGIISHIGPFLP------dck..
+#=GR GCF_008000775.1_ORF544:gid::pid:WP_147661677.1:loc:598677:599511:strand:+:16:260 PP *************************************************97......79*..
+GCF_000011105.1_ORF577:gid::pid:WP_010884716.1:loc:553869:554616:strand:-:5:239          ISENIERALVETGHSRDVKRIEELGLMETMLILKRGTHAPGIIKEIGPYIRSA----kigai
+#=GR GCF_000011105.1_ORF577:gid::pid:WP_010884716.1:loc:553869:554616:strand:-:5:239  PP **************************************************986....45567
+#=GC PP_cons                                                                             **************************************************886.........
+#=GC RF                                                                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....
+//

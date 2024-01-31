@@ -1,0 +1,17 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+polyprenyl_synt      PF00348.21   251 BGC0000677.1_ORF1:gid::pid:BAI44337.1:loc:120:1200:strand:+ -            359   3.5e-56  190.4   0.0   1   1   2.2e-60   4.6e-56  190.0   0.0     4   246    43   305    40   312 0.90 Polyprenyl synthetase
+Terpene_syn_C_2      PF19086.4    199 BGC0000677.1_ORF2:gid::pid:BAI44338.1:loc:1196:2120:strand:+ -            307   1.1e-06   28.7   0.6   1   1   1.8e-10   3.7e-06   27.0   0.2    89   172   159   239   108   263 0.80 Terpene synthase family 2, C-terminal metal binding
+p450                 PF00067.26   462 BGC0000677.1_ORF3:gid::pid:BAI44339.1:loc:2116:3496:strand:+ -            459   1.3e-79  268.4   0.0   1   1   7.5e-84   1.6e-79  268.1   0.0     7   447    29   444    24   456 0.85 Cytochrome P450
+p450                 PF00067.26   462 BGC0000677.1_ORF4:gid::pid:BAI44340.1:loc:3560:4940:strand:+ -            459   1.1e-77  262.0   0.0   1   1   6.8e-82   1.4e-77  261.6   0.0     5   448    25   445    23   456 0.89 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000677.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000677.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000677.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:37:20 2024
+# [ok]

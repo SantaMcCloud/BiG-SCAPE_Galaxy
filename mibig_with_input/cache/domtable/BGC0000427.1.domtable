@@ -1,0 +1,22 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.32   382 BGC0000427.1_ORF1:gid::pid:ABA23460.1:loc:0:2667:strand:- -            888    3e-103  345.8   0.0   1   1  7.9e-107  4.1e-103  345.3   0.0     3   382    34   380    32   380 0.91 AMP-binding enzyme
+Thioesterase         PF00975.24   226 BGC0000427.1_ORF1:gid::pid:ABA23460.1:loc:0:2667:strand:- -            888   4.5e-29  102.4   0.1   1   1   1.5e-32   7.7e-29  101.6   0.1     2   107   628   732   627   767 0.93 Thioesterase domain
+AMP-binding_C        PF13193.10    76 BGC0000427.1_ORF1:gid::pid:ABA23460.1:loc:0:2667:strand:- -            888   1.9e-13   51.3   0.0   1   1   8.5e-17   4.4e-13   50.1   0.0     1    76   439   513   439   513 0.93 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.29    67 BGC0000427.1_ORF1:gid::pid:ABA23460.1:loc:0:2667:strand:- -            888     3e-13   50.0   0.2   1   1   1.5e-16   7.5e-13   48.7   0.0     1    66   542   605   542   606 0.95 Phosphopantetheine attachment site
+ATP-grasp_3          PF02655.18   160 BGC0000427.1_ORF2:gid::pid:ABA23461.1:loc:2823:4200:strand:- -            458   3.1e-06   27.6   0.0   1   1   6.5e-10   1.4e-05   25.5   0.0     3   157   179   342   177   345 0.70 ATP-grasp domain
+Methyltransf_3       PF01596.21   204 BGC0000427.1_ORF3:gid::pid:ABA23462.1:loc:4214:5054:strand:- -            279     1e-54  185.1   0.0   1   1   1.3e-58   1.3e-54  184.8   0.0    18   204    90   277    76   277 0.94 O-methyltransferase
+Methyltransf_24      PF13578.10   106 BGC0000427.1_ORF3:gid::pid:ABA23462.1:loc:4214:5054:strand:- -            279   5.2e-11   43.6   0.0   1   1   8.8e-15   9.1e-11   42.8   0.0     1   106   121   227   121   227 0.81 Methyltransferase domain
+DHQ_synthase         PF01761.24   261 BGC0000427.1_ORF4:gid::pid:ABA23463.1:loc:5228:6461:strand:- -            410   5.5e-57  193.1   0.0   1   1     7e-61   7.2e-57  192.7   0.0     5   248    84   335    80   343 0.95 3-dehydroquinate synthase
+Fe-ADH_2             PF13685.10   251 BGC0000427.1_ORF4:gid::pid:ABA23463.1:loc:5228:6461:strand:- -            410   6.8e-08   32.8   0.0   1   1   9.2e-12   9.6e-08   32.3   0.0    17   165    46   204    35   259 0.74 Iron-containing alcohol dehydrogenase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000427.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000427.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000427.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:23:24 2024
+# [ok]

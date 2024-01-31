@@ -1,0 +1,20 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Subtilosin_A         PF11420.12    35 BGC0000602.1_ORF1:gid:sbo:pid:CAD23198.1:loc:366:498:strand:+ -             43   1.8e-24   85.6   5.6   1   1     1e-28   2.1e-24   85.4   5.6     1    35     9    43     9    43 0.99 Bacteriocin subtilosin A
+Radical_SAM          PF04055.25   167 BGC0000602.1_ORF2:gid:ywiA:pid:CAD23199.1:loc:642:1989:strand:+ -            448   1.4e-27   97.1   0.2   1   1   9.1e-31   6.3e-27   95.0   0.1     2   165   124   279   123   281 0.94 Radical SAM superfamily
+SPASM                PF13186.10    66 BGC0000602.1_ORF2:gid:ywiA:pid:CAD23199.1:loc:642:1989:strand:+ -            448   1.4e-09   38.3   0.5   1   1     2e-13   1.4e-09   38.3   0.5     1    63   344   404   344   418 0.75 Iron-sulfur cluster-binding domain
+PqqD                 PF05402.16    67 BGC0000602.1_ORF2:gid:ywiA:pid:CAD23199.1:loc:642:1989:strand:+ -            448     3e-05   24.4   0.1   1   1   9.1e-09   6.3e-05   23.4   0.1    11    66    40    95    34    96 0.90 Coenzyme PQQ synthesis protein D (PqqD)
+ABC_tran             PF00005.31   137 BGC0000602.1_ORF4:gid:ywhQ:pid:CAD23201.1:loc:2159:2879:strand:+ -            239   1.8e-21   77.4   0.0   1   1   2.3e-25   2.4e-21   77.0   0.0     1   136    20   166    20   167 0.90 ABC transporter
+Peptidase_M16_C      PF05193.25   181 BGC0000602.1_ORF6:gid:ywhO:pid:CAD23203.1:loc:4171:5332:strand:+ -            386   9.4e-07   29.1   0.0   1   1     8e-11   1.7e-06   28.3   0.0    77   179   227   324   194   326 0.89 Peptidase M16 inactive domain
+Peptidase_M16        PF00675.24   149 BGC0000602.1_ORF7:gid:ywhN:pid:CAD23204.1:loc:5336:6620:strand:+ -            427   8.9e-15   55.1   0.1   1   1   1.9e-17     4e-13   49.8   0.0    31   131    62   158    32   165 0.90 Insulinase (Peptidase family M16)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000602.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000602.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000602.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:20:32 2024
+# [ok]

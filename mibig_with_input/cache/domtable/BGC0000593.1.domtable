@@ -1,0 +1,16 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Inhibitor_I10        PF12559.12    63 BGC0000593.1_ORF1:gid:mdnA:pid:CAQ16121.1:loc:241:391:strand:+ -             49     1e-08   35.4   2.2   1   1   2.4e-11   4.9e-07   30.1   2.2    11    62     9    47     2    48 0.70 Serine endopeptidase inhibitors
+ATPgraspMvdD         PF21068.1    121 BGC0000593.1_ORF2:gid:mdnB:pid:CAQ16122.1:loc:667:1648:strand:+ -            326   4.5e-46  156.0   0.1   1   1   4.2e-50   8.8e-46  155.1   0.1     2   120     8   125     7   126 0.99 MvdD pre-ATP grasp domain
+ATPgraspMvdD         PF21068.1    121 BGC0000593.1_ORF3:gid:mdnC:pid:CAQ16123.1:loc:1703:2678:strand:+ -            324   1.3e-42  144.8   0.0   1   1     2e-46   4.2e-42  143.2   0.0     1   120     2   119     2   120 0.97 MvdD pre-ATP grasp domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000593.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000593.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000593.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:59:24 2024
+# [ok]

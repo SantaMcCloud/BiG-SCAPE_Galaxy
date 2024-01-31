@@ -1,0 +1,22 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Inhibitor_I10        PF12559.12    63 BGC0000592.1_ORF1:gid:mdnA:pid:CAQ16116.1:loc:3421:3574:strand:+ -             50     2e-08   34.5   3.5   1   1   2.6e-11   5.4e-07   29.9   3.5    11    62     9    48     3    49 0.76 Serine endopeptidase inhibitors
+ATPgraspMvdD         PF21068.1    121 BGC0000592.1_ORF2:gid:mdnB:pid:CAQ16117.1:loc:3849:4827:strand:+ -            325   1.7e-46  157.4   0.1   1   1   1.6e-50   3.4e-46  156.4   0.0     2   120     8   125     7   126 0.99 MvdD pre-ATP grasp domain
+ATPgraspMvdD         PF21068.1    121 BGC0000592.1_ORF3:gid:mdnC:pid:CAQ16118.1:loc:5282:6257:strand:+ -            324   1.5e-42  144.6   0.0   1   1   2.3e-46   4.8e-42  143.0   0.0     1   120     2   119     2   120 0.97 MvdD pre-ATP grasp domain
+Acetyltransf_3       PF13302.11   138 BGC0000592.1_ORF4:gid:mdnD:pid:CAQ16119.1:loc:6459:6993:strand:- -            177   4.7e-20   72.9   0.0   1   1   7.7e-24   5.3e-20   72.7   0.0     1   137    11   159    11   160 0.72 Acetyltransferase (GNAT) domain
+Acetyltransf_1       PF00583.29   116 BGC0000592.1_ORF4:gid:mdnD:pid:CAQ16119.1:loc:6459:6993:strand:- -            177     1e-12   48.5   0.0   1   1     2e-16   1.4e-12   48.1   0.0    23   116    64   159    40   159 0.82 Acetyltransferase (GNAT) family
+FR47                 PF08445.14    86 BGC0000592.1_ORF4:gid:mdnD:pid:CAQ16119.1:loc:6459:6993:strand:- -            177   3.8e-05   23.8   0.0   1   1   9.8e-09   6.8e-05   23.0   0.0    28    84   108   166   100   168 0.88 FR47-like protein
+ABC_membrane_2       PF06472.19   269 BGC0000592.1_ORF5:gid:mdnE:pid:CAQ16120.1:loc:7146:9210:strand:- -            687   7.1e-35  120.9  10.5   1   1   1.6e-38   1.1e-34  120.3  10.5    15   265    60   308    54   312 0.90 ABC transporter transmembrane region 2
+ABC_tran             PF00005.31   137 BGC0000592.1_ORF5:gid:mdnE:pid:CAQ16120.1:loc:7146:9210:strand:- -            687   1.4e-20   74.6   0.0   1   1   6.1e-24   4.2e-20   73.0   0.0     2   137   401   538   400   538 0.81 ABC transporter
+ABC_membrane         PF00664.27   274 BGC0000592.1_ORF5:gid:mdnE:pid:CAQ16120.1:loc:7146:9210:strand:- -            687   4.1e-15   56.4  11.1   1   1   9.2e-19   6.4e-15   55.8  11.1     3   262    64   323    61   335 0.90 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000592.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000592.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000592.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:16:56 2024
+# [ok]

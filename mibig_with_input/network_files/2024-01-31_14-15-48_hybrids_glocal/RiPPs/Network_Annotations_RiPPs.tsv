@@ -1,0 +1,158 @@
+BGC	Accession ID	Description	Product Prediction	BiG-SCAPE class	Organism	Taxonomy
+BGC0000175.1	BGC0000175.1	Cycloheximide / actiphenol biosynthetic gene cluster	lantipeptide.transatpks	Others	Streptomyces sp. YIM 56141	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000385.1	BGC0000385.1	Lysobactin biosynthetic gene cluster	lantipeptide.transatpks.nrps	Others	Lysobacter sp. ATCC 53042	Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Lysobacter
+BGC0000468.1	BGC0000468.1	Bottromycin A2 biosynthetic gene cluster	bacteriocin.bottromycin	RiPPs	Streptomyces bottropensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000469.1	BGC0000469.1	Bottromycin A2 biosynthetic gene cluster	bacteriocin.bottromycin	RiPPs	Streptomyces sp. BC16019	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000470.1	BGC0000470.1	Bottromycin D biosynthetic gene cluster	bacteriocin.bottromycin	RiPPs	Streptomyces sp. WMMB 272	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000471.1	BGC0000471.1	Viridisamide A biosynthetic gene cluster	bacteriocin.cyanobactin	RiPPs	Oscillatoria nigro-viridis PCC 7112	Bacteria,Cyanobacteria,Oscillatoriophycideae,Oscillatoriales,Oscillatoria
+BGC0000472.1	BGC0000472.1	Anacyclamide biosynthetic gene cluster	cyanobactin	RiPPs	Anabaena sp. 90	Bacteria,Cyanobacteria,Nostocales,Nostocaceae,Anabaena
+BGC0000473.1	BGC0000473.1	Microcyclamide biosynthetic gene cluster	bacteriocin.cyanobactin	RiPPs	Microcystis aeruginosa NIES-298	Bacteria,Cyanobacteria,Oscillatoriophycideae,Chroococcales,Microcystis
+BGC0000474.1	BGC0000474.1	Microcyclamide biosynthetic gene cluster	bacteriocin.cyanobactin	RiPPs	Microcystis aeruginosa PCC 7806	Bacteria,Cyanobacteria,Oscillatoriophycideae,Chroococcales,Microcystis
+BGC0000475.1	BGC0000475.1	Patellamide A / patellamide C biosynthetic gene cluster	bacteriocin.cyanobactin	RiPPs	Prochloron didemni	Bacteria,Cyanobacteria,Prochlorales,Prochloraceae,Prochloron
+BGC0000476.1	BGC0000476.1	Patellamide B / ulithiacyclamide biosynthetic gene cluster	bacteriocin	RiPPs	uncultured Prochloron sp.	Bacteria,Cyanobacteria,Prochlorales,Prochloraceae,Prochloron,environmental samples
+BGC0000477.1	BGC0000477.1	Patellin 2 / patellin 3 biosynthetic gene cluster	bacteriocin.cyanobactin	RiPPs	uncultured Prochloron sp. 06037A	Bacteria,Cyanobacteria,Prochlorales,Prochloraceae,Prochloron,environmental samples
+BGC0000478.1	BGC0000478.1	Patellin 6 / trunkamide biosynthetic gene cluster	bacteriocin	RiPPs	uncultured Prochloron sp.	Bacteria,Cyanobacteria,Prochlorales,Prochloraceae,Prochloron,environmental samples
+BGC0000479.1	BGC0000479.1	Prenylagaramide B / prenylagaramide C biosynthetic gene cluster	cyanobactin	RiPPs	Planktothrix agardhii NIES-596	Bacteria,Cyanobacteria,Oscillatoriophycideae,Oscillatoriales,Planktothrix
+BGC0000480.1	BGC0000480.1	Tenuecyclamide A / tenuecyclamide C biosynthetic gene cluster	bacteriocin.cyanobactin	RiPPs	Nostoc spongiaeforme var. tenue str. Carmeli	Bacteria,Cyanobacteria,Nostocales,Nostocaceae,Nostoc
+BGC0000481.1	BGC0000481.1	Trichamide biosynthetic gene cluster	bacteriocin.cyanobactin	RiPPs	Trichodesmium erythraeum IMS101	Bacteria,Cyanobacteria,Oscillatoriales,Trichodesmium
+BGC0000482.1	BGC0000482.1	Trunkamide biosynthetic gene cluster	bacteriocin	RiPPs	uncultured Prochloron sp.	Bacteria,Cyanobacteria,Prochlorales,Prochloraceae,Prochloron,environmental samples
+BGC0000483.1	BGC0000483.1	Aeruginosamide biosynthetic gene cluster	bacteriocin.cyanobactin	RiPPs	Microcystis aeruginosa PCC 9432	Bacteria,Cyanobacteria,Oscillatoriophycideae,Chroococcales,Microcystis
+BGC0000484.1	BGC0000484.1	Glycocin F biosynthetic gene cluster	glycocin	RiPPs	Lactobacillus plantarum	Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+BGC0000485.1	BGC0000485.1	Acidocin B biosynthetic gene cluster	bacteriocin	RiPPs	Lactobacillus acidophilus	Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+BGC0000486.1	BGC0000486.1	Butyrivibriocin AR10 biosynthetic gene cluster	bacteriocin	RiPPs	Butyrivibrio fibrisolvens	Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Butyrivibrio
+BGC0000487.1	BGC0000487.1	Carnocyclin biosynthetic gene cluster	bacteriocin	RiPPs	Carnobacterium maltaromaticum	Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Carnobacterium
+BGC0000488.1	BGC0000488.1	Circularin A biosynthetic gene cluster	bacteriocin	RiPPs	Clostridium beijerinckii	Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+BGC0000489.1	BGC0000489.1	Enterocin AS-48 biosynthetic gene cluster	bacteriocin	RiPPs	Enterococcus faecalis	Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+BGC0000490.1	BGC0000490.1	Garvicin ML biosynthetic gene cluster	bacteriocin	RiPPs	Lactococcus garvieae DCC43	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+BGC0000491.1	BGC0000491.1	Gassericin A biosynthetic gene cluster	bacteriocin	RiPPs	Lactobacillus gasseri	Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+BGC0000494.1	BGC0000494.1	Uberolysin biosynthetic gene cluster	bacteriocin	RiPPs	Streptococcus uberis	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000495.1	BGC0000495.1	Actagardine biosynthetic gene cluster	lantipeptide	RiPPs	Actinoplanes garbadinensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micromonosporineae,Micromonosporaceae,Actinoplanes
+BGC0000496.1	BGC0000496.1	AmfS biosynthetic gene cluster	lantipeptide	RiPPs	Streptomyces griseus subsp. griseus NBRC 13350	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000497.1	BGC0000497.1	BhtA1 / BhtA2 biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus ratti	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000498.1	BGC0000498.1	Bovicin HJ50 biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus equinus	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000499.1	BGC0000499.1	Butyrivibriocin OR79 biosynthetic gene cluster	lantipeptide	RiPPs	Butyrivibrio fibrisolvens	Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Butyrivibrio
+BGC0000500.1	BGC0000500.1	Carnolysin A1 / carnolysin A2 biosynthetic gene cluster	lantipeptide	RiPPs	Carnobacterium maltaromaticum	Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Carnobacterium
+BGC0000501.1	BGC0000501.1	Catenulipeptin biosynthetic gene cluster	lantipeptide	RiPPs	Catenulispora acidiphila DSM 44928	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Catenulisporineae,Catenulisporaceae,Catenulispora
+BGC0000502.1	BGC0000502.1	Cerecidin / cerecidin A1 / cerecidin A2 / cerecidin A3 / cerecidin A4 / cerecidin A5 / cerecidin A6 / cerecidin A7 biosynthetic gene cluster	lantipeptide	RiPPs	Bacillus cereus	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus group
+BGC0000503.1	BGC0000503.1	Cinnamycin biosynthetic gene cluster	lantipeptide	RiPPs	Streptomyces cinnamoneus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces,Streptomyces cinnamoneus group
+BGC0000504.1	BGC0000504.1	Cytolysin ClyLl / cytolysin ClyLs biosynthetic gene cluster	lantipeptide	RiPPs	Enterococcus faecalis	Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+BGC0000506.1	BGC0000506.1	Entianin biosynthetic gene cluster	lantipeptide	RiPPs	Bacillus subtilis subsp. spizizenii	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0000507.1	BGC0000507.1	Epicidin biosynthetic gene cluster	lantipeptide	RiPPs	Staphylococcus epidermidis	Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcus
+BGC0000508.1	BGC0000508.1	Epidermin biosynthetic gene cluster	lantipeptide	RiPPs	Staphylococcus epidermidis	Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcus
+BGC0000509.1	BGC0000509.1	Epilancin 15X biosynthetic gene cluster	lantipeptide	RiPPs	Staphylococcus epidermidis	Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcus
+BGC0000511.1	BGC0000511.1	Ericin A biosynthetic gene cluster	lantipeptide	RiPPs	Bacillus subtilis	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0000514.1	BGC0000514.1	Gallidermin biosynthetic gene cluster	lantipeptide	RiPPs	Staphylococcus gallinarum	Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcus
+BGC0000515.1	BGC0000515.1	Geobacillin I biosynthetic gene cluster	lantipeptide	RiPPs	Geobacillus thermodenitrificans NG80-2	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus
+BGC0000516.1	BGC0000516.1	Geobacillin II biosynthetic gene cluster	lantipeptide	RiPPs	Geobacillus sp. G11MC16	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus
+BGC0000517.1	BGC0000517.1	Haloduracin alpha / haloduracin beta biosynthetic gene cluster	lantipeptide	RiPPs	Bacillus halodurans C-125	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0000518.1	BGC0000518.1	Informatipeptin biosynthetic gene cluster	bacteriocin.lantipeptide	RiPPs	Streptomyces viridochromogenes DSM 40736	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000519.1	BGC0000519.1	Labyrinthopeptin A1,A3 / labyrinthopeptin A2 biosynthetic gene cluster	lantipeptide	RiPPs	Actinomadura namibiensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptosporangineae,Thermomonosporaceae,Actinomadura
+BGC0000520.1	BGC0000520.1	Lacticin 3147 A1 / lacticin 3147 A2 biosynthetic gene cluster	lantipeptide	RiPPs	Lactococcus lactis	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+BGC0000521.1	BGC0000521.1	Lacticin 481 biosynthetic gene cluster	lantipeptide	RiPPs	Lactococcus lactis subsp. lactis	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+BGC0000522.1	BGC0000522.1	Lacticin Z biosynthetic gene cluster	bacteriocin	RiPPs	Lactococcus lactis	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+BGC0000523.1	BGC0000523.1	Lactocin S biosynthetic gene cluster	lantipeptide	RiPPs	Lactobacillus sakei	Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+BGC0000525.1	BGC0000525.1	Lichenicidin VK21 A1 / lichenicidin VK21 A2 biosynthetic gene cluster	lantipeptide	RiPPs	Bacillus licheniformis	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0000526.1	BGC0000526.1	Macedocin biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus macedonicus	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000527.1	BGC0000527.1	Mersacidin biosynthetic gene cluster	lantipeptide	RiPPs	Bacillus sp. HIL-Y85/54728	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0000528.1	BGC0000528.1	Michiganin A biosynthetic gene cluster	lantipeptide	RiPPs	Clavibacter michiganensis subsp. michiganensis NCPPB 382	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micrococcineae,Microbacteriaceae,Clavibacter
+BGC0000529.1	BGC0000529.1	Microbisporicin biosynthetic gene cluster	lantipeptide	RiPPs	Microbispora corallina	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptosporangineae,Streptosporangiaceae,Microbispora
+BGC0000530.1	BGC0000530.1	Mutacin B-Ny266 biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus mutans N66	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000531.1	BGC0000531.1	Mutacin I biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus mutans	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000532.1	BGC0000532.1	Mutacin II biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus mutans	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000533.1	BGC0000533.1	Mutacin III biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus mutans	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000534.1	BGC0000534.1	Mutacin K8 biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus mutans	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000535.1	BGC0000535.1	Nisin A biosynthetic gene cluster	lantipeptide	RiPPs	Lactococcus lactis subsp. lactis	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+BGC0000536.1	BGC0000536.1	Nisin Q biosynthetic gene cluster	lantipeptide	RiPPs	Lactococcus lactis	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+BGC0000537.1	BGC0000537.1	Nisin U biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus uberis	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000538.1	BGC0000538.1	Nisin Z biosynthetic gene cluster	lantipeptide	RiPPs	Lactococcus lactis	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+BGC0000539.1	BGC0000539.1	Nukacin ISK-1 biosynthetic gene cluster	lantipeptide	RiPPs	Staphylococcus warneri	Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcus
+BGC0000540.1	BGC0000540.1	Paenibacillin biosynthetic gene cluster	lantipeptide	RiPPs	Paenibacillus polymyxa OSY-DF	Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus
+BGC0000541.1	BGC0000541.1	Paenicidin A biosynthetic gene cluster	lantipeptide	RiPPs	Paenibacillus polymyxa	Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus
+BGC0000542.1	BGC0000542.1	Paenicidin B biosynthetic gene cluster	lantipeptide	RiPPs	Paenibacillus terrae	Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus
+BGC0000543.1	BGC0000543.1	Pep5 biosynthetic gene cluster	lantipeptide	RiPPs	Staphylococcus epidermidis	Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcus
+BGC0000544.1	BGC0000544.1	Planosporicin biosynthetic gene cluster	lantipeptide	RiPPs	Planomonospora alba	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptosporangineae,Streptosporangiaceae,Planomonospora
+BGC0000545.1	BGC0000545.1	Ruminococcin A biosynthetic gene cluster	lantipeptide	RiPPs	Ruminococcus gnavus E1	Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia
+BGC0000546.1	BGC0000546.1	SAL-2242 biosynthetic gene cluster	lantipeptide	RiPPs	Streptomyces albus J1074	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000547.1	BGC0000547.1	Salivaricin 9 biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus salivarius	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000548.1	BGC0000548.1	Salivaricin A biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus salivarius	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000549.1	BGC0000549.1	Salivaricin D biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus salivarius	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000550.1	BGC0000550.1	Salivaricin G32 biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus salivarius	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000551.1	BGC0000551.1	SapB biosynthetic gene cluster	lantipeptide	RiPPs	Streptomyces coelicolor A3(2)	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces,Streptomyces albidoflavus group
+BGC0000552.1	BGC0000552.1	Smb A / Smb B biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus mutans	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000554.1	BGC0000554.1	SRO15-3108 biosynthetic gene cluster	lantipeptide	RiPPs	Streptomyces roseosporus NRRL 15998	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000555.1	BGC0000555.1	Staphylococcin C55 alpha / staphylococcin C55 beta biosynthetic gene cluster	lantipeptide	RiPPs	Staphylococcus aureus	Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcus
+BGC0000556.1	BGC0000556.1	Streptin biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus pyogenes	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000557.1	BGC0000557.1	Streptococcin A-FF22 biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus pyogenes	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000558.1	BGC0000558.1	Sublancin 168 biosynthetic gene cluster	glycocin	RiPPs	Bacillus subtilis subsp. subtilis str. 168	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0000559.1	BGC0000559.1	Subtilin biosynthetic gene cluster	lantipeptide	RiPPs	Bacillus subtilis subsp. spizizenii ATCC 6633	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0000560.1	BGC0000560.1	Subtilomycin biosynthetic gene cluster	lantipeptide	RiPPs	Bacillus subtilis	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0000561.1	BGC0000561.1	Thermophilin 1277 biosynthetic gene cluster	lantipeptide	RiPPs	Streptococcus thermophilus	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000562.1	BGC0000562.1	Variacin biosynthetic gene cluster	lantipeptide	RiPPs	Kocuria varians	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micrococcineae,Micrococcaceae,Kocuria
+BGC0000563.1	BGC0000563.1	Venezuelin biosynthetic gene cluster	lantipeptide	RiPPs	Streptomyces venezuelae ATCC 10712	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000564.1	BGC0000564.1	Clostridiolysin S biosynthetic gene cluster	bacteriocin	RiPPs	Clostridium botulinum A str. ATCC 3502	Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+BGC0000565.1	BGC0000565.1	Goadsporin biosynthetic gene cluster	bacteriocin.thiopeptide	RiPPs	Streptomyces sp. TP-A0584	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000566.1	BGC0000566.1	Streptolysin S biosynthetic gene cluster	bacteriocin	RiPPs	Streptococcus pyogenes M1 GAS	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+BGC0000572.1	BGC0000572.1	Capistruin biosynthetic gene cluster	lassopeptide	RiPPs	Burkholderia thailandensis E444	Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,pseudomallei group
+BGC0000581.1	BGC0000581.1	Microcin J25 biosynthetic gene cluster	microcin	RiPPs	Escherichia coli	Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Escherichia
+BGC0000582.1	BGC0000582.1	Cypemycin biosynthetic gene cluster	linaridin	RiPPs	Streptomyces sp. OH-4156	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000583.1	BGC0000583.1	Grisemycin biosynthetic gene cluster	linaridin	RiPPs	Streptomyces griseus subsp. griseus NBRC 13350	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000591.1	BGC0000591.1	Marinostatin biosynthetic gene cluster	microviridin	RiPPs	Alteromonas sp. B-10-31	Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas
+BGC0000592.1	BGC0000592.1	Microviridin B biosynthetic gene cluster	microviridin	RiPPs	Microcystis aeruginosa NIES-298	Bacteria,Cyanobacteria,Oscillatoriophycideae,Chroococcales,Microcystis
+BGC0000593.1	BGC0000593.1	Microviridin B biosynthetic gene cluster	microviridin	RiPPs	Microcystis aeruginosa MRC	Bacteria,Cyanobacteria,Oscillatoriophycideae,Chroococcales,Microcystis
+BGC0000594.1	BGC0000594.1	Microviridin K biosynthetic gene cluster	microviridin	RiPPs	Planktothrix agardhii NIVA-CYA 126/8	Bacteria,Cyanobacteria,Oscillatoriophycideae,Oscillatoriales,Planktothrix
+BGC0000598.1	BGC0000598.1	Polytheonamides biosynthetic gene cluster	bacteriocin	RiPPs	Candidatus Entotheonella sp. TSY1	Bacteria,Proteobacteria,Deltaproteobacteria,Candidatus Entotheonella
+BGC0000599.1	BGC0000599.1	Thuricin CD alfa / thuricin CD beta biosynthetic gene cluster	sactipeptide	RiPPs	Bacillus thuringiensis	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus group
+BGC0000600.1	BGC0000600.1	Thurincin H biosynthetic gene cluster	sactipeptide	RiPPs	Bacillus thuringiensis	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus group
+BGC0000601.1	BGC0000601.1	Sporulation killing factor skfA biosynthetic gene cluster	head_to_tail	RiPPs	Bacillus subtilis subsp. subtilis str. 168	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0000602.1	BGC0000602.1	Subtilosin A biosynthetic gene cluster	sactipeptide	RiPPs	Bacillus subtilis subsp. spizizenii ATCC 6633	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0000603.1	BGC0000603.1	Cyclothiazomycin biosynthetic gene cluster	thiopeptide.lantipeptide	RiPPs	Streptomyces hygroscopicus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000604.1	BGC0000604.1	GE2270 biosynthetic gene cluster	thiopeptide.lantipeptide	RiPPs	Nonomuraea sp. WU8817	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptosporangineae,Streptosporangiaceae,Nonomuraea
+BGC0000605.1	BGC0000605.1	GE37468 biosynthetic gene cluster	thiopeptide	RiPPs	Streptomyces sp. ATCC 55365	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000606.1	BGC0000606.1	Lactazole biosynthetic gene cluster	thiopeptide.lantipeptide	RiPPs	Streptomyces lactacystinaeus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000607.1	BGC0000607.1	Micrococcin P1 biosynthetic gene cluster	thiopeptide.lantipeptide	RiPPs	Macrococcus caseolyticus	Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Macrococcus
+BGC0000608.1	BGC0000608.1	Nocathiacin biosynthetic gene cluster	thiopeptide	RiPPs	Actinokineospora fastidiosa	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Pseudonocardineae,Pseudonocardiaceae,Actinokineospora
+BGC0000609.1	BGC0000609.1	Nocathiacin biosynthetic gene cluster	thiopeptide.lantipeptide	RiPPs	Nocardia sp. ATCC 202099	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Corynebacterineae,Nocardiaceae,Nocardia
+BGC0000610.1	BGC0000610.1	Nosiheptide biosynthetic gene cluster	thiopeptide.lantipeptide	RiPPs	Streptomyces actuosus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000611.1	BGC0000611.1	Siomycin biosynthetic gene cluster	thiopeptide.terpene	Others	Streptomyces sioyaensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000612.1	BGC0000612.1	Thiocillin I / thiocillin II biosynthetic gene cluster	thiopeptide.lantipeptide	RiPPs	Bacillus cereus ATCC 14579	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus group
+BGC0000613.1	BGC0000613.1	Thiomuracins biosynthetic gene cluster	thiopeptide	RiPPs	Nonomuraea sp. Bp3714-39	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptosporangineae,Streptosporangiaceae,Nonomuraea
+BGC0000614.1	BGC0000614.1	Thiostrepton biosynthetic gene cluster	thiopeptide	RiPPs	Streptomyces laurentii	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000615.1	BGC0000615.1	TP-1161 biosynthetic gene cluster	thiopeptide.lantipeptide	RiPPs	Nocardiopsis sp. TFS65-07	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptosporangineae,Nocardiopsaceae,Nocardiopsis
+BGC0000616.1	BGC0000616.1	Amylocyclicin biosynthetic gene cluster	bacteriocin	RiPPs	Bacillus amyloliquefaciens subsp. plantarum str. FZB42	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0000617.1	BGC0000617.1	Coagulin biosynthetic gene cluster	bacteriocin	RiPPs	Bacillus coagulans	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0000618.1	BGC0000618.1	Enterocin A biosynthetic gene cluster	bacteriocin	RiPPs	Enterococcus faecium DO	Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+BGC0000619.1	BGC0000619.1	Gassericin T biosynthetic gene cluster	bacteriocin	RiPPs	Lactobacillus gasseri	Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+BGC0000620.1	BGC0000620.1	Lacticin Q biosynthetic gene cluster	bacteriocin	RiPPs	Lactococcus lactis	Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+BGC0000623.1	BGC0000623.1	Plantaricin W alpha / plantaricin W beta biosynthetic gene cluster	lantipeptide	RiPPs	Lactobacillus plantarum	Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+BGC0000624.1	BGC0000624.1	Salivaricin CRL1328 alpha peptide / salivaricin CRL1328 beta peptide biosynthetic gene cluster	bacteriocin	RiPPs	Lactobacillus salivarius	Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+BGC0000626.1	BGC0000626.1	Thuricin biosynthetic gene cluster	lantipeptide	RiPPs	Bacillus thuringiensis	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus group
+BGC0000628.1	BGC0000628.1	Lactocillin biosynthetic gene cluster	thiopeptide	RiPPs	Lactobacillus gasseri JV-V03	Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+BGC0000655.1	BGC0000655.1	Siomycin biosynthetic gene cluster	thiopeptide.terpene	Others	Streptomyces sioyaensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000696.1	BGC0000696.1	Gentamicin biosynthetic gene cluster	lantipeptide.amglyccycl	Others	Micromonospora echinospora	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micromonosporineae,Micromonosporaceae,Micromonospora
+BGC0000717.1	BGC0000717.1	Streptomycin biosynthetic gene cluster	lantipeptide.amglyccycl	Others	Streptomyces griseus subsp. griseus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000809.1	BGC0000809.1	AT2433 biosynthetic gene cluster	thiopeptide.indole	Others	Actinomadura melliaura	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptosporangineae,Thermomonosporaceae,Actinomadura
+BGC0000874.1	BGC0000874.1	Blasticidin biosynthetic gene cluster	lantipeptide	RiPPs	Streptomyces griseochromogenes	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000986.1	BGC0000986.1	Dkxanthene biosynthetic gene cluster	bacteriocin.t1pks.nrps	Others	Stigmatella aurantiaca DW4/3-1	Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacterineae,Cystobacteraceae,Stigmatella
+BGC0001020.1	BGC0001020.1	Muraymycin biosynthetic gene cluster	nucleoside.thiopeptide.lantipeptide.nrps	Others	Streptomyces sp. NRRL 30471	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001145.1	BGC0001145.1	Cyclothiazomycin B biosynthetic gene cluster	thiopeptide.lantipeptide	RiPPs	Streptomyces mobaraensis NBRC 13819 = DSM 40847	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001146.1	BGC0001146.1	Cyclothiazomycin C biosynthetic gene cluster	thiopeptide.lantipeptide	RiPPs	Streptomyces sp. NRRL WC-3908	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001148.1	BGC0001148.1	Pheganomycin biosynthetic gene cluster	bacteriocin.nrps.t3pks	Others	Streptomyces cirratus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001155.1	BGC0001155.1	GE2270 biosynthetic gene cluster	thiopeptide.lantipeptide	RiPPs	Planobispora rosea	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptosporangineae,Streptosporangiaceae,Planobispora
+BGC0001157.1	BGC0001157.1	Bottromycin biosynthetic gene cluster	bacteriocin.bottromycin	RiPPs	Streptomyces scabiei 87.22	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001167.1	BGC0001167.1	Piricyclamide biosynthetic gene cluster	cyanobactin	RiPPs	Microcystis aeruginosa PCC 7005	Bacteria,Cyanobacteria,Oscillatoriophycideae,Chroococcales,Microcystis
+BGC0001170.1	BGC0001170.1	Clostridiolysin S biosynthetic gene cluster	bacteriocin	RiPPs	Clostridium sporogenes ATCC 15579	Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+BGC0001171.1	BGC0001171.1	Listeriolysin S biosynthetic gene cluster	bacteriocin	RiPPs	Listeria monocytogenes serotype 4b str. F2365	Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria
+BGC0001188.1	BGC0001188.1	Legonaridin biosynthetic gene cluster	linaridin	RiPPs	Streptomyces sp. CT34	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001210.1	BGC0001210.1	Pseudomycoicidin biosynthetic gene cluster	lantipeptide	RiPPs	Bacillus pseudomycoides DSM 12442	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0001222.1	BGC0001222.1	Acidocin B biosynthetic gene cluster	bacteriocin	RiPPs	Lactobacillus acidophilus	Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+BGC0001226.1	BGC0001226.1	Streptocollin biosynthetic gene cluster	lantipeptide	RiPPs	Streptomyces collinus Tu 365	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001229.1	BGC0001229.1	SBI_06990 alpha / SBI_06989 beta biosynthetic gene cluster	lantipeptide	RiPPs	Streptomyces bingchenggensis BCW-1	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001289.1	BGC0001289.1	Penisin biosynthetic gene cluster	lantipeptide	RiPPs	Paenibacillus ehimensis	Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus
+BGC0001291.1	BGC0001291.1	Enterocin NKR-5-3B biosynthetic gene cluster	bacteriocin	RiPPs	Enterococcus faecium	Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+BGC0001311.1	BGC0001311.1	Flavecin biosynthetic gene cluster	lantipeptide	RiPPs	Ruminococcus flavefaciens FD-1	Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus
+BGC0001364.1	BGC0001364.1	Cinnamycin B biosynthetic gene cluster	bacteriocin.lantipeptide	RiPPs	Actinomadura atramentaria DSM 43919	Bacteria,Actinobacteria,Streptosporangiales,Thermomonosporaceae,Actinomadura
+BGC0001388.1	BGC0001388.1	Gassericin E biosynthetic gene cluster	bacteriocin	RiPPs	Lactobacillus gasseri	Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+BGC0001391.1	BGC0001391.1	Thusin biosynthetic gene cluster	lantipeptide	RiPPs	Bacillus thuringiensis serovar rongseni	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus group
+BGC0001392.1	BGC0001392.1	Pinensins biosynthetic gene cluster	lantipeptide	RiPPs	Chitinophaga pinensis DSM 2588	Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Chitinophagaceae,Chitinophaga
+BGC0001407.1	BGC0001407.1	Bicereucin biosynthetic gene cluster	linaridin	RiPPs	Bacillus cereus SJ1	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus group
+GCF_000011105.1	NC_000961.1	Pyrococcus horikoshii OT3, complete sequence	RRE-containing	RiPPs	Pyrococcus horikoshii OT3	Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus

@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+BGC0000031.1_ORF7:gid::pid:CAE45659.1:loc:6566:7538:strand:+:40:142                         ......am--TVRRTLPQ..-RARTLIGAWCFADHYGPDDVAASG.....----..GMDVAPHPHIGLQTVSWLFSGEIEHRDSLGTHAFVRPGELNLMTGGFGIAHSEVSTPD.TTVLHGVQLWV.
+#=GR BGC0000031.1_ORF7:gid::pid:CAE45659.1:loc:6566:7538:strand:+:40:142                 PP ......86..57888888...88999****************999...........9*********************************************************.**********8.
+GCF_008000775.1_ORF2378:gid::pid:WP_147663457.1:loc:2627068:2627941:strand:+:23:125         .......g-VRLKRAFGS..PNDAFFFDPFLLLDDFHSDKP----.....KDYL..-KGFPWHPHRGIETITYMLHGEVEHQDSLGNKGMICQDEVQWMTAGSGIIHSEMPKQQ.EGILWGFQLW-a
+#=GR GCF_008000775.1_ORF2378:gid::pid:WP_147663457.1:loc:2627068:2627941:strand:+:23:125 PP .......6.688899999..8888899***********999.........4999...*********************************************************.**********.6
+BGC0000872.1_ORF2:gid::pid:BAJ05877.1:loc:854:1820:strand:+:38:141                          .....sse---VRRLLPN..-LGRRMVGAWCFVDHYGPDDIADEP.....----..GMQVPPHPHMGLQTVSWLHEGEVLHRDSTGSLQTIRPRELGLMTSGRAISHSEESPRShARFLHGAQLWV.
+#=GR BGC0000872.1_ORF2:gid::pid:BAJ05877.1:loc:854:1820:strand:+:38:141                  PP .....976...5566666...67889***************8666...........9***************************************************99888757889******8.
+BGC0000294.1_ORF2:gid::pid:BAC87893.1:loc:1265:1865:strand:-:5:119                          lhrsedrg---------HvkAGWLESYHSFSFGSWYNPKYMGVSAlrvinDDRIdaHNGFGTHSHDNMEILTCVLDGAISHRDTMGNEGQIKAGEWQLMSAGTGVAHSEINNTD.-TPVHLLQIWI.
+#=GR BGC0000294.1_ORF2:gid::pid:BAC87893.1:loc:1265:1865:strand:-:5:119                  PP 98765543.........33369**********************9****999**9999******************************************************97..9********8.
+BGC0000957.1_ORF4:gid::pid:AHH25573.1:loc:1854:2871:strand:+:55:158                         .....sse---VRRLLPN..-LGRRMVGAWCFVDHYGPDDIADEP.....----..GMQVAPHPHMGLQTVSWLHQGEVLHRDSTGSLQMIRPRELGLMTSGRAISHSEESPRShARFLHGAQLWV.
+#=GR BGC0000957.1_ORF4:gid::pid:AHH25573.1:loc:1854:2871:strand:+:55:158                 PP .....976...5566666...67889***************8666...........9***************************************************99888757889******8.
+#=GC PP_cons                                                                                .........666777776..778899***************9887.....799*..9*****************************************************9998.999*******8.
+#=GC RF                                                                                     ........xxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxx.....xxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx.
+//

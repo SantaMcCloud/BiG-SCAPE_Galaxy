@@ -1,0 +1,24 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AsnC_trans_reg       PF01037.25    73 BGC0000918.1_ORF1:gid::pid:BAB69149.1:loc:0:513:strand:- -            170   1.3e-14   54.1   0.0   1   1   2.7e-18   1.9e-14   53.5   0.0     4    72    82   148    79   149 0.93 Lrp/AsnC ligand binding domain
+HTH_24               PF13412.10    48 BGC0000918.1_ORF1:gid::pid:BAB69149.1:loc:0:513:strand:- -            170   2.7e-10   39.9   0.3   1   1     6e-14   4.2e-10   39.2   0.3     2    48    14    60    13    60 0.97 Winged helix-turn-helix DNA-binding
+HTH_AsnC-type        PF13404.10    42 BGC0000918.1_ORF1:gid::pid:BAB69149.1:loc:0:513:strand:- -            170   1.4e-09   37.7   2.4   1   1   3.7e-13   2.6e-09   36.9   2.4     1    42    13    54    13    54 0.98 AsnC-type helix-turn-helix domain
+Glyoxalase           PF00903.29   121 BGC0000918.1_ORF2:gid:hpd:pid:BAB69150.1:loc:605:1751:strand:+ -            381   2.9e-21   76.3   1.6   1   2   2.7e-09   2.8e-05   24.7   0.3     2   101    23   130    22   148 0.88 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+Glyoxalase           PF00903.29   121 BGC0000918.1_ORF2:gid:hpd:pid:BAB69150.1:loc:605:1751:strand:+ -            381   2.9e-21   76.3   1.6   2   2   2.2e-17   2.3e-13   50.8   0.1     2   121   185   335   184   335 0.93 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+TPR_16               PF13432.10    68 BGC0000918.1_ORF3:gid::pid:BAB69151.1:loc:1896:3486:strand:- -            529   7.4e-10   39.4  29.1   1   2   5.5e-12   1.4e-08   35.3  11.7     3    66   250   310   249   312 0.95 Tetratricopeptide repeat
+TPR_16               PF13432.10    68 BGC0000918.1_ORF3:gid::pid:BAB69151.1:loc:1896:3486:strand:- -            529   7.4e-10   39.4  29.1   2   2   1.1e-06    0.0029   18.3   9.4     3    57   284   335   282   340 0.89 Tetratricopeptide repeat
+TPR_8                PF13181.10    34 BGC0000918.1_ORF3:gid::pid:BAB69151.1:loc:1896:3486:strand:- -            529     4e-07   29.9  21.8   1   1   1.2e-05      0.03   14.7   0.0     3    33   246   276   244   277 0.95 Tetratricopeptide repeat
+TPR_19               PF14559.10    68 BGC0000918.1_ORF3:gid::pid:BAB69151.1:loc:1896:3486:strand:- -            529   7.9e-07   29.5  18.9   1   1   6.4e-10   1.7e-06   28.5   5.9     1    61   254   313   254   318 0.94 Tetratricopeptide repeat
+FAD-oxidase_C        PF02913.23   247 BGC0000918.1_ORF4:gid::pid:BAB69152.1:loc:3584:4994:strand:+ -            469   7.9e-72  242.1   0.3   1   1     1e-75     1e-71  241.7   0.3     2   247   230   468   229   468 0.98 FAD linked oxidases, C-terminal domain
+FAD_binding_4        PF01565.27   139 BGC0000918.1_ORF4:gid::pid:BAB69152.1:loc:3584:4994:strand:+ -            469   8.2e-41  139.2   0.8   1   1   1.6e-44   1.6e-40  138.2   0.8     1   138    54   192    54   193 0.98 FAD binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000918.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000918.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000918.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:46:27 2024
+# [ok]

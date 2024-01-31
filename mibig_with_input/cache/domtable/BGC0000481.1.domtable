@@ -1,0 +1,28 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PatG_C               PF18065.5    115 BGC0000481.1_ORF1:gid::pid:ZP_00672891.1:loc:0:2109:strand:- -            702   1.6e-37  128.2   0.1   1   1   4.2e-41   2.9e-37  127.4   0.1     2   115   585   698   584   698 0.98 PatG C-terminal
+PatG_D               PF18047.5    111 BGC0000481.1_ORF1:gid::pid:ZP_00672891.1:loc:0:2109:strand:- -            702   2.4e-20   73.2   0.0   1   1   6.3e-24   4.4e-20   72.4   0.0     2   108   427   537   426   540 0.98 PatG Domain
+Peptidase_S8         PF00082.26   283 BGC0000481.1_ORF1:gid::pid:ZP_00672891.1:loc:0:2109:strand:- -            702   6.2e-20   71.9   0.0   1   1   1.7e-23   1.2e-19   71.0   0.0    49   268    98   298    23   337 0.84 Subtilase family
+PatG_C               PF18065.5    115 BGC0000481.1_ORF4:gid::pid:ZP_00672894.1:loc:3261:5262:strand:- -            666   3.3e-39  133.6   0.1   1   1     1e-42   7.1e-39  132.6   0.1     2   115   549   662   548   662 0.98 PatG C-terminal
+Peptidase_S8         PF00082.26   283 BGC0000481.1_ORF4:gid::pid:ZP_00672894.1:loc:3261:5262:strand:- -            666     6e-33  114.6   0.3   1   1   8.6e-37     6e-33  114.6   0.3     2   269    21   268    20   307 0.81 Subtilase family
+PatG_D               PF18047.5    111 BGC0000481.1_ORF4:gid::pid:ZP_00672894.1:loc:3261:5262:strand:- -            666   3.6e-20   72.7   0.0   1   1   9.5e-24   6.6e-20   71.8   0.0     2   110   391   503   390   504 0.97 PatG Domain
+Y1_Tnp               PF01797.20   121 BGC0000481.1_ORF6:gid::pid:ZP_00672896.1:loc:6680:7001:strand:- -            106   8.8e-17   61.6   0.3   1   1   4.6e-21   9.5e-17   61.5   0.3     4    97    11   105     8   106 0.91 Transposase IS200 like
+HTH_57               PF18679.5    112 BGC0000481.1_ORF7:gid::pid:ZP_00672897.1:loc:7137:8565:strand:- -            475   2.3e-18   66.7   0.0   1   1   4.3e-22   4.5e-18   65.8   0.0     3   106     4   112     1   118 0.94 ThcOx helix turn helix domain
+Nitroreductase       PF00881.28   168 BGC0000481.1_ORF7:gid::pid:ZP_00672897.1:loc:7137:8565:strand:- -            475   3.9e-15   56.6   0.0   1   1   5.7e-19   5.9e-15   56.0   0.0     4   156   284   460   281   472 0.91 Nitroreductase family
+XisI                 PF08869.15   110 BGC0000481.1_ORF8:gid::pid:ZP_00672898.1:loc:8822:8966:strand:- -             47   3.7e-18   66.1   0.0   1   1   1.9e-22   3.9e-18   66.1   0.0    66   109     2    45     1    46 0.98 XisI protein
+DUF433               PF04255.18    56 BGC0000481.1_ORF9:gid::pid:ZP_00672899.1:loc:9181:9556:strand:+ -            124   3.8e-17   62.1   0.0   1   1   6.7e-21     7e-17   61.2   0.0     1    56    46   101    46   101 0.99 Protein of unknown function (DUF433)
+ParD_antitoxin       PF03693.18    81 BGC0000481.1_ORF9:gid::pid:ZP_00672899.1:loc:9181:9556:strand:+ -            124   5.8e-06   26.8   0.0   1   1   1.2e-09   1.2e-05   25.8   0.0     7    43     3    39     1    50 0.92 Bacterial antitoxin of ParD toxin-antitoxin type II system and RHH
+DUF5615              PF18480.5    110 BGC0000481.1_ORF10:gid::pid:ZP_00672900.1:loc:9557:9896:strand:+ -            112   1.5e-24   86.1   0.0   1   1   8.4e-29   1.8e-24   85.9   0.0     3   109     4   110     2   111 0.97 Domain of unknown function (DUF5615)
+YcaO                 PF02624.20   320 BGC0000481.1_ORF11:gid::pid:ZP_00672901.1:loc:10205:12515:strand:+ -            769   2.2e-99  332.9   0.0   1   1  3.4e-103   3.6e-99  332.3   0.0     2   320   402   732   401   732 0.94 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+DUF4423_like         PF21084.1     76 BGC0000481.1_ORF11:gid::pid:ZP_00672901.1:loc:10205:12515:strand:+ -            769   2.2e-33  114.6   0.4   1   1   4.9e-37   5.1e-33  113.4   0.4     1    76     5    80     5    80 0.99 Winged Helix-turn-helix domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000481.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000481.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000481.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:18:05 2024
+# [ok]

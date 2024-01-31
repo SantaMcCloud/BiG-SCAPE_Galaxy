@@ -1,0 +1,483 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1876.5666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1866.5666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+putative oxidoreductase</title>
+			<polygon class="
+putative oxidoreductase" points="15,25 59,25 59,10 89,40 59,70 59,55 15,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MoCoBD_2 (PF20256)
+"Molybdopterin cofactor-binding domain"</title>
+				<rect class="PF20256" x="21" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(197,58,50)" stroke="rgb(157,46,40)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MoCoBD_1 (PF02738)
+"Molybdopterin cofactor-binding domain"</title>
+				<rect class="PF02738" x="49" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(102,216,188)" stroke="rgb(81,172,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="226,25 147,25 147,10 117,40 147,70 147,55 226,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RHS_repeat (PF05593)
+"RHS Repeat"</title>
+				<rect class="PF05593" x="141" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(85,186,222)" stroke="rgb(67,148,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RHS_repeat (PF05593)
+"RHS Repeat"</title>
+				<rect class="PF05593" x="162" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(85,186,222)" stroke="rgb(67,148,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RHS_repeat (PF05593)
+"RHS Repeat"</title>
+				<rect class="PF05593" x="168" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(85,186,222)" stroke="rgb(67,148,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RHS_repeat (PF05593)
+"RHS Repeat"</title>
+				<rect class="PF05593" x="173" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(85,186,222)" stroke="rgb(67,148,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RHS_repeat (PF05593)
+"RHS Repeat"</title>
+				<rect class="PF05593" x="177" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(85,186,222)" stroke="rgb(67,148,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RHS_repeat (PF05593)
+"RHS Repeat"</title>
+				<rect class="PF05593" x="183" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(85,186,222)" stroke="rgb(67,148,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RHS_repeat (PF05593)
+"RHS Repeat"</title>
+				<rect class="PF05593" x="189" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(85,186,222)" stroke="rgb(67,148,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RHS_repeat (PF05593)
+"RHS Repeat"</title>
+				<rect class="PF05593" x="194" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(85,186,222)" stroke="rgb(67,148,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RHS_repeat (PF05593)
+"RHS Repeat"</title>
+				<rect class="PF05593" x="202" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(85,186,222)" stroke="rgb(67,148,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF6531 (PF20148)
+"Domain of unknown function (DUF6531)"</title>
+				<rect class="PF20148" x="220" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(102,224,88)" stroke="rgb(81,179,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative integral membrane protein</title>
+			<polygon class="
+putative integral membrane protein" points="296,10 302,40 296,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6405 (PF19943)
+"Family of unknown function (DUF6405)"</title>
+				<polygon class="PF19943" points="299,38 299,40 299,42" stroke-linejoin="round" width="3" height="24" fill="rgb(78,185,161)" stroke="rgb(62,148,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative 2-nitropropane dioxygenase</title>
+			<polygon class="
+putative 2-nitropropane dioxygenase" points="340,25 337,25 337,10 307,40 337,70 337,55 340,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NMO (PF03060)
+"Nitronate monooxygenase"</title>
+				<polygon class="PF03060" points="311,40 323,28 332,28 332,52 323,52" stroke-linejoin="round" width="24" height="24" fill="rgb(99,221,71)" stroke="rgb(79,176,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NMO (PF03060)
+"Nitronate monooxygenase"</title>
+				<rect class="PF03060" x="332" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(99,221,71)" stroke="rgb(79,176,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="403,25 387,25 387,10 357,40 387,70 387,55 403,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PAP2_3 (PF14378)
+"PAP2 superfamily"</title>
+				<polygon class="PF14378" points="365,36 373,28 384,28 384,52 373,52 365,44" stroke-linejoin="round" width="19" height="24" fill="rgb(54,157,204)" stroke="rgb(43,125,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF5933 (PF19356)
+"Domain of unknown function (DUF5933)"</title>
+				<rect class="PF19356" x="386" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(77,179,131)" stroke="rgb(61,143,104)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="410,40 423,10 423,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyoxalase (PF00903)
+"Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"</title>
+				<polygon class="PF00903" points="413,40 419,28 422,28 422,52 419,52" stroke-linejoin="round" width="12" height="24" fill="rgb(139,76,222)" stroke="rgb(111,60,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="447,25 452,25 452,10 482,40 452,70 452,55 447,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5996 (PF19459)
+"Family of unknown function (DUF5996)"</title>
+				<polygon class="PF19459" points="452,28 466,28 478,40 466,52 452,52" stroke-linejoin="round" width="29" height="24" fill="rgb(184,84,98)" stroke="rgb(147,67,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb1
+putative kynurenine aminotransferase</title>
+			<polygon class="swb1
+putative kynurenine aminotransferase" points="545,25 534,25 534,10 504,40 534,70 534,55 545,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="508,40 520,28 541,28 541,52 520,52" stroke-linejoin="round" width="35" height="24" fill="rgb(207,146,55)" stroke="rgb(165,116,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb2
+putative oxidoreductase</title>
+			<polygon class="swb2
+putative oxidoreductase" points="549,40 574,10 574,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="553,40 563,28 572,28 572,52 563,52" stroke-linejoin="round" width="23" height="24" fill="rgb(79,221,209)" stroke="rgb(63,176,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb3
+putative transcription regulator</title>
+			<polygon class="swb3
+putative transcription regulator" points="577,40 603,10 603,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MerR_1 (PF13411)
+"MerR HTH family regulatory protein"</title>
+				<polygon class="PF13411" points="583,38 589,31 589,49 583,42" stroke-linejoin="round" width="6" height="24" fill="rgb(186,92,57)" stroke="rgb(148,73,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MerR (PF00376)
+"MerR family regulatory protein"</title>
+				<rect class="PF00376" x="598" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(89,197,125)" stroke="rgb(71,157,99)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb4
+putative ABC transporter</title>
+			<polygon class="swb4
+putative ABC transporter" points="609,25 612,25 612,10 642,40 612,70 612,55 609,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="611" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4162 (PF13732)
+"Domain of unknown function (DUF4162)"</title>
+				<polygon class="PF13732" points="630,33 637,40 630,47" stroke-linejoin="round" width="9" height="24" fill="rgb(62,115,222)" stroke="rgb(49,91,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb5
+putative ABC transporter</title>
+			<polygon class="swb5
+putative ABC transporter" points="641,10 668,40 641,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="643,28 653,28 664,40 664,40 653,52 643,52" stroke-linejoin="round" width="21" height="24" fill="rgb(91,137,194)" stroke="rgb(72,109,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb6
+putative aminotransferase</title>
+			<polygon class="swb6
+putative aminotransferase" points="709,25 700,25 700,10 670,40 700,70 700,55 709,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="674,40 686,28 705,28 705,52 686,52" stroke-linejoin="round" width="34" height="24" fill="rgb(207,146,55)" stroke="rgb(165,116,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb7
+hypothetical protein</title>
+			<polygon class="swb7
+hypothetical protein" points="756,25 739,25 739,10 709,40 739,70 739,55 756,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="719,34 725,28 739,28 739,52 725,52 719,46" stroke-linejoin="round" width="20" height="24" fill="rgb(223,193,78)" stroke="rgb(178,154,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb8
+putative SAM-dependent methyltransferase</title>
+			<polygon class="swb8
+putative SAM-dependent methyltransferase" points="785,10 807,40 785,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="789,28 795,28 798,32 798,48 795,52 789,52" stroke-linejoin="round" width="9" height="24" fill="rgb(224,103,106)" stroke="rgb(179,82,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb9
+putative Mg-protoporphyrin IX monooxidative cyclase</title>
+			<polygon class="swb9
+putative Mg-protoporphyrin IX monooxidative cyclase" points="809,25 847,25 847,10 877,40 847,70 847,55 809,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>B12-binding (PF02310)
+"B12 binding domain"</title>
+				<rect class="PF02310" x="812" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(64,214,216)" stroke="rgb(51,171,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="829" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(223,193,78)" stroke="rgb(178,154,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb10
+putative tryptophan 2,3-dioxygenase</title>
+			<polygon class="swb10
+putative tryptophan 2,3-dioxygenase" points="878,10 901,40 878,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_dioxygenase (PF03301)
+"Tryptophan 2,3-dioxygenase"</title>
+				<polygon class="PF03301" points="878,28 888,28 892,34 892,46 888,52 878,52" stroke-linejoin="round" width="14" height="24" fill="rgb(92,205,88)" stroke="rgb(73,164,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trp_dioxygenase (PF03301)
+"Tryptophan 2,3-dioxygenase"</title>
+				<polygon class="PF03301" points="892,34 897,40 892,46" stroke-linejoin="round" width="8" height="24" fill="rgb(92,205,88)" stroke="rgb(73,164,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb11
+putative non-ribosomal peptide synthetase</title>
+			<polygon class="swb11
+putative non-ribosomal peptide synthetase" points="962,25 934,25 934,10 904,40 934,70 934,55 962,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="908,40 910,38 910,42" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="913,35 920,28 920,28 920,52 920,52 913,45" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="926" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb12
+putative peptide arylation enzyme</title>
+			<polygon class="swb12
+putative peptide arylation enzyme" points="1018,25 996,25 996,10 966,40 996,70 996,55 1018,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="970,40 974,36 974,44" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="980,30 982,28 1015,28 1015,52 982,52 980,50" stroke-linejoin="round" width="35" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb13
+putative cytochrome P450</title>
+			<polygon class="swb13
+putative cytochrome P450" points="1059,25 1044,25 1044,10 1014,40 1044,70 1044,55 1059,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>swb14
+putative thioesterase</title>
+			<polygon class="swb14
+putative thioesterase" points="1065,10 1089,40 1065,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="1067,28 1076,28 1086,40 1076,52 1067,52" stroke-linejoin="round" width="22" height="24" fill="rgb(69,76,223)" stroke="rgb(55,60,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb15
+UvrA-like protein</title>
+			<polygon class="swb15
+UvrA-like protein" points="1171,25 1122,25 1122,10 1092,40 1122,70 1122,55 1171,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="1100,36 1108,28 1120,28 1120,52 1108,52 1100,44" stroke-linejoin="round" width="20" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb16
+putative non-ribosomal peptide synthetase</title>
+			<polygon class="swb16
+putative non-ribosomal peptide synthetase" points="1179,25 1407,25 1407,10 1437,40 1407,70 1407,55 1179,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="1179" y="28" stroke-linejoin="round" width="45" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="1226" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="1266" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="1278" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="1288" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="1335" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="1380" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="1419,28 1421,28 1426,33 1426,47 1421,52 1419,52" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="1429,36 1433,40 1429,44" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb17
+putative non-ribosomal peptide synthetase</title>
+			<polygon class="swb17
+putative non-ribosomal peptide synthetase" points="1438,25 1723,25 1723,10 1753,40 1723,70 1723,55 1438,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="1438" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="1487" y="28" stroke-linejoin="round" width="35" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_12 (PF08242)
+"Methyltransferase domain"</title>
+				<rect class="PF08242" x="1539" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(78,210,205)" stroke="rgb(62,168,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="1578" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="1586" y="28" stroke-linejoin="round" width="45" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="1633" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_12 (PF08242)
+"Methyltransferase domain"</title>
+				<rect class="PF08242" x="1683" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(78,210,205)" stroke="rgb(62,168,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="1721" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="1730,28 1737,28 1749,40 1737,52 1730,52" stroke-linejoin="round" width="22" height="24" fill="rgb(69,76,223)" stroke="rgb(55,60,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb18
+MbtH-like protein</title>
+			<polygon class="swb18
+MbtH-like protein" points="1755,10 1762,40 1755,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MbtH (PF03621)
+"MbtH-like protein"</title>
+				<polygon class="PF03621" points="1755,28 1755,28 1759,40 1755,52 1755,52" stroke-linejoin="round" width="5" height="24" fill="rgb(102,212,116)" stroke="rgb(81,169,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb19
+putative OmpR-family regulator</title>
+			<polygon class="swb19
+putative OmpR-family regulator" points="1765,10 1782,40 1765,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="1774,32 1778,40 1774,48" stroke-linejoin="round" width="7" height="24" fill="rgb(69,185,116)" stroke="rgb(55,148,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>swb20
+putative oxidoreductase</title>
+			<polygon class="swb20
+putative oxidoreductase" points="1817,25 1816,25 1816,10 1786,40 1816,70 1816,55 1817,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyr_redox_2 (PF07992)
+"Pyridine nucleotide-disulphide oxidoreductase"</title>
+				<polygon class="PF07992" points="1790,40 1796,34 1796,46" stroke-linejoin="round" width="9" height="24" fill="rgb(187,87,99)" stroke="rgb(149,69,79)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Pyr_redox_2 (PF07992)
+"Pyridine nucleotide-disulphide oxidoreductase"</title>
+				<polygon class="PF07992" points="1801,29 1802,28 1815,28 1815,52 1802,52 1801,51" stroke-linejoin="round" width="14" height="24" fill="rgb(187,87,99)" stroke="rgb(149,69,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1865,25 1848,25 1848,10 1818,40 1848,70 1848,55 1865,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

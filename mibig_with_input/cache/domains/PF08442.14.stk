@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_008000775.1_ORF2428:gid::pid:WP_147663531.1:loc:2686633:2687917:strand:-:6:204         iyeydgkkliaselpkyfpefefhgklavltpdtdi---------------------------DKLAKELPWLKTDKLVAKPDQLFGKRGKANLLLLDADLKQLKAFAAEKLNKTFE--ISGKKGT-LTRLLVEPFIPHDTEYYISITSDRDND--IVHFSLEGGIFVEE----NWDKVTHIPIPFDSDIDSFDF---AG
+#=GR GCF_008000775.1_ORF2428:gid::pid:WP_147663531.1:loc:2686633:2687917:strand:-:6:204 PP 888888888888888888877777776665555433...........................344444455799***************************************999..6778885.789*********************987..5678******9886....899**********99998765...44
+BGC0001011.1_ORF7:gid::pid:ABC87499.1:loc:7758:8877:strand:-:1:177                         .................................mla--------------------GEVIDTPGAAREVAERLGGRA-VVKAQVKTGGRGKAGGVKLASDPDDAVEKAGQILGMDIK-------GHTVHKVMLAETADIKEEYYVSFLLDRTNRTFLAMASVEGGVEIEVVAEQNPEALAKIPVDAIEGVTEEKAAEIVA
+#=GR BGC0001011.1_ORF7:gid::pid:ABC87499.1:loc:7758:8877:strand:-:1:177                 PP .................................985....................899*****************9.***************************************.......****************************************************************************
+#=GC PP_cons                                                                               ........................................................899****77777777899*****************************************99..6778897*89***********************99**8889******9998****99**************99987***77
+#=GC RF                                                                                    ....................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_008000775.1_ORF2428:gid::pid:WP_147663531.1:loc:2686633:2687917:strand:-:6:204         KLPDVGDYSDVLIPFVKALLHVYQDQDFTFLEINPFA-i
+#=GR GCF_008000775.1_ORF2428:gid::pid:WP_147663531.1:loc:2686633:2687917:strand:-:6:204 PP 444456778899999********************97.5
+BGC0001011.1_ORF7:gid::pid:ABC87499.1:loc:7758:8877:strand:-:1:177                         AAKFPAEIADQVVAVLQKLWTVFIKEDALLVEVNPLV-k
+#=GR BGC0001011.1_ORF7:gid::pid:ABC87499.1:loc:7758:8877:strand:-:1:177                 PP ************************************9.6
+#=GC PP_cons                                                                               77777899999************************98..
+#=GC RF                                                                                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

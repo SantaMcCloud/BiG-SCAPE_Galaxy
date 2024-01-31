@@ -1,0 +1,17 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.32   382 BGC0001256.1_ORF1:gid::pid:ACH90386.1:loc:443:3595:strand:+ -            957   5.2e-46  157.4   0.1   1   1   1.5e-49     1e-45  156.4   0.0    18   382    59   423    38   423 0.81 AMP-binding enzyme
+Thioesterase         PF00975.24   226 BGC0001256.1_ORF1:gid::pid:ACH90386.1:loc:443:3595:strand:+ -            957   2.5e-29  103.2   0.0   1   1   4.8e-32   3.3e-28   99.6   0.0     2   218   697   944   696   952 0.67 Thioesterase domain
+PP-binding           PF00550.29    67 BGC0001256.1_ORF1:gid::pid:ACH90386.1:loc:443:3595:strand:+ -            957   6.6e-09   36.1   0.0   1   1   6.6e-12   4.6e-08   33.4   0.0     2    67   604   670   603   670 0.96 Phosphopantetheine attachment site
+Aminotran_1_2        PF00155.25   361 BGC0001256.1_ORF2:gid::pid:ACH90387.1:loc:4124:5873:strand:+ -            524   8.3e-26   91.2   0.0   1   1   5.6e-30   1.2e-25   90.7   0.0    23   356    95   508    73   513 0.90 Aminotransferase class I and II
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001256.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001256.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001256.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:39:25 2024
+# [ok]

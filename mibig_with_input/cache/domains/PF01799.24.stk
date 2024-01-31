@@ -1,0 +1,27 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2013:gid::pid::loc:2241913:2242360:strand:-:72:143         TLEGVLDEA.K.--KFGDFLADEGADQCGFCAPGFIMMVLAMKREL-.................QNPTEEEVIDYVNGNLCRCTGYKGQLRAIH.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2013:gid::pid::loc:2241913:2242360:strand:-:72:143 PP 899999775.5...9*******************************..................77777***********************96.
+GCA_000085225.1_ASM8522v1_genomic_ORF2020:gid::pid::loc:2251222:2251693:strand:-:74:147         TIESFANGE.N.LHPIQEAFIEVGAVQCGYCTPGMIITTQALLNRN-.................ASPNEDEIKEAFKENLCRCTGYVKIIEAVK.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2020:gid::pid::loc:2251222:2251693:strand:-:74:147 PP 9*****996.7.**********************************..................77777***********************97.
+GCA_000085225.1_ASM8522v1_genomic_ORF2032:gid::pid::loc:2266469:2266919:strand:-:72:143         TIEGLENE-.-.VKEFSEVLVKEGAEQCGFCSPGFILTVLAMKDEL-.................ENPTDDEIKHYLTGNLCRCTGYMGQLRAIK.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2032:gid::pid::loc:2266469:2266919:strand:-:72:143 PP 9****977....56********************************..................67777***********************97.
+GCA_000085225.1_ASM8522v1_genomic_ORF3099:gid::pid::loc:3537104:3539666:strand:-:70:142         TIEGLSERE.R.-DVFAYSFASQGAVQCGFCIPGMVISSKALIDVN-.................NNPTEDDIKKALKGNICRCTGYVKIIKAV-d
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3099:gid::pid::loc:3537104:3539666:strand:-:70:142 PP 9*****997.6..8********************************..................88888***********************9.6
+BGC0001191.1_ORF14:gid::pid:AKC92642.1:loc:15162:15660:strand:+:77:150                          TMQGLARDG.E.WHPLQRSFHEQHALQCGYCTPGMIMSARDLLRDN-.................PDPGPEEIRAALRGNLCRCTGYQNIVKAV-l
+#=GR BGC0001191.1_ORF14:gid::pid:AKC92642.1:loc:15162:15660:strand:+:77:150                  PP 899***986.6.9*********************************..................66666***********************8.7
+BGC0000466.1_ORF3:gid::pid:ADZ13535.1:loc:3180:3699:strand:-:87:160                             TIEGLAGPD.G.LHPVQAAFLEHDGFQCGFCTPGQIMSAVALLDEG-.................RAGSDEEIREYMSGNLCRCGAYPHMVAAIR.
+#=GR BGC0000466.1_ORF3:gid::pid:ADZ13535.1:loc:3180:3699:strand:-:87:160                     PP 9*****997.7.**********************************..................66666***********************96.
+BGC0000414.1_ORF2:gid:qcn2:pid:BAO84851.1:loc:6933:9675:strand:+:89:168                         TVEGVADPS.R.LHPVQLALMAEDAVQCGYCTPGFVVSAVAFHDTWRre............hdrGRPSVEEVRRALAGHLCRCGCYLRIVEAVR.
+#=GR BGC0000414.1_ORF2:gid:qcn2:pid:BAO84851.1:loc:6933:9675:strand:+:89:168                 PP 9*****996.6.******************************8887777............78866666***********************96.
+BGC0000288.1_ORF27:gid:capL:pid:BAJ19056.1:loc:32867:33374:strand:+:74:147                      TVQGLARDG.E.WHPLQRSFHEQHALQCGYCTPGMIMAARDLLRHN-.................PEPGPEEVRRVLKGNLCRCTGYQNIVKAV-l
+#=GR BGC0000288.1_ORF27:gid:capL:pid:BAJ19056.1:loc:32867:33374:strand:+:74:147              PP 99****996.6.9*********************************..................66666***********************8.7
+BGC0000949.1_ORF17:gid::pid:BAI23325.1:loc:28656:29163:strand:+:74:147                          TVEGLARDG.A.WHPLQRSFHEQHALQCGYCTPGMLMAARDLLRHH-.................PDPEPDEVRHALKGNLCRCTGYQNIVRAV-l
+#=GR BGC0000949.1_ORF17:gid::pid:BAI23325.1:loc:28656:29163:strand:+:74:147                  PP 9*****885.4.9*********************************..................66666***********************8.7
+BGC0001106.1_ORF33:gid::pid:ABS90489.1:loc:103636:104170:strand:-:80:173                        TVEGLAPGEgDdLHPLQRAFVDRDAFQCGYCTPGQICSAVGAIEEAGagrashvtdpaanrgapVELTRDEIRERLSGNICRCGAYPHIVEAVE.
+#=GR BGC0001106.1_ORF33:gid::pid:ABS90489.1:loc:103636:104170:strand:-:80:173                PP 9*****999648*********************************99****************955555***********************96.
+BGC0001060.1_ORF49:gid::pid:ACB47079.1:loc:62267:62762:strand:-:74:147                          TVEGLAAPG.E.LDPMQDAFRRCHALQCGFCTPGMLLAAHGLLADD-.................PDPDDAGIRIALAGNICRCTGYQSIVDAVR.
+#=GR BGC0001060.1_ORF49:gid::pid:ACB47079.1:loc:62267:62762:strand:-:74:147                  PP 9*****996.6.**********************************..................77777***********************96.
+#=GC PP_cons                                                                                    99****986.6.99********************************8.................66677***********************96.
+#=GC RF                                                                                         xxxxxxxxx.x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

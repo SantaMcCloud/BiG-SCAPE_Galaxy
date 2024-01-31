@@ -1,0 +1,25 @@
+#                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.32   382 BGC0001251.1_ORF1:gid:sidN:pid:AET13879.1:loc:1268:15341:strand:+ -           4690  6.4e-171  568.5   0.0   1   3     4e-59   2.1e-55  188.3   0.0     3   382   238   606   236   606 0.81 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0001251.1_ORF1:gid:sidN:pid:AET13879.1:loc:1268:15341:strand:+ -           4690  6.4e-171  568.5   0.0   2   3   9.4e-67   4.9e-63  213.4   0.0     3   382  1349  1712  1347  1712 0.88 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0001251.1_ORF1:gid:sidN:pid:AET13879.1:loc:1268:15341:strand:+ -           4690  6.4e-171  568.5   0.0   3   3   1.5e-51   7.7e-48  163.4   0.0     2   382  2463  2825  2462  2825 0.80 AMP-binding enzyme
+Condensation         PF00668.24   456 BGC0001251.1_ORF1:gid:sidN:pid:AET13879.1:loc:1268:15341:strand:+ -           4690  1.8e-147  491.9   0.0   1   5   7.9e-23   4.1e-19   68.8   0.0    21   283   924  1176   921  1207 0.82 Condensation domain
+Condensation         PF00668.24   456 BGC0001251.1_ORF1:gid:sidN:pid:AET13879.1:loc:1268:15341:strand:+ -           4690  1.8e-147  491.9   0.0   2   5   7.3e-17   3.8e-13   49.1   0.2     6   288  2001  2286  1998  2342 0.74 Condensation domain
+Condensation         PF00668.24   456 BGC0001251.1_ORF1:gid:sidN:pid:AET13879.1:loc:1268:15341:strand:+ -           4690  1.8e-147  491.9   0.0   3   5   1.2e-38   6.1e-35  121.0   0.0     7   434  3121  3530  3115  3538 0.75 Condensation domain
+Condensation         PF00668.24   456 BGC0001251.1_ORF1:gid:sidN:pid:AET13879.1:loc:1268:15341:strand:+ -           4690  1.8e-147  491.9   0.0   4   5   2.6e-41   1.3e-37  129.7   0.0     4   439  3679  4087  3676  4101 0.84 Condensation domain
+Condensation         PF00668.24   456 BGC0001251.1_ORF1:gid:sidN:pid:AET13879.1:loc:1268:15341:strand:+ -           4690  1.8e-147  491.9   0.0   5   5   6.1e-36   3.2e-32  112.0   0.0    31   356  4262  4586  4233  4604 0.79 Condensation domain
+PP-binding           PF00550.29    67 BGC0001251.1_ORF1:gid:sidN:pid:AET13879.1:loc:1268:15341:strand:+ -           4690     1e-42  144.4   3.9   1   4   1.3e-11   6.9e-08   32.8   0.2     3    67  1898  1961  1896  1961 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0001251.1_ORF1:gid:sidN:pid:AET13879.1:loc:1268:15341:strand:+ -           4690     1e-42  144.4   3.9   2   4   1.5e-11   7.8e-08   32.7   0.0     2    65  3010  3073  3009  3074 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0001251.1_ORF1:gid:sidN:pid:AET13879.1:loc:1268:15341:strand:+ -           4690     1e-42  144.4   3.9   3   4   1.4e-09   7.2e-06   26.4   0.0     1    67  3568  3633  3568  3633 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0001251.1_ORF1:gid:sidN:pid:AET13879.1:loc:1268:15341:strand:+ -           4690     1e-42  144.4   3.9   4   4   5.7e-11     3e-07   30.8   0.0     3    65  4128  4189  4126  4191 0.96 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001251.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001251.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001251.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:16:05 2024
+# [ok]

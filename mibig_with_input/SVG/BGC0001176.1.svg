@@ -1,0 +1,60 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="179.73333333333332" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="169.73333333333332" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (LP52_05060)
+hypothetical protein</title>
+			<polygon class=" (LP52_05060)
+hypothetical protein" points="68,25 40,25 40,10 10,40 40,70 40,55 68,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="17,37 26,28 31,28 31,52 26,52 17,43" stroke-linejoin="round" width="14" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="40" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(62,71,183)" stroke="rgb(49,56,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (LP52_05065)
+hypothetical protein</title>
+			<polygon class=" (LP52_05065)
+hypothetical protein" points="74,40 88,10 88,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transglut_core3 (PF13471)
+"Transglutaminase-like superfamily"</title>
+				<polygon class="PF13471" points="77,40 83,28 86,28 86,52 83,52" stroke-linejoin="round" width="11" height="24" fill="rgb(88,181,169)" stroke="rgb(70,144,135)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (LP52_05070)
+hypothetical protein</title>
+			<polygon class=" (LP52_05070)
+hypothetical protein" points="89,40 97,10 97,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="92,40 95,28 95,28 95,52 95,52" stroke-linejoin="round" width="6" height="24" fill="rgb(205,87,187)" stroke="rgb(164,69,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (LP52_05075)
+hypothetical protein</title>
+			<polygon class=" (LP52_05075)
+hypothetical protein" points="157,25 129,25 129,10 99,40 129,70 129,55 157,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="103,40 115,28 139,28 139,52 115,52" stroke-linejoin="round" width="39" height="24" fill="rgb(200,91,135)" stroke="rgb(160,72,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (LP52_05076)
+Streptomonomicin precursor peptide protein</title>
+			<polygon class=" (LP52_05076)
+Streptomonomicin precursor peptide protein" points="165,40 169,10 169,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

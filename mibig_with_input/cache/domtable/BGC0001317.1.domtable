@@ -1,0 +1,27 @@
+#                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQHop_cyclase_C      PF13243.10   319 BGC0001317.1_ORF2:gid:chr3.CM0292.40.r2.m:pid::loc:807:10589:strand:- -            762   1.3e-52  179.0   0.1   1   1   2.1e-52   1.5e-48  165.7   0.0     5   319   418   753   415   753 0.82 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_N      PF13249.10   291 BGC0001317.1_ORF2:gid:chr3.CM0292.40.r2.m:pid::loc:807:10589:strand:- -            762   3.9e-44  151.2   0.2   1   1     3e-43   2.1e-39  135.6   0.0     1   201    98   306    98   402 0.82 Squalene-hopene cyclase N-terminal domain
+Prenyltrans          PF00432.25    44 BGC0001317.1_ORF2:gid:chr3.CM0292.40.r2.m:pid::loc:807:10589:strand:- -            762   3.5e-20   71.6   6.1   1   3   5.1e-10   3.6e-06   26.9   0.1     2    44   147   189   146   189 0.94 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.25    44 BGC0001317.1_ORF2:gid:chr3.CM0292.40.r2.m:pid::loc:807:10589:strand:- -            762   3.5e-20   71.6   6.1   2   3   3.6e-09   2.5e-05   24.2   1.0     4    40   592   627   589   631 0.90 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.25    44 BGC0001317.1_ORF2:gid:chr3.CM0292.40.r2.m:pid::loc:807:10589:strand:- -            762   3.5e-20   71.6   6.1   3   3   1.8e-07    0.0012   18.7   0.0     4    37   641   686   639   692 0.83 Prenyltransferase and squalene oxidase repeat
+HABP4_PAI-RBP1       PF04774.19   115 BGC0001317.1_ORF3:gid:chr3.CM0292.50.r2.m:pid::loc:14885:15683:strand:+ -            112   1.8e-09   38.6   9.8   1   1   1.1e-13   2.4e-09   38.2   9.8    48   114     9    70     2    71 0.78 Hyaluronan / mRNA binding family
+U-box                PF04564.19    73 BGC0001317.1_ORF6:gid:chr3.CM0292.100.r2.m:pid::loc:63708:64350:strand:- -            213   5.4e-14   52.3   0.0   1   1   5.8e-18   1.2e-13   51.2   0.0     2    71    52   121    51   123 0.86 U-box domain
+p450                 PF00067.26   462 BGC0001317.1_ORF7:gid:chr3.CM0292.110.r2.m:pid::loc:65900:67621:strand:- -            497   2.4e-96  323.5   0.0   1   1  1.5e-100   3.1e-96  323.1   0.0     1   452    37   475    37   485 0.88 Cytochrome P450
+p450                 PF00067.26   462 BGC0001317.1_ORF9:gid:chr3.CM0292.180.r2.m:pid::loc:159505:162865:strand:+ -            475   7.5e-54  183.4   0.4   1   2   9.8e-46     2e-41  142.4   0.1     1   362    39   386    39   398 0.84 Cytochrome P450
+p450                 PF00067.26   462 BGC0001317.1_ORF9:gid:chr3.CM0292.180.r2.m:pid::loc:159505:162865:strand:+ -            475   7.5e-54  183.4   0.4   2   2     2e-14   4.2e-10   39.2   0.0   397   443   409   455   403   467 0.85 Cytochrome P450
+RVT_3                PF13456.10   123 BGC0001317.1_ORF11:gid:chr3.CM0292.230.r2.m:pid::loc:193629:194073:strand:+ -            147   6.4e-18   65.0   0.0   1   1   5.6e-22   1.2e-17   64.2   0.0    38   121    16    99     9   101 0.95 Reverse transcriptase-like
+zf-RVT               PF13966.10    85 BGC0001317.1_ORF12:gid:chr3.CM0292.240.r2.m:pid::loc:201793:203665:strand:+ -            605   1.1e-14   55.0   1.5   1   1   1.5e-18     3e-14   53.6   1.5     1    85   255   340   255   340 0.90 zinc-binding in reverse transcriptase
+NAD_binding_10       PF13460.10   184 BGC0001317.1_ORF13:gid:chr3.CM0292.270.r2.d:pid::loc:222157:225553:strand:+ -            170   1.4e-13   51.4   0.0   1   1   7.4e-18   1.5e-13   51.2   0.0    93   183    69   150    36   151 0.81 NAD(P)H-binding
+Transposase_28       PF04195.16    69 BGC0001317.1_ORF16:gid:chr3.CM0292.320.r2.m:pid::loc:254214:256603:strand:- -            717   1.1e-07   32.2   0.6   1   1   9.1e-12   1.9e-07   31.4   0.6     6    67   131   191   126   193 0.94 Putative gypsy type transposon
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001317.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001317.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001317.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:37:16 2024
+# [ok]

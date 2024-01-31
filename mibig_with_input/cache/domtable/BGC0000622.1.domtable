@@ -1,0 +1,19 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glutaredoxin         PF00462.28    60 BGC0000622.1_ORF4:gid::pid:ABS44969.1:loc:1887:2145:strand:- -             85   1.2e-11   44.8   0.2   1   1   9.2e-16   1.9e-11   44.2   0.1     1    52     5    55     5    61 0.94 Glutaredoxin
+Peptidase_S8         PF00082.26   283 BGC0000622.1_ORF5:gid::pid:ABS44970.1:loc:2276:3158:strand:- -            293   6.4e-52  176.8   0.4   1   1   3.5e-56   7.3e-52  176.7   0.4     1   255    23   258    23   284 0.91 Subtilase family
+Sigma70_r4           PF04545.20    50 BGC0000622.1_ORF6:gid::pid:ABS44971.1:loc:3360:3927:strand:+ -            188   1.3e-10   40.8   0.0   1   1   3.4e-14   2.4e-10   40.0   0.0     2    49   138   185   137   186 0.98 Sigma-70, region 4
+Sigma70_r4_2         PF08281.16    54 BGC0000622.1_ORF6:gid::pid:ABS44971.1:loc:3360:3927:strand:+ -            188   3.2e-07   30.1   0.1   1   1   6.9e-11   4.8e-07   29.5   0.1     3    54   133   184   131   184 0.92 Sigma-70, region 4
+UPF0122              PF04297.18   101 BGC0000622.1_ORF6:gid::pid:ABS44971.1:loc:3360:3927:strand:+ -            188     1e-05   25.9   0.1   1   1   4.5e-09   3.1e-05   24.3   0.1    18    62   141   185   132   187 0.89 Putative helix-turn-helix protein, YlxM / p13 like
+Amidase_3            PF01520.22   174 BGC0000622.1_ORF8:gid::pid:ABS44973.1:loc:4380:4938:strand:+ -            185     5e-45  153.8   0.0   1   1   2.7e-49   5.6e-45  153.7   0.0     1   173     4   176     4   177 0.95 N-acetylmuramoyl-L-alanine amidase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000622.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000622.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000622.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:27:00 2024
+# [ok]

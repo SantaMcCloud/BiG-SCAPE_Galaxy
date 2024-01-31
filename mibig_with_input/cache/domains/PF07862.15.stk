@@ -1,0 +1,9 @@
+# STOCKHOLM 1.0
+
+BGC0001364.1_ORF14:gid::pid:WP_019631330.1:loc:11101:12010:strand:-:1:48         MSVESCAAFLRVVNDDARLRQQLKALTGVAEMIRLGEAHGFRFDGRDL
+#=GR BGC0001364.1_ORF14:gid::pid:WP_019631330.1:loc:11101:12010:strand:-:1:48 PP **********************************************98
+BGC0000503.1_ORF7:gid:cinX:pid:CAD60522.1:loc:5339:6317:strand:+:1:48            MALKTCEEFLRDALDPARFGREMKAVTEVPEIVELGRRHGYGFTAEEF
+#=GR BGC0000503.1_ORF7:gid:cinX:pid:CAD60522.1:loc:5339:6317:strand:+:1:48    PP 9**********************************************7
+#=GC PP_cons                                                                     **********************************************97
+#=GC RF                                                                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

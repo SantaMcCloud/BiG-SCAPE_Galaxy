@@ -1,0 +1,35 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LysR_substrate       PF03466.24   209 BGC0000929.1_ORF1:gid:toxR:pid:ABQ88341.1:loc:296:1202:strand:+ -            301   5.3e-22   78.4   8.1   1   1   7.6e-26   7.9e-22   77.9   8.1     3   207    94   297    92   299 0.96 LysR substrate binding domain
+HTH_1                PF00126.31    60 BGC0000929.1_ORF1:gid:toxR:pid:ABQ88341.1:loc:296:1202:strand:+ -            301   3.3e-15   56.0   0.4   1   1   9.3e-19   9.7e-15   54.5   0.4     1    59     9    67     9    68 0.96 Bacterial regulatory helix-turn-helix protein, lysR family
+Methyltransf_25      PF13649.10    97 BGC0000929.1_ORF2:gid:toxA:pid:ABQ88342.1:loc:1787:2525:strand:+ -            245   2.5e-19   69.9   0.0   1   1   2.1e-22   4.5e-19   69.1   0.0     1    97    43   138    43   138 0.95 Methyltransferase domain
+Methyltransf_31      PF13847.10   150 BGC0000929.1_ORF2:gid:toxA:pid:ABQ88342.1:loc:1787:2525:strand:+ -            245   2.4e-18   66.6   0.0   1   1   1.5e-21     3e-18   66.2   0.0     3   113    39   146    37   177 0.87 Methyltransferase domain
+Methyltransf_11      PF08241.16    95 BGC0000929.1_ORF2:gid:toxA:pid:ABQ88342.1:loc:1787:2525:strand:+ -            245   1.9e-15   57.4   0.0   1   1   1.4e-18   2.9e-15   56.8   0.0     1    94    44   141    44   142 0.95 Methyltransferase domain
+Methyltransf_12      PF08242.16    98 BGC0000929.1_ORF2:gid:toxA:pid:ABQ88342.1:loc:1787:2525:strand:+ -            245   1.5e-13   51.4   0.0   1   1   1.2e-16   2.6e-13   50.7   0.0     1    98    44   140    44   140 0.97 Methyltransferase domain
+Methyltransf_23      PF13489.10   163 BGC0000929.1_ORF2:gid:toxA:pid:ABQ88342.1:loc:1787:2525:strand:+ -            245   3.1e-11   43.5   0.0   1   1     2e-14   4.1e-11   43.0   0.0    20   123    37   165    19   208 0.71 Methyltransferase domain
+Ubie_methyltran      PF01209.22   233 BGC0000929.1_ORF2:gid:toxA:pid:ABQ88342.1:loc:1787:2525:strand:+ -            245   7.6e-09   35.4   0.0   1   1   5.1e-12   1.1e-08   35.0   0.0    38   174    30   164     3   214 0.84 ubiE/COQ5 methyltransferase family
+CMAS                 PF02353.24   273 BGC0000929.1_ORF2:gid:toxA:pid:ABQ88342.1:loc:1787:2525:strand:+ -            245     1e-08   35.1   0.0   1   1   6.3e-12   1.3e-08   34.7   0.0    41   167    17   145     5   163 0.87 Mycolic acid cyclopropane synthetase
+MTS                  PF05175.18   170 BGC0000929.1_ORF2:gid:toxA:pid:ABQ88342.1:loc:1787:2525:strand:+ -            245   3.9e-07   30.0   0.0   1   1   2.8e-10   5.8e-07   29.5   0.0    31   137    39   141    28   153 0.86 Methyltransferase small domain
+NodS                 PF05401.15   201 BGC0000929.1_ORF2:gid:toxA:pid:ABQ88342.1:loc:1787:2525:strand:+ -            245   8.3e-06   26.0   0.0   1   1   5.9e-09   1.2e-05   25.4   0.0    39   143    35   141    18   151 0.88 Nodulation protein S (NodS)
+GTP_cyclohydro2      PF00925.24   165 BGC0000929.1_ORF3:gid:toxB:pid:ABQ88343.1:loc:2646:3285:strand:+ -            212   6.7e-55  185.3   0.0   1   1   4.3e-59   8.8e-55  184.9   0.0    14   162    30   178    22   181 0.95 GTP cyclohydrolase II
+WD40                 PF00400.36    39 BGC0000929.1_ORF4:gid:toxC:pid:ABQ88344.1:loc:3281:4973:strand:+ -            563   4.6e-38  128.2  20.2   1   6   2.1e-06     0.014   16.1   0.0     9    39     3    32     1    32 0.89 WD domain, G-beta repeat
+WD40                 PF00400.36    39 BGC0000929.1_ORF4:gid:toxC:pid:ABQ88344.1:loc:3281:4973:strand:+ -            563   4.6e-38  128.2  20.2   2   6   2.5e-07    0.0017   19.1   0.1    18    38    52    72    44    73 0.92 WD domain, G-beta repeat
+WD40                 PF00400.36    39 BGC0000929.1_ORF4:gid:toxC:pid:ABQ88344.1:loc:3281:4973:strand:+ -            563   4.6e-38  128.2  20.2   3   6   1.3e-06     0.009   16.8   0.0    12    39    88   115    78   115 0.79 WD domain, G-beta repeat
+WD40                 PF00400.36    39 BGC0000929.1_ORF4:gid:toxC:pid:ABQ88344.1:loc:3281:4973:strand:+ -            563   4.6e-38  128.2  20.2   4   6   2.2e-11   1.5e-07   31.8   0.2     1    39   118   156   118   156 0.95 WD domain, G-beta repeat
+WD40                 PF00400.36    39 BGC0000929.1_ORF4:gid:toxC:pid:ABQ88344.1:loc:3281:4973:strand:+ -            563   4.6e-38  128.2  20.2   5   6     5e-06     0.035   14.9   0.0     4    38   201   235   198   236 0.91 WD domain, G-beta repeat
+WD40                 PF00400.36    39 BGC0000929.1_ORF4:gid:toxC:pid:ABQ88344.1:loc:3281:4973:strand:+ -            563   4.6e-38  128.2  20.2   6   6   9.4e-08   0.00065   20.4   0.1     9    39   487   517   480   517 0.90 WD domain, G-beta repeat
+FGE-sulfatase        PF03781.20   255 BGC0000929.1_ORF5:gid:toxD:pid:ABQ88345.1:loc:5080:6061:strand:+ -            326   4.7e-42  144.6   0.7   1   1   3.4e-46   7.1e-42  144.0   0.7    23   254   117   323   109   324 0.86 Sulfatase-modifying factor enzyme 1
+RibD_C               PF01872.21   197 BGC0000929.1_ORF6:gid:toxE:pid:ABQ88346.1:loc:6060:7215:strand:+ -            384   1.9e-45  155.3   0.0   1   1   3.8e-49   2.6e-45  154.9   0.0     1   195   167   374   167   376 0.91 RibD C-terminal domain
+dCMP_cyt_deam_1      PF00383.27   102 BGC0000929.1_ORF6:gid:toxE:pid:ABQ88346.1:loc:6060:7215:strand:+ -            384   1.6e-19   69.9   0.1   1   1   3.6e-23   2.5e-19   69.3   0.1     4   102    20   120    17   120 0.93 Cytidine and deoxycytidylate deaminase zinc-binding region
+MafB19-deam          PF14437.10   144 BGC0000929.1_ORF6:gid:toxE:pid:ABQ88346.1:loc:6060:7215:strand:+ -            384   5.7e-13   49.1   0.0   1   1   1.3e-16     9e-13   48.4   0.0     4   115    21   134    18   162 0.78 MafB19-like deaminase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000929.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000929.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000929.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:30:32 2024
+# [ok]

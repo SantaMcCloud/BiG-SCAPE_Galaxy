@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000385.1_ORF14:gid::pid:AEH59035.1:loc:16074:17304:strand:-:16:394         r-DLSLSAVVAGFVAVLVGFTSSAAIVFSAARASGADQAEIASWMWALGLGMGATCIGLSLRYKVPVVTAWSTPGAAMLITAAAGLPLAQAIGAFVISAALTVALGFSGWLERALARLPASLAAGMLAGVLLRFGLDVFVSMQSHFALVFAMLLSFLLTRRWLPRYAVLVALAVGVGVAGAQGGLHLEKLELAVAMPVWT
+#=GR BGC0000385.1_ORF14:gid::pid:AEH59035.1:loc:16074:17304:strand:-:16:394 PP 7.6899**************************************************************************************************************************************************************************************************
+BGC0000343.1_ORF16:gid::pid:ACY02006.1:loc:21185:22382:strand:-:13:390         a-DTSTSAVVAGFIAMLTGYTSSLVLMFQAGQAAGLTNGQISSWIWSLSIGMAICCIGLSLRYRAPIMIAWSTPGAALLITSLPGVPYGEAIGAYIVTSGLIVVIGLTGSFDRIMRRIPGSLAAALLAGVLFKIGLEICVAAEQQPLLVSAMLLAYLLGKRLQPRYAVLAALIAGSVLAGLFGLLNFEQFELQLAVPEWT
+#=GR BGC0000343.1_ORF16:gid::pid:ACY02006.1:loc:21185:22382:strand:-:13:390 PP 5.7899**************************************************************************************************************************************************************************************************
+#=GC PP_cons                                                                   ..7899**************************************************************************************************************************************************************************************************
+#=GC RF                                                                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000385.1_ORF14:gid::pid:AEH59035.1:loc:16074:17304:strand:-:16:394         TPQFSLAATVGVAIPLFVVTMASQNVPGIAILRAHGYrEVPASPLVGWTGVATLLLAPFGAFSLSLAAITAAICMGEDAHEDPRKRYMAAVAAGAFYLLTGVFGATVAAAFAAFPQALVMAIAGIALLATIGNGLASALHDPQEREPALITFLVTASGFTVFQVGSVFWGMVAGVLAT--lv
+#=GR BGC0000385.1_ORF14:gid::pid:AEH59035.1:loc:16074:17304:strand:-:16:394 PP *************************************99***************************************************************************************************************************************9876..57
+BGC0000343.1_ORF16:gid::pid:ACY02006.1:loc:21185:22382:strand:-:13:390         SPSFSLAAVISIGIPLFIVAMASQNLPGMAVLRANGY.DVPASPLLTTTGMTSILLAPFGSHGIHMAAISAAICAGPEAHEDPRKRYTAAIWCGIFYGIAGIFGATLAALFTALPKALILSIAALALFASIIGGLTQAMSEPKEREAALITFLVTASGMTLFSVGSAFWGIVAGLLTLA-i.
+#=GR BGC0000343.1_ORF16:gid::pid:ACY02006.1:loc:21185:22382:strand:-:13:390 PP *************************************.****************************************************************************************************************************************99876.6.
+#=GC PP_cons                                                                   *************************************.****************************************************************************************************************************************98766...
+#=GC RF                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

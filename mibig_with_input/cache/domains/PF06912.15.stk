@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF669:gid::pid::loc:780055:780739:strand:+:13:215         l-CSLLAITGGFLDIYTYVVRGKVFANAQTGNIVLFGLNIAEGNVKESFYYLIPILAFMLGVFIAEKIRKYFtnnktkIHWRQVIIIIE..MITILIVSFI-PRGRF--N....mFVNVAISFICSMQVESFRKVNGNSFATTMCTGNLRSATETLFHYIhTKNIfmikksLQYYAIIIFFISGAILGTFFTKI.fVEKS
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF669:gid::pid::loc:780055:780739:strand:+:13:215 PP 6.679*************************************************************99988789999************..**********.75554..5....68********************************************6666255655555*********************.*****
+BGC0001303.1_ORF9:gid:ORF9:pid:ALA09347.1:loc:13703:14393:strand:-:8:212                     p-LLVLTAATGAVDGVSYLALDRVFTGNMTGNVLFIGFGLAGVSGLPVLNNLVALLAFMLGAVLAARLTRRSsg.paaLPAAGLAILVGgsVLTLALAGLWLATGPP--ThgvmlTVTGLLALVLGAQAAAVKHIGIRDLSTVVVTMTMVNLSTDSRAAGgP--Gt...awLRRFGAITTMGLGAFVSAVLTLRvnGAVA
+#=GR BGC0001303.1_ORF9:gid:ORF9:pid:ALA09347.1:loc:13703:14393:strand:-:8:212             PP 9.689***********************************98888***********************988788.88855555555555546666666655554443..347*9999**************************************4433332..14...4556**********************99999
+#=GC PP_cons                                                                                 ..689************************************9999*********************999887......77888888888..8888888888565544..4.....9***************************************77776.4662......55*********************..9***
+#=GC RF                                                                                      .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxx..xxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxx......xxxxxxxxxxxxxxxxxxxxxxx..xxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF669:gid::pid::loc:780055:780739:strand:+:13:215         ILICFFILAVVFG-i
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF669:gid::pid::loc:780055:780739:strand:+:13:215 PP **********986.6
+BGC0001303.1_ORF9:gid:ORF9:pid:ALA09347.1:loc:13703:14393:strand:-:8:212                     LVVAGALLTVGTA-l
+#=GR BGC0001303.1_ORF9:gid:ORF9:pid:ALA09347.1:loc:13703:14393:strand:-:8:212             PP 9999999988765.6
+#=GC PP_cons                                                                                 *******999875..
+#=GC RF                                                                                      xxxxxxxxxxxxxx.
+//

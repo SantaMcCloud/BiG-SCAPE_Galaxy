@@ -1,0 +1,32 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_11      PF08241.16    95 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265     9e-21   74.5   0.0   1   1     7e-24   1.8e-20   73.5   0.0     1    95    64   157    64   157 0.95 Methyltransferase domain
+Methyltransf_25      PF13649.10    97 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265   1.6e-17   64.1   0.0   1   1   1.4e-20   3.5e-17   63.1   0.0     1    97    63   153    63   153 0.95 Methyltransferase domain
+Methyltransf_31      PF13847.10   150 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265   1.4e-14   54.3   0.0   1   1   1.2e-17   3.2e-14   53.2   0.0     3   123    59   180    57   229 0.81 Methyltransferase domain
+Methyltransf_12      PF08242.16    98 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265   1.4e-11   45.1   0.0   1   1   1.2e-14     3e-11   44.1   0.0     1    98    64   155    64   155 0.85 Methyltransferase domain
+Methyltransf_23      PF13489.10   163 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265   2.9e-11   43.5   0.0   1   1   1.5e-14   3.9e-11   43.1   0.0    12   159    48   195    37   218 0.82 Methyltransferase domain
+Ubie_methyltran      PF01209.22   233 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265   6.4e-08   32.4   0.0   1   1   6.7e-11   1.7e-07   31.0   0.0    48   160    60   166    47   170 0.82 ubiE/COQ5 methyltransferase family
+FtsJ                 PF01728.23   181 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265   1.1e-06   28.9   0.0   1   1   6.4e-10   1.7e-06   28.3   0.0    16   141    55   223    44   256 0.73 FtsJ-like methyltransferase
+MTS                  PF05175.18   170 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265   8.4e-06   25.7   0.0   1   1   8.2e-09   2.1e-05   24.4   0.0    23   140    52   159    48   189 0.81 Methyltransferase small domain
+ABC_membrane_2       PF06472.19   269 BGC0000594.1_ORF2:gid:mvdA:pid:ACC54547.1:loc:841:2635:strand:+ -            597   2.4e-37  129.0  10.7   1   1   7.1e-41   3.7e-37  128.4  10.7    13   263    49   297    43   303 0.93 ABC transporter transmembrane region 2
+ABC_tran             PF00005.31   137 BGC0000594.1_ORF2:gid:mvdA:pid:ACC54547.1:loc:841:2635:strand:+ -            597   1.5e-19   71.2   0.0   1   1   9.1e-23   4.7e-19   69.6   0.0     2   137   392   529   391   529 0.75 ABC transporter
+ABC_membrane         PF00664.27   274 BGC0000594.1_ORF2:gid:mvdA:pid:ACC54547.1:loc:841:2635:strand:+ -            597   4.2e-13   49.8  10.3   1   1   1.5e-16   7.8e-13   48.9  10.3     2   262    54   314    53   326 0.92 ABC transporter transmembrane region
+Acetyltransf_3       PF13302.11   138 BGC0000594.1_ORF3:gid:mvdB:pid:ACC54548.1:loc:2730:3270:strand:+ -            179   5.7e-20   72.6   0.0   1   1     6e-24   6.3e-20   72.5   0.0    45   138    57   160     8   160 0.80 Acetyltransferase (GNAT) domain
+Acetyltransf_1       PF00583.29   116 BGC0000594.1_ORF3:gid:mvdB:pid:ACC54548.1:loc:2730:3270:strand:+ -            179     2e-14   54.1   0.0   1   1   2.3e-18   2.3e-14   53.8   0.0    34   116    69   159    35   159 0.78 Acetyltransferase (GNAT) family
+ATPgraspMvdD         PF21068.1    121 BGC0000594.1_ORF4:gid:mvdC:pid:ACC54549.1:loc:3336:4311:strand:+ -            324   6.2e-45  152.4   0.0   1   1     5e-49     1e-44  151.6   0.0     2   120     8   124     7   125 0.98 MvdD pre-ATP grasp domain
+ATPgraspMvdD         PF21068.1    121 BGC0000594.1_ORF5:gid:mvdD:pid:ACC54550.1:loc:4346:5339:strand:+ -            330   1.4e-41  141.6   0.0   1   1   1.3e-45   2.7e-41  140.6   0.0     1   120     2   119     2   120 0.97 MvdD pre-ATP grasp domain
+Inhibitor_I10        PF12559.12    63 BGC0000594.1_ORF6:gid:mvdE:pid:ACC54551.1:loc:5455:5602:strand:+ -             48   2.6e-09   37.3   3.8   1   1   2.3e-11   4.7e-07   30.1   3.8    11    62    10    46     1    47 0.69 Serine endopeptidase inhibitors
+Inhibitor_I10        PF12559.12    63 BGC0000594.1_ORF7:gid:mvdF:pid:ACC54552.1:loc:5794:5947:strand:+ -             50   1.1e-10   41.7   1.3   1   1   4.5e-13   9.3e-09   35.6   1.3    11    63    10    49     1    49 0.73 Serine endopeptidase inhibitors
+adh_short_C2         PF13561.10   236 BGC0000594.1_ORF8:gid::pid:ACC54553.1:loc:6074:6812:strand:+ -            245   1.7e-22   80.4   0.3   1   1   1.9e-26     2e-22   80.2   0.3     5   236    16   243    13   243 0.84 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.29   195 BGC0000594.1_ORF8:gid::pid:ACC54553.1:loc:6074:6812:strand:+ -            245   5.7e-17   62.0   1.1   1   1   6.8e-21   7.1e-17   61.7   1.1     1   192     8   193     8   196 0.86 short chain dehydrogenase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000594.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000594.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000594.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:16:18 2024
+# [ok]

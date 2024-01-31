@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+BGC0001041.1_ORF19:gid::pid:ABP53505.1:loc:26858:30308:strand:+:945:1136          larrl-----DALVADLVAYQDLAYAREFVEFVEHVRRVEGRAG----PLTAAVAGNLYKLMAYKDEYEVARLSLDERLTHDIAAQF-GAGARYHYLLQPPVLRK-----LVRRKIRLGQWFRVVLRLLYALRRLRGSRLDVFGYTRVRRIERRLVANYRRTILAALSAANPDDP-ALVELASLPDMVRGFDEVKLANVT
+#=GR BGC0001041.1_ORF19:gid::pid:ABP53505.1:loc:26858:30308:strand:+:945:1136  PP 87765.....56689*************************5444....89*************************************.999*************4.....3579****************************************************777766654.679*********************
+BGC0000186.1_ORF1:gid::pid:ABC36202.1:loc:0:3513:strand:-:943:1142                ....v-DDRVESRAAYLAAYQDARYASRYRARVDAARAAG--ERIGDARLADAVAVNLFRLMACKDEYEVARLHTEPAFLDRIAAEF-GPGARVSFHLRAPLAGWLSRERGAQRAIRVGAGMLPALRMLAWLRRLRGTPFDVFGYLPHRRAERRLIAEYDALLDEVLPSVTAATADIALMLLDLPQTIRGYGEIKRRSIA
+#=GR BGC0000186.1_ORF1:gid::pid:ABC36202.1:loc:0:3513:strand:-:943:1142        PP ....5.67899*************************9998..5555569**************************************.999*************************************************************************************************************
+BGC0000145.1_ORF5:gid:salQ:pid:ABP73638.1:loc:4753:8203:strand:-:945:1136         larrl-----DALVADLVAYQDLAYAREFVEFVEHVRRVEGRAG----PLTAAVAGNLYKLMAYKDEYEVARLSLDERLTHDIAAQF-GAGARYHYLLQPPVLRK-----LVRRKIRLGQWFRVVLRLLYALRRLRGSRLDVFGYTRVRRIERRLVANYRRTILAALSAANPDDP-ALVELASLPDMVRGFDEVKLANVT
+#=GR BGC0000145.1_ORF5:gid:salQ:pid:ABP73638.1:loc:4753:8203:strand:-:945:1136 PP 87765.....56689*************************5444....89*************************************.999*************4.....3579****************************************************777766654.679*********************
+#=GC PP_cons                                                                      ......678977799************************9545555568**************************************.999*************6*****6789****************************************************888877776*789*********************
+#=GC RF                                                                           .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0001041.1_ORF19:gid::pid:ABP53505.1:loc:26858:30308:strand:+:945:1136          EYHRRQE-q.
+#=GR BGC0001041.1_ORF19:gid::pid:ABP53505.1:loc:26858:30308:strand:+:945:1136  PP ****987.5.
+BGC0000186.1_ORF1:gid::pid:ABC36202.1:loc:0:3513:strand:-:943:1142                EAALKR--re
+#=GR BGC0000186.1_ORF1:gid::pid:ABC36202.1:loc:0:3513:strand:-:943:1142        PP 998766..56
+BGC0000145.1_ORF5:gid:salQ:pid:ABP73638.1:loc:4753:8203:strand:-:945:1136         EYHRRQE-q.
+#=GR BGC0000145.1_ORF5:gid:salQ:pid:ABP73638.1:loc:4753:8203:strand:-:945:1136 PP ****987.5.
+#=GC PP_cons                                                                      **99887...
+#=GC RF                                                                           xxxxxxxx..
+//

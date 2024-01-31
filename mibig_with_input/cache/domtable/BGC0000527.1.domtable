@@ -1,0 +1,32 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HATPase_c            PF02518.30   111 BGC0000527.1_ORF1:gid:mrsK2:pid:CAB60253.1:loc:0:1440:strand:- -            479   4.6e-29  101.3   0.0   1   1   8.9e-33   9.2e-29  100.3   0.0     2   110   359   471   358   472 0.94 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HisKA                PF00512.29    66 BGC0000527.1_ORF1:gid:mrsK2:pid:CAB60253.1:loc:0:1440:strand:- -            479   4.4e-11   42.9   0.0   1   1   1.5e-14   1.6e-10   41.1   0.0     2    58   245   304   244   312 0.88 His Kinase A (phospho-acceptor) domain
+Response_reg         PF00072.28   111 BGC0000527.1_ORF2:gid:mrsR2:pid:CAB60254.1:loc:1436:2159:strand:- -            240   1.9e-26   92.6   0.0   1   1   2.5e-30   2.6e-26   92.2   0.0     1   111     8   118     8   118 0.98 Response regulator receiver domain
+Trans_reg_C          PF00486.32    77 BGC0000527.1_ORF2:gid:mrsR2:pid:CAB60254.1:loc:1436:2159:strand:- -            240   1.9e-25   88.9   0.0   1   1   3.6e-29   3.8e-25   88.0   0.0     1    77   155   230   155   230 0.96 Transcriptional regulatory protein, C terminal
+ABC_tran             PF00005.31   137 BGC0000527.1_ORF3:gid:mrsF:pid:CAB60255.1:loc:2401:3313:strand:+ -            303   6.8e-33  114.4   0.1   1   1   1.4e-36   1.5e-32  113.3   0.0     2   137    22   161    21   161 0.96 ABC transporter
+AAA_21               PF13304.10   304 BGC0000527.1_ORF3:gid:mrsF:pid:CAB60255.1:loc:2401:3313:strand:+ -            303   5.5e-14   53.0   2.5   1   1   2.9e-14     3e-10   40.7   0.1   237   303   132   195   103   196 0.90 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_4      PF12730.11   179 BGC0000527.1_ORF4:gid:mrsG:pid:CAB60256.2:loc:3309:4068:strand:+ -            252   8.4e-20   71.7  11.9   1   1   8.1e-24   8.4e-20   71.7  11.9     1   178     4   187     4   188 0.81 ABC-2 family transporter protein
+ABC2_membrane_2      PF12679.11   283 BGC0000527.1_ORF4:gid:mrsG:pid:CAB60256.2:loc:3309:4068:strand:+ -            252   1.1e-07   31.7  12.4   1   1     1e-11   1.1e-07   31.7  12.4    12   187    13   180     3   233 0.75 ABC-2 family transporter protein
+ABC2_membrane_4      PF12730.11   179 BGC0000527.1_ORF5:gid:mrsE:pid:CAB60257.1:loc:4084:4819:strand:+ -            244     2e-22   80.2  10.2   1   1   1.9e-26     2e-22   80.2  10.2     3   177     6   182     4   184 0.82 ABC-2 family transporter protein
+ABC2_membrane_2      PF12679.11   283 BGC0000527.1_ORF5:gid:mrsE:pid:CAB60257.1:loc:4084:4819:strand:+ -            244   1.9e-08   34.1  13.8   1   1   4.4e-11   4.6e-07   29.6  13.8    14   283    14   243     6   243 0.70 ABC-2 family transporter protein
+Trans_reg_C          PF00486.32    77 BGC0000527.1_ORF7:gid:mrsR1:pid:CAB60259.1:loc:5405:6047:strand:+ -            213   1.2e-12   47.9   0.0   1   1   1.6e-16   3.3e-12   46.5   0.0     4    77   126   195   122   195 0.91 Transcriptional regulatory protein, C terminal
+Flavoprotein         PF02441.23   162 BGC0000527.1_ORF8:gid:mrsD:pid:CAB60260.1:loc:6095:6680:strand:- -            194   1.1e-20   74.1   0.1   1   1   7.7e-25   1.6e-20   73.5   0.1     1   151     9   151     9   171 0.87 Flavoprotein
+DUF4135              PF13575.10   378 BGC0000527.1_ORF9:gid:mrsM:pid:CAB60261.1:loc:6891:10080:strand:+ -           1062  2.1e-114  382.9   0.0   1   1    3e-118  3.1e-114  382.3   0.0     1   377   211   585   211   586 0.97 Domain of unknown function (DUF4135)
+LANC_like            PF05147.17   350 BGC0000527.1_ORF9:gid:mrsM:pid:CAB60261.1:loc:6891:10080:strand:+ -           1062     1e-90  304.1   4.1   1   1   1.6e-94   1.7e-90  303.4   4.1     3   349   709  1052   707  1053 0.98 Lanthionine synthetase C-like protein
+Peptidase_C39        PF03412.19   133 BGC0000527.1_ORF10:gid:mrsT:pid:CAB60262.1:loc:10131:12324:strand:+ -            730   5.8e-42  142.9   0.1   1   1   4.3e-45   1.8e-41  141.3   0.1     2   132     5   136     4   137 0.96 Peptidase C39 family
+ABC_tran             PF00005.31   137 BGC0000527.1_ORF10:gid:mrsT:pid:CAB60262.1:loc:10131:12324:strand:+ -            730   4.6e-33  115.0   0.2   1   1   2.9e-36   1.2e-32  113.6   0.2     1   136   492   639   492   640 0.90 ABC transporter
+ABC_membrane         PF00664.27   274 BGC0000527.1_ORF10:gid:mrsT:pid:CAB60262.1:loc:10131:12324:strand:+ -            730   1.3e-32  113.7  25.9   1   1     5e-36   2.1e-32  113.1  25.9     3   268   163   425   161   431 0.98 ABC transporter transmembrane region
+Peptidase_C39_2      PF13529.10   143 BGC0000527.1_ORF10:gid:mrsT:pid:CAB60262.1:loc:10131:12324:strand:+ -            730     2e-09   38.3   0.1   1   1   1.5e-12   6.1e-09   36.8   0.0     3   143     5   110     3   110 0.93 Peptidase_C39 like family
+Peptidase_C70        PF12385.12   143 BGC0000527.1_ORF10:gid:mrsT:pid:CAB60262.1:loc:10131:12324:strand:+ -            730   4.2e-05   23.6   0.0   1   1   1.9e-08   7.9e-05   22.8   0.0     5   138     3   121     1   126 0.83 Papain-like cysteine protease AvrRpt2
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000527.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000527.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000527.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:21:14 2024
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acetyltransf_1       PF00583.29   116 BGC0000858.1_ORF1:gid:ectA:pid:ACB30326.1:loc:213:693:strand:+ -            159   1.9e-15   57.3   0.0   1   1   2.5e-19   2.6e-15   56.9   0.0    14   112    18   113     6   116 0.89 Acetyltransferase (GNAT) family
+Acetyltransf_7       PF13508.11    84 BGC0000858.1_ORF1:gid:ectA:pid:ACB30326.1:loc:213:693:strand:+ -            159   3.1e-08   34.1   0.0   1   1   4.1e-12   4.3e-08   33.6   0.0     4    67    35   101    32   115 0.70 Acetyltransferase (GNAT) domain
+Aminotran_3          PF00202.25   403 BGC0000858.1_ORF2:gid:ectB:pid:ACB30327.1:loc:689:1967:strand:+ -            425   8.9e-81  271.8   0.0   1   1   5.3e-85   1.1e-80  271.5   0.0     9   402    18   408    13   409 0.88 Aminotransferase class-III
+Ectoine_synth        PF06339.16   127 BGC0000858.1_ORF3:gid:ectC:pid:ACB30328.1:loc:1963:2371:strand:+ -            135   6.7e-58  194.7   0.0   1   1   1.1e-61   7.6e-58  194.5   0.0     1   124     1   126     1   129 0.98 Ectoine synthase
+Cupin_2              PF07883.15    70 BGC0000858.1_ORF3:gid:ectC:pid:ACB30328.1:loc:1963:2371:strand:+ -            135   2.4e-07   30.6   0.3   1   1   5.6e-11   3.9e-07   29.9   0.3    15    70    55   109    41   109 0.82 Cupin domain
+SSF                  PF00474.21   406 BGC0000858.1_ORF4:gid:ssf:pid:ACB30329.1:loc:2453:3827:strand:+ -            457   1.9e-50  172.1  26.5   1   1   1.4e-54   2.8e-50  171.5  26.5     1   406    14   406    14   406 0.90 Sodium:solute symporter family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000858.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000858.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000858.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:24:18 2024
+# [ok]

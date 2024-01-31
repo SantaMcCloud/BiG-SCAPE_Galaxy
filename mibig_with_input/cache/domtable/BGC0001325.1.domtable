@@ -1,0 +1,34 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Abhydrolase_3        PF07859.17   210 BGC0001325.1_ORF1:gid:PSCXE2:pid::loc:108527:109466:strand:+ -            313   2.5e-51  174.7   0.0   1   1     3e-55   3.1e-51  174.3   0.0     1   208    68   294    68   295 0.90 alpha/beta hydrolase fold
+BD-FAE               PF20434.2    215 BGC0001325.1_ORF1:gid:PSCXE2:pid::loc:108527:109466:strand:+ -            313   9.7e-11   41.8   0.0   1   1   2.5e-14   2.6e-10   40.4   0.0    10   111    62   172    56   183 0.73 BD-FAE
+Epimerase            PF01370.25   240 BGC0001325.1_ORF2:gid:PSSDR1:pid::loc:137133:139254:strand:- -            342   5.2e-19   68.8   0.0   1   1   3.6e-21   1.1e-17   64.5   0.0     1   178    24   223    24   270 0.77 NAD dependent epimerase/dehydratase family
+3Beta_HSD            PF01073.23   280 BGC0001325.1_ORF2:gid:PSSDR1:pid::loc:137133:139254:strand:- -            342   2.2e-15   56.6   0.0   1   1   1.4e-18   4.1e-15   55.7   0.0     2   136    26   165    25   204 0.87 3-beta hydroxysteroid dehydrogenase/isomerase family
+NAD_binding_4        PF07993.16   258 BGC0001325.1_ORF2:gid:PSSDR1:pid::loc:137133:139254:strand:- -            342   9.8e-12   44.7   0.0   1   1   6.3e-15   1.9e-11   43.8   0.0     1   210    26   224    26   242 0.76 Male sterility protein
+GDP_Man_Dehyd        PF16363.9    332 BGC0001325.1_ORF2:gid:PSSDR1:pid::loc:137133:139254:strand:- -            342   2.9e-10   40.3   0.0   1   1   4.5e-13   1.3e-09   38.1   0.0     2   130    26   146    25   164 0.86 GDP-mannose 4,6 dehydratase
+NAD_binding_10       PF13460.10   184 BGC0001325.1_ORF2:gid:PSSDR1:pid::loc:137133:139254:strand:- -            342   3.6e-08   33.7   0.0   1   1   1.9e-11   5.6e-08   33.1   0.0     1   102    28   149    28   167 0.76 NAD(P)H-binding
+NmrA                 PF05368.17   236 BGC0001325.1_ORF2:gid:PSSDR1:pid::loc:137133:139254:strand:- -            342   3.3e-07   30.2   0.0   1   1   2.8e-10   8.2e-07   28.9   0.0     1   102    24   144    24   159 0.75 NmrA-like family
+Polysacc_synt_2      PF02719.19   293 BGC0001325.1_ORF2:gid:PSSDR1:pid::loc:137133:139254:strand:- -            342   5.8e-05   22.6   0.0   1   1   2.8e-08   8.4e-05   22.1   0.0     1   155    24   172    24   181 0.79 Polysaccharide biosynthesis protein
+Abhydrolase_3        PF07859.17   210 BGC0001325.1_ORF3:gid:PSCXE1:pid::loc:159742:160696:strand:+ -            318   8.6e-51  172.9   0.0   1   1   9.9e-55     1e-50  172.6   0.0     1   208    68   294    68   296 0.91 alpha/beta hydrolase fold
+BD-FAE               PF20434.2    215 BGC0001325.1_ORF3:gid:PSCXE1:pid::loc:159742:160696:strand:+ -            318   4.7e-11   42.8   0.0   1   1     1e-14   1.1e-10   41.6   0.0     6   111    57   172    54   183 0.74 BD-FAE
+p450                 PF00067.26   462 BGC0001325.1_ORF4:gid:CYP82X1:pid::loc:182878:184661:strand:- -            541   8.4e-81  272.3   0.0   1   1   5.1e-85   1.1e-80  271.9   0.0     5   449    50   522    46   536 0.87 Cytochrome P450
+p450                 PF00067.26   462 BGC0001325.1_ORF5:gid:CYP82X2:pid::loc:190434:192329:strand:+ -            555   9.2e-85  285.3   0.0   1   1   5.5e-89   1.1e-84  285.0   0.0     3   448    57   532    55   545 0.91 Cytochrome P450
+Transferase          PF02458.19   434 BGC0001325.1_ORF6:gid:PSAT1:pid::loc:205229:206642:strand:+ -            471   3.9e-77  260.0   3.6   1   1   1.9e-80   3.9e-76  256.6   3.6     2   431     8   464     7   467 0.80 Transferase family
+p450                 PF00067.26   462 BGC0001325.1_ORF7:gid:CYP82Y1:pid::loc:237628:239477:strand:+ -            557     1e-83  281.9   0.0   1   1   6.2e-88   1.3e-83  281.5   0.0     5   445    62   534    58   549 0.90 Cytochrome P450
+Methyltransf_2       PF00891.22   210 BGC0001325.1_ORF8:gid:PSMT3:pid::loc:292452:293617:strand:+ -            335   1.1e-46  159.1   0.0   1   1   3.1e-50   3.3e-46  157.5   0.0     1   210   117   316   117   316 0.94 O-methyltransferase domain
+Dimerisation         PF08100.15    51 BGC0001325.1_ORF8:gid:PSMT3:pid::loc:292452:293617:strand:+ -            335   1.9e-14   53.6   0.2   1   1   4.7e-18   4.9e-14   52.3   0.2     2    51    27    74    26    74 0.97 Dimerisation domain
+p450                 PF00067.26   462 BGC0001325.1_ORF9:gid:CYP719A21:pid::loc:352820:354278:strand:- -            486   2.2e-79  267.6   0.0   1   1   1.2e-83   2.6e-79  267.4   0.0     1   453    38   472    38   482 0.90 Cytochrome P450
+Methyltransf_2       PF00891.22   210 BGC0001325.1_ORF10:gid:PSMT1:pid::loc:356124:358193:strand:+ -            374   3.5e-46  157.4   0.0   1   2   3.4e-28   3.6e-24   85.5   0.1     7   104   171   269   166   272 0.95 O-methyltransferase domain
+Methyltransf_2       PF00891.22   210 BGC0001325.1_ORF10:gid:PSMT1:pid::loc:356124:358193:strand:+ -            374   3.5e-46  157.4   0.0   2   2   3.7e-23   3.9e-19   69.0   0.0   131   209   273   355   270   356 0.85 O-methyltransferase domain
+Dimerisation         PF08100.15    51 BGC0001325.1_ORF10:gid:PSMT1:pid::loc:356124:358193:strand:+ -            374   1.1e-15   57.6   0.1   1   1     3e-19   3.1e-15   56.1   0.1     1    50    50   102    50   103 0.97 Dimerisation domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001325.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001325.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001325.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:34:02 2024
+# [ok]

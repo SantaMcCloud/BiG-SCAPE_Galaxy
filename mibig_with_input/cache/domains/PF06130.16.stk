@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1854:gid::pid::loc:2073573:2074203:strand:+:22:102          i-EVEASGRHVHLSREDVDKL-FGegytltklkdlsqpgqyaCKERVTITGP-.-KGS-IKNVVVLGPCRNETQVEISLTDGSTLGL.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1854:gid::pid::loc:2073573:2074203:strand:+:22:102  PP 6.69*****************.******************************...***.************************9996.
+GCA_000085225.1_ASM8522v1_genomic_ORF1854:gid::pid::loc:2073573:2074203:strand:+:131:197         k-GLMVAKRHIHMTPKDAEKFNVC..................DKEIVEAKV-MgQRPLTFDDVVIRVSDSFKTYMHIDYDEANACG-y
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1854:gid::pid::loc:2073573:2074203:strand:+:131:197 PP 5.899*******************..................*********.88*******************************9.6
+GCA_000085225.1_ASM8522v1_genomic_ORF2615:gid::pid::loc:2936161:2936731:strand:-:112:178         .EGVIVASRHIHMSNEDAAKFGVT..................DKQIVKVKT-SgPRALVFENVLVRASDSFNLEMHVDMEEGNAAGV.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2615:gid::pid::loc:2936161:2936731:strand:-:112:178 PP .69*********************..................*********.98*******************************96.
+GCA_000085225.1_ASM8522v1_genomic_ORF2615:gid::pid::loc:2936161:2936731:strand:-:3:83            l-PIALSNKHVHLSQADIDVL-FGagheltkfkplsqpgqyaCEEKVDLVGP-.-KGT-LKGVRVLGPARAHTQVEISLADGFPLGV.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2615:gid::pid::loc:2936161:2936731:strand:-:3:83    PP 9.5789***************.******************************...***.***********************99985.
+BGC0001055.1_ORF55:gid:pduL:pid:CAJ87621.1:loc:73111:73744:strand:+:22:101                       i-PLGVSSRHIHLSTADYLRL-FPeqpisekk.llmqpgqfaAEQVVTLEGP-.-KGK-LHNVRLLGPLRNASQVEISRTDARTLGI.
+#=GR BGC0001055.1_ORF55:gid:pduL:pid:CAJ87621.1:loc:73111:73744:strand:+:22:101               PP 6.789****************.**********.*******************...***.**************************97.
+BGC0001055.1_ORF55:gid:pduL:pid:CAJ87621.1:loc:73111:73744:strand:+:130:197                      s-GVIVAQRHIHMSPLDALIYGVT..................HGDKVAVAIKGdERRLIFENVAVRVSPDMRLEMHIDTDEANAAG-a
+#=GR BGC0001055.1_ORF55:gid:pduL:pid:CAJ87621.1:loc:73111:73744:strand:+:130:197              PP 6.8*********************..................*********66*******************************98.6
+#=GC PP_cons                                                                                     .6799*******************..................*********98.******************************996.
+#=GC RF                                                                                          .xxxxxxxxxxxxxxxxxxxxxxx..................xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

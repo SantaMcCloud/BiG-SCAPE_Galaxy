@@ -1,0 +1,28 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glyco_hydro_1        PF00232.22   453 BGC0000285.1_ORF1:gid::pid:AAL78049.1:loc:0:179:strand:+ -             58   1.5e-22   79.9   0.2   1   1   7.4e-27   1.5e-22   79.8   0.2   395   450     2    56     1    58 0.96 Glycosyl hydrolase family 1
+MFS_1                PF07690.20   347 BGC0000285.1_ORF2:gid::pid:AAL78050.1:loc:175:1405:strand:+ -            409   4.8e-27   95.0  58.7   1   2   1.5e-15   1.6e-11   44.0  26.0    22   222    42   250    17   258 0.72 Major Facilitator Superfamily
+MFS_1                PF07690.20   347 BGC0000285.1_ORF2:gid::pid:AAL78050.1:loc:175:1405:strand:+ -            409   4.8e-27   95.0  58.7   2   2   1.1e-18   1.2e-14   54.2  29.5     8   168   237   402   230   408 0.82 Major Facilitator Superfamily
+MFS_2                PF13347.10   427 BGC0000285.1_ORF2:gid::pid:AAL78050.1:loc:175:1405:strand:+ -            409   4.3e-15   55.4  21.4   1   1   7.2e-19   7.5e-15   54.6  21.4    33   385    54   386    52   404 0.75 MFS/sugar transport protein
+Glyoxalase           PF00903.29   121 BGC0000285.1_ORF3:gid::pid:AAL78051.1:loc:1496:2021:strand:- -            174   4.7e-12   46.6   0.1   1   1   7.8e-16   8.1e-12   45.8   0.1     8   119    59   169    54   171 0.88 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+HxlR                 PF01638.21    91 BGC0000285.1_ORF4:gid::pid:AAL78052.1:loc:2088:2757:strand:+ -            222   1.2e-24   86.2   0.0   1   1   7.9e-29   1.6e-24   85.7   0.0     1    87    18   104    18   108 0.97 HxlR-like helix-turn-helix
+Chal_sti_synt_C      PF02797.19   151 BGC0000285.1_ORF5:gid:rppA:pid:AAL78053.1:loc:3110:4214:strand:+ -            367   3.4e-17   63.0   0.0   1   1     1e-20   5.4e-17   62.4   0.0     4   145   209   342   206   348 0.84 Chalcone and stilbene synthases, C-terminal domain
+Chal_sti_synt_N      PF00195.23   225 BGC0000285.1_ORF5:gid:rppA:pid:AAL78053.1:loc:3110:4214:strand:+ -            367   1.3e-15   57.7   0.0   1   1   6.1e-19   3.2e-15   56.4   0.0    20   221     8   197     1   201 0.81 Chalcone and stilbene synthases, N-terminal domain
+FAE1_CUT1_RppA       PF08392.16   290 BGC0000285.1_ORF5:gid:rppA:pid:AAL78053.1:loc:3110:4214:strand:+ -            367   6.3e-15   55.5   0.0   1   1   1.7e-18   8.8e-15   55.0   0.0    26   196    17   190     9   201 0.77 FAE1/Type III polyketide synthase-like protein
+ACP_syn_III_C        PF08541.14    90 BGC0000285.1_ORF5:gid:rppA:pid:AAL78053.1:loc:3110:4214:strand:+ -            367   3.4e-13   49.8   0.0   1   1   2.5e-15   1.3e-11   44.7   0.0     3    86   256   342   254   346 0.90 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+p450                 PF00067.26   462 BGC0000285.1_ORF6:gid:rppB:pid:AAL78054.1:loc:4210:5416:strand:+ -            401   5.8e-27   94.8   0.0   1   1   4.8e-28   9.9e-24   84.1   0.0    37   431    36   370    23   382 0.82 Cytochrome P450
+Cupin_1              PF00190.26   151 BGC0000285.1_ORF7:gid::pid:AAL78055.1:loc:5451:5991:strand:+ -            179   5.7e-12   45.6   0.0   1   1   1.1e-15   7.5e-12   45.3   0.0    31   118    31   129    15   143 0.82 Cupin
+TetR_C_11            PF16859.9    113 BGC0000285.1_ORF8:gid::pid:AAL78056.1:loc:6671:7298:strand:+ -            208   7.7e-30  103.7   2.5   1   1   1.7e-33   1.7e-29  102.6   0.5     2   112    88   198    87   199 0.98 Tetracyclin repressor-like, C-terminal domain
+TetR_N               PF00440.27    47 BGC0000285.1_ORF8:gid::pid:AAL78056.1:loc:6671:7298:strand:+ -            208   8.7e-16   57.6   0.0   1   1   1.4e-19   1.5e-15   56.9   0.0     2    44    32    74    31    77 0.96 Bacterial regulatory proteins, tetR family
+Penicil_amidase      PF01804.22   675 BGC0000285.1_ORF9:gid::pid:AAL78057.1:loc:8155:11002:strand:- -            948  1.1e-113  381.8  11.0   1   1  1.5e-117  3.2e-113  380.3  11.0     1   674   120   936   120   937 0.82 Penicillin amidase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000285.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000285.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000285.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:20:50 2024
+# [ok]

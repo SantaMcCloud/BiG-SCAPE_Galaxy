@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+BGC0000213.1_ORF29:gid:colC14:pid:AIL50180.1:loc:31097:31835:strand:+:19:215         pwgeaadglpgaapaelpnvpgfvlsrfsplvaevagaclgdpgterdltagra---------.--------..-------------------------------GRTAIVLATTYGDTTTSDVATQRLVAGQVHSPLLFFQSVTTSILGHLTKRYGITGPISCISAGTDPAAEALQLADLLLDEEeVEQVLVIGVETAA
+#=GR BGC0000213.1_ORF29:gid:colC14:pid:AIL50180.1:loc:31097:31835:strand:+:19:215 PP *99999999999998888888888888888888888888888888777665544...................................................6778999********99999***********************************************************9999********9999
+BGC0000837.1_ORF4:gid::pid:AAW85339.1:loc:3208:3937:strand:+:27:240                  ......................................................WLEWRENNFtWPENEKA-..PVDKIPAMARRRMSSLSKLAVQTALTLAEENDIDYLVFSSQHGELTRTVALLEDILNGDDASPMAFSQSVHNTAAGLFTITAKKAIPVTSIAAGENTFHSAVVEAAAYLAENqNNKVLIIDFDEPL
+#=GR BGC0000837.1_ORF4:gid::pid:AAW85339.1:loc:3208:3937:strand:+:27:240          PP ......................................................9*******977777777...6***************************************************************************************************************99************
+BGC0000836.1_ORF17:gid::pid:AAN79664.1:loc:12746:13493:strand:-:31:246               ......................................................WQAWSRQPW.-AIDPAAPlaKLSELPMMTARRLSSGSKLAVECGLTMLRRHQPDAVLYTSRHGELERNYRIVHALATEQALSPTDFALSVHNSSVGNLTIVAKQPIVSSSLSAGRDSFQQGLCEVLSLLQAG.YQRVLMVDFDGFL
+#=GR BGC0000836.1_ORF17:gid::pid:AAN79664.1:loc:12746:13493:strand:-:31:246       PP ......................................................********9..555555557****************************************************************************************************************.*************
+#=GC PP_cons                                                                         ......................................................********9.76666665..8******************************9999*****************************************************************************.*************
+#=GC RF                                                                              ......................................................xxxxxxxxx.xxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx
+
+BGC0000213.1_ORF29:gid:colC14:pid:AIL50180.1:loc:31097:31835:strand:+:19:215         NERVDWVRERvgsarlfgplPQGDAAVALLLR--------------------------------------------------------------rwnadgsaglpaaept
+#=GR BGC0000213.1_ORF29:gid:colC14:pid:AIL50180.1:loc:31097:31835:strand:+:19:215 PP 88777766666666666555555556666665..............................................................56667788999999**
+BGC0000837.1_ORF4:gid::pid:AAW85339.1:loc:3208:3937:strand:+:27:240                  PSHYQEFEKQ..........NYQGYAVGLIMSAGDIFSLQWN-------------NKPTIKPSGLPHGLQCIANLVGSHSQWITESSSKQWVWN................
+#=GR BGC0000837.1_ORF4:gid::pid:AAW85339.1:loc:3208:3937:strand:+:27:240          PP **********..........**********************.............2345567789****************************6................
+BGC0000836.1_ORF17:gid::pid:AAN79664.1:loc:12746:13493:strand:-:31:246               PEFYHPQLPAe........mPTWPYAVALVIEAGDDWQCETQ-------------QAIAVNETTLPQSMLFLQHYLQNADAFSLPGERVQWRWS................
+#=GR BGC0000836.1_ORF17:gid::pid:AAN79664.1:loc:12746:13493:strand:-:31:246       PP *****998877........899*****************999.............3455677889****************************6................
+#=GC PP_cons                                                                         9999998888..........888889999998********99.............3445567889****************************6................
+#=GC RF                                                                              xxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx................
+//

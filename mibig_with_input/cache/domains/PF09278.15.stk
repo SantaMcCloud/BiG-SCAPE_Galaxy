@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+BGC0000259.1_ORF1:gid:cueR:pid:CAH55645.1:loc:167:575:strand:-:49:110                   ct-----LLRQARQVGFNLDKCRELV.ALFNDPARHSADVKARTLQKVAEIERHISELGEMRQRLLTL.
+#=GR BGC0000259.1_ORF1:gid:cueR:pid:CAH55645.1:loc:167:575:strand:-:49:110           PP *6.....679****************.**************************************875.
+BGC0000227.1_ORF14:gid:gra-orf20:pid:CAA09641.1:loc:16509:17100:strand:+:55:120         ..LRRISVIRVAQRMGIPLSTVAEALaELPEERTPTREDWARLSRRWRADLNERIEQLLALRDGLEDC.
+#=GR BGC0000227.1_ORF14:gid:gra-orf20:pid:CAA09641.1:loc:16509:17100:strand:+:55:120 PP ..79*************************************************************987.
+BGC0000262.1_ORF40:gid::pid:AHW57785.1:loc:42935:43388:strand:-:53:118                  ..LRRVAFIRASQRVGIALETIRDVLgMLPENRTPTEEDWAMVSHCWRKDLNTRIRRLEELRDELSNC.
+#=GR BGC0000262.1_ORF40:gid::pid:AHW57785.1:loc:42935:43388:strand:-:53:118          PP ..79*************************************************************876.
+BGC0000267.1_ORF20:gid:saqR1:pid:ACP19367.1:loc:20113:20602:strand:-:53:118             ..LRRVALIRIAQRVGVPLAKVAEVLaLLPEGRTPTRQDWKRMTECWQSDLDARLRQLQQLRDDFAD-c
+#=GR BGC0000267.1_ORF20:gid:saqR1:pid:ACP19367.1:loc:20113:20602:strand:-:53:118     PP ..79**********************778888******************************98665.6
+BGC0000413.1_ORF79:gid:soxR:pid:AAY93416.1:loc:126443:126917:strand:+:53:118            ..LRRVSLIKVAQRLGIPLAEIGQALaTLPADRAPTAADWQRLSEQWSRELDERIRQLSLLRERLNQC.
+#=GR BGC0000413.1_ORF79:gid:soxR:pid:AAY93416.1:loc:126443:126917:strand:+:53:118    PP ..79*************************************************************997.
+#=GC PP_cons                                                                            ..79***99*****************.99**********************************99876.
+#=GC RF                                                                                 ..xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

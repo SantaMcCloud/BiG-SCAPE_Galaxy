@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_008000775.1_ORF673:gid::pid:WP_147661802.1:loc:737956:739165:strand:+:26:162         .............................................ylpdqikhreqelimls--------------------KIFIKLIETPFRIS-RKVMIHGDVGIGKTAITRTFGRMLLLSAKKRNIKIKYVHINCRIEKSNFKILNQVLRKLNIPVPIRGfSPQDLITMLQDyLIKNEIYLVLVLDELNHIQNF--
+#=GR GCF_008000775.1_ORF673:gid::pid:WP_147661802.1:loc:737956:739165:strand:+:26:162 PP .............................................*9998887776666554....................55678899998877.89*************************************************************99975666766666651555666679********9876..
+BGC0000288.1_ORF9:gid::pid:BAJ19038.1:loc:11151:12435:strand:-:92:251                    grlirrrlsgntrkkndptragvmvsgwgnygktasvcsagavfedqwlrlhgalnpgalpg----------------------------------------------------------------TRDLHAPVVYVSTPVTATPKSLCASILGFFRAPTRKSA.TLPELVRQVAD.SLHDHGVKALVLDDISRLRMHRA
+#=GR BGC0000288.1_ORF9:gid::pid:BAJ19038.1:loc:11151:12435:strand:-:92:251            PP **999888888877776666655555555555555555555555544444444444333333................................................................333478********************************.***********.*****************996666
+#=GC PP_cons                                                                             ..................................................................................55678899998877.89***************************677799*******************************9.88888888888.778888899********997666
+#=GC RF                                                                                  ..............................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_008000775.1_ORF673:gid::pid:WP_147661802.1:loc:737956:739165:strand:+:26:162         -----------------------------------------------------dtnfd
+#=GR GCF_008000775.1_ORF673:gid::pid:WP_147661802.1:loc:737956:739165:strand:+:26:162 PP .....................................................5689*
+BGC0000288.1_ORF9:gid::pid:BAJ19038.1:loc:11151:12435:strand:-:92:251                    DD-QDVLDLMRAFM-SLDVTLILTGV---------------------------ni...
+#=GR BGC0000288.1_ORF9:gid::pid:BAJ19038.1:loc:11151:12435:strand:-:92:251            PP 55.57899999987.58888888886...........................69...
+#=GC PP_cons                                                                             55.57899999987.58888888886................................
+#=GC RF                                                                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....
+//

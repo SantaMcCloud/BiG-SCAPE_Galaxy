@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+BGC0000290.1_ORF3:gid::pid:AAM80529.1:loc:4150:4963:strand:-:3:253               gmc----WIASYPKAGGHWLRCMLTSYVTGEPVETW--PGI---.QAGVPHLEGL-----LRDGEAPSADPDEQVLLATHFTADRpVLRFYRESTAKVVCLIRNPRDAMLSLMRMK---G...........IPpEDVEA.CR.......KIAETFIAdegfssvrIWAGEGSWPENIRSWTDsv..heSFPNAAVLAVRY
+#=GR BGC0000290.1_ORF3:gid::pid:AAM80529.1:loc:4150:4963:strand:-:3:253       PP 985....9******************7776666744..445....6689****94.....56777888888888999999998761455556899*****************9877...4...........33044455.78.......88888888676665543333478888888888877..7799**********
+BGC0001183.1_ORF58:gid::pid:AGC09526.1:loc:139449:140379:strand:-:35:294         ..e-GDIVVSSPAKAGTTWVQMICAL-------LVFQTPELPKPlSALSPWLDQL--FTPQDQMYALLAEQEHRRVIKTHVPLDG.LP---LDPRVSYLVVNRHPLDRALSMYHQVANVRaewlrafnsdqD-.-S---.-EkysgrarEYLLNWCRage.sdgwEQDVAAAELHHPLDAWN......RRDEPNVRLLHY
+#=GR BGC0001183.1_ORF58:gid::pid:AGC09526.1:loc:139449:140379:strand:-:35:294 PP ..7.59*****************999.......4566677777779*******94..577889999*******************.*7...58***********************9999888876554321...2.....1334544555555555788.8888777777778888889**......************
+BGC0001178.1_ORF25:gid::pid:AGS77324.1:loc:52734:53574:strand:+:3:229            ris----WIVSYPKSGNTWLRSMLTTYIGGAPAE--SLRRLQDLiPDIHPMLA---------EGDVPAWDDGGSALVKTHFLPDVrVLRLYREVSRKAVYIVRNPRDVLLSSLRAMHISH...........D-.--DTAeCR.......RIAEGFIAhesffadrGRIGIGSWTESLRMWTStdivrdSFPDIDVLTVRY
+#=GR BGC0001178.1_ORF25:gid::pid:AGS77324.1:loc:52734:53574:strand:+:3:229    PP 985....9*****************966555555..33445344466677666.........5777788888889999997555416677788999****************98886665...........3....333333.......33333333334444559****************9*999999**********
+#=GC PP_cons                                                                     ....59*9*****************9666666654545556566.7789999994..577677888888888999999**98877.766667899*****************99888876...........23.43444.54.......56666665........66677888999999999......9***********
+#=GC RF                                                                          ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...........xx.xxxxx.xx.......xxxxxxxx........xxxxxxxxxxxxxxxxx......xxxxxxxxxxxx
+
+BGC0000290.1_ORF3:gid::pid:AAM80529.1:loc:4150:4963:strand:-:3:253               EDLRKDPEGELWKVVDFL..ELG-GRDGVADAVANCTLERMREMEERS------------------------------------------------kllglettglmtrggkqlpfvgkggqrkslkfmgddiekayadll
+#=GR BGC0000290.1_ORF3:gid::pid:AAM80529.1:loc:4150:4963:strand:-:3:253       PP ******************..***.77777777**********987665................................................4445555555556667888888888999999999999999*****
+BGC0001183.1_ORF58:gid::pid:AGC09526.1:loc:139449:140379:strand:-:35:294         EDLCADLEGQMAALAEWL..GITVDPAVWPELVRAATFDEMKGRAEHLAPD--KEILADPAEFFRSGRSGGARGVLTDADLDAYHE----------rvgalapke....................................
+#=GR BGC0001183.1_ORF58:gid::pid:AGC09526.1:loc:139449:140379:strand:-:35:294 PP ******************..***********************98888655..56699************9999999988888776..........56788999*....................................
+BGC0001178.1_ORF25:gid::pid:AGS77324.1:loc:52734:53574:strand:+:3:229            EDMRSDPAGKLTEIVEFLdlGRPIVEHDIQGAVEGSTLDRMREMEKKDK-----------------------------------------------vnrkppplsrwaaak..............................
+#=GR BGC0001178.1_ORF25:gid::pid:AGS77324.1:loc:52734:53574:strand:+:3:229    PP *****************73367777****************99877654...............................................567899999******..............................
+#=GC PP_cons                                                                     *****************9..999989999999**********988766555..56699************9999999988888776.......................................................
+#=GC RF                                                                          xxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.............................................
+//

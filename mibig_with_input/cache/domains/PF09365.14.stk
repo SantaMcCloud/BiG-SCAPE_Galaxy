@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000376.1_ORF9:gid:fmoF:pid:BAP16690.1:loc:13560:14217:strand:+:9:201          .EAFDFYKELAEDNSTS.FWHRNRDRYEQaVREPMADLVAELSPEFGEIR-----------MLRPQRDTRASNDKSPYKTYQGALVDLE----PGLGYWLHLDADGLRATGRYYSRAPQEMAALRAVV.aEEKGGELQSLV---DGLEGLgHT.VGGVALQTRPRGVPADHPRVRLLRHRTLDIGRSCDRTMAGRPS.AA
+#=GR BGC0000376.1_ORF9:gid:fmoF:pid:BAP16690.1:loc:13560:14217:strand:+:9:201  PP .689*************.*****************************776...........99**********************8433....679********************************.8899********...444434255.9999**********************************99999.**
+BGC0001368.1_ORF21:gid::pid:WP_051700119.1:loc:30548:31238:strand:-:9:210         s-ALRLYEDLAADNSKEaWRLRHRERYERdVRAPMDELAAELGTFFEEWAG-----PGAVQVLGPVRDTRMSHDKSPYKTYQGAYLDL----LPCLGLWVHLDRDGLYASGRWYPYAGAEVARYRAAVeeEDGGTELAAIT--GRLAE-Q.GFvLGGDRLKSRPRGVPADHPRLDLLRHRKIDAGRRHGPAAGLHTPrAG
+#=GR BGC0001368.1_ORF21:gid::pid:WP_051700119.1:loc:30548:31238:strand:-:9:210 PP 7.68899*********76999*********************999998873.....34678999*********************852....3569********777666666677789*********6555578888888..34444.4.34589**********************************99999999**
+#=GC PP_cons                                                                      .67899**********8.***********.************999997773.....3467899**********************8433...3569********98888888888899**********..67789999999..3444434.44.89***********************************999999.**
+#=GC RF                                                                           .xxxxxxxxxxxxxxxx.xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxx.xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx
+
+BGC0000376.1_ORF9:gid:fmoF:pid:BAP16690.1:loc:13560:14217:strand:+:9:201          GWVAGTWRELRPTLDW
+#=GR BGC0000376.1_ORF9:gid:fmoF:pid:BAP16690.1:loc:13560:14217:strand:+:9:201  PP ************9998
+BGC0001368.1_ORF21:gid::pid:WP_051700119.1:loc:30548:31238:strand:-:9:210         EFVRETWLLVRPLLDW
+#=GR BGC0001368.1_ORF21:gid::pid:WP_051700119.1:loc:30548:31238:strand:-:9:210 PP *************998
+#=GC PP_cons                                                                      *************998
+#=GC RF                                                                           xxxxxxxxxxxxxxxx
+//

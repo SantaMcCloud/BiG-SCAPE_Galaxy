@@ -1,0 +1,46 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="247.3" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="237.3" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>wA (ANIA_08209)
+Conidial yellow pigment biosynthesis polyketide synthase (PKS)(EC 2.3.1.-) [Source:UniProtKB/Swiss-Prot;Acc:Q03149]</title>
+			<polygon class="wA (ANIA_08209)
+Conidial yellow pigment biosynthesis polyketide synthase (PKS)(EC 2.3.1.-) [Source:UniProtKB/Swiss-Prot;Acc:Q03149]" points="236,25 44,25 44,10 14,40 44,70 44,55 236,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<rect class="PF00975" x="35" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(69,76,223)" stroke="rgb(55,60,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="52" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="64" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="113" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(132,93,193)" stroke="rgb(105,74,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="161" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="173" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SAT (PF16073)
+"Starter unit:ACP transacylase in aflatoxin biosynthesis"</title>
+				<rect class="PF16073" x="212" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(77,185,114)" stroke="rgb(61,148,91)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

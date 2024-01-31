@@ -1,0 +1,30 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Resolvase            PF00239.25   146 BGC0000509.1_ORF1:gid::pid:AFN69429.1:loc:4195:4729:strand:+ -            177   5.5e-26   91.6   3.6   1   1   4.9e-24   3.4e-20   72.8   0.0     1    84     2    75     2    78 0.95 Resolvase, N terminal domain
+HTH_7                PF02796.19    45 BGC0000509.1_ORF1:gid::pid:AFN69429.1:loc:4195:4729:strand:+ -            177   1.7e-12   47.5   1.7   1   1   2.9e-16     2e-12   47.2   0.2     1    44   122   173   122   174 0.89 Helix-turn-helix domain of resolvase
+HTH_23               PF13384.10    50 BGC0000509.1_ORF1:gid::pid:AFN69429.1:loc:4195:4729:strand:+ -            177   5.7e-06   26.2   0.1   1   1     2e-09   1.4e-05   25.0   0.1     9    39   142   172   134   175 0.92 Homeodomain-like domain
+adh_short_C2         PF13561.10   236 BGC0000509.1_ORF2:gid:elxO:pid:AFN69430.1:loc:4942:5689:strand:- -            248   1.6e-60  204.9   0.0   1   1   3.4e-64   1.8e-60  204.7   0.0     6   235    12   245     9   246 0.98 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.29   195 BGC0000509.1_ORF2:gid:elxO:pid:AFN69430.1:loc:4942:5689:strand:- -            248   1.3e-55  188.1   0.1   1   1   3.1e-59   1.6e-55  187.8   0.1     1   190     3   193     3   197 0.97 short chain dehydrogenase
+KR                   PF08659.14   180 BGC0000509.1_ORF2:gid:elxO:pid:AFN69430.1:loc:4942:5689:strand:- -            248   2.6e-13   50.5   0.0   1   1     1e-16   5.4e-13   49.4   0.0     3   153     5   156     4   169 0.85 KR domain
+Epimerase            PF01370.25   240 BGC0000509.1_ORF2:gid:elxO:pid:AFN69430.1:loc:4942:5689:strand:- -            248   9.3e-06   25.4   0.0   1   1   3.3e-09   1.7e-05   24.5   0.0     1   115     5   139     5   174 0.74 NAD dependent epimerase/dehydratase family
+ABC_membrane         PF00664.27   274 BGC0000509.1_ORF3:gid:elxT:pid:AFN69431.1:loc:5707:7429:strand:- -            573   6.3e-47  160.7  20.8   1   1   8.9e-51   9.3e-47  160.2  20.8     2   273    24   290    23   291 0.98 ABC transporter transmembrane region
+ABC_tran             PF00005.31   137 BGC0000509.1_ORF3:gid:elxT:pid:AFN69431.1:loc:5707:7429:strand:- -            573   3.2e-32  112.2   0.2   1   1   6.5e-36   6.8e-32  111.2   0.0     1   137   350   500   350   500 0.87 ABC transporter
+Peptidase_S8         PF00082.26   283 BGC0000509.1_ORF5:gid:elxP:pid:AFN69433.1:loc:7792:8728:strand:+ -            311   8.2e-24   84.6   0.0   1   1   4.7e-28   9.8e-24   84.4   0.0     2   261    33   281    32   298 0.88 Subtilase family
+Lant_dehydr_N        PF04738.17   649 BGC0000509.1_ORF6:gid:elxB:pid:AFN69434.1:loc:8714:11675:strand:+ -            986   4.7e-80  269.7   0.0   1   1   5.9e-84   6.1e-80  269.3   0.0     9   649    49   666    42   666 0.89 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.10   255 BGC0000509.1_ORF6:gid:elxB:pid:AFN69434.1:loc:8714:11675:strand:+ -            986   6.3e-38  131.6   0.1   1   1   1.3e-41   1.3e-37  130.5   0.1     1   254   732   978   732   979 0.80 Lantibiotic biosynthesis dehydratase C-term
+LANC_like            PF05147.17   350 BGC0000509.1_ORF7:gid:elxC:pid:AFN69435.1:loc:11692:12901:strand:+ -            402   1.4e-57  195.1  13.2   1   1   8.5e-62   1.8e-57  194.7  13.2     4   336    33   387    30   397 0.91 Lanthionine synthetase C-like protein
+Rce1-like            PF02517.20    93 BGC0000509.1_ORF9:gid:elx2:pid:AFN69437.1:loc:13182:13908:strand:+ -            241   5.5e-13   49.2   8.6   1   1   2.7e-17   5.5e-13   49.2   8.6     4    92   140   231   137   232 0.92 Type II CAAX prenyl endopeptidase Rce1-like
+ABC2_membrane_4      PF12730.11   179 BGC0000509.1_ORF11:gid:orfA:pid:AFN69439.1:loc:14475:15261:strand:- -            261   1.1e-16   61.6  23.0   1   1   1.5e-20   1.1e-16   61.6  23.0     1   178     8   188     8   190 0.78 ABC-2 family transporter protein
+ABC2_membrane_2      PF12679.11   283 BGC0000509.1_ORF11:gid:orfA:pid:AFN69439.1:loc:14475:15261:strand:- -            261   2.6e-12   46.8  25.9   1   1   1.2e-15   8.2e-12   45.2  25.9    30   282    36   260     7   261 0.70 ABC-2 family transporter protein
+ABC2_membrane        PF01061.28   211 BGC0000509.1_ORF11:gid:orfA:pid:AFN69439.1:loc:14475:15261:strand:- -            261   1.9e-08   34.3  25.3   1   1   2.8e-12   1.9e-08   34.3  25.3     5   202     7   214     4   221 0.74 ABC-2 type transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000509.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000509.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000509.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:47:57 2024
+# [ok]

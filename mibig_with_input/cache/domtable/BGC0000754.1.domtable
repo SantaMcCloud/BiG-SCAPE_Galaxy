@@ -1,0 +1,23 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_2      PF00535.30   168 BGC0000754.1_ORF2:gid:acbD:pid:ACY25501.1:loc:1912:4807:strand:+ -            964   6.1e-58  195.7   4.3   1   2   8.6e-28   4.5e-24   85.5   0.1     1   132   161   321   161   357 0.80 Glycosyl transferase family 2
+Glycos_transf_2      PF00535.30   168 BGC0000754.1_ORF2:gid:acbD:pid:ACY25501.1:loc:1912:4807:strand:+ -            964   6.1e-58  195.7   4.3   2   2   2.6e-35   1.4e-31  109.9   0.1     1   159   443   593   443   599 0.85 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.10   230 BGC0000754.1_ORF2:gid:acbD:pid:ACY25501.1:loc:1912:4807:strand:+ -            964   1.9e-26   93.5   0.0   1   2   3.2e-14   1.7e-10   41.4   0.0     4   198   160   381   158   399 0.86 Glycosyltransferase like family 2
+Glyco_tranf_2_3      PF13641.10   230 BGC0000754.1_ORF2:gid:acbD:pid:ACY25501.1:loc:1912:4807:strand:+ -            964   1.9e-26   93.5   0.0   2   2   1.7e-16   8.9e-13   48.8   0.0     4   160   442   595   440   600 0.88 Glycosyltransferase like family 2
+Glyco_transf_7C      PF02709.18    78 BGC0000754.1_ORF2:gid:acbD:pid:ACY25501.1:loc:1912:4807:strand:+ -            964   7.3e-09   35.4   1.9   1   1     4e-12   2.1e-08   34.0   1.9    12    67   334   389   323   396 0.86 N-terminal domain of galactosyltransferase
+UDPG_MGDP_dh_N       PF03721.18   187 BGC0000754.1_ORF5:gid:acbC:pid:ACY25504.1:loc:5991:7164:strand:+ -            390   3.8e-32  111.5   0.1   1   1     9e-36   6.3e-32  110.9   0.1     2   181     3   169     2   176 0.90 UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain
+UDPG_MGDP_dh         PF00984.23    94 BGC0000754.1_ORF5:gid:acbC:pid:ACY25504.1:loc:5991:7164:strand:+ -            390   8.3e-28   96.6   0.0   1   1   2.2e-31   1.5e-27   95.7   0.0     2    93   193   282   192   283 0.97 UDP-glucose/GDP-mannose dehydrogenase family, central domain
+UDPG_MGDP_dh_C       PF03720.19   103 BGC0000754.1_ORF5:gid:acbC:pid:ACY25504.1:loc:5991:7164:strand:+ -            390   1.7e-12   47.8   0.3   1   1   1.5e-13   1.1e-09   38.8   0.0     2    80   302   376   301   387 0.88 UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain
+Glycos_transf_2      PF00535.30   168 BGC0000754.1_ORF6:gid:acbB:pid:ACY25505.1:loc:7114:8587:strand:+ -            490   2.5e-28   99.3   0.0   1   1   4.7e-32   4.9e-28   98.4   0.0     1   131   222   353   222   380 0.88 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.10   230 BGC0000754.1_ORF6:gid:acbB:pid:ACY25505.1:loc:7114:8587:strand:+ -            490   3.1e-13   50.3   0.0   1   1   4.3e-17   4.5e-13   49.8   0.0     4   126   221   338   219   390 0.87 Glycosyltransferase like family 2
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000754.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000754.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000754.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:27:40 2024
+# [ok]

@@ -1,0 +1,233 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="876.0333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="866.0333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="10,10 14,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+putative regulatory protein</title>
+			<polygon class="
+putative regulatory protein" points="120,25 50,25 50,10 20,40 50,70 50,55 120,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPR_12 (PF13424)
+"Tetratricopeptide repeat"</title>
+				<polygon class="PF13424" points="24,40 28,36 28,44" stroke-linejoin="round" width="7" height="24" fill="rgb(55,182,155)" stroke="rgb(44,145,124)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPR_12 (PF13424)
+"Tetratricopeptide repeat"</title>
+				<polygon class="PF13424" points="33,31 36,28 40,28 40,52 36,52 33,49" stroke-linejoin="round" width="7" height="24" fill="rgb(55,182,155)" stroke="rgb(44,145,124)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NB-ARC (PF00931)
+"NB-ARC domain"</title>
+				<rect class="PF00931" x="69" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(199,170,84)" stroke="rgb(159,136,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BTAD (PF03704)
+"Bacterial transcriptional activator domain"</title>
+				<rect class="PF03704" x="96" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(174,224,58)" stroke="rgb(139,179,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<rect class="PF00486" x="111" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(69,185,116)" stroke="rgb(55,148,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="123,40 144,10 144,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M15 (PF01427)
+"D-ala-D-ala dipeptidase"</title>
+				<polygon class="PF01427" points="127,40 135,28 140,28 140,52 135,52" stroke-linejoin="round" width="16" height="24" fill="rgb(171,201,58)" stroke="rgb(136,160,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative secreted esterase</title>
+			<polygon class="
+putative secreted esterase" points="153,25 170,25 170,10 200,40 170,70 170,55 153,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CHAP (PF05257)
+"CHAP domain"</title>
+				<rect class="PF05257" x="160" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(71,182,166)" stroke="rgb(56,145,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FG-GAP_3 (PF13517)
+"FG-GAP-like repeat"</title>
+				<polygon class="PF13517" points="179,28 184,28 185,29 185,51 184,52 179,52" stroke-linejoin="round" width="6" height="24" fill="rgb(193,139,80)" stroke="rgb(154,111,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="208,40 221,10 221,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="229,25 238,25 238,10 268,40 238,70 238,55 229,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAA_hydrolase (PF01557)
+"Fumarylacetoacetate (FAA) hydrolase family"</title>
+				<polygon class="PF01557" points="244,28 252,28 264,40 264,40 252,52 244,52" stroke-linejoin="round" width="20" height="24" fill="rgb(73,102,192)" stroke="rgb(58,81,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rebG
+putative glycosyltransferase</title>
+			<polygon class="rebG
+putative glycosyltransferase" points="313,25 301,25 301,10 271,40 301,70 301,55 313,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EryCIII-like_C (PF06722)
+"Erythromycin biosynthesis protein CIII-like, C-terminal domain"</title>
+				<polygon class="PF06722" points="275,40 285,30 285,50" stroke-linejoin="round" width="14" height="24" fill="rgb(48,103,191)" stroke="rgb(38,82,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rebO
+putative L-tryptophan oxidase</title>
+			<polygon class="rebO
+putative L-tryptophan oxidase" points="320,25 337,25 337,10 367,40 337,70 337,55 320,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="321,28 351,28 363,40 351,52 321,52" stroke-linejoin="round" width="45" height="24" fill="rgb(95,189,207)" stroke="rgb(76,151,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rebD
+hypothetical protein</title>
+			<polygon class="rebD
+hypothetical protein" points="367,25 438,25 438,10 468,40 438,70 438,55 367,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ferritin-like (PF12902)
+"Ferritin-like"</title>
+				<rect class="PF12902" x="427" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(183,62,62)" stroke="rgb(146,49,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rebC
+putative monooxygenase</title>
+			<polygon class="rebC
+putative monooxygenase" points="469,25 492,25 492,10 522,40 492,70 492,55 469,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="469" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(215,66,156)" stroke="rgb(172,52,124)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Rng_hyd_C (PF21274)
+"Aromatic-ring hydroxylase, C-terminal"</title>
+				<polygon class="PF21274" points="511,34 517,40 511,46" stroke-linejoin="round" width="10" height="24" fill="rgb(153,227,106)" stroke="rgb(122,181,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rebP
+putative P450 protein</title>
+			<polygon class="rebP
+putative P450 protein" points="521,25 530,25 530,10 560,40 530,70 530,55 521,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="538,28 544,28 547,31 547,49 544,52 538,52" stroke-linejoin="round" width="9" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="547,31 556,40 547,49" stroke-linejoin="round" width="11" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rebM
+putative methyltransferase</title>
+			<polygon class="rebM
+putative methyltransferase" points="562,10 589,40 562,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="568,28 573,28 577,31 577,49 573,52 568,52" stroke-linejoin="round" width="9" height="24" fill="rgb(201,85,64)" stroke="rgb(160,68,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rebR
+putative regulatory protein</title>
+			<polygon class="rebR
+putative regulatory protein" points="600,25 662,25 662,10 692,40 662,70 662,55 600,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_16 (PF13191)
+"AAA ATPase domain"</title>
+				<rect class="PF13191" x="603" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(88,106,197)" stroke="rgb(70,84,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="686,38 688,40 686,42" stroke-linejoin="round" width="5" height="24" fill="rgb(225,67,110)" stroke="rgb(180,53,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rebF
+putative flavin reductase</title>
+			<polygon class="rebF
+putative flavin reductase" points="693,10 710,40 693,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavin_Reduct (PF01613)
+"Flavin reductase like domain"</title>
+				<polygon class="PF01613" points="695,28 699,28 706,40 699,52 695,52" stroke-linejoin="round" width="14" height="24" fill="rgb(223,100,227)" stroke="rgb(178,80,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rebU
+putative integral membrane transporter</title>
+			<polygon class="rebU
+putative integral membrane transporter" points="710,25 722,25 722,10 752,40 722,70 722,55 710,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_H_Exchanger (PF00999)
+"Sodium/hydrogen exchanger family"</title>
+				<polygon class="PF00999" points="711,28 736,28 748,40 736,52 711,52" stroke-linejoin="round" width="38" height="24" fill="rgb(95,122,202)" stroke="rgb(76,97,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rebH
+putative tryptophan halogenase</title>
+			<polygon class="rebH
+putative tryptophan halogenase" points="752,25 775,25 775,10 805,40 775,70 775,55 752,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<polygon class="PF04820" points="752,28 788,28 800,40 800,40 788,52 752,52" stroke-linejoin="round" width="48" height="24" fill="rgb(175,201,66)" stroke="rgb(139,160,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rebT
+putative integral membrane transporter</title>
+			<polygon class="rebT
+putative integral membrane transporter" points="854,25 837,25 837,10 807,40 837,70 837,55 854,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="813,38 823,28 852,28 852,52 823,52 813,42" stroke-linejoin="round" width="39" height="24" fill="rgb(228,207,98)" stroke="rgb(182,165,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative regulatory protein</title>
+			<polygon class="
+putative regulatory protein" points="857,10 865,40 857,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MarR_2 (PF12802)
+"MarR family"</title>
+				<polygon class="PF12802" points="861,37 861,40 861,43" stroke-linejoin="round" width="3" height="24" fill="rgb(139,211,68)" stroke="rgb(111,168,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

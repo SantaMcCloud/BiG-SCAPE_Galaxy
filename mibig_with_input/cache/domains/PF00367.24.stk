@@ -1,0 +1,35 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF382:gid::pid::loc:432243:434106:strand:+:8:41               .i-DIIEQVGGSKNILALEHCSTRLRFKLIDRSKVN..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF382:gid::pid::loc:432243:434106:strand:+:8:41       PP .8.7*******************************8..
+GCA_000085225.1_ASM8522v1_genomic_ORF439:gid::pid::loc:498348:500223:strand:+:9:41               .n-ELIEIIG-ENNIISITHCATRLRVMVKDREIIN..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF439:gid::pid::loc:498348:500223:strand:+:9:41       PP .7.7899999.**********************998..
+GCA_000085225.1_ASM8522v1_genomic_ORF785:gid::pid::loc:918279:920157:strand:+:8:41               ..QEILLNVGGKENVNEVTHCMTRLRFKVKSASKVN..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF785:gid::pid::loc:918279:920157:strand:+:8:41       PP ..69*******************************8..
+GCA_000085225.1_ASM8522v1_genomic_ORF1224:gid::pid::loc:1408934:1410512:strand:+:451:483         .s--IIKYLGGKENIEDITNCITRLRVVVKDMSKVD..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1224:gid::pid::loc:1408934:1410512:strand:+:451:483 PP .6..9******************************9..
+GCA_000085225.1_ASM8522v1_genomic_ORF2445:gid::pid::loc:2732940:2734491:strand:-:442:475         .e-NIIDGLGGKENINTVENCITRLRVNVKDESKIN..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2445:gid::pid::loc:2732940:2734491:strand:-:442:475 PP .5.8******************************98..
+GCA_000085225.1_ASM8522v1_genomic_ORF2599:gid::pid::loc:2914315:2916388:strand:-:429:462         .s-EILIALGNKDNLKSLDACITRLRLVVNDINKVD..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2599:gid::pid::loc:2914315:2916388:strand:-:429:462 PP .7.8*******************************9..
+GCA_000085225.1_ASM8522v1_genomic_ORF2916:gid::pid::loc:3309545:3311123:strand:-:444:477         ..QQMISALGGQSNILSLDNCVTRLRLKLQDVSLIN..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2916:gid::pid::loc:3309545:3311123:strand:-:444:477 PP ..689*****************************98..
+GCA_000085225.1_ASM8522v1_genomic_ORF2946:gid::pid::loc:3345435:3347001:strand:-:449:481         .s-EYIKLVGGAENVVDVTNCATRLRLTLKDDSII-..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2946:gid::pid::loc:3345435:3347001:strand:-:449:481 PP .7.78***************************975...
+GCA_000085225.1_ASM8522v1_genomic_ORF2981:gid::pid::loc:3390669:3392097:strand:-:394:427         ..KQIIKNCGGYENIVTLNNCMTRLRLEVKDATIL-n.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2981:gid::pid::loc:3390669:3392097:strand:-:394:427 PP ..79***************************9876.5.
+GCA_000085225.1_ASM8522v1_genomic_ORF2988:gid::pid::loc:3401486:3403403:strand:-:9:42            ..KEIIENVGGKDNISSLSHCITRLRFKLKDESIAN..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2988:gid::pid::loc:3401486:3403403:strand:-:9:42    PP ..79*****************************987..
+GCA_000085225.1_ASM8522v1_genomic_ORF2992:gid::pid::loc:3407874:3409527:strand:-:474:504         .h-SIIEGLGGSNNIKNVTNCATRLRVELNS-----id
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2992:gid::pid::loc:3407874:3409527:strand:-:474:504 PP .7.69************************86.....67
+GCA_000085225.1_ASM8522v1_genomic_ORF3009:gid::pid::loc:3429974:3431846:strand:-:8:41            .e-NIIKLIGGKENIKSVAHCVTRLRLTLNDRSIA-q.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3009:gid::pid::loc:3429974:3431846:strand:-:8:41    PP .5.8***************************9975.8.
+GCA_000085225.1_ASM8522v1_genomic_ORF3026:gid::pid::loc:3450087:3452016:strand:-:9:42            ..QEIVNNVGGKENISGLVHCITRLRFTLKDESIAN..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3026:gid::pid::loc:3450087:3452016:strand:-:9:42    PP ..79*****************************987..
+GCA_000085225.1_ASM8522v1_genomic_ORF3028:gid::pid::loc:3453319:3454720:strand:-:10:43           ql--IIDGLGGKDNIIDLTHCMTRLRFILKDEKKVN..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3028:gid::pid::loc:3453319:3454720:strand:-:10:43   PP 75..9******************************8..
+BGC0000469.1_ORF14:gid::pid:AFV25477.1:loc:15756:15990:strand:-:6:39                             ..EKIVAGLGGLDNIEEVEGCITRLRTEVHDASLVD..
+#=GR BGC0000469.1_ORF14:gid::pid:AFV25477.1:loc:15756:15990:strand:-:6:39                     PP ..69*******************************9..
+#=GC PP_cons                                                                                     ..689****************************998..
+#=GC RF                                                                                          ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

@@ -1,0 +1,31 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.32   382 BGC0001161.1_ORF1:gid::pid:AHH34187.1:loc:0:2454:strand:+ -            817   5.6e-69  233.0   0.0   1   1   5.8e-65   6.1e-61  206.5   0.0     5   328    39   366    35   397 0.84 AMP-binding enzyme
+PP-binding           PF00550.29    67 BGC0001161.1_ORF1:gid::pid:AHH34187.1:loc:0:2454:strand:+ -            817   4.3e-17   62.3   0.0   1   1   1.7e-20   1.8e-16   60.3   0.0     2    67   662   727   661   727 0.97 Phosphopantetheine attachment site
+ketoacyl-synt        PF00109.30   252 BGC0001161.1_ORF2:gid::pid:AHH34186.1:loc:2465:9161:strand:+ -           2231  6.6e-102  340.6   0.0   1   1  9.7e-105  1.3e-101  339.6   0.0     2   252    38   286    37   286 0.98 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.14   180 BGC0001161.1_ORF2:gid::pid:AHH34186.1:loc:2465:9161:strand:+ -           2231   8.6e-68  228.0   0.0   1   1   1.7e-70   2.3e-67  226.6   0.0     1   180  1234  1412  1234  1412 0.99 KR domain
+Acyl_transf_1        PF00698.25   319 BGC0001161.1_ORF2:gid::pid:AHH34186.1:loc:2465:9161:strand:+ -           2231   2.3e-63  214.8   0.4   1   1     3e-65   4.1e-62  210.7   0.0     1   312   596   911   596   918 0.93 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0001161.1_ORF2:gid::pid:AHH34186.1:loc:2465:9161:strand:+ -           2231   5.6e-39  133.0   1.7   1   2   3.4e-26   4.7e-23   81.7   0.1     1    75   294   367   294   373 0.96 Beta-ketoacyl synthase, C-terminal domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0001161.1_ORF2:gid::pid:AHH34186.1:loc:2465:9161:strand:+ -           2231   5.6e-39  133.0   1.7   2   2   3.3e-16   4.5e-13   49.4   0.3    71   118   390   437   386   438 0.92 Beta-ketoacyl synthase, C-terminal domain
+Sulfotransfer_3      PF13469.10   216 BGC0001161.1_ORF2:gid::pid:AHH34186.1:loc:2465:9161:strand:+ -           2231     2e-31  110.1   0.0   1   1     4e-34   5.5e-31  108.7   0.0     2   216  1630  1840  1629  1840 0.78 Sulfotransferase family
+Abhydrolase_1        PF00561.24   245 BGC0001161.1_ORF2:gid::pid:AHH34186.1:loc:2465:9161:strand:+ -           2231     1e-27   97.6   0.2   1   1   1.1e-29   1.6e-26   93.7   0.0     2   245  1955  2210  1954  2210 0.80 alpha/beta hydrolase fold
+Hydrolase_4          PF12146.12   237 BGC0001161.1_ORF2:gid::pid:AHH34186.1:loc:2465:9161:strand:+ -           2231   7.3e-22   78.0   0.2   1   1   1.6e-23   2.3e-20   73.1   0.0     6   120  1955  2078  1952  2197 0.83 Serine aminopeptidase, S33
+KAsynt_C_assoc       PF16197.9    111 BGC0001161.1_ORF2:gid::pid:AHH34186.1:loc:2465:9161:strand:+ -           2231   6.8e-19   68.5   0.0   1   1   4.3e-21     6e-18   65.5   0.0     1   107   440   557   440   560 0.82 Ketoacyl-synthetase C-terminal extension
+Abhydrolase_6        PF12697.11   217 BGC0001161.1_ORF2:gid::pid:AHH34186.1:loc:2465:9161:strand:+ -           2231   9.8e-18   65.8   3.2   1   1   1.5e-20   2.1e-17   64.7   1.7     1   216  1956  2215  1956  2216 0.54 Alpha/beta hydrolase family
+adh_short            PF00106.29   195 BGC0001161.1_ORF2:gid::pid:AHH34186.1:loc:2465:9161:strand:+ -           2231   9.6e-14   51.5   0.0   1   1     2e-16   2.8e-13   50.0   0.0     3   161  1236  1393  1234  1401 0.91 short chain dehydrogenase
+PP-binding           PF00550.29    67 BGC0001161.1_ORF2:gid::pid:AHH34186.1:loc:2465:9161:strand:+ -           2231   2.9e-13   50.0   0.0   1   1   5.5e-16   7.7e-13   48.7   0.0     1    67  1513  1578  1513  1578 0.96 Phosphopantetheine attachment site
+Beta-ketacyl_N       PF21394.1    170 BGC0001161.1_ORF2:gid::pid:AHH34186.1:loc:2465:9161:strand:+ -           2231   2.3e-12   47.0   0.0   1   1   5.8e-15     8e-12   45.3   0.0    12   114  1014  1117   997  1130 0.79 Beta-ketoacyl synthase-like, N-terminal
+adh_short_C2         PF13561.10   236 BGC0001161.1_ORF2:gid::pid:AHH34186.1:loc:2465:9161:strand:+ -           2231   2.5e-10   40.6   0.0   1   1     6e-13   8.3e-10   38.8   0.0     7   156  1244  1394  1240  1396 0.89 Enoyl-(Acyl carrier protein) reductase
+Sulfotransfer_1      PF00685.31   255 BGC0001161.1_ORF2:gid::pid:AHH34186.1:loc:2465:9161:strand:+ -           2231   2.2e-08   34.0   0.0   1   1   3.7e-11   5.1e-08   32.8   0.0     4   191  1630  1846  1627  1854 0.64 Sulfotransferase domain
+Thiolase_N           PF00108.27   260 BGC0001161.1_ORF2:gid::pid:AHH34186.1:loc:2465:9161:strand:+ -           2231   5.5e-07   29.4   0.3   1   1     9e-10   1.3e-06   28.2   0.3    71   115   196   238   173   247 0.85 Thiolase, N-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001161.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001161.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001161.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:42:12 2024
+# [ok]

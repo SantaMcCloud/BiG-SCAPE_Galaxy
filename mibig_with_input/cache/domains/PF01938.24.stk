@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1927:gid::pid::loc:2149683:2151120:strand:-:415:476         .ykd-----RIVEVLVEGRSknNENKFAGRTRQNKLVNFEGGNDDlIGKLVMVKITEPRTFSLNGILV
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1927:gid::pid::loc:2149683:2151120:strand:-:415:476 PP .776.....689*********9999****************************************987
+GCA_000085225.1_ASM8522v1_genomic_ORF3289:gid::pid::loc:3752089:3753448:strand:-:4:58            knem-------YIVDIVDIG..QGGVGVGKYN-GITVFVEGGLI-.-HDKVKVRINKVKKNYAEGDIV
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3289:gid::pid::loc:3752089:3753448:strand:-:4:58    PP 9866.......568999999..9*********.********877...*******************97
+GCF_000011105.1_ORF1029:gid::pid:WP_010885190.1:loc:1005035:1005293:strand:-:27:84               ....PVKVGERYKVKIESMG..KGGDGIARIK-GFVIFVPHTKV-.-GDEVEIVINSVKRRFAFAEVI
+#=GR GCF_000011105.1_ORF1029:gid::pid:WP_010885190.1:loc:1005035:1005293:strand:-:27:84       PP ....579*************..**********.***********...*******************96
+GCF_000011105.1_ORF1752:gid::pid:WP_048053502.1:loc:1631186:1632464:strand:+:366:424             ....RKYIGKKVKVLIHGEG..KKGNVDAVTMNYKHIILPEGRK-.-GEFREARVKNAASTYLLGEII
+#=GR GCF_000011105.1_ORF1752:gid::pid:WP_048053502.1:loc:1631186:1632464:strand:+:366:424     PP ....68**************..**********************...******************985
+#=GC PP_cons                                                                                     ....689**9999*******..*******************999*.*******************986
+#=GC RF                                                                                          ....xxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx
+//

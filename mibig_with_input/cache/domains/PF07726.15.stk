@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCF_008000775.1_ORF2007:gid::pid:WP_147663092.1:loc:2208919:2209876:strand:+:46:176         .HILLEGVPGLAKTVMAKTFAEALGISFNRIQFTPDLLPSDCTGSMVFDQSKGDFVIRKGPLFANIVLADEINRTAPKTQAALLEAMGEKQVTIEGQTYTLEKPFQVVATQNPIEQEGTYPLPEAQLDRFIF
+#=GR GCF_008000775.1_ORF2007:gid::pid:WP_147663092.1:loc:2208919:2209876:strand:+:46:176 PP .9********************************************************************************************************************************85
+BGC0000380.1_ORF34:gid::pid:ADZ25014.1:loc:72675:73602:strand:-:32:162                      .HVLIEDVPGVGKTTLARALAKAVGGELRRVQFTSDLLPSDVLGVSVFDQRLGQFVFRQGPIFANVLLADEINRASPRTQSALLEAMNEGQVSIEGTATPLPEPFFVLATQNPQDFAGTFPLPESQLDRFMV
+#=GR BGC0000380.1_ORF34:gid::pid:ADZ25014.1:loc:72675:73602:strand:-:32:162              PP .9********************************************************************************************************************************96
+GCF_000011105.1_ORF297:gid::pid:WP_010884423.1:loc:299430:300384:strand:+:35:165            n-ILFEDYPGLGKTLLAKAFAKILGLKFKRIQFTPDLLPADIIGTKVWKPEKGAFEVVKGPIFTNILLADEINRAPPKTQSALLEAMEERQVTIEGETFKLERPFFIIATQNPLELEGTYPLPEAQLDRFLV
+#=GR GCF_000011105.1_ORF297:gid::pid:WP_010884423.1:loc:299430:300384:strand:+:35:165    PP 7.799*****************************************************************************************************************************95
+GCF_000011105.1_ORF350:gid::pid:WP_048053107.1:loc:348185:349115:strand:+:37:167            .HVMIEGVPGVAKTTIAKSFAQVLGLKFSRIQLTPDLLPADILGTVYYDQSDGLWKIKKGPIFANVVLADEINRAQPKTQSALLEAMQERQVTIEGRTFPLEKPFMVIATKNPIEFEGVYNLPEAQVDRFML
+#=GR GCF_000011105.1_ORF350:gid::pid:WP_048053107.1:loc:348185:349115:strand:+:37:167    PP .9********************************************************************************************************************************97
+GCF_000011105.1_ORF719:gid::pid:WP_010884868.1:loc:684081:685026:strand:-:37:167            .HILIEDLPGLAKTLMAKSFAKALGLEFKRVQFTPDLLPSDILGVNVFNQKTLEFEFKKGPVFTNILLADEINRAPPKTQSALLEAMQERQVTIEGVTYKLPKPFIVIATQNPIEQEGTYPLPEAQLDRFLV
+#=GR GCF_000011105.1_ORF719:gid::pid:WP_010884868.1:loc:684081:685026:strand:-:37:167    PP .9********************************************************************************************************************************95
+#=GC PP_cons                                                                                .99*******************************************************************************************************************************96
+#=GC RF                                                                                     .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

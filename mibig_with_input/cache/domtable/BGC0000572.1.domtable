@@ -1,0 +1,16 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Transglut_core3      PF13471.10   117 BGC0000572.1_ORF2:gid::pid:AHI79402.1:loc:218:944:strand:+ -            241     7e-25   87.4   0.2   1   1   5.5e-29   1.1e-24   86.7   0.2     6   116   115   225   111   226 0.90 Transglutaminase-like superfamily
+Asn_synthase         PF00733.25   354 BGC0000572.1_ORF3:gid::pid:AHI77932.1:loc:1020:2628:strand:+ -            535   9.5e-17   61.9   0.3   1   1   1.4e-20   2.8e-16   60.3   0.3     5   330   161   498   158   514 0.73 Asparagine synthase
+ABC_tran             PF00005.31   137 BGC0000572.1_ORF4:gid::pid:AHI77484.1:loc:2746:4516:strand:+ -            589     9e-24   84.9   0.0   1   1   6.7e-28   1.4e-23   84.3   0.0     2   137   364   510   363   510 0.91 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000572.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000572.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000572.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:53:25 2024
+# [ok]

@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+BGC0001055.1_ORF18:gid:int:pid:CAJ87584.1:loc:15313:16576:strand:+:3:88         .LTDAKIRILK-PSDKpfKVSDSHGLYLRVkPGGSRHWYLKYRiSGKESRIALGAYPAISLSDARQQREGIRKILALNINPVQQRAA-e
+#=GR BGC0001055.1_ORF18:gid:int:pid:CAJ87584.1:loc:15313:16576:strand:+:3:88 PP .9*******99.998889*************99**********88***************************************987.5
+BGC0001133.1_ORF9:gid::pid:CBJ79895.1:loc:5462:5735:strand:+:1:39               m---------------..------------.------------.------LSLGTYPEVPLAEARKRTAGCRSMIADGINPSENRKQK.
+#=GR BGC0001133.1_ORF9:gid::pid:CBJ79895.1:loc:5462:5735:strand:+:1:39       PP 6.................................................789********************************986.
+BGC0001133.1_ORF15:gid:intS:pid:CBJ79901.1:loc:8771:9986:strand:-:3:88          .LTDMAIKRAK-PKEKsyMLADGNGLSLLVeTNGSKGWRYRYQfTGKTKMISLGIYPVVTLTEARAKRDEARKQVANGINPSEARKAE.
+#=GR BGC0001133.1_ORF15:gid:intS:pid:CBJ79901.1:loc:8771:9986:strand:-:3:88  PP .9********9.887668*************99**********88************99**************************986.
+BGC0000972.1_ORF1:gid:intP4:pid:CAJ76281.1:loc:468:1740:strand:+:3:88           .LNDAKIRSLK-PTDKpfKVSDSHGLYLLVkPGGSRLWYLKYRiNGKESRIALGAYPAVSLSDARQQREGIRKMLALNINPAQQRAA-e
+#=GR BGC0000972.1_ORF1:gid:intP4:pid:CAJ76281.1:loc:468:1740:strand:+:3:88   PP .89******99.998889*************99**********99***************************************987.5
+#=GC PP_cons                                                                    .89******99.9987..************.99**********.8*****9**********************************986.
+#=GC RF                                                                         .xxxxxxxxxxxxxxx..xxxxxxxxxxxx.xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

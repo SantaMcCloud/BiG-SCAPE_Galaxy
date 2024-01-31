@@ -1,0 +1,29 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+F-box-like           PF12937.11    47 BGC0001118.1_ORF1:gid::pid:EAL84398.1:loc:0:1400:strand:+ -            447   3.2e-07   30.2   0.3   1   1   8.1e-11   8.4e-07   28.9   0.3     3    44     6    46     4    48 0.90 F-box-like
+F-box                PF00646.37    43 BGC0001118.1_ORF1:gid::pid:EAL84398.1:loc:0:1400:strand:+ -            447   3.9e-05   23.6   1.7   1   1   5.1e-09   5.3e-05   23.2   0.1     4    36     7    39     4    44 0.93 F-box domain
+ketoacyl-synt        PF00109.30   252 BGC0001118.1_ORF2:gid::pid:EAL84397.1:loc:1654:7152:strand:- -           1775   5.9e-73  245.8   0.0   1   1   2.4e-76     1e-72  245.0   0.0     2   252   392   642   391   642 0.97 Beta-ketoacyl synthase, N-terminal domain
+SAT                  PF16073.9    239 BGC0001118.1_ORF2:gid::pid:EAL84397.1:loc:1654:7152:strand:- -           1775   1.4e-45  155.9   0.0   1   1   9.7e-49     4e-45  154.5   0.0     8   236    22   254    18   256 0.92 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Acyl_transf_1        PF00698.25   319 BGC0001118.1_ORF2:gid::pid:EAL84397.1:loc:1654:7152:strand:- -           1775   6.8e-36  124.5   0.0   1   1   3.2e-39   1.3e-35  123.6   0.0     2   318   921  1241   920  1242 0.88 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0001118.1_ORF2:gid::pid:EAL84397.1:loc:1654:7152:strand:- -           1775   8.2e-34  116.4   0.2   1   1   4.5e-37   1.9e-33  115.2   0.2     2   118   651   768   650   769 0.96 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.29    67 BGC0001118.1_ORF2:gid::pid:EAL84397.1:loc:1654:7152:strand:- -           1775   3.2e-10   40.3   0.5   1   1   1.7e-13   6.9e-10   39.2   0.5     5    67  1709  1771  1705  1771 0.96 Phosphopantetheine attachment site
+Lactamase_B          PF00753.31   196 BGC0001118.1_ORF3:gid::pid:EAL84396.1:loc:7516:8523:strand:- -            315   1.7e-22   80.5   1.1   1   1   4.8e-26   9.9e-22   78.0   1.1     5   196    49   207    46   207 0.95 Metallo-beta-lactamase superfamily
+Anthrone_oxy         PF08592.15   106 BGC0001118.1_ORF4:gid::pid:EBA27176.1:loc:8835:9462:strand:+ -            181   6.3e-23   81.2   0.0   1   1   5.2e-27   1.1e-22   80.5   0.0     1   106    52   168    52   168 0.91 Anthrone oxygenase
+DIOX_N               PF14226.10   118 BGC0001118.1_ORF5:gid::pid:EAL84395.2:loc:9767:10892:strand:- -            337   2.2e-29  102.7   0.0   1   1   3.1e-33   3.2e-29  102.1   0.0     2   117     8   131     7   132 0.93 non-haem dioxygenase in morphine synthesis N-terminal
+2OG-FeII_Oxy         PF03171.24   101 BGC0001118.1_ORF5:gid::pid:EAL84395.2:loc:9767:10892:strand:- -            337     7e-28   97.1   0.0   1   1   2.3e-31   2.4e-27   95.4   0.0     7   100   183   281   179   282 0.91 2OG-Fe(II) oxygenase superfamily
+zf-met2              PF12907.11    38 BGC0001118.1_ORF6:gid::pid:EBA27175.1:loc:11566:11910:strand:+ -             78   4.1e-19   68.6   2.3   1   1   6.6e-23   6.8e-19   67.9   2.3     1    37    36    71    36    72 0.98 Zinc-binding
+SERF-like_N          PF04419.18    38 BGC0001118.1_ORF6:gid::pid:EBA27175.1:loc:11566:11910:strand:+ -             78   5.1e-06   27.5   8.9   1   1   8.2e-10   8.5e-06   26.8   8.9     1    37     1    33     1    34 0.96 Small EDRK-rich factor 1/2-like, N-terminal
+AA_permease          PF00324.25   470 BGC0001118.1_ORF7:gid::pid:EAL84394.2:loc:12354:14620:strand:- -            559     1e-70  239.0  33.2   1   1   3.6e-74   3.7e-70  237.1  33.2     4   460     1   503     1   509 0.91 Amino acid permease
+AA_permease_2        PF13520.10   427 BGC0001118.1_ORF7:gid::pid:EAL84394.2:loc:12354:14620:strand:- -            559   4.4e-17   62.3  33.1   1   1   1.9e-20     2e-16   60.1  32.6     9   404     2   469     1   493 0.74 Amino acid permease
+MFS_1                PF07690.20   347 BGC0001118.1_ORF9:gid::pid:EAL84392.2:loc:19482:21391:strand:- -            513   2.5e-24   86.0  46.6   1   1   8.1e-27   1.7e-22   80.0  24.3     2   345    46   401    42   402 0.79 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001118.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001118.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001118.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:22:06 2024
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Amidohydro_2         PF04909.18   286 BGC0001121.1_ORF1:gid::pid:CBF73507.1:loc:119:1182:strand:- -            331   5.1e-39  134.9   0.8   1   1     3e-43   6.3e-39  134.6   0.8    50   285    65   324    46   325 0.94 Amidohydrolase
+Tyrosinase           PF00264.24   214 BGC0001121.1_ORF2:gid::pid:CBF73509.1:loc:1551:2726:strand:+ -            369   5.8e-49  167.6   2.9   1   1   3.6e-53   7.4e-49  167.2   2.9     1   213    94   327    94   328 0.96 Common central domain of tyrosinase
+OrsD                 PF12013.12   114 BGC0001121.1_ORF3:gid::pid:CBF73511.1:loc:3246:4752:strand:- -            501   2.1e-30  105.7   0.0   1   1   2.2e-34   4.6e-30  104.6   0.0     2   114    11   112    10   112 0.96 Orsellinic acid/F9775 biosynthesis cluster protein D
+ADH_N                PF08240.16   109 BGC0001121.1_ORF4:gid::pid:CBF73513.1:loc:5305:6408:strand:+ -            348   1.5e-11   44.3   0.6   1   1   2.4e-14   2.5e-10   40.3   0.4     1    63    28    89    28    95 0.94 Alcohol dehydrogenase GroES-like domain
+ADH_zinc_N           PF00107.30   129 BGC0001121.1_ORF4:gid::pid:CBF73513.1:loc:5305:6408:strand:+ -            348   3.1e-11   43.5   1.6   1   1   4.2e-15   4.4e-11   43.0   0.5     2    90   183   272   182   295 0.81 Zinc-binding dehydrogenase
+Glyco_hydro_3_C      PF01915.26   204 BGC0001121.1_ORF5:gid::pid:CBF73514.1:loc:7366:9908:strand:- -            812   3.2e-50  171.1   0.1   1   1   8.3e-54   5.7e-50  170.3   0.1     1   204   415   675   415   675 0.91 Glycosyl hydrolase family 3 C-terminal domain
+Fn3-like             PF14310.10    71 BGC0001121.1_ORF5:gid::pid:CBF73514.1:loc:7366:9908:strand:- -            812   3.5e-26   91.3   0.4   1   1   1.1e-29   7.7e-26   90.2   0.4     1    71   728   797   728   797 0.99 Fibronectin type III-like domain
+Glyco_hydro_3        PF00933.25   316 BGC0001121.1_ORF5:gid::pid:CBF73514.1:loc:7366:9908:strand:- -            812   2.3e-18   66.9   0.0   1   2   9.1e-12   6.3e-08   32.7   0.0    71   175    76   183    48   193 0.84 Glycosyl hydrolase family 3 N terminal domain
+Glyco_hydro_3        PF00933.25   316 BGC0001121.1_ORF5:gid::pid:CBF73514.1:loc:7366:9908:strand:- -            812   2.3e-18   66.9   0.0   2   2   1.5e-11     1e-07   32.0   0.0   187   256   261   326   245   368 0.83 Glycosyl hydrolase family 3 N terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001121.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001121.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001121.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:50:29 2024
+# [ok]

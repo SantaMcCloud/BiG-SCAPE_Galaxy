@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCF_008000775.1_ORF901:gid::pid:WP_147662022.1:loc:985973:986945:strand:-:155:190         .gyqlfppas--------.KTLNASCSCPD---...QAVPCKHIAATILY--ta
+#=GR GCF_008000775.1_ORF901:gid::pid:WP_147662022.1:loc:985973:986945:strand:-:155:190 PP .*98877665.........56789******......**********9987..68
+BGC0000202.1_ORF6:gid:azicU2:pid:ADB02875.1:loc:6766:8161:strand:-:424:461                ..........YQVRFTGT.---DASCTCAWWRDyrgTRGKCKHVLAAEISR-g.
+#=GR BGC0000202.1_ORF6:gid:azicU2:pid:ADB02875.1:loc:6766:8161:strand:-:424:461        PP ..........66666755....9******9965799***********9986.6.
+BGC0000273.1_ORF17:gid:stfC:pid:CAJ42329.1:loc:15423:15987:strand:-:106:145               dlrrekigva--VALD--.-DMDAACDCRT---...RRRPCVHVLATLYTL-s.
+#=GR BGC0000273.1_ORF17:gid:stfC:pid:CAJ42329.1:loc:15423:15987:strand:-:106:145       PP ****999976..4444....79********......***********9975.8.
+BGC0000199.1_ORF20:gid:arm20:pid:AHA81989.1:loc:20040:20604:strand:+:109:144              hrdigiavep--------.DERSAACDCRT---...RRRPCVHILATIYT--l.
+#=GR BGC0000199.1_ORF20:gid:arm20:pid:AHA81989.1:loc:20040:20604:strand:+:109:144      PP 9988876554.........577899*****......**********9986..6.
+BGC0001073.1_ORF38:gid::pid:AFJ52711.1:loc:47036:48338:strand:+:147:183                   .....dagvr----LLPGfGDLEPECDCPSWD-...--HPCRHAAALAYQ--aa
+#=GR BGC0001073.1_ORF38:gid::pid:AFJ52711.1:loc:47036:48338:strand:+:147:183           PP .....**955....5555778899*******8......*********997..58
+#=GC PP_cons                                                                              ..........66555555.67899******975...**********99876...
+#=GC RF                                                                                   ..........xxxxxxxx.xxxxxxxxxxxxxx...xxxxxxxxxxxxxxxx..
+//

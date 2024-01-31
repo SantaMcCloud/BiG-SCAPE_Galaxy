@@ -1,0 +1,27 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.31   137 BGC0000736.1_ORF1:gid:cpxA:pid:AAF08240.1:loc:477:1125:strand:- -            215     2e-18   67.6   0.0   1   1   2.9e-22   6.1e-18   66.0   0.0     1   135    21   149    21   151 0.75 ABC transporter
+ABC2_membrane        PF01061.28   211 BGC0000736.1_ORF2:gid:cpxB:pid:AAF08241.1:loc:1121:1919:strand:- -            265   1.1e-16   61.3  22.6   1   1   7.2e-21   1.5e-16   60.8  22.6     3   211    20   227    18   227 0.89 ABC-2 type transporter
+Poly_export          PF02563.20    77 BGC0000736.1_ORF4:gid:cpxD:pid:AAF08243.1:loc:3093:4278:strand:- -            394   1.5e-15   57.3   0.4   1   1     5e-19     1e-14   54.6   0.1     8    76    86   173    82   174 0.92 Polysaccharide biosynthesis/export protein
+Glyco_trans_1_2      PF13524.10    92 BGC0000736.1_ORF8:gid::pid:AAF08247.1:loc:7280:9401:strand:- -            706   5.6e-11   42.7   0.0   1   1   3.9e-14     4e-10   40.0   0.0     3    91   401   491   399   492 0.86 Glycosyl transferases group 1
+DUF3880              PF12996.11    78 BGC0000736.1_ORF8:gid::pid:AAF08247.1:loc:7280:9401:strand:- -            706     2e-06   28.0   0.1   1   1   6.3e-10   6.5e-06   26.4   0.1     1    77   261   334   261   335 0.88 DUF based on E. rectale Gene description (DUF3880)
+UDPG_MGDP_dh_N       PF03721.18   187 BGC0000736.1_ORF9:gid:wecB:pid:AAF08248.1:loc:9404:10676:strand:- -            423   1.8e-61  207.2   0.4   1   1   3.1e-64   1.3e-60  204.4   0.0     2   183     6   190     5   193 0.95 UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain
+UDPG_MGDP_dh         PF00984.23    94 BGC0000736.1_ORF9:gid:wecB:pid:AAF08248.1:loc:9404:10676:strand:- -            423   3.6e-28   97.7   0.0   1   1   1.6e-31   6.9e-28   96.8   0.0     1    93   208   295   208   296 0.98 UDP-glucose/GDP-mannose dehydrogenase family, central domain
+UDPG_MGDP_dh_C       PF03720.19   103 BGC0000736.1_ORF9:gid:wecB:pid:AAF08248.1:loc:9404:10676:strand:- -            423   4.5e-21   75.4   0.2   1   1   3.8e-24   1.6e-20   73.6   0.1     1   101   326   422   326   423 0.91 UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain
+NAD_binding_2        PF03446.19   161 BGC0000736.1_ORF9:gid:wecB:pid:AAF08248.1:loc:9404:10676:strand:- -            423   7.8e-07   29.5   0.3   1   1   1.3e-08   5.6e-05   23.4   0.0     1   109     6   137     6   142 0.75 NAD binding domain of 6-phosphogluconate dehydrogenase
+Epimerase_2          PF02350.23   347 BGC0000736.1_ORF10:gid:wecC:pid:AAF08249.1:loc:10690:11809:strand:- -            372  6.7e-119  397.0   0.0   1   1    4e-123  8.4e-119  396.7   0.0     6   345    25   367    22   369 0.97 UDP-N-acetylglucosamine 2-epimerase
+Capsule_synth        PF05159.18   310 BGC0000736.1_ORF11:gid:phyA:pid:AAF08250.1:loc:12041:14132:strand:+ -            696     7e-96  321.5   0.0   1   3   3.1e-57   6.4e-53  180.4   0.0    21   310    62   309    49   309 0.91 Capsule polysaccharide biosynthesis protein
+Capsule_synth        PF05159.18   310 BGC0000736.1_ORF11:gid:phyA:pid:AAF08250.1:loc:12041:14132:strand:+ -            696     7e-96  321.5   0.0   2   3   9.9e-13   2.1e-08   34.2   0.0    18    81   398   472   385   481 0.88 Capsule polysaccharide biosynthesis protein
+Capsule_synth        PF05159.18   310 BGC0000736.1_ORF11:gid:phyA:pid:AAF08250.1:loc:12041:14132:strand:+ -            696     7e-96  321.5   0.0   3   3   2.9e-32     6e-28   98.4   0.0   116   310   464   640   460   640 0.85 Capsule polysaccharide biosynthesis protein
+Capsule_synth        PF05159.18   310 BGC0000736.1_ORF12:gid:phyB:pid:AAF08251.1:loc:14154:15214:strand:+ -            353   3.7e-85  286.3   0.0   1   1   2.1e-89   4.4e-85  286.1   0.0     2   271    85   353    84   353 0.97 Capsule polysaccharide biosynthesis protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000736.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000736.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000736.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:44:12 2024
+# [ok]

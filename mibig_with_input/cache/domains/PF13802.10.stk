@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2956:gid::pid::loc:3356857:3358936:strand:-:17:204         .l-LRIEAWGKNSLRIR.-SFVDQNFVDENYALNEKPKLNKDDITINKNEDGSAIIKNGKIKA-VLDHRDRITFYNDKNEILLKEYIRLRAVKHDDGGEdvgtieitkdfnstlKLKSREYRPSYsgefeVTTRFESEPSEKIFGMGQyQHKFLDLKNTVLELAQRN---SQ--------ISVPFYISSL---GYGLLWN
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2956:gid::pid::loc:3356857:3358936:strand:-:17:204 PP .8.68899999******..78888899**************************9999999777.888999*****6666666666666666666444447**********999955555555555666679*****************9999********9999999...33........69********...*******
+BGC0001093.1_ORF18:gid::pid:AAY32973.1:loc:74465:76820:strand:+:54:216                          tv--SCASPMPDVIAVTiTHFAGERPRGPAFAL-----ATDPTGEVTVDEDAATLTSGALSVRVGRGEGWRLDFVAGGRRLTGSAQKAMAIIDT-----...............-----DDGRHY.....VREQLDLGVDHFVYGLGE.RFGPLVKNGQAVDIWNAD---GG-TSSEQAYKNVPFFLTNA---GYGVFVD
+#=GR BGC0001093.1_ORF18:gid::pid:AAY32973.1:loc:74465:76820:strand:+:54:216                  PP 75..56677899999998888999999******.....888899999999*************9***********9999999999999999999.........................445568.....******************.******************...66.9****************...*******
+#=GC PP_cons                                                                                    ...667788899*****.888889999***********999999999999*****99999899999999******888888888888888888844444...............55555445556.....******************.******************...44.9******8*********...*******
+#=GC RF                                                                                         ..xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...............xxxxxxxxxxx.....xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2956:gid::pid::loc:3356857:3358936:strand:-:17:204         NPG-----igkv
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2956:gid::pid::loc:3356857:3358936:strand:-:17:204 PP *95.....7899
+BGC0001093.1_ORF18:gid::pid:AAY32973.1:loc:74465:76820:strand:+:54:216                          HPGRVSFE....
+#=GR BGC0001093.1_ORF18:gid::pid:AAY32973.1:loc:74465:76820:strand:+:54:216                  PP *****995....
+#=GC PP_cons                                                                                    *98**995....
+#=GC RF                                                                                         xxxxxxxx....
+//

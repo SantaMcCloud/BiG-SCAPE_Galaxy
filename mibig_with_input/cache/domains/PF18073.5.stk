@@ -1,0 +1,9 @@
+# STOCKHOLM 1.0
+
+BGC0001077.1_ORF7:gid::pid:BAL92981.1:loc:5125:6550:strand:+:15:42                      YVCDACGHQPPKWVGRCPECGEWGSVIE
+#=GR BGC0001077.1_ORF7:gid::pid:BAL92981.1:loc:5125:6550:strand:+:15:42              PP 9************************976
+GCA_000085225.1_ASM8522v1_genomic_ORF30:gid::pid::loc:45423:46797:strand:+:8:35         YVCQSCGYETAKWLGKCPECTKWNTFVE
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF30:gid::pid::loc:45423:46797:strand:+:8:35 PP 9*************************98
+#=GC PP_cons                                                                            9************************987
+#=GC RF                                                                                 xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

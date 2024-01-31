@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+BGC0000031.1_ORF26:gid:borN:pid:CAE45678.1:loc:57111:57858:strand:+:1:52         .MLIARAAVGEDRTYARVDtdTGLIHLLAG................TPY.DEIRPTGETRPLAEARLLAP
+#=GR BGC0000031.1_ORF26:gid:borN:pid:CAE45678.1:loc:57111:57858:strand:+:1:52 PP .88****************99899******................***.*******************9
+BGC0001010.1_ORF16:gid:melH:pid:CAD89779.1:loc:46018:47008:strand:+:4:67         h--VARFKTGSEIRWGVVQ..RDRLVVIPGqyatlag.flgegaahA-RrLAAAPEGETLAVRDVELLSP
+#=GR BGC0001010.1_ORF16:gid:melH:pid:CAD89779.1:loc:46018:47008:strand:+:4:67 PP 5..79**************..**************99.999998742.34678****************9
+BGC0000982.1_ORF12:gid::pid:AAW03331.1:loc:51426:52416:strand:+:4:67             h--VARFKTGSEIRWGVVR..EEKLVVIPGsyatlaeflgegaaraRR-.LAAAPEGETLAVRDVELLSP
+#=GR BGC0000982.1_ORF12:gid::pid:AAW03331.1:loc:51426:52416:strand:+:4:67     PP 5..79**************..************999999998865322..678****************9
+BGC0001009.1_ORF16:gid:melH:pid:CAD89779.1:loc:46018:47008:strand:+:4:67         h--VARFKTGSEIRWGVVQ..RDRLVVIPGqyatlag.flgegaahA-RrLAAAPEGETLAVRDVELLSP
+#=GR BGC0001009.1_ORF16:gid:melH:pid:CAD89779.1:loc:46018:47008:strand:+:4:67 PP 5..79**************..**************99.999998742.34678****************9
+#=GC PP_cons                                                                     .8889**************..*********................465.789****************9
+#=GC RF                                                                          .xxxxxxxxxxxxxxxxxx..xxxxxxxxx................xxx.xxxxxxxxxxxxxxxxxxxx
+//

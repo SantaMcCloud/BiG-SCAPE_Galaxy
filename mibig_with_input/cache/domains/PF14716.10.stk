@@ -1,0 +1,9 @@
+# STOCKHOLM 1.0
+
+BGC0000696.1_ORF1:gid::pid:CAG38674.1:loc:190:1264:strand:+:3:72              rdpv-----ADLRRIAFLLERANEATYRVRAFRSAATTLAALPAgELAERarTGKLTELTGVGDVTARCVVESL-a
+#=GR BGC0000696.1_ORF1:gid::pid:CAG38674.1:loc:190:1264:strand:+:3:72      PP 9775.....669*************************************97444***************99976.6
+BGC0001106.1_ORF30:gid::pid:ABS90486.1:loc:99470:100505:strand:+:3:72         .mep----VEALERIAFLLERGRAPTYRVRAFRTAAAVIAGLADgEAARRagDGSLERLKGVGPKTAGVVREAL-a
+#=GR BGC0001106.1_ORF30:gid::pid:ABS90486.1:loc:99470:100505:strand:+:3:72 PP .966....79********************************999998885555******************98.5
+#=GC PP_cons                                                                  ........778*********************************.99999..44****************9987..
+#=GC RF                                                                       ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx..xxxxxxxxxxxxxxxxxxxxxxx.
+//

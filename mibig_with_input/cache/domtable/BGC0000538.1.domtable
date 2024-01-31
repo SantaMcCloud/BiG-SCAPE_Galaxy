@@ -1,0 +1,19 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Gallidermin          PF02052.19    52 BGC0000538.1_ORF1:gid:nisin:pid:CAA79467.1:loc:238:412:strand:+ -             57   4.9e-08   33.4   1.0   1   1   2.8e-12   5.9e-08   33.1   1.0    11    46     6    38     2    50 0.84 Gallidermin
+Lant_dehydr_N        PF04738.17   649 BGC0000538.1_ORF2:gid:nisB:pid:CAA79468.1:loc:519:3501:strand:+ -            993   1.8e-84  284.3   0.0   1   1     2e-88   2.1e-84  284.0   0.0     2   649    39   664    38   664 0.90 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.10   255 BGC0000538.1_ORF2:gid:nisB:pid:CAA79468.1:loc:519:3501:strand:+ -            993   4.8e-41  141.8   1.8   1   1   6.1e-45   6.3e-41  141.4   0.2     1   253   737   984   737   986 0.78 Lantibiotic biosynthesis dehydratase C-term
+ABC_tran             PF00005.31   137 BGC0000538.1_ORF3:gid:nisT:pid:CAA79469.1:loc:3511:5314:strand:+ -            600   5.2e-34  118.0   0.0   1   1   1.4e-37   9.9e-34  117.1   0.0     1   137   369   523   369   523 0.89 ABC transporter
+LANC_like            PF05147.17   350 BGC0000538.1_ORF4:gid:nisC:pid:CAA79470.1:loc:5294:6551:strand:+ -            418   8.7e-74  248.4  10.9   1   1   5.2e-78   1.1e-73  248.1  10.9     3   350    35   406    33   406 0.93 Lanthionine synthetase C-like protein
+Spa1_C               PF18218.5     99 BGC0000538.1_ORF5:gid:nisI:pid:CAA79465.1:loc:6547:7285:strand:+ -            245   7.3e-25   87.5   4.4   1   1   3.5e-24   7.2e-20   71.5   0.1     1    99   142   240   142   240 0.98 Lantibiotic immunity protein Spa1 C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000538.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000538.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000538.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:32:01 2024
+# [ok]

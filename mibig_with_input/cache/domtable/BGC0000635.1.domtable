@@ -1,0 +1,27 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FMN_dh               PF01070.22   350 BGC0000635.1_ORF1:gid:idi:pid:BAE47464.1:loc:630:1713:strand:+ -            360   3.6e-15   56.0   2.7   1   1   1.8e-12   3.7e-08   33.0   2.3   209   346   177   336   138   340 0.90 FMN-dependent dehydrogenase
+FA_desaturase        PF00487.28   253 BGC0000635.1_ORF2:gid:crtW:pid:BAE47465.1:loc:1743:2472:strand:+ -            242   4.9e-25   88.9  35.4   1   2     4e-16   8.3e-12   45.6   8.4     6   103    45   135    39   141 0.76 Fatty acid desaturase
+FA_desaturase        PF00487.28   253 BGC0000635.1_ORF2:gid:crtW:pid:BAE47465.1:loc:1743:2472:strand:+ -            242   4.9e-25   88.9  35.4   2   2   7.3e-19   1.5e-14   54.6  14.0   134   235   135   236   124   239 0.82 Fatty acid desaturase
+FA_hydroxylase       PF04116.17   132 BGC0000635.1_ORF3:gid:crtZ:pid:BAE47466.1:loc:2468:2957:strand:+ -            162   1.7e-13   51.3  12.5   1   1   9.5e-18     2e-13   51.1  12.5     2   122     8   136     7   146 0.82 Fatty acid hydroxylase
+Lycopene_cycl        PF05834.16   380 BGC0000635.1_ORF4:gid:crtY:pid:BAE47467.1:loc:2953:4114:strand:+ -            386   1.1e-78  265.2   0.0   1   1     6e-83   1.2e-78  265.0   0.0     1   376     4   370     4   374 0.95 Lycopene cyclase protein
+Amino_oxidase        PF01593.28   443 BGC0000635.1_ORF5:gid:crtI:pid:BAE47468.1:loc:4110:5616:strand:+ -            501   8.6e-61  206.7   0.3   1   1   3.3e-64   9.7e-61  206.6   0.3     2   443    19   495    18   495 0.91 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.10    68 BGC0000635.1_ORF5:gid:crtI:pid:BAE47468.1:loc:4110:5616:strand:+ -            501   3.5e-14   53.0   0.1   1   1   4.2e-17   1.2e-13   51.3   0.1     1    64    13    76    13    79 0.95 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.28   414 BGC0000635.1_ORF5:gid:crtI:pid:BAE47468.1:loc:4110:5616:strand:+ -            501     7e-05   22.4   0.7   1   1     5e-08   0.00015   21.3   0.2     2    40    11    50    10    72 0.87 FAD binding domain
+SQS_PSY              PF00494.23   263 BGC0000635.1_ORF6:gid:crtB:pid:BAE47469.1:loc:5612:6527:strand:+ -            304   1.1e-69  235.3   3.6   1   1   5.9e-74   1.2e-69  235.1   3.6     2   261    13   268    12   270 0.92 Squalene/phytoene synthase
+polyprenyl_synt      PF00348.21   251 BGC0000635.1_ORF7:gid:crtE:pid:BAE47470.1:loc:6523:7405:strand:- -            293   8.8e-42  143.2   0.1   1   1   4.9e-46     1e-41  143.0   0.1     4   245    31   280    28   286 0.85 Polyprenyl synthetase
+Glyco_trans_4_3      PF12000.12   168 BGC0000635.1_ORF8:gid:crtX:pid:BAE47471.1:loc:7570:8818:strand:- -            415   1.4e-30  106.4   0.0   1   1     4e-34   2.1e-30  105.9   0.0     3   166    36   200    34   202 0.88 Glycosyl transferase family 4 group
+Glycos_transf_1      PF00534.24   172 BGC0000635.1_ORF8:gid:crtX:pid:BAE47471.1:loc:7570:8818:strand:- -            415     4e-12   46.2   0.0   1   1   1.1e-15   5.8e-12   45.7   0.0    83   171   299   387   211   388 0.78 Glycosyl transferases group 1
+Glyco_trans_1_2      PF13524.10    92 BGC0000635.1_ORF8:gid:crtX:pid:BAE47471.1:loc:7570:8818:strand:- -            415   3.5e-10   40.1   0.0   1   1   1.4e-13   7.5e-10   39.1   0.0    15    85   325   397   315   400 0.96 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.10   137 BGC0000635.1_ORF8:gid:crtX:pid:BAE47471.1:loc:7570:8818:strand:- -            415   7.6e-10   39.4   0.0   1   1   2.5e-13   1.3e-09   38.7   0.0     2   137   222   374   221   374 0.77 Glycosyl transferases group 1
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000635.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000635.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000635.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:40:04 2024
+# [ok]

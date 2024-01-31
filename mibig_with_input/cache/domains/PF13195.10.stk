@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_008000775.1_ORF859:gid::pid:WP_147661981.1:loc:929575:933886:strand:+:19:203         .......................................................n-FLDLSNRNPQLNFS--TKRYIEVISPSCSTIFRILLvMGQTCTFPSvykPpsrkKQRKK---SvsdqqktpfnvnpepelsdplkethrialEKIKEKARLTEFITELTDSTLRTRFKKFLQKAKEMEEERGVNVLYITFGLL
+#=GR GCF_008000775.1_ORF859:gid::pid:WP_147661981.1:loc:929575:933886:strand:+:19:203 PP .......................................................6.69************..6689************987625588888887543333211222...1223455666666666666667766766777777777999*****************************************
+BGC0000413.1_ORF81:gid::pid:AAY93419.1:loc:129605:135923:strand:+:685:829                asvvlrgplvrmsigkttarvdlnelhserspapalldhlvarnaqpisldpacfa-------------------------------------.---------...-....---------.............................----------------ENPQLDARLNSLYRQSSLYKRDTGIDGLYLGFPFL
+#=GR BGC0000413.1_ORF81:gid::pid:AAY93419.1:loc:129605:135923:strand:+:685:829        PP ****************9999999999999999999999999999999988887765.............................................................................................................56689******************************
+#=GC PP_cons                                                                             .........................................................69************..6689************9876.558888888...3....11222...1.............................7777777999******7889*******************************
+#=GC RF                                                                                  ........................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx...x....xxxxxxxxx.............................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_008000775.1_ORF859:gid::pid:WP_147661981.1:loc:929575:933886:strand:+:19:203         NWIDVG-DNIPMKSPLLFVPVKISLK..----P.LEIEILDDEVMVNPALKEKL.
+#=GR GCF_008000775.1_ORF859:gid::pid:WP_147661981.1:loc:929575:933886:strand:+:19:203 PP ****87.*****************99......9.99****************98.
+BGC0000413.1_ORF81:gid::pid:AAY93419.1:loc:129605:135923:strand:+:685:829                LTRDARGTTRTRIAPLLLWPVKLLLEvgSRGKVaLVFDSEREEVRLNPGLDTL-l
+#=GR BGC0000413.1_ORF81:gid::pid:AAY93419.1:loc:129605:135923:strand:+:685:829        PP **********************87663244443677788999999***99876.5
+#=GC PP_cons                                                                             ****99****************9888..44446.8899999*******999888.
+#=GC RF                                                                                  xxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxx.xxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,118 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="290.76666666666665" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="280.76666666666665" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (XBJ1_3894)
+putative 3-oxoacyl-[acyl-carrier-protein] synthase</title>
+			<polygon class=" (XBJ1_3894)
+putative 3-oxoacyl-[acyl-carrier-protein] synthase" points="10,25 35,25 35,10 65,40 35,70 35,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="16" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="40,28 49,28 51,30 51,50 49,52 40,52" stroke-linejoin="round" width="11" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (XBJ1_3895)
+conserved hypothetical protein</title>
+			<polygon class=" (XBJ1_3895)
+conserved hypothetical protein" points="69,10 74,40 69,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trns_repr_metal (PF02583)
+"Metal-sensitive transcriptional repressor"</title>
+				<polygon class="PF02583" points="69,27 71,40 69,53" stroke-linejoin="round" width="5" height="24" fill="rgb(228,113,155)" stroke="rgb(182,90,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>adhC (XBJ1_3896)
+alcohol dehydrogenase class III</title>
+			<polygon class="adhC (XBJ1_3896)
+alcohol dehydrogenase class III" points="77,25 84,25 84,10 114,40 84,70 84,55 77,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="79" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(217,198,105)" stroke="rgb(173,158,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="96,28 97,28 109,40 109,40 97,52 96,52" stroke-linejoin="round" width="13" height="24" fill="rgb(79,114,198)" stroke="rgb(63,91,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yaiM (XBJ1_3897)
+putative esterase</title>
+			<polygon class="yaiM (XBJ1_3897)
+putative esterase" points="116,10 144,40 116,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Esterase (PF00756)
+"Putative esterase"</title>
+				<polygon class="PF00756" points="118,28 128,28 140,40 128,52 118,52" stroke-linejoin="round" width="24" height="24" fill="rgb(225,102,85)" stroke="rgb(180,81,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (XBJ1_3898)
+3-oxoacyl-[acyl-carrier-protein] synthase III</title>
+			<polygon class=" (XBJ1_3898)
+3-oxoacyl-[acyl-carrier-protein] synthase III" points="178,25 176,25 176,10 146,40 176,70 176,55 178,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACP_syn_III_C (PF08541)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal"</title>
+				<polygon class="PF08541" points="150,40 154,36 154,44" stroke-linejoin="round" width="8" height="24" fill="rgb(223,111,121)" stroke="rgb(178,88,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACP_syn_III (PF08545)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III"</title>
+				<polygon class="PF08545" points="159,31 162,28 166,28 166,52 162,52 159,49" stroke-linejoin="round" width="7" height="24" fill="rgb(93,213,73)" stroke="rgb(74,170,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (XBJ1_3899)
+hypothetical protein</title>
+			<polygon class=" (XBJ1_3899)
+hypothetical protein" points="184,40 188,10 188,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (XBJ1_3900)
+hypothetical protein</title>
+			<polygon class=" (XBJ1_3900)
+hypothetical protein" points="224,25 220,25 220,10 190,40 220,70 220,55 224,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACP_syn_III_C (PF08541)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal"</title>
+				<polygon class="PF08541" points="194,40 201,33 201,47" stroke-linejoin="round" width="8" height="24" fill="rgb(223,111,121)" stroke="rgb(178,88,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACP_syn_III (PF08545)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III"</title>
+				<polygon class="PF08545" points="206,28 206,28 213,28 213,52 206,52 206,52" stroke-linejoin="round" width="7" height="24" fill="rgb(93,213,73)" stroke="rgb(74,170,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (XBJ1_3901)
+putative Acetolactate synthase large subunit</title>
+			<polygon class=" (XBJ1_3901)
+putative Acetolactate synthase large subunit" points="280,25 254,25 254,10 224,40 254,70 254,55 280,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="228,40 240,28 240,28 240,52 240,52" stroke-linejoin="round" width="14" height="24" fill="rgb(212,69,87)" stroke="rgb(169,55,69)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M (PF00205)
+"Thiamine pyrophosphate enzyme, central domain"</title>
+				<rect class="PF00205" x="247" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(70,122,184)" stroke="rgb(56,97,147)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="268" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(208,64,165)" stroke="rgb(166,51,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

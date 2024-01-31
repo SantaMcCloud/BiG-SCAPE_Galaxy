@@ -1,0 +1,41 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+YggL_50S_bp          PF04320.18   102 BGC0000460.1_ORF1:gid::pid:AAO07752.1:loc:0:339:strand:+ -            112     5e-33  114.3   0.1   1   1   2.8e-37   5.7e-33  114.1   0.1     1   102    11   111    11   111 0.99 YggL 50S ribosome-binding protein
+4PPT_N               PF17837.5     68 BGC0000460.1_ORF2:gid::pid:AAO07753.1:loc:389:1085:strand:- -            231   1.5e-22   79.7   0.7   1   1   2.6e-26   2.7e-22   78.8   0.7     5    68    42   104    38   104 0.96 4'-phosphopantetheinyl transferase N-terminal domain
+ACPS                 PF01648.24   111 BGC0000460.1_ORF2:gid::pid:AAO07753.1:loc:389:1085:strand:- -            231   7.9e-11   42.2   0.0   1   1   1.2e-14   1.3e-10   41.5   0.0     2    90   112   198   111   224 0.74 4'-phosphopantetheinyl transferase superfamily
+Condensation         PF00668.24   456 BGC0000460.1_ORF3:gid::pid:AAO07754.1:loc:1089:4158:strand:- -           1022   5.3e-48  164.0   0.8   1   1   8.5e-48   8.8e-44  150.1   0.1     4   440   557   997   554  1010 0.83 Condensation domain
+PP-binding           PF00550.29    67 BGC0000460.1_ORF3:gid::pid:AAO07754.1:loc:1089:4158:strand:- -           1022   6.4e-10   39.3   0.1   1   1   1.7e-13   1.7e-09   38.0   0.1    10    65   467   520   458   522 0.88 Phosphopantetheine attachment site
+AMP-binding          PF00501.32   382 BGC0000460.1_ORF4:gid::pid:AAO07755.1:loc:4227:8790:strand:- -           1520   6.2e-77  259.2   0.2   1   1   1.5e-80     1e-76  258.4   0.2     8   382   943  1281   936  1281 0.87 AMP-binding enzyme
+Condensation         PF00668.24   456 BGC0000460.1_ORF4:gid::pid:AAO07755.1:loc:4227:8790:strand:- -           1520   2.3e-47  162.0  12.0   1   2   1.4e-35   9.8e-32  110.4   8.8     7   444    39   473    35   482 0.86 Condensation domain
+Condensation         PF00668.24   456 BGC0000460.1_ORF4:gid::pid:AAO07755.1:loc:4227:8790:strand:- -           1520   2.3e-47  162.0  12.0   2   2     1e-17   7.2e-14   51.5   0.0    29   435   515   900   489   913 0.76 Condensation domain
+DAHP_synth_1         PF00793.24   270 BGC0000460.1_ORF5:gid::pid:AAO07756.1:loc:9015:10086:strand:+ -            356   1.1e-79  267.4   0.0   1   1   6.3e-84   1.3e-79  267.1   0.0     9   268    45   336    26   338 0.95 DAHP synthetase I family
+adh_short_C2         PF13561.10   236 BGC0000460.1_ORF6:gid::pid:AAO07757.1:loc:10317:11106:strand:- -            262   2.9e-54  184.4   0.1   1   1   6.6e-58   3.4e-54  184.1   0.1     1   236    15   259    15   259 0.94 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.29   195 BGC0000460.1_ORF6:gid::pid:AAO07757.1:loc:10317:11106:strand:- -            262   1.6e-50  171.5   0.2   1   1   3.7e-54   1.9e-50  171.2   0.2     1   193     9   202     9   204 0.98 short chain dehydrogenase
+KR                   PF08659.14   180 BGC0000460.1_ORF6:gid::pid:AAO07757.1:loc:10317:11106:strand:- -            262   1.8e-11   44.5   0.6   1   1   4.7e-15   2.5e-11   44.0   0.6     2   162    10   171     9   181 0.90 KR domain
+Epimerase            PF01370.25   240 BGC0000460.1_ORF6:gid::pid:AAO07757.1:loc:10317:11106:strand:- -            262   2.3e-08   33.9   0.0   1   1   5.8e-12     3e-08   33.6   0.0     1   227    11   242    11   249 0.79 NAD dependent epimerase/dehydratase family
+Chorismate_bind      PF00425.22   257 BGC0000460.1_ORF7:gid::pid:AAO07758.1:loc:11477:12659:strand:+ -            393   9.3e-73  245.1   0.0   1   1   5.6e-77   1.2e-72  244.8   0.0     3   257   121   375   119   375 0.97 chorismate binding enzyme
+AMP-binding          PF00501.32   382 BGC0000460.1_ORF8:gid::pid:AAO07759.1:loc:12668:14306:strand:+ -            545     1e-68  232.1   0.0   1   1   1.2e-72   1.2e-68  231.8   0.0     5   382    38   401    34   401 0.85 AMP-binding enzyme
+AMP-binding_C        PF13193.10    76 BGC0000460.1_ORF8:gid::pid:AAO07759.1:loc:12668:14306:strand:+ -            545   4.4e-13   50.1   0.0   1   1   1.3e-16   1.3e-12   48.6   0.0     1    76   452   528   452   528 0.94 AMP-binding enzyme C-terminal domain
+SIP                  PF04954.17   119 BGC0000460.1_ORF9:gid::pid:AAO07760.1:loc:14424:15240:strand:- -            271   1.2e-34  119.6   0.0   1   1   1.8e-38   1.8e-34  119.0   0.0     1   119   134   253   134   253 0.98 Siderophore-interacting protein
+FAD_binding_9        PF08021.15   118 BGC0000460.1_ORF9:gid::pid:AAO07760.1:loc:14424:15240:strand:- -            271   6.1e-33  113.8   0.0   1   1     1e-36   1.1e-32  113.0   0.0     2   117    15   127    14   128 0.92 Siderophore-interacting FAD-binding domain
+Isochorismatase      PF00857.24   175 BGC0000460.1_ORF10:gid::pid:AAO07761.1:loc:15303:16191:strand:- -            295   1.7e-34  119.7   0.0   1   1   2.2e-38   2.3e-34  119.2   0.0     2   167    32   195    31   203 0.90 Isochorismatase family
+PP-binding           PF00550.29    67 BGC0000460.1_ORF10:gid::pid:AAO07761.1:loc:15303:16191:strand:- -            295   1.1e-08   35.3   0.1   1   1   2.5e-12   2.6e-08   34.2   0.1     2    62   218   277   217   279 0.96 Phosphopantetheine attachment site
+CM_2                 PF01817.25    79 BGC0000460.1_ORF11:gid::pid:AAO07762.1:loc:16293:16623:strand:- -            109     5e-20   71.9   0.1   1   1     3e-24   6.3e-20   71.5   0.1     1    78    17    93    17    94 0.95 Chorismate mutase type II
+AMP-binding          PF00501.32   382 BGC0000460.1_ORF12:gid::pid:AAO07763.1:loc:16851:18480:strand:- -            542     4e-73  246.6   0.0   1   1   4.7e-77   4.9e-73  246.3   0.0     3   382    44   404    42   404 0.87 AMP-binding enzyme
+AMP-binding_C        PF13193.10    76 BGC0000460.1_ORF12:gid::pid:AAO07763.1:loc:16851:18480:strand:- -            542   1.3e-13   51.8   0.1   1   1   2.6e-17   2.7e-13   50.8   0.1     1    76   455   530   455   530 0.91 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.29    67 BGC0000460.1_ORF13:gid::pid:AAO07764.1:loc:18705:18948:strand:+ -             80   7.7e-15   55.1   0.4   1   1   4.7e-19   9.7e-15   54.8   0.4     3    62    10    68     9    70 0.96 Phosphopantetheine attachment site
+Peripla_BP_2         PF01497.22   235 BGC0000460.1_ORF14:gid::pid:AAO07765.2:loc:19003:19912:strand:+ -            302     9e-25   87.7   1.1   1   1   5.2e-29   1.1e-24   87.4   1.1     1   232    41   275    41   278 0.87 Periplasmic binding protein
+TonB_dep_Rec         PF00593.28   436 BGC0000460.1_ORF15:gid::pid:AAO07766.1:loc:19996:22054:strand:- -            685     8e-32  111.8  25.4   1   1   1.3e-35   1.4e-31  111.0  25.4    55   436   296   652   260   652 0.74 TonB dependent receptor
+Plug                 PF07715.19   107 BGC0000460.1_ORF15:gid::pid:AAO07766.1:loc:19996:22054:strand:- -            685   1.1e-13   51.8   3.0   1   1   3.7e-17   3.9e-13   50.1   1.8     3   107    65   179    63   179 0.95 TonB-dependent Receptor Plug Domain
+Condensation         PF00668.24   456 BGC0000460.1_ORF16:gid::pid:AAO07767.2:loc:22394:23711:strand:- -            438   9.8e-43  146.7   0.1   1   1   8.1e-47   1.7e-42  145.9   0.1     5   433    18   427    15   436 0.83 Condensation domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000460.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000460.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000460.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:26:51 2024
+# [ok]

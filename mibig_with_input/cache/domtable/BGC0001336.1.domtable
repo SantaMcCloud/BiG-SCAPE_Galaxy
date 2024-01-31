@@ -1,0 +1,29 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_2       PF00891.22   210 BGC0001336.1_ORF1:gid:espM:pid:AHE14647.1:loc:0:1059:strand:+ -            352   3.1e-43  147.8   0.0   1   1   3.7e-47   3.9e-43  147.4   0.0    18   209   133   324   118   325 0.94 O-methyltransferase domain
+Dimerisation2        PF16864.9     90 BGC0001336.1_ORF1:gid:espM:pid:AHE14647.1:loc:0:1059:strand:+ -            352   1.8e-08   34.4   0.0   1   1   3.9e-12     4e-08   33.3   0.0     2    65    20    82    19    97 0.89 Dimerisation domain
+FAD_binding_3        PF01494.23   349 BGC0001336.1_ORF2:gid:espX:pid:AHE14649.1:loc:1143:2796:strand:+ -            550   5.1e-69  233.3   0.1   1   1   2.2e-72   6.5e-69  233.0   0.1     1   347     4   347     4   349 0.88 FAD binding domain
+Rng_hyd_C            PF21274.1    107 BGC0001336.1_ORF2:gid:espX:pid:AHE14649.1:loc:1143:2796:strand:+ -            550   4.4e-08   33.5  11.0   1   1   8.4e-11   2.5e-07   31.1   2.4    15   101   438   528   411   532 0.76 Aromatic-ring hydroxylase, C-terminal
+Amino_oxidase        PF01593.28   443 BGC0001336.1_ORF3:gid:espO:pid:AHE14640.1:loc:2782:4282:strand:+ -            499   1.3e-56  193.0   0.6   1   1   2.9e-60   1.5e-56  192.7   0.6     1   442    25   477    25   478 0.80 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.10    68 BGC0001336.1_ORF3:gid:espO:pid:AHE14640.1:loc:2782:4282:strand:+ -            499   5.3e-13   49.2   0.2   1   1   2.8e-16   1.5e-12   47.8   0.2     1    67    20    88    20    89 0.87 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.28   414 BGC0001336.1_ORF3:gid:espO:pid:AHE14640.1:loc:2782:4282:strand:+ -            499   6.6e-05   22.5   0.4   1   1   2.6e-08   0.00013   21.5   0.4     2    37    18    53    17    58 0.91 FAD binding domain
+Ferritin-like        PF12902.11   221 BGC0001336.1_ORF4:gid:espD:pid:AHE14639.1:loc:4281:7596:strand:+ -           1104   2.6e-33  115.9   0.0   1   1   1.8e-37   3.8e-33  115.4   0.0     1   220   682   931   682   932 0.84 Ferritin-like
+p450                 PF00067.26   462 BGC0001336.1_ORF5:gid:espP:pid:AHE14641.1:loc:7627:9034:strand:+ -            468   9.5e-27   94.1   0.0   1   1   2.8e-28   5.8e-24   84.9   0.1   235   435   217   387   193   408 0.87 Cytochrome P450
+MFS_1                PF07690.20   347 BGC0001336.1_ORF6:gid:espT1:pid:AHE14650.1:loc:9258:10971:strand:+ -            570   4.1e-54  184.0  57.8   1   2   2.6e-40   2.7e-36  125.4  17.3     2   178     6   185     5   194 0.92 Major Facilitator Superfamily
+MFS_1                PF07690.20   347 BGC0001336.1_ORF6:gid:espT1:pid:AHE14650.1:loc:9258:10971:strand:+ -            570   4.1e-54  184.0  57.8   2   2   4.1e-22   4.3e-18   65.5  31.0   129   346   195   412   192   413 0.82 Major Facilitator Superfamily
+Sugar_tr             PF00083.28   452 BGC0001336.1_ORF6:gid:espT1:pid:AHE14650.1:loc:9258:10971:strand:+ -            570   1.9e-09   37.2   7.5   1   1   1.8e-13   1.9e-09   37.2   7.5    44   195    33   183     5   184 0.86 Sugar (and other) transporter
+MFS_1                PF07690.20   347 BGC0001336.1_ORF7:gid:espT2:pid:AHE14642.1:loc:11264:12620:strand:+ -            451   3.5e-41  141.5  49.7   1   2   1.7e-26     9e-23   80.9  27.5     6   247    42   296    37   299 0.79 Major Facilitator Superfamily
+MFS_1                PF07690.20   347 BGC0001336.1_ORF7:gid:espT2:pid:AHE14642.1:loc:11264:12620:strand:+ -            451   3.5e-41  141.5  49.7   2   2   1.5e-22   7.7e-19   68.0  16.2    33   171   292   437   290   450 0.87 Major Facilitator Superfamily
+MFS_2                PF13347.10   427 BGC0001336.1_ORF7:gid:espT2:pid:AHE14642.1:loc:11264:12620:strand:+ -            451   5.5e-11   41.8  30.9   1   1   5.6e-14   2.9e-10   39.4  28.0    22   375    62   404    39   409 0.69 MFS/sugar transport protein
+Sugar_tr             PF00083.28   452 BGC0001336.1_ORF7:gid:espT2:pid:AHE14642.1:loc:11264:12620:strand:+ -            451   1.2e-05   24.5  24.6   1   1   6.8e-09   3.5e-05   23.0   3.3    48   121   293   364   288   371 0.88 Sugar (and other) transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001336.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001336.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001336.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:30:24 2024
+# [ok]

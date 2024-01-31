@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF3249:gid::pid::loc:3710346:3711180:strand:-:54:275         IAEYPLSFILNDKYVNTFLCTPYNLEELIVGFLKTKGYIENKKSLLKFEINESERF........AKVTIQE.KQKNQDEQ-------------IIF.LNSL-DYITCASVKS.NIKINYDTIYSIMDRNLNSSELFKNTGGVHSVSVFN-FDKKIVTCEDVARHNAMDKAIGFCVLNDIT.LKDKIVAVSGRISLEMILK
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3249:gid::pid::loc:3710346:3711180:strand:-:54:275 PP 58******************************************************........****777.54433322.............234.4333.5578888888.9**********************************9.888999************************.*******************
+BGC0000130.1_ORF1:gid::pid:ABO15837.1:loc:0:843:strand:+:26:272                                 VAEEPLEIRLNGKPLAITMRTPGDDFALAVGFLVSEGVVADASDVSRIAYCAGATAdgsntynvVDVRLAPgVPVPDITLERNVYTTSSAAVRQGQpGRGAD--TARWPVAGpGPRLRPDVLSALPDALRAAQGVFHQTGGLHAAGLFTPDGDVLDVREDVGRHNAVDKLVGRAYQQGALpVRDTVLLVSGRASFELVQK
+#=GR BGC0000130.1_ORF1:gid::pid:ABO15837.1:loc:0:843:strand:+:26:272                         PP 68*************************************************776557778888855555555444443333334777777774444355663..3344444448***************************************************************98769******************
+#=GC PP_cons                                                                                    58*************************************************88877........7887666.444343333334777777774334.544435555666666.9************************************99999***********************98.*******************
+#=GC RF                                                                                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF3249:gid::pid::loc:3710346:3711180:strand:-:54:275         AAMTQIPIVVSKSAPTNLSIELSKKLNITLIGFVRGRRMNIYANPQRV-i
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3249:gid::pid::loc:3710346:3711180:strand:-:54:275 PP ***********************************************8.5
+BGC0000130.1_ORF1:gid::pid:ABO15837.1:loc:0:843:strand:+:26:272                                 AVMAGIPALAAVSAPSSLAVELAAETGLTLVGFLRGRSMNVYAGAERV-v
+#=GR BGC0000130.1_ORF1:gid::pid:ABO15837.1:loc:0:843:strand:+:26:272                         PP ***********************************************8.6
+#=GC PP_cons                                                                                    ***********************************************8..
+#=GC RF                                                                                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

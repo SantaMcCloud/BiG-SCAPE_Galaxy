@@ -1,0 +1,17 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF5970              PF19395.3     77 BGC0000616.1_ORF1:gid::pid:ABS75250.1:loc:0:222:strand:- -             73     2e-27   95.6  14.2   1   1     1e-31   2.2e-27   95.5  14.2     8    77     4    73     1    73 0.97 Family of unknown function (DUF5970)
+SpoIIM               PF01944.21   162 BGC0000616.1_ORF2:gid::pid:ABS75251.1:loc:238:688:strand:- -            149   5.8e-22   78.6  16.6   1   1   3.1e-26   6.3e-22   78.5  16.6    36   162    15   146     1   146 0.85 Stage II sporulation protein M
+ABC_tran             PF00005.31   137 BGC0000616.1_ORF3:gid::pid:ABS75252.1:loc:762:1467:strand:- -            234     3e-34  118.8   0.0   1   1   4.9e-38   5.1e-34  118.1   0.0     1   136    17   161    17   162 0.96 ABC transporter
+Bacteriocin_IId      PF09221.14    67 BGC0000616.1_ORF5:gid::pid:ABS75254.1:loc:3197:3536:strand:- -            112   2.9e-21   75.6  17.2   1   1   1.4e-25   2.9e-21   75.6  17.2     1    67    50   112    50   112 0.99 Bacteriocin class IId cyclical uberolysin-like
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000616.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000616.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000616.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:18:34 2024
+# [ok]
