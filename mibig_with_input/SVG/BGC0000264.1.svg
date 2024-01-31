@@ -1,0 +1,238 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="575.4" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="565.4" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>remQ
+RemQ protein</title>
+			<polygon class="remQ
+RemQ protein" points="18,40 37,10 37,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_C_16 (PF17920)
+"Tetracyclin repressor-like, C-terminal domain"</title>
+				<polygon class="PF17920" points="22,40 28,31 28,49" stroke-linejoin="round" width="10" height="24" fill="rgb(202,95,88)" stroke="rgb(161,76,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="31" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(148,50,185)" stroke="rgb(118,40,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remR
+RemR protein</title>
+			<polygon class="remR
+RemR protein" points="37,40 52,10 52,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<polygon class="PF00440" points="46,28 46,28 50,28 50,52 46,52 46,52" stroke-linejoin="round" width="4" height="24" fill="rgb(148,50,185)" stroke="rgb(118,40,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remF
+RemF protein</title>
+			<polygon class="remF
+RemF protein" points="61,10 75,40 61,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cupin_2 (PF07883)
+"Cupin domain"</title>
+				<polygon class="PF07883" points="65,28 66,28 72,40 72,40 66,52 65,52" stroke-linejoin="round" width="7" height="24" fill="rgb(191,63,205)" stroke="rgb(152,50,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remG
+RemG protein</title>
+			<polygon class="remG
+RemG protein" points="75,25 80,25 80,10 110,40 80,70 80,55 75,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dimerisation2 (PF16864)
+"Dimerisation domain"</title>
+				<rect class="PF16864" x="77" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(212,101,199)" stroke="rgb(169,80,159)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="87,28 93,28 105,40 93,52 87,52" stroke-linejoin="round" width="21" height="24" fill="rgb(91,124,224)" stroke="rgb(72,99,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remH
+RemH protein</title>
+			<polygon class="remH
+RemH protein" points="110,25 114,25 114,10 144,40 114,70 114,55 110,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dimerisation2 (PF16864)
+"Dimerisation domain"</title>
+				<rect class="PF16864" x="112" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(212,101,199)" stroke="rgb(169,80,159)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="128,28 128,28 137,37 137,43 128,52 128,52" stroke-linejoin="round" width="9" height="24" fill="rgb(224,103,106)" stroke="rgb(179,82,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remA
+RemA protein</title>
+			<polygon class="remA
+RemA protein" points="145,25 157,25 157,10 187,40 157,70 157,55 145,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="145" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="171,28 171,28 182,39 182,41 171,52 171,52" stroke-linejoin="round" width="11" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remB
+RemB protein</title>
+			<polygon class="remB
+RemB protein" points="188,25 199,25 199,10 229,40 199,70 199,55 188,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="188" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="213,28 213,28 224,39 224,41 213,52 213,52" stroke-linejoin="round" width="11" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remD
+RemD protein</title>
+			<polygon class="remD
+RemD protein" points="228,10 242,40 228,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACPS (PF01648)
+"4'-phosphopantetheinyl transferase superfamily"</title>
+				<polygon class="PF01648" points="230,28 233,28 238,40 233,52 230,52" stroke-linejoin="round" width="11" height="24" fill="rgb(58,190,78)" stroke="rgb(46,152,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remC
+RemC protein</title>
+			<polygon class="remC
+RemC protein" points="244,10 252,40 244,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="244,28 245,28 249,40 245,52 244,52" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remI
+RemI protein</title>
+			<polygon class="remI
+RemI protein" points="253,10 268,40 253,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<polygon class="PF10604" points="253,28 258,28 264,40 258,52 253,52" stroke-linejoin="round" width="13" height="24" fill="rgb(170,214,69)" stroke="rgb(136,171,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remJ
+RemJ protein</title>
+			<polygon class="remJ
+RemJ protein" points="270,25 273,25 273,10 303,40 273,70 273,55 270,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PfkB (PF00294)
+"pfkB family carbohydrate kinase"</title>
+				<polygon class="PF00294" points="270,28 287,28 299,40 299,40 287,52 270,52" stroke-linejoin="round" width="29" height="24" fill="rgb(94,207,198)" stroke="rgb(75,165,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remK
+RemK protein</title>
+			<polygon class="remK
+RemK protein" points="309,10 325,40 309,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PEMT (PF04191)
+"Phospholipid methyltransferase"</title>
+				<polygon class="PF04191" points="310,28 315,28 320,37 320,43 315,52 310,52" stroke-linejoin="round" width="10" height="24" fill="rgb(207,152,99)" stroke="rgb(165,121,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remL
+RemL protein</title>
+			<polygon class="remL
+RemL protein" points="325,10 352,40 325,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cyclase (PF04199)
+"Putative cyclase"</title>
+				<polygon class="PF04199" points="325,28 337,28 344,35 344,45 337,52 325,52" stroke-linejoin="round" width="19" height="24" fill="rgb(145,90,187)" stroke="rgb(115,72,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remE
+RemE protein</title>
+			<polygon class="remE
+RemE protein" points="356,25 368,25 368,10 398,40 368,70 368,55 356,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<polygon class="PF00698" points="365,28 382,28 394,40 382,52 365,52" stroke-linejoin="round" width="31" height="24" fill="rgb(132,93,193)" stroke="rgb(105,74,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remM
+RemM protein</title>
+			<polygon class="remM
+RemM protein" points="400,10 419,40 400,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="402" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(148,50,185)" stroke="rgb(118,40,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_C_11 (PF16859)
+"Tetracyclin repressor-like, C-terminal domain"</title>
+				<polygon class="PF16859" points="408,28 408,28 416,40 408,52 408,52" stroke-linejoin="round" width="10" height="24" fill="rgb(170,197,93)" stroke="rgb(136,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remO
+RemO protein</title>
+			<polygon class="remO
+RemO protein" points="460,25 450,25 450,10 420,40 450,70 450,55 460,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<polygon class="PF01494" points="425,39 436,28 459,28 459,52 436,52 425,41" stroke-linejoin="round" width="34" height="24" fill="rgb(215,66,156)" stroke="rgb(172,52,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remN
+RemN protein</title>
+			<polygon class="remN
+RemN protein" points="513,25 492,25 492,10 462,40 492,70 492,55 513,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="473,33 478,28 512,28 512,52 478,52 473,47" stroke-linejoin="round" width="39" height="24" fill="rgb(228,207,98)" stroke="rgb(182,165,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>remP
+RemP protein</title>
+			<polygon class="remP
+RemP protein" points="516,40 538,10 538,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="520,40 522,37 522,43" stroke-linejoin="round" width="5" height="24" fill="rgb(225,67,110)" stroke="rgb(180,53,88)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="526,32 529,28 537,28 537,52 529,52 526,48" stroke-linejoin="round" width="11" height="24" fill="rgb(59,131,198)" stroke="rgb(47,104,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

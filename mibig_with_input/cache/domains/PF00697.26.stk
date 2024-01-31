@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000727.1_ORF10:gid:sa1:pid:ACK77750.1:loc:8506:9196:strand:+:8:218         vqvagii-------DAEEAALLAEEGVDWFGFPLrLPSGKDDISEAAATEIIAGLKapQE....GVLISYMTDADEISAFTTQLGVKAVQLHGDVEPEQLRKLkanRPD..LYVLKSLVVKEDNAeeLLKLVDEVADV.vDMFITDtfnpatGAKGATGLTHDWNVSAELVRRspKPLMMAGGLSPENVADAIR...FVK
+#=GR BGC0000727.1_ORF10:gid:sa1:pid:ACK77750.1:loc:8506:9196:strand:+:8:218 PP 8766555.......5555666666666655554413455778888889999887763144....777778899*********************844444444011456..7899***99997666777888888887.89*********99889**********9999987789*******************...***
+BGC0001073.1_ORF10:gid::pid:AFJ52666.1:loc:15159:15855:strand:+:4:217          ......v-KICGVESARDVDLLRDCGVDLVGVWCgVAGGPRDLPVGRAAALVARAA..AApgcrPVLVTTLADERRLRDVVARTGARWVQLHGWQPPALVRRL...KAEpgLTVVKVLHVREGSC.pEQRLVPAYERAgtDLFLLDal.apdGRVGSTGSPVGVAAALAVADRctRPFLLAGGISAANRAAHDAvvaHPL
+#=GR BGC0001073.1_ORF10:gid::pid:AFJ52666.1:loc:15159:15855:strand:+:4:217  PP ......6.778888888888888888877776431555677777777777776666..44456677788888888889999999999********77777777...6543389999999988544.45555555554444********.99877888999999888777776678*************776555545677
+#=GC PP_cons                                                                   ........77888866777777777776666544.455677888888888887766..44....777778889999999999************966665555...555..8899***9998655..66666666666..******......888999999999998888877..*************988877...888
+#=GC RF                                                                        .......xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxx..xx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxx..xxxxxxxxxxxxxx..xxxxxxxxxxx..xxxxxx......xxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxx...xxx
+
+BGC0000727.1_ORF10:gid:sa1:pid:ACK77750.1:loc:8506:9196:strand:+:8:218         PAAVDAHSLLEGDdRRKDRAKVAKFVA-e...
+#=GR BGC0000727.1_ORF10:gid:sa1:pid:ACK77750.1:loc:8506:9196:strand:+:8:218 PP *************9***********95.7...
+BGC0001073.1_ORF10:gid::pid:AFJ52666.1:loc:15159:15855:strand:+:4:217          YRGVDVDGAARDDrGRLDARRVGE----llra
+#=GR BGC0001073.1_ORF10:gid::pid:AFJ52666.1:loc:15159:15855:strand:+:4:217  PP 789***999888888888877755....5679
+#=GC PP_cons                                                                   99******99999.9999998887*95.....
+#=GC RF                                                                        xxxxxxxxxxxxx.xxxxxxxxxxxxxx....
+//

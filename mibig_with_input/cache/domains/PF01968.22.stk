@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1698:gid::pid::loc:1907819:1908524:strand:+:6:82         ngfpressip----------------------------------------------------------------------------------------------------------VTIGGVHTNFRMPDVLTIGLAGGTCV-KGEKDNIKIGPESVGYRITEDAIIFGGDTLTLSDVV---------------------
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1698:gid::pid::loc:1907819:1908524:strand:+:6:82 PP **99877655..........................................................................................................5679**********************.********************9************975.....................
+BGC0000381.1_ORF1:gid:hyuA1:pid:AAU39353.1:loc:0:2055:strand:+:205:491                        ..........RTVMSVANLYIKPNIHHYFGTLKERLVQEGISAQPFITQSNGGLMDIESAAEAPVKTLFSGPAAGVIGSIRTAEAAGEANIITFDVGGTSADISIVEKGEPTFTQSNQISGFPIAIPSVAMYSIGAGGGSVAWIDSGGLLKVGPESVGSDPGPACYGKGT-KAALTDAFLICHYLNPNRFA---AGNMKL
+#=GR BGC0000381.1_ORF1:gid:hyuA1:pid:AAU39353.1:loc:0:2055:strand:+:205:491                PP ..........78999***********************************************************************************************************************************************************.********************...9*****
+#=GC PP_cons                                                                                  ..........78999*****************************************************************************************************789**********************************************************98************...9*****
+#=GC RF                                                                                       ..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1698:gid::pid::loc:1907819:1908524:strand:+:6:82         -----------------------------------------------------------------------------------------------------tkldm
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1698:gid::pid::loc:1907819:1908524:strand:+:6:82 PP .....................................................................................................66789
+BGC0000381.1_ORF1:gid:hyuA1:pid:AAU39353.1:loc:0:2055:strand:+:205:491                        YRERAEKALLPVAEYLGTDVEQAADKMIQVALANMYTELSNVMEQHGFDPREFSLMAFGGAGPVTANFLAEEIQAKNVLIPPHPGTLSALGALTADFIY--da...
+#=GR BGC0000381.1_ORF1:gid:hyuA1:pid:AAU39353.1:loc:0:2055:strand:+:205:491                PP ************************************************************************************************976..58...
+#=GC PP_cons                                                                                  ************************************************************************************************976.......
+#=GC RF                                                                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....
+//

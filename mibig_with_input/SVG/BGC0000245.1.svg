@@ -1,0 +1,451 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1226.7333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1216.7333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ORF_P
+sulfate adenylyltransferase</title>
+			<polygon class="ORF_P
+sulfate adenylyltransferase" points="10,40 31,10 31,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PAPS_reduct (PF01507)
+"Phosphoadenosine phosphosulfate reductase family"</title>
+				<polygon class="PF01507" points="14,40 23,28 27,28 27,52 23,52" stroke-linejoin="round" width="17" height="24" fill="rgb(213,105,67)" stroke="rgb(170,84,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ORF_Q
+adenylylsulfate kinase</title>
+			<polygon class="ORF_Q
+adenylylsulfate kinase" points="31,40 48,10 48,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APS_kinase (PF01583)
+"Adenylylsulphate kinase"</title>
+				<polygon class="PF01583" points="34,40 41,28 47,28 47,52 41,52" stroke-linejoin="round" width="15" height="24" fill="rgb(215,100,220)" stroke="rgb(171,80,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ORF_R
+phosphoadenosine phosphosulfate reductase</title>
+			<polygon class="ORF_R
+phosphoadenosine phosphosulfate reductase" points="50,40 73,10 73,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PAPS_reduct (PF01507)
+"Phosphoadenosine phosphosulfate reductase family"</title>
+				<polygon class="PF01507" points="54,40 63,28 68,28 68,52 63,52" stroke-linejoin="round" width="16" height="24" fill="rgb(213,105,67)" stroke="rgb(170,84,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ORF_X
+nitrite/sulphite reductase</title>
+			<polygon class="ORF_X
+nitrite/sulphite reductase" points="135,25 109,25 109,10 79,40 109,70 109,55 135,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NIR_SIR (PF01077)
+"Nitrite and sulphite reductase 4Fe-4S domain"</title>
+				<polygon class="PF01077" points="83,40 93,30 93,50" stroke-linejoin="round" width="14" height="24" fill="rgb(97,212,112)" stroke="rgb(77,169,89)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NIR_SIR_ferr (PF03460)
+"Nitrite/Sulfite reductase ferredoxin-like half domain"</title>
+				<polygon class="PF03460" points="94,29 95,28 100,28 100,52 95,52 94,51" stroke-linejoin="round" width="6" height="24" fill="rgb(185,149,81)" stroke="rgb(148,119,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NIR_SIR (PF01077)
+"Nitrite and sulphite reductase 4Fe-4S domain"</title>
+				<rect class="PF01077" x="102" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(97,212,112)" stroke="rgb(77,169,89)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NIR_SIR_ferr (PF03460)
+"Nitrite/Sulfite reductase ferredoxin-like half domain"</title>
+				<rect class="PF03460" x="119" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(185,149,81)" stroke="rgb(148,119,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ORF_Y
+acetyltransferase</title>
+			<polygon class="ORF_Y
+acetyltransferase" points="148,40 167,10 167,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="152,40 160,28 162,28 162,52 160,52" stroke-linejoin="round" width="12" height="24" fill="rgb(91,221,217)" stroke="rgb(72,176,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF30
+repressor-response regulator</title>
+			<polygon class="med-ORF30
+repressor-response regulator" points="176,10 198,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<rect class="PF00072" x="176" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(59,131,198)" stroke="rgb(47,104,158)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="190,34 194,40 190,46" stroke-linejoin="round" width="7" height="24" fill="rgb(69,185,116)" stroke="rgb(55,148,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF26
+putative disulphide-forming protein</title>
+			<polygon class="med-ORF26
+putative disulphide-forming protein" points="201,40 221,10 221,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DSBA (PF01323)
+"DSBA-like thioredoxin domain"</title>
+				<polygon class="PF01323" points="205,40 213,28 220,28 220,52 213,52" stroke-linejoin="round" width="19" height="24" fill="rgb(203,114,66)" stroke="rgb(162,91,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF25
+transmembrane transport protein</title>
+			<polygon class="med-ORF25
+transmembrane transport protein" points="274,25 252,25 252,10 222,40 252,70 252,55 274,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="233,33 238,28 271,28 271,52 238,52 233,47" stroke-linejoin="round" width="38" height="24" fill="rgb(228,207,98)" stroke="rgb(182,165,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF29
+enoyl reductase</title>
+			<polygon class="med-ORF29
+enoyl reductase" points="308,25 304,25 304,10 274,40 304,70 304,55 308,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="280,38 290,28 292,28 292,52 290,52 280,42" stroke-linejoin="round" width="12" height="24" fill="rgb(79,114,198)" stroke="rgb(63,91,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF28
+Tet-R family transcriptional regulator</title>
+			<polygon class="med-ORF28
+Tet-R family transcriptional regulator" points="311,10 332,40 311,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="312" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(148,50,185)" stroke="rgb(118,40,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF27
+unknown</title>
+			<polygon class="med-ORF27
+unknown" points="368,25 364,25 364,10 334,40 364,70 364,55 368,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>med-ORF23
+acyl carrier protein (ACP)</title>
+			<polygon class="med-ORF23
+acyl carrier protein (ACP)" points="383,10 392,40 383,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="384,28 385,28 389,40 385,52 384,52" stroke-linejoin="round" width="7" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF24
+phosphopantetheinyl transferase</title>
+			<polygon class="med-ORF24
+phosphopantetheinyl transferase" points="394,10 417,40 394,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACPS (PF01648)
+"4'-phosphopantetheinyl transferase superfamily"</title>
+				<polygon class="PF01648" points="405,29 414,40 414,40 405,51" stroke-linejoin="round" width="9" height="24" fill="rgb(58,190,78)" stroke="rgb(46,152,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF22
+decarboxylase</title>
+			<polygon class="med-ORF22
+decarboxylase" points="419,25 442,25 442,10 472,40 442,70 442,55 419,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Carboxyl_trans (PF01039)
+"Carboxyl transferase domain"</title>
+				<polygon class="PF01039" points="424,28 456,28 468,40 456,52 424,52" stroke-linejoin="round" width="48" height="24" fill="rgb(185,80,158)" stroke="rgb(148,64,126)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF19
+first ring aromatase (ARO)</title>
+			<polygon class="med-ORF19
+first ring aromatase (ARO)" points="474,25 475,25 475,10 505,40 475,70 475,55 474,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<rect class="PF10604" x="474" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(170,214,69)" stroke="rgb(136,171,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<polygon class="PF10604" points="490,29 501,40 490,51" stroke-linejoin="round" width="15" height="24" fill="rgb(170,214,69)" stroke="rgb(136,171,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF20
+NDP-deoxyhexose 3-aminotransferase</title>
+			<polygon class="med-ORF20
+NDP-deoxyhexose 3-aminotransferase" points="507,25 514,25 514,10 544,40 514,70 514,55 507,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="508,28 528,28 540,40 528,52 508,52" stroke-linejoin="round" width="35" height="24" fill="rgb(228,110,183)" stroke="rgb(182,88,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF18
+NDP-1-glucose synthase</title>
+			<polygon class="med-ORF18
+NDP-1-glucose synthase" points="545,25 550,25 550,10 580,40 550,70 550,55 545,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="545,28 564,28 568,32 568,48 564,52 545,52" stroke-linejoin="round" width="23" height="24" fill="rgb(211,145,90)" stroke="rgb(168,116,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF17
+NDP-glucose-4,6-dehydratase</title>
+			<polygon class="med-ORF17
+NDP-glucose-4,6-dehydratase" points="580,25 583,25 583,10 613,40 583,70 583,55 580,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDP_Man_Dehyd (PF16363)
+"GDP-mannose 4,6 dehydratase"</title>
+				<polygon class="PF16363" points="580,28 597,28 609,40 597,52 580,52" stroke-linejoin="round" width="30" height="24" fill="rgb(50,144,195)" stroke="rgb(40,115,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF16
+NDP-deoxyglucose-2,3-dehydratase</title>
+			<polygon class="med-ORF16
+NDP-deoxyglucose-2,3-dehydratase" points="614,25 632,25 632,10 662,40 632,70 632,55 614,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexose_dehydrat (PF03559)
+"NDP-hexose 2,3-dehydratase"</title>
+				<rect class="PF03559" x="618" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(56,139,184)" stroke="rgb(44,111,147)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexose_dehydrat (PF03559)
+"NDP-hexose 2,3-dehydratase"</title>
+				<polygon class="PF03559" points="640,28 645,28 657,40 645,52 640,52" stroke-linejoin="round" width="20" height="24" fill="rgb(56,139,184)" stroke="rgb(44,111,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF15
+N-methyl transferase</title>
+			<polygon class="med-ORF15
+N-methyl transferase" points="663,10 687,40 663,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="667,28 673,28 676,31 676,49 673,52 667,52" stroke-linejoin="round" width="9" height="24" fill="rgb(224,103,106)" stroke="rgb(179,82,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF14
+NDP-4-keto-6-deoxyhexose reductase</title>
+			<polygon class="med-ORF14
+NDP-4-keto-6-deoxyhexose reductase" points="687,25 689,25 689,10 719,40 689,70 689,55 687,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="688,28 703,28 711,36 711,44 703,52 688,52" stroke-linejoin="round" width="23" height="24" fill="rgb(215,89,157)" stroke="rgb(172,71,125)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF21
+putative carbohydrate kinase</title>
+			<polygon class="med-ORF21
+putative carbohydrate kinase" points="721,25 724,25 724,10 754,40 724,70 724,55 721,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PfkB (PF00294)
+"pfkB family carbohydrate kinase"</title>
+				<polygon class="PF00294" points="722,28 738,28 750,40 750,40 738,52 722,52" stroke-linejoin="round" width="28" height="24" fill="rgb(94,207,198)" stroke="rgb(75,165,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF13
+NADH:FMN oxidoreductase</title>
+			<polygon class="med-ORF13
+NADH:FMN oxidoreductase" points="757,40 773,10 773,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavin_Reduct (PF01613)
+"Flavin reductase like domain"</title>
+				<polygon class="PF01613" points="760,40 767,28 771,28 771,52 767,52" stroke-linejoin="round" width="14" height="24" fill="rgb(223,100,227)" stroke="rgb(178,80,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF12
+stereospecific keto reductase</title>
+			<polygon class="med-ORF12
+stereospecific keto reductase" points="807,25 805,25 805,10 775,40 805,70 805,55 807,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>3HCDH (PF00725)
+"3-hydroxyacyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00725" points="779,40 788,31 788,49 779,40" stroke-linejoin="round" width="9" height="24" fill="rgb(176,205,94)" stroke="rgb(140,164,75)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>3HCDH_N (PF02737)
+"3-hydroxyacyl-CoA dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02737" points="789,30 791,28 806,28 806,52 791,52 789,50" stroke-linejoin="round" width="17" height="24" fill="rgb(207,58,199)" stroke="rgb(165,46,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF11
+pathway-specific transcriptional activator (SARP)</title>
+			<polygon class="med-ORF11
+pathway-specific transcriptional activator (SARP)" points="814,10 839,40 814,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<rect class="PF00486" x="815" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(69,185,116)" stroke="rgb(55,148,92)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BTAD (PF03704)
+"Bacterial transcriptional activator domain"</title>
+				<polygon class="PF03704" points="824,28 826,28 835,40 826,52 824,52" stroke-linejoin="round" width="14" height="24" fill="rgb(174,224,58)" stroke="rgb(139,179,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF10
+unknown (ActVI-A homologue)</title>
+			<polygon class="med-ORF10
+unknown (ActVI-A homologue)" points="840,10 854,40 840,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SnoaL_4 (PF13577)
+"SnoaL-like domain"</title>
+				<polygon class="PF13577" points="840,28 845,28 851,40 845,52 840,52" stroke-linejoin="round" width="12" height="24" fill="rgb(58,198,190)" stroke="rgb(46,158,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF9
+enoyl reductase</title>
+			<polygon class="med-ORF9
+enoyl reductase" points="856,25 860,25 860,10 890,40 860,70 860,55 856,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="871,28 873,28 884,39 884,41 873,52 871,52" stroke-linejoin="round" width="13" height="24" fill="rgb(79,114,198)" stroke="rgb(63,91,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF8
+C-glycosyl transferase</title>
+			<polygon class="med-ORF8
+C-glycosyl transferase" points="890,25 897,25 897,10 927,40 897,70 897,55 890,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EryCIII-like_N (PF21036)
+"Erythromycin biosynthesis protein CIII-like, N-terminal domain"</title>
+				<rect class="PF21036" x="892" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(205,88,112)" stroke="rgb(164,70,89)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EryCIII-like_C (PF06722)
+"Erythromycin biosynthesis protein CIII-like, C-terminal domain"</title>
+				<polygon class="PF06722" points="913,30 923,40 913,50" stroke-linejoin="round" width="14" height="24" fill="rgb(48,103,191)" stroke="rgb(38,82,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF5
+pyran ring cyclase/possible exporter (ActVI-3 homologue)</title>
+			<polygon class="med-ORF5
+pyran ring cyclase/possible exporter (ActVI-3 homologue)" points="930,40 951,10 951,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>med-ORF6
+keto reductase (KR)</title>
+			<polygon class="med-ORF6
+keto reductase (KR)" points="961,10 987,40 961,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="961,28 973,28 980,37 980,43 973,52 961,52" stroke-linejoin="round" width="19" height="24" fill="rgb(128,81,196)" stroke="rgb(102,64,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF7
+oxygenase/hydroxylase</title>
+			<polygon class="med-ORF7
+oxygenase/hydroxylase" points="989,25 997,25 997,10 1027,40 997,70 997,55 989,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl-CoA_dh_N (PF02771)
+"Acyl-CoA dehydrogenase, N-terminal domain"</title>
+				<rect class="PF02771" x="989" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(104,198,213)" stroke="rgb(83,158,170)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_2 (PF08028)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF08028" points="1012,30 1022,40 1012,50" stroke-linejoin="round" width="13" height="24" fill="rgb(61,169,203)" stroke="rgb(48,135,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF1
+ketosynthase (KS) alpha subunit</title>
+			<polygon class="med-ORF1
+ketosynthase (KS) alpha subunit" points="1031,25 1043,25 1043,10 1073,40 1043,70 1043,55 1031,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="1031" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="1057,28 1057,28 1068,39 1068,41 1057,52 1057,52" stroke-linejoin="round" width="11" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF2
+ketosynthase (KS) beta subunit</title>
+			<polygon class="med-ORF2
+ketosynthase (KS) beta subunit" points="1074,25 1084,25 1084,10 1114,40 1084,70 1084,55 1074,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="1074" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="1099,29 1109,39 1109,41 1099,51" stroke-linejoin="round" width="10" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF3
+second ring cyclase (CYC)</title>
+			<polygon class="med-ORF3
+second ring cyclase (CYC)" points="1114,25 1114,25 1114,10 1144,40 1114,70 1114,55 1114,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B (PF00753)
+"Metallo-beta-lactamase superfamily"</title>
+				<polygon class="PF00753" points="1116,28 1128,28 1134,34 1134,46 1128,52 1116,52" stroke-linejoin="round" width="18" height="24" fill="rgb(70,201,123)" stroke="rgb(56,160,98)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>med-ORF4
+putative secreted chitosanase</title>
+			<polygon class="med-ORF4
+putative secreted chitosanase" points="1189,25 1178,25 1178,10 1148,40 1178,70 1178,55 1189,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_hydro_46 (PF01374)
+"Glycosyl hydrolase family 46"</title>
+				<polygon class="PF01374" points="1152,40 1164,28 1169,28 1169,52 1164,52" stroke-linejoin="round" width="20" height="24" fill="rgb(90,203,117)" stroke="rgb(72,162,93)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>F5_F8_type_C (PF00754)
+"F5/8 type C domain"</title>
+				<rect class="PF00754" x="1172" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(209,70,198)" stroke="rgb(167,56,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ORF_Z
+putative regulatory protein</title>
+			<polygon class="ORF_Z
+putative regulatory protein" points="1200,40 1216,10 1216,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

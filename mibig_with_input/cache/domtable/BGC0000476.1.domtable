@@ -1,0 +1,14 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF5837              PF19155.4     63 BGC0000476.1_ORF1:gid:patE:pid:ABI99461.1:loc:11:227:strand:+ -             71   5.7e-24   84.4   0.3   1   1   3.6e-28   7.5e-24   84.0   0.3     1    61     1    70     1    71 0.91 Family of unknown function (DUF5837)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000476.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000476.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000476.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:16:05 2024
+# [ok]

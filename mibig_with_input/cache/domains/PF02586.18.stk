@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000206.1_ORF29:gid:chaQ:pid:CAH10180.1:loc:28943:29690:strand:+:1:234         MCGRYASTRSPQDLAQLFEVTEWHPEETLAPSWNVAPTDDVWAVLERAPRgsDddapavRRLRPLRWGLVPSWAKDVKIGARMINARVETVHEKPAFRRAFVKRRCLLPADGFYEWdqvKdaKSGKvRKQPYFIHPEDGQVLALAGLYEFWRDpavKDGddpaAWLLTCTIITTEATDAAGRIHPRMPLALTPEHYDAWL
+#=GR BGC0000206.1_ORF29:gid:chaQ:pid:CAH10180.1:loc:28943:29690:strand:+:1:234 PP *******************9999999*******************98877651567778*********************************************************6442433332377**********************9977734466789************************************
+BGC0000207.1_ORF8:gid:chaQ:pid:CAH10180.1:loc:9394:10141:strand:+:1:234           MCGRYASTRSPQDLAQLFEVTEWHPEETLAPSWNVAPTDDVWAVLERAPRgsDddapavRRLRPLRWGLVPSWAKDVKIGARMINARVETVHEKPAFRRAFVKRRCLLPADGFYEWdqvKdaKSGKvRKQPYFIHPEDGQVLALAGLYEFWRDpavKDGddpaAWLLTCTIITTEATDAAGRIHPRMPLALTPEHYDAWL
+#=GR BGC0000207.1_ORF8:gid:chaQ:pid:CAH10180.1:loc:9394:10141:strand:+:1:234   PP *******************9999999*******************98877651567778*********************************************************6442433332377**********************9977734466789************************************
+#=GC PP_cons                                                                      *******************9999999*******************98877..1......*********************************************************...2..3332.77**********************99...344....9************************************
+#=GC RF                                                                           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..x......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...x..xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx...xxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000206.1_ORF29:gid:chaQ:pid:CAH10180.1:loc:28943:29690:strand:+:1:234         DPHHQSTDDLRALLTTPADGQLDARPVSPAVNSV
+#=GR BGC0000206.1_ORF29:gid:chaQ:pid:CAH10180.1:loc:28943:29690:strand:+:1:234 PP ************99777788************96
+BGC0000207.1_ORF8:gid:chaQ:pid:CAH10180.1:loc:9394:10141:strand:+:1:234           DPHHQSTDDLRALLTTPADGQLDARPVSPAVNSV
+#=GR BGC0000207.1_ORF8:gid:chaQ:pid:CAH10180.1:loc:9394:10141:strand:+:1:234   PP ************99777788************96
+#=GC PP_cons                                                                      ************99777788************96
+#=GC RF                                                                           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

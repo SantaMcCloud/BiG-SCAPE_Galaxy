@@ -1,0 +1,16 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NmrA                 PF05368.17   236 BGC0001306.1_ORF1:gid::pid:EED52435.1:loc:0:946:strand:+ -            297   1.4e-26   93.6   0.1   1   1   1.8e-30   1.8e-26   93.2   0.1     1   231     5   225     5   258 0.90 NmrA-like family
+NAD_binding_10       PF13460.10   184 BGC0001306.1_ORF1:gid::pid:EED52435.1:loc:0:946:strand:+ -            297   2.5e-17   63.6   0.0   1   1   3.5e-21   3.7e-17   63.0   0.0     1   140     9   141     9   157 0.85 NAD(P)H-binding
+UstYa                PF11807.12   220 BGC0001306.1_ORF3:gid::pid:EED52437.1:loc:3269:4417:strand:- -            334   4.9e-63  213.1   0.8   1   1   3.2e-67   6.7e-63  212.7   0.8     7   220    53   278    49   278 0.94 Mycotoxin biosynthesis protein UstYa
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001306.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001306.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001306.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:16:15 2024
+# [ok]

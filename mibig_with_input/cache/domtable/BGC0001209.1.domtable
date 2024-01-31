@@ -1,0 +1,18 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.20   347 BGC0001209.1_ORF1:gid::pid:ABJ66528.1:loc:0:1092:strand:- -            363     3e-18   66.1  30.4   1   1   4.1e-16   8.6e-12   44.8  24.9     4   290     8   270     5   290 0.72 Major Facilitator Superfamily
+Radical_SAM          PF04055.25   167 BGC0001209.1_ORF2:gid::pid:ABJ66529.1:loc:1088:2408:strand:- -            439   2.4e-21   76.8   0.2   1   1   5.3e-25   5.5e-21   75.6   0.2     3   167   113   265   111   265 0.93 Radical SAM superfamily
+SPASM                PF13186.10    66 BGC0001209.1_ORF2:gid::pid:ABJ66529.1:loc:1088:2408:strand:- -            439   7.1e-05   23.2   0.1   1   1     2e-08   0.00021   21.7   0.1     1    65   347   409   347   410 0.77 Iron-sulfur cluster-binding domain
+Rgg_C                PF21259.1    182 BGC0001209.1_ORF4:gid::pid:ABJ66531.1:loc:2652:3513:strand:- -            286     6e-65  218.5  11.3   1   1     8e-69   8.3e-65  218.1  11.3     9   181   103   276    93   277 0.94 HTH-type transcriptional regulator Rgg, C-terminal domain
+HTH_3                PF01381.26    55 BGC0001209.1_ORF4:gid::pid:ABJ66531.1:loc:2652:3513:strand:- -            286   5.9e-08   32.8   0.0   1   1   9.9e-12     1e-07   32.0   0.0     2    55     9    61     8    61 0.94 Helix-turn-helix
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001209.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001209.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001209.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:59:39 2024
+# [ok]

@@ -1,0 +1,46 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="196.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="186.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+MSAS-type polyketide synthase</title>
+			<polygon class="
+MSAS-type polyketide synthase" points="10,25 156,25 156,10 186,40 156,70 156,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="12" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="38" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="50" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(200,86,70)" stroke="rgb(160,68,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="66" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(132,93,193)" stroke="rgb(105,74,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PKS_DH_N (PF21089)
+"Polyketide synthase dehydratase domain"</title>
+				<rect class="PF21089" x="102" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(67,151,200)" stroke="rgb(53,120,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="150" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(203,145,81)" stroke="rgb(162,116,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="179,37 182,40 179,43" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

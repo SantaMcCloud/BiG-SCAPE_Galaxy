@@ -1,0 +1,51 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="351.2" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="341.2" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>PKS1
+polyketide synthase</title>
+			<polygon class="PKS1
+polyketide synthase" points="32,25 221,25 221,10 251,40 221,70 221,55 32,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SAT (PF16073)
+"Starter unit:ACP transacylase in aflatoxin biosynthesis"</title>
+				<rect class="PF16073" x="32" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(77,185,114)" stroke="rgb(61,148,91)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="69" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="94" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="122" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(132,93,193)" stroke="rgb(105,74,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase N-terminal domain"</title>
+				<rect class="PF14765" x="176" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(189,61,178)" stroke="rgb(151,48,142)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="198" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="211" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="223,28 234,28 246,40 234,52 223,52" stroke-linejoin="round" width="24" height="24" fill="rgb(69,76,223)" stroke="rgb(55,60,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,39 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.24   456 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903         0 1337.0   0.4   1  10   8.1e-36   4.2e-32  111.6   0.0    35   442   572   954   534   962 0.83 Condensation domain
+Condensation         PF00668.24   456 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903         0 1337.0   0.4   2  10   3.8e-39     2e-35  122.6   0.0     5   440  1613  2048  1609  2063 0.81 Condensation domain
+Condensation         PF00668.24   456 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903         0 1337.0   0.4   3  10   5.2e-55   2.7e-51  174.9   0.0     3   455  2091  2523  2090  2524 0.87 Condensation domain
+Condensation         PF00668.24   456 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903         0 1337.0   0.4   4  10   1.3e-36   6.5e-33  114.3   0.3     5   437  3174  3613  3171  3625 0.81 Condensation domain
+Condensation         PF00668.24   456 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903         0 1337.0   0.4   5  10   1.7e-59   8.6e-56  189.7   0.0     2   455  3655  4093  3654  4094 0.87 Condensation domain
+Condensation         PF00668.24   456 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903         0 1337.0   0.4   6  10     5e-32   2.6e-28   99.1   0.0     2   452  4775  5192  4774  5195 0.84 Condensation domain
+Condensation         PF00668.24   456 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903         0 1337.0   0.4   7  10   5.7e-40   2.9e-36  125.3   0.0     2   455  5875  6291  5874  6292 0.82 Condensation domain
+Condensation         PF00668.24   456 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903         0 1337.0   0.4   8  10   5.9e-41   3.1e-37  128.6   0.0     3   435  6923  7349  6921  7354 0.82 Condensation domain
+Condensation         PF00668.24   456 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903         0 1337.0   0.4   9  10   1.4e-55   7.4e-52  176.7   0.0     2   455  7391  7823  7390  7824 0.88 Condensation domain
+Condensation         PF00668.24   456 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903         0 1337.0   0.4  10  10   6.8e-21   3.5e-17   62.4   0.0     3   443  8482  8897  8480  8901 0.83 Condensation domain
+AMP-binding          PF00501.32   382 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903         0 1296.5  36.9   1   6   8.3e-67   4.3e-63  213.6   0.6     4   382   988  1330   985  1330 0.85 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903         0 1296.5  36.9   2   6   1.1e-73   5.9e-70  236.2   0.4     5   382  2546  2887  2542  2887 0.86 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903         0 1296.5  36.9   3   6   1.2e-61   6.2e-58  196.6   1.2     3   382  4114  4457  4112  4457 0.81 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903         0 1296.5  36.9   4   6   8.6e-75   4.5e-71  239.9   0.2     3   382  5216  5558  5214  5558 0.87 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903         0 1296.5  36.9   5   6   7.9e-65   4.1e-61  207.1   2.9     2   382  6311  6645  6310  6645 0.86 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903         0 1296.5  36.9   6   6   1.2e-70   6.2e-67  226.2   0.6     3   382  7844  8185  7842  8185 0.83 AMP-binding enzyme
+PP-binding           PF00550.29    67 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903   8.5e-93  304.8   8.8   1   7   3.2e-13   1.6e-09   38.0   0.6     5    65    19    78    15    80 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903   8.5e-93  304.8   8.8   2   7   4.5e-17   2.4e-13   50.3   0.0     1    64  1531  1593  1531  1595 0.97 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903   8.5e-93  304.8   8.8   3   7     2e-16     1e-12   48.3   0.0     2    64  3092  3153  3091  3154 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903   8.5e-93  304.8   8.8   4   7     7e-13   3.6e-09   36.9   0.1     2    66  4657  4720  4656  4721 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903   8.5e-93  304.8   8.8   5   7     5e-15   2.6e-11   43.8   0.0     2    66  5761  5824  5760  5825 0.97 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903   8.5e-93  304.8   8.8   6   7   1.6e-16   8.3e-13   48.6   0.0     1    67  6843  6908  6843  6908 0.97 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0000456.1_ORF1:gid:vlmS:pid:BAO73252.1:loc:0:26762:strand:+ -           8903   8.5e-93  304.8   8.8   7   7   2.4e-12   1.3e-08   35.2   0.0     5    67  8379  8440  8375  8440 0.87 Phosphopantetheine attachment site
+FA_hydroxylase       PF04116.17   132 BGC0000456.1_ORF2:gid:vlmA:pid:BAO73253.1:loc:26862:27960:strand:+ -            365   1.8e-23   83.6   6.4   1   1   1.9e-27     4e-23   82.5   6.4     3   132   189   335   187   335 0.75 Fatty acid hydroxylase
+AMP-binding          PF00501.32   382 BGC0000456.1_ORF4:gid:vlmC:pid:BAO73255.1:loc:110640:112685:strand:+ -            580   1.7e-41  142.5   0.0   1   1   2.1e-45   2.2e-41  142.1   0.0    18   381    51   423    37   424 0.78 AMP-binding enzyme
+AMP-binding_C        PF13193.10    76 BGC0000456.1_ORF4:gid:vlmC:pid:BAO73255.1:loc:110640:112685:strand:+ -            580   6.6e-15   56.0   0.1   1   1   1.4e-18   1.5e-14   54.9   0.1     1    76   480   562   480   562 0.89 AMP-binding enzyme C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000456.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000456.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000456.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:21:54 2024
+# [ok]

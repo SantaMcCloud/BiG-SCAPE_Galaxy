@@ -1,0 +1,29 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GMC_oxred_C          PF05199.17   142 BGC0000894.1_ORF1:gid:ctnD:pid:ACA34720.1:loc:395:2312:strand:- -            622   6.5e-34  117.7   0.7   1   1   1.4e-37   1.5e-33  116.5   0.7     1   142   470   604   470   604 0.89 GMC oxidoreductase
+GMC_oxred_N          PF00732.23   218 BGC0000894.1_ORF1:gid:ctnD:pid:ACA34720.1:loc:395:2312:strand:- -            622     1e-33  117.2   0.0   1   1   1.7e-37   1.8e-33  116.4   0.0     1   217    14   323    14   324 0.91 GMC oxidoreductase
+adh_short            PF00106.29   195 BGC0000894.1_ORF2:gid:ctnE:pid:ACA34721.1:loc:2521:3464:strand:- -            275   2.8e-42  144.6   0.0   1   1   4.9e-46   3.4e-42  144.3   0.0     2   193    17   215    16   217 0.91 short chain dehydrogenase
+adh_short_C2         PF13561.10   236 BGC0000894.1_ORF2:gid:ctnE:pid:ACA34721.1:loc:2521:3464:strand:- -            275     3e-38  131.9   0.1   1   1   8.5e-42   5.9e-38  131.0   0.1     1   229    22   247    22   250 0.86 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.14   180 BGC0000894.1_ORF2:gid:ctnE:pid:ACA34721.1:loc:2521:3464:strand:- -            275   2.1e-11   44.3   0.2   1   1   4.3e-15     3e-11   43.7   0.2     3   156    18   178    17   205 0.89 KR domain
+His_Phos_1           PF00300.26   194 BGC0000894.1_ORF3:gid:ctnF:pid:ACA34722.1:loc:25191:26642:strand:+ -            290   6.9e-16   58.7   0.0   1   1   6.9e-20   1.4e-15   57.6   0.0     2   183     6   196     5   200 0.81 Histidine phosphatase superfamily (branch 1)
+WD40                 PF00400.36    39 BGC0000894.1_ORF4:gid:ctnR1:pid:ACA34726.1:loc:29900:32143:strand:+ -            712   2.1e-08   34.6   1.2   1   1   1.7e-10   3.5e-06   27.5   0.1     1    39   530   568   530   568 0.88 WD domain, G-beta repeat
+Pro_CA               PF00484.23   156 BGC0000894.1_ORF5:gid:ctnG:pid:ACA34723.1:loc:33337:37824:strand:- -            585   2.6e-46  157.9   0.0   1   1   1.5e-49   5.2e-46  157.0   0.0     1   155   293   442   293   443 0.94 Carbonic anhydrase
+Ank                  PF00023.34    33 BGC0000894.1_ORF5:gid:ctnG:pid:ACA34723.1:loc:33337:37824:strand:- -            585   3.9e-13   49.0   2.3   1   2   1.3e-07   0.00045   20.6   0.4     5    31   511   537   510   539 0.91 Ankyrin repeat
+Ank                  PF00023.34    33 BGC0000894.1_ORF5:gid:ctnG:pid:ACA34723.1:loc:33337:37824:strand:- -            585   3.9e-13   49.0   2.3   2   2   8.7e-06      0.03   14.9   0.0     9    29   554   575   551   578 0.86 Ankyrin repeat
+Ank_2                PF12796.11    90 BGC0000894.1_ORF5:gid:ctnG:pid:ACA34723.1:loc:33337:37824:strand:- -            585   1.8e-11   44.6   0.4   1   1   3.1e-14   1.1e-10   42.1   0.4    11    88   491   576   486   578 0.84 Ankyrin repeats (3 copies)
+adh_short_C2         PF13561.10   236 BGC0000894.1_ORF6:gid:ctnH:pid:ACA34724.1:loc:38569:39889:strand:+ -            332   1.1e-36  126.8   1.6   1   1   3.6e-39   2.5e-35  122.4   1.6     7   234    53   302    49   303 0.90 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.29   195 BGC0000894.1_ORF6:gid:ctnH:pid:ACA34724.1:loc:38569:39889:strand:+ -            332   7.2e-28   97.6   2.5   1   1   5.2e-31   3.6e-27   95.3   2.5     1   186    43   249    43   256 0.96 short chain dehydrogenase
+KR                   PF08659.14   180 BGC0000894.1_ORF6:gid:ctnH:pid:ACA34724.1:loc:38569:39889:strand:+ -            332   3.7e-07   30.4   0.7   1   1   1.9e-10   1.3e-06   28.6   0.2     4   123    46   164    44   171 0.92 KR domain
+AMP-binding          PF00501.32   382 BGC0000894.1_ORF7:gid:ctnI:pid:ACA34725.1:loc:40183:43446:strand:+ -            799   1.3e-34  119.9   0.0   1   1   2.2e-30   2.3e-26   92.7   0.0    10   207   240   433   235   436 0.80 AMP-binding enzyme
+AMP-binding_C        PF13193.10    76 BGC0000894.1_ORF7:gid:ctnI:pid:ACA34725.1:loc:40183:43446:strand:+ -            799   3.5e-08   34.5   0.1   1   1   1.7e-11   1.7e-07   32.2   0.1     1    76   647   736   647   736 0.87 AMP-binding enzyme C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000894.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000894.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000894.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:20:17 2024
+# [ok]

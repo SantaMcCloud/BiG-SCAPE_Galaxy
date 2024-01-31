@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+BGC0000751.1_ORF2:gid:cps12A:pid:AAS77490.1:loc:649:1765:strand:+:63:91         a-NIDVVFTWVDGSDPSWQAKYSQYAPNY-q.
+#=GR BGC0000751.1_ORF2:gid:cps12A:pid:AAS77490.1:loc:649:1765:strand:+:63:91 PP 9.5***********************998.6.
+BGC0000807.1_ORF22:gid::pid:ADD45302.1:loc:22390:24172:strand:+:281:309         .FPIDAVFTWVDQADPEWQARRDAAIDA--td
+#=GR BGC0000807.1_ORF22:gid::pid:ADD45302.1:loc:22390:24172:strand:+:281:309 PP .8**********************9765..67
+BGC0000807.1_ORF23:gid::pid:ADD45303.1:loc:24159:25809:strand:+:235:263         .FPVDVVYTWVDGTDAAWQRRRAECSGE--vy
+#=GR BGC0000807.1_ORF23:gid::pid:ADD45303.1:loc:24159:25809:strand:+:235:263 PP .8***********************997..67
+#=GC PP_cons                                                                    .88*********************99878...
+#=GC RF                                                                         .xxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

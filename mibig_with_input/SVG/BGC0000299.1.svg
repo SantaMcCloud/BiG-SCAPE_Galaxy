@@ -1,0 +1,307 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1334.6" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1324.6" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (PPIS_02966)
+hypothetical protein</title>
+			<polygon class=" (PPIS_02966)
+hypothetical protein" points="134,25 40,25 40,10 10,40 40,70 40,55 134,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (PPIS_02971)
+aspartate-semialdehyde dehydrogenase</title>
+			<polygon class=" (PPIS_02971)
+aspartate-semialdehyde dehydrogenase" points="177,25 174,25 174,10 144,40 174,70 174,55 177,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Semialdhyde_dhC (PF02774)
+"Semialdehyde dehydrogenase, dimerisation domain"</title>
+				<polygon class="PF02774" points="148,40 160,28 162,28 162,52 160,52" stroke-linejoin="round" width="17" height="24" fill="rgb(193,88,215)" stroke="rgb(154,70,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Semialdhyde_dh (PF01118)
+"Semialdehyde dehydrogenase, NAD binding domain"</title>
+				<rect class="PF01118" x="165" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(206,69,95)" stroke="rgb(164,55,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PPIS_02976)
+erythronate-4-phosphate dehydrogenase</title>
+			<polygon class=" (PPIS_02976)
+erythronate-4-phosphate dehydrogenase" points="216,25 209,25 209,10 179,40 209,70 209,55 216,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3410 (PF11890)
+"Domain of unknown function (DUF3410)"</title>
+				<polygon class="PF11890" points="183,40 186,37 186,43" stroke-linejoin="round" width="7" height="24" fill="rgb(113,205,84)" stroke="rgb(90,164,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>2-Hacid_dh_C (PF02826)
+"D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02826" points="190,33 195,28 206,28 206,52 195,52 190,47" stroke-linejoin="round" width="16" height="24" fill="rgb(93,92,222)" stroke="rgb(74,73,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PPIS_02981)
+hypothetical protein</title>
+			<polygon class=" (PPIS_02981)
+hypothetical protein" points="219,40 229,10 229,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6419 (PF19983)
+"Family of unknown function (DUF6419)"</title>
+				<polygon class="PF19983" points="222,40 226,28 227,28 227,52 226,52" stroke-linejoin="round" width="7" height="24" fill="rgb(138,185,72)" stroke="rgb(110,148,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fadE (PPIS_02986)
+acyl-CoA dehydrogenase</title>
+			<polygon class="fadE (PPIS_02986)
+acyl-CoA dehydrogenase" points="248,25 299,25 299,10 329,40 299,70 299,55 248,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl-CoA_dh_N (PF02771)
+"Acyl-CoA dehydrogenase, N-terminal domain"</title>
+				<rect class="PF02771" x="260" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(104,198,213)" stroke="rgb(83,158,170)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_1 (PF00441)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<rect class="PF00441" x="284" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(96,175,206)" stroke="rgb(76,139,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACDH_C (PF09317)
+"Acyl-CoA dehydrogenase, C-terminal, bacterial type"</title>
+				<polygon class="PF09317" points="299,28 313,28 325,40 313,52 299,52" stroke-linejoin="round" width="28" height="24" fill="rgb(76,200,154)" stroke="rgb(60,160,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PPIS_02991)
+hypothetical protein</title>
+			<polygon class=" (PPIS_02991)
+hypothetical protein" points="409,25 364,25 364,10 334,40 364,70 364,55 409,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5916 (PF19313)
+"Domain of unknown function (DUF5916)"</title>
+				<polygon class="PF19313" points="338,40 350,28 370,28 370,52 350,52" stroke-linejoin="round" width="36" height="24" fill="rgb(192,109,80)" stroke="rgb(153,87,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF5916 (PF19313)
+"Domain of unknown function (DUF5916)"</title>
+				<rect class="PF19313" x="374" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(192,109,80)" stroke="rgb(153,87,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PPIS_02996)
+transcriptional regulator</title>
+			<polygon class=" (PPIS_02996)
+transcriptional regulator" points="416,25 451,25 451,10 481,40 451,70 451,55 416,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<rect class="PF00486" x="418" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(69,185,116)" stroke="rgb(55,148,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PPIS_03001)
+hypothetical protein</title>
+			<polygon class=" (PPIS_03001)
+hypothetical protein" points="517,25 512,25 512,10 482,40 512,70 512,55 517,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6136 (PF19632)
+"Family of unknown function (DUF6136)"</title>
+				<polygon class="PF19632" points="486,40 498,28 517,28 517,52 498,52" stroke-linejoin="round" width="35" height="24" fill="rgb(228,88,85)" stroke="rgb(182,70,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PPIS_03006)
+ABC transporter ATP-binding protein</title>
+			<polygon class=" (PPIS_03006)
+ABC transporter ATP-binding protein" points="517,40 536,10 536,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="521,40 529,28 534,28 534,52 529,52 521,40" stroke-linejoin="round" width="13" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PPIS_03011)
+hypothetical protein</title>
+			<polygon class=" (PPIS_03011)
+hypothetical protein" points="546,10 568,40 546,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (PPIS_03016)
+histidine ammonia-lyase</title>
+			<polygon class=" (PPIS_03016)
+histidine ammonia-lyase" points="590,25 614,25 614,10 644,40 614,70 614,55 590,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lyase_aromatic (PF00221)
+"Aromatic amino acid lyase"</title>
+				<polygon class="PF00221" points="592,28 627,28 639,40 627,52 592,52" stroke-linejoin="round" width="48" height="24" fill="rgb(198,213,89)" stroke="rgb(158,170,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PPIS_03021)
+hypothetical protein</title>
+			<polygon class=" (PPIS_03021)
+hypothetical protein" points="649,10 658,40 649,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (PPIS_03026)
+AMP-dependent synthetase and ligase</title>
+			<polygon class=" (PPIS_03026)
+AMP-dependent synthetase and ligase" points="660,25 679,25 679,10 709,40 679,70 679,55 660,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="672,28 693,28 695,30 695,50 693,52 672,52" stroke-linejoin="round" width="23" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PPIS_03031)
+3-oxoacyl-ACP synthase</title>
+			<polygon class=" (PPIS_03031)
+3-oxoacyl-ACP synthase" points="709,25 751,25 751,10 781,40 751,70 751,55 709,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="709" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="732" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PPIS_03036)
+ABC transporter ATPase</title>
+			<polygon class=" (PPIS_03036)
+ABC transporter ATPase" points="782,10 807,40 782,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="784,28 793,28 797,33 797,47 793,52 784,52" stroke-linejoin="round" width="13" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PPIS_03041)
+ABC transporter permease, ABC-2 family protein</title>
+			<polygon class=" (PPIS_03041)
+ABC transporter permease, ABC-2 family protein" points="807,25 814,25 814,10 844,40 814,70 814,55 807,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_3 (PF12698)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF12698" points="809,28 827,28 839,40 827,52 809,52" stroke-linejoin="round" width="33" height="24" fill="rgb(81,194,105)" stroke="rgb(64,155,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PPIS_03046)
+3-hydroxyacyl-ACP dehydratase</title>
+			<polygon class=" (PPIS_03046)
+3-hydroxyacyl-ACP dehydratase" points="844,10 857,40 844,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FabA (PF07977)
+"FabA-like domain"</title>
+				<polygon class="PF07977" points="844,28 848,28 854,40 848,52 844,52" stroke-linejoin="round" width="11" height="24" fill="rgb(87,207,212)" stroke="rgb(69,165,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PPIS_03051)
+3-oxoacyl-[acyl-carrier-protein] reductase FabG</title>
+			<polygon class=" (PPIS_03051)
+3-oxoacyl-[acyl-carrier-protein] reductase FabG" points="858,10 882,40 858,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="859,28 869,28 878,40 869,52 859,52" stroke-linejoin="round" width="23" height="24" fill="rgb(79,221,209)" stroke="rgb(63,176,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PPIS_03056)
+hypothetical protein</title>
+			<polygon class=" (PPIS_03056)
+hypothetical protein" points="882,10 905,40 882,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (PPIS_03061)
+thioesterase</title>
+			<polygon class=" (PPIS_03061)
+thioesterase" points="906,10 931,40 906,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="906,28 917,28 927,40 917,52 906,52" stroke-linejoin="round" width="22" height="24" fill="rgb(69,76,223)" stroke="rgb(55,60,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PPIS_03066)
+Ornithine racemase</title>
+			<polygon class=" (PPIS_03066)
+Ornithine racemase" points="932,25 1053,25 1053,10 1083,40 1053,70 1053,55 932,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="932" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="977" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="1020" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="1030" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="1038,28 1067,28 1079,40 1079,40 1067,52 1038,52" stroke-linejoin="round" width="41" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PPIS_03071)
+phenylalanine racemase</title>
+			<polygon class=" (PPIS_03071)
+phenylalanine racemase" points="1084,25 1294,25 1294,10 1324,40 1294,70 1294,55 1084,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="1091" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="1137" y="28" stroke-linejoin="round" width="35" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="1178" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="1188" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="1196" y="28" stroke-linejoin="round" width="41" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="1240" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="1286,28 1308,28 1320,40 1320,40 1308,52 1286,52" stroke-linejoin="round" width="34" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

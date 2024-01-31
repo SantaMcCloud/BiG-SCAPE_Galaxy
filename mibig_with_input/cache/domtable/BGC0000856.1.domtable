@@ -1,0 +1,18 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acetyltransf_1       PF00583.29   116 BGC0000856.1_ORF1:gid:ectA:pid:ABY40739.1:loc:517:1027:strand:+ -            169   8.8e-16   58.4   0.0   1   1   1.1e-19   1.2e-15   58.0   0.0    31   113    49   131    22   133 0.82 Acetyltransferase (GNAT) family
+Acetyltransf_7       PF13508.11    84 BGC0000856.1_ORF1:gid:ectA:pid:ABY40739.1:loc:517:1027:strand:+ -            169   1.2e-07   32.2   0.0   1   1   1.7e-11   1.7e-07   31.7   0.0     6    65    54   114    49   132 0.69 Acetyltransferase (GNAT) domain
+Aminotran_3          PF00202.25   403 BGC0000856.1_ORF2:gid:ectB:pid:ABY40740.1:loc:1087:2425:strand:+ -            445   1.1e-76  258.3   0.0   1   1   6.4e-81   1.3e-76  258.1   0.0     8   402    17   410    11   411 0.90 Aminotransferase class-III
+Ectoine_synth        PF06339.16   127 BGC0000856.1_ORF3:gid:ectC:pid:ABY40741.1:loc:2496:2901:strand:+ -            134   1.9e-59  199.7   0.1   1   1     1e-63   2.1e-59  199.5   0.1     1   126     1   128     1   129 0.98 Ectoine synthase
+AA_kinase            PF00696.32   232 BGC0000856.1_ORF4:gid:ask:pid:ABY40742.1:loc:3033:4347:strand:+ -            438   9.1e-21   74.9   0.0   1   1   2.1e-24   2.2e-20   73.6   0.0     3   232     5   299     4   299 0.82 Amino acid kinase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000856.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000856.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000856.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:24:19 2024
+# [ok]

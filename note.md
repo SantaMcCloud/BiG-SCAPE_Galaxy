@@ -1,8 +1,6 @@
 Fragen die noch offen sind:
-- Option --verbose lässt das programm mehr details printen das in eine log datei und als output geben?
-- Option im wrapper einfügen das nur die MIBiG files als input genommen werden?
-- Option --qury_bgc rausnehmen da dies zu fehlern führt?
-- Option --skip_ma ist eigentlich unnötig daher rausnehmen?
+- Option --verbose lässt das programm mehr details printen das in eine log datei und als output geben? -> Datei ausgeben
+- Option im wrapper einfügen das nur die MIBiG files als input genommen werden? ->machen 
 
 TODO:
 - Update des recipe wenn release da ist
@@ -11,6 +9,9 @@ TODO:
 - letzen test des wrapper machen!
 - NOCHMAL ALLE PARAMETER DURCH SCHAUEN OB ALLES PASST!!!!!!!!!!!!!!!
     - schauen auch dass das richtige recipe drinnne ist!!!!!
+- obrige Punkte machen
+- .tsv als dataset ausgeben
+- .hmtl als einelnen output machen so das man diese auch in galaxy nutzen kann
 
 ERRORS COMMING FROM OPTIONS:
 - domain_overlap_cutoff -> Wird nicht zum float gecastet wenn man diese Option nutzt!
@@ -107,3 +108,4 @@ DONE:
 - added test section with 1 test. Was hard to make thsi run since i got alwyas some errors but even then at some poit it just did run true and i dont know why but it passed which is good
 - did a first check and update some labels and help text of some parameters. Right now evreything should be added and should be correct!
 - wrote the help section with, i think, all infos you need
+- throw out [--qury_bgc] because it cause errors and throw out [--skip_ma] beacuse it galaxy never reuse the output in a run so this option does nothing!

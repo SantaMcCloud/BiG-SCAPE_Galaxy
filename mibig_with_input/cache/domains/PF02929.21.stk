@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_008000775.1_ORF851:gid::pid:WP_147661973.1:loc:921704:924887:strand:-:767:1035         ..............KGENFQIEFNKKKGLIESYEFKGKKLIskPFKPNFWRAPTDNDlglskmVSIIDMNTSWKKAGETQKvisITVD------QpiPQLIK-ILVKLKISNG.AsAFLSEYTIYGNGVIIVHNRFtpKK.....EMIKLGMTLDIPKEFEIIDWFGRGPHENYSDRKEGAAIGRFSLSIQNFVHNYIRP
+#=GR GCF_008000775.1_ORF851:gid::pid:WP_147661973.1:loc:921704:924887:strand:-:767:1035 PP ..............589************************65555**************987333345789*****53333222222......22223333.5667776666.55999***************777644.....8******************************************************
+BGC0000268.1_ORF55:gid:schA34:pid:CAH10134.1:loc:74160:77076:strand:-:719:969              avtldadallvhpl--------------------------LtsAPVLSLWRAPTDNDe....lG---GMAARWHDWGLDEL...VR--KVVDVRE..EGPRVVVVAEYATGAGpV.RHEQVFTPVAGG-LRVEESA..ELpegldDVARVGTVFETVAGLDVLDWYGQGPWESYPDRSTGAPVGHHSLPVDELFTPYLRP
+#=GR BGC0000268.1_ORF55:gid:schA34:pid:CAH10134.1:loc:74160:77076:strand:-:719:969      PP *9998888776654..........................33333499*********5....43...4579******8533...32..2344455..555666888998655437.*******99999.9999955..22445668******************************************************
+#=GC PP_cons                                                                               ..............589***********************6..4449**********......333345799*****6433...22222344453..4444467778876665.6.99******9999****9966..33.....8******************************************************
+#=GC RF                                                                                    ..............xxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxx...xxxxxxxxxxx..xxxxxxxxxxxxxxxx.x.xxxxxxxxxxxxxxxxxxxx..xx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_008000775.1_ORF851:gid::pid:WP_147661973.1:loc:921704:924887:strand:-:767:1035         QENSNRCEIRWIAFTNKN..KegilfsglplISASAWPYTLENLETAKHPHELINSdSITVNVDYKQKGVAgDNSWGAKPKPQYRLSKNQEYEYSFRI.......
+#=GR GCF_008000775.1_ORF851:gid::pid:WP_147661973.1:loc:921704:924887:strand:-:767:1035 PP ****************99..55688888999************************77999**********99***************999******97.......
+BGC0000268.1_ORF55:gid:schA34:pid:CAH10134.1:loc:74160:77076:strand:-:719:969              QESGGRHGVRRFTLSAPDatGltve..lgapGQVSVNRYRAGDLAAAAHHDELVPRpGCVVHLDAAHRGLG.TASCGPDTTAEYLVTPGT-H------rwawtlr
+#=GR BGC0000268.1_ORF55:gid:schA34:pid:CAH10134.1:loc:74160:77076:strand:-:719:969      PP ****************886526667..77889***********************999*************.*************99653.4......4455679
+#=GC PP_cons                                                                               ****************88..3..........************************8.999***********.*************99876*7****97.......
+#=GC RF                                                                                    xxxxxxxxxxxxxxxxxx..x..........xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx.......
+//

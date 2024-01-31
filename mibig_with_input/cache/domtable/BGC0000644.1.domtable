@@ -1,0 +1,27 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+polyprenyl_synt      PF00348.21   251 BGC0000644.1_ORF1:gid:crtE:pid:ABD24398.1:loc:97:1246:strand:+ -            382   7.4e-35  120.5   0.0   1   1   5.1e-39   1.1e-34  120.0   0.0    13   220    74   303    67   313 0.90 Polyprenyl synthetase
+SQS_PSY              PF00494.23   263 BGC0000644.1_ORF2:gid:crtB:pid:ABD24399.1:loc:1242:2124:strand:+ -            293   3.7e-43  148.3   8.7   1   1   2.4e-46   4.9e-42  144.6   8.7     1   260    22   265    22   267 0.93 Squalene/phytoene synthase
+Amino_oxidase        PF01593.28   443 BGC0000644.1_ORF3:gid:crtI:pid:ABD24400.1:loc:2120:3812:strand:+ -            563   5.6e-28   98.6   1.8   1   1   8.5e-31   2.2e-27   96.6   1.8     1   436    39   537    39   539 0.75 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.10    68 BGC0000644.1_ORF3:gid:crtI:pid:ABD24400.1:loc:2120:3812:strand:+ -            563   3.2e-18   66.0   0.1   1   1   3.2e-21   8.2e-18   64.6   0.1     1    65    34    98    34   117 0.95 NAD(P)-binding Rossmann-like domain
+DAO                  PF01266.28   353 BGC0000644.1_ORF3:gid:crtI:pid:ABD24400.1:loc:2120:3812:strand:+ -            563   4.5e-15   56.2   6.0   1   1   1.7e-16   4.4e-13   49.7   6.0     2   184    32   290    31   347 0.61 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.28   414 BGC0000644.1_ORF3:gid:crtI:pid:ABD24400.1:loc:2120:3812:strand:+ -            563   3.2e-09   36.7   3.1   1   1   2.4e-10   6.2e-07   29.1   0.9     2    41    32    72    31    80 0.90 FAD binding domain
+Pyr_redox            PF00070.31    81 BGC0000644.1_ORF3:gid:crtI:pid:ABD24400.1:loc:2120:3812:strand:+ -            563   1.3e-07   32.2   2.2   1   1   3.4e-08   8.8e-05   23.1   0.8     2    35    32    65    31    72 0.94 Pyridine nucleotide-disulphide oxidoreductase
+FAD_oxidored         PF12831.11   414 BGC0000644.1_ORF3:gid:crtI:pid:ABD24400.1:loc:2120:3812:strand:+ -            563   3.9e-07   30.0   6.7   1   1   3.5e-10     9e-07   28.7   3.3     2    38    32    68    31    81 0.95 FAD dependent oxidoreductase
+FAD_binding_3        PF01494.23   349 BGC0000644.1_ORF3:gid:crtI:pid:ABD24400.1:loc:2120:3812:strand:+ -            563     6e-06   25.9   4.6   1   1   3.3e-08   8.5e-05   22.1   1.5     3    34    31    62    29    73 0.89 FAD binding domain
+UbiA                 PF01040.22   249 BGC0000644.1_ORF5:gid:lbtBC:pid:ABD24402.1:loc:4179:5478:strand:+ -            432   9.6e-29  100.6  23.6   1   1   9.3e-33   9.6e-29  100.6  23.6     3   246   164   412   162   417 0.84 UbiA prenyltransferase family
+Lycopene_cyc         PF18916.4     92 BGC0000644.1_ORF5:gid:lbtBC:pid:ABD24402.1:loc:4179:5478:strand:+ -            432   3.7e-07   30.8   0.9   1   1   3.5e-11   3.7e-07   30.8   0.9     3    87     4    95     2   100 0.68 Lycopene cyclase
+Glycos_transf_2      PF00535.30   168 BGC0000644.1_ORF6:gid:crtX:pid:ABD24403.1:loc:5544:6276:strand:- -            243   1.4e-20   74.1   0.0   1   1   2.6e-24   1.8e-20   73.7   0.0     1   163     7   161     7   166 0.85 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.10   230 BGC0000644.1_ORF6:gid:crtX:pid:ABD24403.1:loc:5544:6276:strand:- -            243   1.7e-14   54.4   0.1   1   1   3.5e-18   2.4e-14   53.9   0.1     3   192     5   184     3   192 0.86 Glycosyltransferase like family 2
+Glyco_trans_2_3      PF13632.10   196 BGC0000644.1_ORF6:gid:crtX:pid:ABD24403.1:loc:5544:6276:strand:- -            243   3.8e-07   30.4   0.5   1   1   7.2e-11     5e-07   30.0   0.5     2   143    82   224    81   242 0.78 Glycosyl transferase family group 2
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000644.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000644.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000644.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:34:51 2024
+# [ok]

@@ -1,0 +1,32 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_3        PF01494.23   349 BGC0000160.1_ORF1:gid::pid:EAU32816.1:loc:0:1405:strand:- -            442   6.6e-19   68.5   0.6   1   1     3e-20   3.1e-16   59.7   0.0   127   348   142   364   111   365 0.80 FAD binding domain
+NAD_binding_9        PF13454.10   156 BGC0000160.1_ORF1:gid::pid:EAU32816.1:loc:0:1405:strand:- -            442   7.5e-05   22.9   0.0   1   1   1.5e-08   0.00015   21.9   0.0     1   152    10   170    10   174 0.69 FAD-NAD(P)-binding
+MFS_1                PF07690.20   347 BGC0000160.1_ORF2:gid::pid:EAU32817.1:loc:2172:4233:strand:+ -            476   1.4e-32  113.1  28.4   1   1   1.4e-36   1.4e-32  113.1  28.4    46   346    80   425    61   426 0.79 Major Facilitator Superfamily
+TRI12                PF06609.17   599 BGC0000160.1_ORF2:gid::pid:EAU32817.1:loc:2172:4233:strand:+ -            476   9.9e-06   24.5   0.8   1   1   9.5e-10   9.9e-06   24.5   0.8    93   221    81   213    63   229 0.73 Fungal trichothecene efflux pump (TRI12)
+GMC_oxred_C          PF05199.17   142 BGC0000160.1_ORF3:gid::pid:EAU32818.1:loc:5201:7478:strand:+ -            596   2.3e-37  128.9   0.1   1   1   9.7e-41     4e-37  128.1   0.1     2   140   455   587   454   589 0.98 GMC oxidoreductase
+GMC_oxred_N          PF00732.23   218 BGC0000160.1_ORF3:gid::pid:EAU32818.1:loc:5201:7478:strand:+ -            596     1e-24   87.7   0.0   1   1   4.9e-28     2e-24   86.8   0.0     1   217    46   349    46   350 0.95 GMC oxidoreductase
+FAD_binding_2        PF00890.28   414 BGC0000160.1_ORF3:gid::pid:EAU32818.1:loc:5201:7478:strand:+ -            596   1.7e-09   37.5   1.2   1   1   6.6e-08   0.00028   20.4   0.7     1    32    47    79    47    84 0.93 FAD binding domain
+NAD_binding_8        PF13450.10    68 BGC0000160.1_ORF3:gid::pid:EAU32818.1:loc:5201:7478:strand:+ -            596     3e-05   24.4   0.6   1   1   2.6e-08   0.00011   22.6   0.2     1    28    50    78    50   100 0.93 NAD(P)-binding Rossmann-like domain
+ketoacyl-synt        PF00109.30   252 BGC0000160.1_ORF4:gid::pid:EAU32819.1:loc:8474:13948:strand:- -           1803   1.4e-90  303.5   0.1   1   1   2.1e-93   5.4e-90  301.6   0.0     2   252    45   294    44   294 0.97 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.25   319 BGC0000160.1_ORF4:gid::pid:EAU32819.1:loc:8474:13948:strand:- -           1803   2.7e-68  231.0   0.7   1   1   1.6e-71   4.2e-68  230.4   0.7     1   317   581   894   581   896 0.98 Acyl transferase domain
+KR                   PF08659.14   180 BGC0000160.1_ORF4:gid::pid:EAU32819.1:loc:8474:13948:strand:- -           1803   8.5e-58  195.4   0.0   1   1   1.4e-60   3.5e-57  193.4   0.0     1   179  1434  1628  1434  1629 0.95 KR domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0000160.1_ORF4:gid::pid:EAU32819.1:loc:8474:13948:strand:- -           1803   1.3e-40  138.3   0.1   1   1   2.9e-43   7.5e-40  135.8   0.1     2   118   303   419   302   420 0.98 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.29    67 BGC0000160.1_ORF4:gid::pid:EAU32819.1:loc:8474:13948:strand:- -           1803   8.9e-14   51.7   0.0   1   1   1.3e-16   3.5e-13   49.8   0.0     1    66  1730  1796  1730  1797 0.96 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.9    111 BGC0000160.1_ORF4:gid::pid:EAU32819.1:loc:8474:13948:strand:- -           1803     8e-13   49.0   0.0   1   1   8.7e-16   2.3e-12   47.5   0.0     2   111   423   543   423   543 0.88 Ketoacyl-synthetase C-terminal extension
+PKS_DH_N             PF21089.1    103 BGC0000160.1_ORF4:gid::pid:EAU32819.1:loc:8474:13948:strand:- -           1803   1.9e-11   44.0   0.2   1   1   1.8e-14   4.8e-11   42.7   0.2     1    92   940  1023   940  1029 0.95 Polyketide synthase dehydratase domain
+p450                 PF00067.26   462 BGC0000160.1_ORF6:gid::pid:EAU32821.1:loc:17580:19101:strand:+ -            467   4.7e-72  243.4   0.0   1   1   5.7e-76   1.2e-71  242.1   0.0    26   447     1   423     1   434 0.91 Cytochrome P450
+Fungal_trans         PF04082.22   261 BGC0000160.1_ORF7:gid::pid:EAU32822.1:loc:19605:21638:strand:- -            663   3.9e-13   49.3   2.2   1   1   5.8e-17   6.1e-13   48.7   2.2     1   181   211   392   211   462 0.80 Fungal specific transcription factor domain
+Zn_clus              PF00172.22    39 BGC0000160.1_ORF7:gid::pid:EAU32822.1:loc:19605:21638:strand:- -            663   2.1e-07   31.1  12.2   1   1   3.9e-11     4e-07   30.2  12.2     1    35    32    65    32    69 0.90 Fungal Zn(2)-Cys(6) binuclear cluster domain
+p450                 PF00067.26   462 BGC0000160.1_ORF9:gid::pid:EAU32824.1:loc:26604:27093:strand:+ -            129   3.1e-19   69.3   0.0   1   1   1.8e-23   3.7e-19   69.0   0.0   361   448    20   106    18   122 0.88 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000160.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000160.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000160.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:34:10 2024
+# [ok]

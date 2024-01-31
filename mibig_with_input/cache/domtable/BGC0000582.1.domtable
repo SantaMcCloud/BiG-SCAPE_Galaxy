@@ -1,0 +1,36 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TPR_12               PF13424.10    77 BGC0000582.1_ORF1:gid::pid:ADR72961.1:loc:56:3308:strand:- -           1083   3.8e-21   75.2  39.1   1   2   2.4e-12   8.3e-09   35.7   2.5    10    76   675   739   668   739 0.95 Tetratricopeptide repeat
+TPR_12               PF13424.10    77 BGC0000582.1_ORF1:gid::pid:ADR72961.1:loc:56:3308:strand:- -           1083   3.8e-21   75.2  39.1   2   2   3.2e-12   1.1e-08   35.3   2.8     3    75   748   818   746   820 0.93 Tetratricopeptide repeat
+TPR_MalT             PF17874.5    336 BGC0000582.1_ORF1:gid::pid:ADR72961.1:loc:56:3308:strand:- -           1083   6.8e-12   45.5  18.8   1   1   5.6e-13     2e-09   37.4  10.0    42   187   670   814   663   818 0.92 MalT-like TPR region
+AAA_16               PF13191.10   167 BGC0000582.1_ORF1:gid::pid:ADR72961.1:loc:56:3308:strand:- -           1083     1e-08   36.0   4.6   1   1     3e-12     1e-08   36.0   4.6     2   144   234   363   233   383 0.69 AAA ATPase domain
+TPR_6                PF13174.10    33 BGC0000582.1_ORF1:gid::pid:ADR72961.1:loc:56:3308:strand:- -           1083     5e-08   33.2   4.5   1   1   2.3e-05     0.081   13.8   0.0     2    30   670   698   669   701 0.93 Tetratricopeptide repeat
+NB-ARC               PF00931.26   248 BGC0000582.1_ORF1:gid::pid:ADR72961.1:loc:56:3308:strand:- -           1083   7.1e-07   28.9   0.0   1   1   5.8e-10     2e-06   27.4   0.0    16   210   257   453   246   461 0.75 NB-ARC domain
+Abhydrolase_6        PF12697.11   217 BGC0000582.1_ORF3:gid::pid:ADR72963.1:loc:4190:5945:strand:+ -            584   4.8e-09   37.4   3.0   1   1   4.6e-13   4.8e-09   37.4   3.0     6   205   350   562   345   575 0.60 Alpha/beta hydrolase family
+Abhydrolase_1        PF00561.24   245 BGC0000582.1_ORF3:gid::pid:ADR72963.1:loc:4190:5945:strand:+ -            584   3.8e-07   30.2   0.0   1   1   6.3e-11   6.5e-07   29.4   0.0     2   134   344   468   343   484 0.89 alpha/beta hydrolase fold
+Flavoprotein         PF02441.23   162 BGC0000582.1_ORF5:gid::pid:ADR72965.1:loc:6491:7064:strand:+ -            190   1.8e-07   31.1   0.0   1   1   9.9e-12   2.1e-07   30.9   0.0     4   103    12   126     9   180 0.72 Flavoprotein
+Methyltransf_25      PF13649.10    97 BGC0000582.1_ORF6:gid::pid:ADR72966.1:loc:7056:7794:strand:+ -            245   3.1e-20   72.8   0.3   1   1   7.5e-23   1.7e-19   70.5   0.1     1    97    43   136    43   136 0.92 Methyltransferase domain
+Methyltransf_11      PF08241.16    95 BGC0000582.1_ORF6:gid::pid:ADR72966.1:loc:7056:7794:strand:+ -            245     3e-17   63.2   0.1   1   1   5.6e-20   1.3e-16   61.2   0.1     1    94    44   139    44   140 0.93 Methyltransferase domain
+Methyltransf_12      PF08242.16    98 BGC0000582.1_ORF6:gid::pid:ADR72966.1:loc:7056:7794:strand:+ -            245   9.7e-14   52.1   0.1   1   1   2.3e-16   5.4e-13   49.7   0.1     1    96    44   136    44   138 0.80 Methyltransferase domain
+Methyltransf_31      PF13847.10   150 BGC0000582.1_ORF6:gid::pid:ADR72966.1:loc:7056:7794:strand:+ -            245   7.1e-12   45.5   0.0   1   1   5.3e-15   1.2e-11   44.8   0.0     4   107    40   138    38   156 0.85 Methyltransferase domain
+Methyltransf_23      PF13489.10   163 BGC0000582.1_ORF6:gid::pid:ADR72966.1:loc:7056:7794:strand:+ -            245   1.5e-09   38.0   0.0   1   1   1.6e-12   3.7e-09   36.7   0.0    21   119    38   144    27   222 0.79 Methyltransferase domain
+Ubie_methyltran      PF01209.22   233 BGC0000582.1_ORF6:gid::pid:ADR72966.1:loc:7056:7794:strand:+ -            245   9.1e-08   31.9   0.0   1   1   5.9e-11   1.4e-07   31.4   0.0    43   149    35   138     5   150 0.79 ubiE/COQ5 methyltransferase family
+MTS                  PF05175.18   170 BGC0000582.1_ORF6:gid::pid:ADR72966.1:loc:7056:7794:strand:+ -            245   4.2e-07   29.9   0.0   1   1   2.8e-10   6.4e-07   29.3   0.0    31   135    39   137    23   145 0.81 Methyltransferase small domain
+TehB                 PF03848.18   193 BGC0000582.1_ORF6:gid::pid:ADR72966.1:loc:7056:7794:strand:+ -            245   4.6e-07   29.6   0.0   1   1     3e-10     7e-07   29.1   0.0    32   130    41   138    30   147 0.82 Tellurite resistance protein TehB
+FtsJ                 PF01728.23   181 BGC0000582.1_ORF6:gid::pid:ADR72966.1:loc:7056:7794:strand:+ -            245   1.4e-06   28.6   0.0   1   1     9e-10   2.1e-06   28.0   0.0    21    96    39   106    29   149 0.82 FtsJ-like methyltransferase
+ABC_tran             PF00005.31   137 BGC0000582.1_ORF7:gid::pid:ADR72967.1:loc:7790:8423:strand:+ -            210   1.3e-23   84.4   0.0   1   1   2.3e-27   1.6e-23   84.1   0.0     4   135    25   164    22   166 0.94 ABC transporter
+AAA_21               PF13304.10   304 BGC0000582.1_ORF7:gid::pid:ADR72967.1:loc:7790:8423:strand:+ -            210   2.1e-16   60.9   0.4   1   1   8.4e-14   5.8e-10   39.8   0.2   235   304   135   201   119   201 0.92 AAA domain, putative AbiEii toxin, Type IV TA system
+SMC_N                PF02463.23   220 BGC0000582.1_ORF7:gid::pid:ADR72967.1:loc:7790:8423:strand:+ -            210   8.1e-13   48.5   0.0   1   1   5.8e-15     4e-11   43.0   0.0    25   209    33   207    21   209 0.73 RecF/RecN/SMC N terminal domain
+Thioredox_DsbH       PF03190.19   163 BGC0000582.1_ORF9:gid::pid:ADR72969.1:loc:10052:12074:strand:+ -            673   1.4e-76  256.2   0.0   1   1   2.9e-80     2e-76  255.7   0.0     2   162     3   163     2   164 0.99 Protein of unknown function, DUF255
+Thioredoxin_7        PF13899.10    83 BGC0000582.1_ORF9:gid::pid:ADR72969.1:loc:10052:12074:strand:+ -            673   7.7e-11   42.2   0.2   1   1   2.3e-14   1.6e-10   41.2   0.2     1    83    22   112    22   112 0.84 Thioredoxin-like
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000582.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000582.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000582.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:40:00 2024
+# [ok]

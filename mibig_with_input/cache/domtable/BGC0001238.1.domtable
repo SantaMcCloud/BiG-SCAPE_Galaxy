@@ -1,0 +1,17 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aminotran_1_2        PF00155.25   361 BGC0001238.1_ORF1:gid:biF:pid:ACR44939.1:loc:107:1462:strand:- -            412   5.5e-37  128.0   0.0   1   1     3e-41   6.3e-37  127.8   0.0     4   361    36   398    33   398 0.87 Aminotransferase class I and II
+AAA_26               PF13500.10   196 BGC0001238.1_ORF2:gid:biA1:pid:ACR44941.1:loc:2170:3443:strand:+ -            389   1.3e-19   71.0   0.0   1   1   9.5e-24     2e-19   70.4   0.0     5   177    17   197    13   210 0.85 AAA domain
+BATS                 PF06968.17    88 BGC0001238.1_ORF3:gid:biB:pid:ACR44940.1:loc:5676:6955:strand:+ -            393   2.4e-29  101.5   0.1   1   1   1.6e-32   1.6e-28   98.9   0.0     1    87   265   355   265   356 0.99 Biotin and Thiamin Synthesis associated domain
+Radical_SAM          PF04055.25   167 BGC0001238.1_ORF3:gid:biB:pid:ACR44940.1:loc:5676:6955:strand:+ -            393   8.1e-23   81.6   0.0   1   1   7.4e-26   7.7e-22   78.4   0.0     2   165    91   252    90   254 0.86 Radical SAM superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001238.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001238.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001238.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:29:03 2024
+# [ok]

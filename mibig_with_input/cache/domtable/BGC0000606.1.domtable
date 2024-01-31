@@ -1,0 +1,23 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LANC_like            PF05147.17   350 BGC0000606.1_ORF1:gid:ltc74:pid:BAO57433.1:loc:0:2574:strand:+ -            857   1.3e-16   60.4   0.0   1   1   8.4e-19   8.8e-15   54.3   0.0     6   295   533   798   532   809 0.80 Lanthionine synthetase C-like protein
+Pkinase              PF00069.29   263 BGC0000606.1_ORF1:gid:ltc74:pid:BAO57433.1:loc:0:2574:strand:+ -            857   2.4e-13   50.3   0.0   1   1   8.3e-17   8.7e-13   48.5   0.0    12   255   226   477   217   482 0.85 Protein kinase domain
+Thiopep_pre          PF19409.3     36 BGC0000606.1_ORF2:gid:lazA:pid:BAO57434.1:loc:2975:3149:strand:+ -             57   1.6e-13   50.4   5.2   1   1   7.8e-18   1.6e-13   50.4   5.2     1    36    21    51    21    51 0.92 Thiopeptide-type bacteriocin precursor
+Lant_dehydr_N        PF04738.17   649 BGC0000606.1_ORF3:gid:lazB:pid:BAO57435.1:loc:3370:6013:strand:+ -            880   3.5e-30  104.9  19.2   1   2   1.8e-27   3.7e-23   81.7  10.0     2   471   157   613   156   666 0.86 Lantibiotic dehydratase, N terminus
+Lant_dehydr_N        PF04738.17   649 BGC0000606.1_ORF3:gid:lazB:pid:BAO57435.1:loc:3370:6013:strand:+ -            880   3.5e-30  104.9  19.2   2   2   3.1e-11   6.5e-07   28.0   1.7   578   629   718   776   700   779 0.88 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.10   255 BGC0000606.1_ORF4:gid:lazC:pid:BAO57436.1:loc:6005:7226:strand:+ -            406   1.8e-06   28.5   5.7   1   1   1.3e-09   2.7e-05   24.6   5.7     6   194    18   279    14   364 0.60 Lantibiotic biosynthesis dehydratase C-term
+YcaO                 PF02624.20   320 BGC0000606.1_ORF6:gid:lazE:pid:BAO57438.1:loc:8916:10983:strand:+ -            688   1.1e-78  265.0   1.9   1   1   8.3e-83   1.7e-78  264.3   1.9     2   319   292   643   291   644 0.88 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Lant_dehydr_C        PF14028.10   255 BGC0000606.1_ORF7:gid:lazF:pid:BAO57439.1:loc:11063:12737:strand:+ -            557   1.7e-43  149.9   0.5   1   1   2.1e-47   2.2e-43  149.5   0.5     1   255    11   293    11   293 0.76 Lantibiotic biosynthesis dehydratase C-term
+Nitroreductase       PF00881.28   168 BGC0000606.1_ORF7:gid:lazF:pid:BAO57439.1:loc:11063:12737:strand:+ -            557   6.6e-12   46.1   0.1   1   1   6.4e-16   6.6e-12   46.1   0.1     1   168   362   548   362   548 0.84 Nitroreductase family
+Creatininase         PF02633.18   238 BGC0000606.1_ORF9:gid:ltc65:pid:BAO57441.1:loc:13416:14244:strand:- -            275   2.3e-43  148.6   0.6   1   1   1.4e-47   2.8e-43  148.3   0.6     1   215    13   249    13   268 0.88 Creatinine amidohydrolase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000606.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000606.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000606.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:48:45 2024
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Radical_SAM          PF04055.25   167 BGC0000601.1_ORF2:gid:skfB:pid:CAB11985.2:loc:234:1467:strand:+ -            410   3.1e-26   92.7   0.0   1   1   8.7e-30     9e-26   91.2   0.0     2   166   112   266   111   267 0.96 Radical SAM superfamily
+SPASM                PF13186.10    66 BGC0000601.1_ORF2:gid:skfB:pid:CAB11985.2:loc:234:1467:strand:+ -            410   3.9e-06   27.2   0.1   1   1   1.1e-09   1.2e-05   25.7   0.1     1    62   333   385   333   388 0.71 Iron-sulfur cluster-binding domain
+Rce1-like            PF02517.20    93 BGC0000601.1_ORF3:gid:skfC:pid:CAX52541.1:loc:1463:2954:strand:+ -            496   4.2e-11   43.2  11.0   1   1     2e-15   4.2e-11   43.2  11.0     8    93   382   471   375   471 0.92 Type II CAAX prenyl endopeptidase Rce1-like
+ABC_tran             PF00005.31   137 BGC0000601.1_ORF4:gid:skfE:pid:CAB11989.1:loc:2972:3692:strand:+ -            239   1.5e-33  116.5   0.0   1   1     2e-37     2e-33  116.1   0.0     2   136    20   160    19   161 0.97 ABC transporter
+Thioredoxin_8        PF13905.10    94 BGC0000601.1_ORF7:gid:skfH:pid:CAB11992.2:loc:5666:6092:strand:+ -            141   1.3e-08   35.3   0.1   1   1   1.9e-12     2e-08   34.7   0.1     2    94    30   121    29   121 0.84 Thioredoxin-like
+Thioredoxin_2        PF13098.10   104 BGC0000601.1_ORF7:gid:skfH:pid:CAB11992.2:loc:5666:6092:strand:+ -            141   1.3e-07   32.1   0.0   1   1   1.6e-11   1.6e-07   31.8   0.0     6   100    30   134    27   138 0.82 Thioredoxin-like domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000601.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000601.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000601.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:44:39 2024
+# [ok]

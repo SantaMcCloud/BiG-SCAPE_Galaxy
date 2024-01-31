@@ -1,0 +1,115 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="691.5666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="681.5666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="10,40 12,10 12,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+DmbA</title>
+			<polygon class="
+DmbA" points="54,25 79,25 79,10 109,40 79,70 79,55 54,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="58,28 92,28 103,39 103,41 92,52 58,52" stroke-linejoin="round" width="45" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+DmbB</title>
+			<polygon class="
+DmbB" points="178,25 153,25 153,10 123,40 153,70 153,55 178,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="127,40 139,28 173,28 173,52 139,52" stroke-linejoin="round" width="48" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+DmbC</title>
+			<polygon class="
+DmbC" points="237,25 228,25 228,10 198,40 228,70 228,55 237,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="208,34 214,28 216,28 216,52 214,52 208,46" stroke-linejoin="round" width="8" height="24" fill="rgb(79,114,198)" stroke="rgb(63,91,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+DmbS</title>
+			<polygon class="
+DmbS" points="259,25 650,25 650,10 680,40 650,70 650,55 259,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="260" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="286" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="299" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(200,86,70)" stroke="rgb(160,68,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="317" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(132,93,193)" stroke="rgb(105,74,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PKS_DH_N (PF21089)
+"Polyketide synthase dehydratase domain"</title>
+				<rect class="PF21089" x="357" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(67,151,200)" stroke="rgb(53,120,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase N-terminal domain"</title>
+				<rect class="PF14765" x="373" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(189,61,178)" stroke="rgb(151,48,142)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_12 (PF08242)
+"Methyltransferase domain"</title>
+				<rect class="PF08242" x="407" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(78,210,205)" stroke="rgb(62,168,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="479" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(203,145,81)" stroke="rgb(162,116,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="509" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="530" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="577" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="631" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<polygon class="PF07993" points="643,28 664,28 666,30 666,50 664,52 643,52" stroke-linejoin="round" width="23" height="24" fill="rgb(210,94,130)" stroke="rgb(168,75,103)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

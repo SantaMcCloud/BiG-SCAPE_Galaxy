@@ -1,0 +1,30 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_2      PF00535.30   168 BGC0000789.1_ORF1:gid:wfaM:pid:ABB29900.1:loc:1095:1875:strand:+ -            259   1.7e-34  119.4   1.0   1   1   3.7e-38   2.6e-34  118.8   1.0     1   144     7   149     7   170 0.89 Glycosyl transferase family 2
+Glyco_tranf_2_2      PF10111.13   276 BGC0000789.1_ORF1:gid:wfaM:pid:ABB29900.1:loc:1095:1875:strand:+ -            259   1.9e-14   54.0   1.2   1   1   2.7e-18   1.9e-14   54.0   1.2     1   107     7   110     7   135 0.86 Glycosyltransferase like family 2
+Glyco_tranf_2_3      PF13641.10   230 BGC0000789.1_ORF1:gid:wfaM:pid:ABB29900.1:loc:1095:1875:strand:+ -            259   3.7e-11   43.5   0.0   1   1   7.1e-15   4.9e-11   43.1   0.0     3   121     5   118     3   209 0.89 Glycosyltransferase like family 2
+PglD_N               PF17836.5     78 BGC0000789.1_ORF2:gid:nnaD:pid:ABB29901.1:loc:3583:4204:strand:+ -            206   2.1e-17   63.6   0.3   1   1   5.3e-21   5.5e-17   62.3   0.2     1    77     4    77     4    78 0.94 PglD N-terminal domain
+NeuB                 PF03102.18   241 BGC0000789.1_ORF3:gid:nnaB:pid:ABB29902.1:loc:4208:5246:strand:+ -            345   1.2e-85  287.1   0.0   1   1   1.4e-89   1.4e-85  286.8   0.0     1   240    24   268    24   269 0.97 NeuB family
+SAF                  PF08666.16    63 BGC0000789.1_ORF3:gid:nnaB:pid:ABB29902.1:loc:4208:5246:strand:+ -            345   1.3e-11   45.1   0.0   1   1   4.2e-15   4.4e-11   43.4   0.0     2    60   284   338   283   341 0.94 SAF domain
+CTP_transf_3         PF02348.23   217 BGC0000789.1_ORF4:gid:nnaC:pid:ABB29903.1:loc:5248:6508:strand:+ -            419   5.7e-40  137.6   0.9   1   1   1.3e-43   9.1e-40  137.0   0.9     1   207     5   223     5   243 0.85 Cytidylyltransferase
+Lipase_GDSL_2        PF13472.10   177 BGC0000789.1_ORF4:gid:nnaC:pid:ABB29903.1:loc:5248:6508:strand:+ -            419   2.9e-14   54.1   0.0   1   1   9.3e-18   6.5e-14   53.0   0.0    32   175   267   407   258   409 0.82 GDSL-like Lipase/Acylhydrolase family
+Lipase_GDSL          PF00657.26   208 BGC0000789.1_ORF4:gid:nnaC:pid:ABB29903.1:loc:5248:6508:strand:+ -            419   1.2e-06   29.1   0.3   1   1   1.7e-10   1.2e-06   29.1   0.3    44   208   271   414   240   414 0.77 GDSL-like Lipase/Acylhydrolase
+Epimerase_2          PF02350.23   347 BGC0000789.1_ORF5:gid:nnaA:pid:ABB29904.1:loc:6504:7692:strand:+ -            395   2.2e-72  244.0   0.0   1   1   1.3e-76   2.7e-72  243.7   0.0     2   343    23   363    22   367 0.91 UDP-N-acetylglucosamine 2-epimerase
+Glyco_transf_52      PF07922.15   272 BGC0000789.1_ORF6:gid:wfaN:pid:ABB29905.1:loc:9379:10387:strand:+ -            335   1.3e-23   83.9   7.4   1   1   2.1e-27   2.1e-23   83.1   7.2     7   258    33   297    27   309 0.83 Glycosyltransferase family 52
+A-2_8-polyST         PF07388.15   321 BGC0000789.1_ORF6:gid:wfaN:pid:ABB29905.1:loc:9379:10387:strand:+ -            335   4.3e-14   53.0   9.1   1   1   5.3e-18   5.5e-14   52.6   9.1    89   307    84   295     4   303 0.72 Alpha-2,8-polysialyltransferase (POLYST)
+EpsG                 PF14897.10   326 BGC0000789.1_ORF7:gid:wzy:pid:ABB29906.1:loc:10410:11463:strand:+ -            350   8.9e-31  107.4  66.8   1   1   6.5e-35   1.3e-30  106.8  66.8     2   326    27   346    26   346 0.80 EpsG family
+Polysacc_synt_3      PF13440.10   293 BGC0000789.1_ORF8:gid:wzx:pid:ABB29907.1:loc:11478:12672:strand:+ -            397   4.3e-07   29.7  16.8   1   1   2.1e-11   4.3e-07   29.7  16.8    61   224    84   246    33   267 0.80 Polysaccharide biosynthesis protein
+Glycos_transf_1      PF00534.24   172 BGC0000789.1_ORF9:gid:wfaO:pid:ABB29908.1:loc:16254:17325:strand:+ -            356   2.4e-36  125.0   0.0   1   1   6.5e-40   4.5e-36  124.1   0.0    15   170   184   336   178   338 0.96 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.10   137 BGC0000789.1_ORF9:gid:wfaO:pid:ABB29908.1:loc:16254:17325:strand:+ -            356   4.7e-33  114.6   0.0   1   1   1.1e-36   7.9e-33  113.8   0.0     2   137   185   324   184   324 0.93 Glycosyl transferases group 1
+GT4-conflict         PF20706.1    385 BGC0000789.1_ORF9:gid:wfaO:pid:ABB29908.1:loc:16254:17325:strand:+ -            356   1.4e-07   31.0   0.0   1   1   5.1e-11   3.5e-07   29.7   0.0   197   309   184   285   164   299 0.85 Family 4 Glycosyltransferase in conflict systems
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000789.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000789.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000789.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:32:15 2024
+# [ok]

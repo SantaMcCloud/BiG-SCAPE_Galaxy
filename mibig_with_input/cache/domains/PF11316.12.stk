@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000759.1_ORF23:gid:urf31:pid:ABW74900.1:loc:27311:28127:strand:-:3:214         h--VILTRFNIASPG----------REVAIRNSPGWLERRFGLFEQFCLPSIAGQTERNFHWLIYFDKDTPVEFRERIERDRQIFN-FTPRYVAMFDKAMIAEDV-RALATAGETLIVTTRLDNDDAVSSDFVARVQDAAKE------APAQTVLNFPHGIAM----RGGQL-YTASDHSSPFTSlVEKDVAGIETIWAK
+#=GR BGC0000759.1_ORF23:gid:urf31:pid:ABW74900.1:loc:27311:28127:strand:-:3:214 PP 6..556777777777..........89999**************************************************988887.***************999.**********************************55......588999*********....44344.4444555555550555667789*****
+BGC0000797.1_ORF22:gid::pid:AAC44076.1:loc:26723:27536:strand:-:3:214              h--VILTRFNIASPG----------REVAIRNSPGWLDRRFGLFEQFCLPSIAGQTERNFHWLIYFDKDTPAEFRERIERDRQIYN-FTPRYVAMFDKAMIADDV-KALATPGEQLIVTTRLDNDDALSNDFVARVQAAAKDA------PAQTVLNFTQGIAM---RQG-RL-YTAADHSNPFTSlVERDLASVETIWAK
+#=GR BGC0000797.1_ORF22:gid::pid:AAC44076.1:loc:26723:27536:strand:-:3:214      PP 6..556777777777..........89999**************************************************998888.************999999.**********************************777......778899********...333.23.333333344444056678999******
+#=GC PP_cons                                                                       ...556777777777..........89999**************************************************988888.************999999.**********************************667.....578899*********...334333.344444444444.556678889*****
+#=GC RF                                                                            .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx
+
+BGC0000759.1_ORF23:gid:urf31:pid:ABW74900.1:loc:27311:28127:strand:-:3:214         PHHELGEKWTIRQVPSKPLWLQVVHGENVTNRIKGK-l
+#=GR BGC0000759.1_ORF23:gid:urf31:pid:ABW74900.1:loc:27311:28127:strand:-:3:214 PP ********************************9876.8
+BGC0000797.1_ORF22:gid::pid:AAC44076.1:loc:26723:27536:strand:-:3:214              PHHELGQKWKITQVAGRPVWLQVVHGENVINRIKGR-l
+#=GR BGC0000797.1_ORF22:gid::pid:AAC44076.1:loc:26723:27536:strand:-:3:214      PP *****************************9998875.8
+#=GC PP_cons                                                                       ******************************999875..
+#=GC RF                                                                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1018:gid::pid::loc:1196952:1197522:strand:+:94:181         ..GYGGEIEVMVGISSEGQVTGVDIGNMSETAGL.GA.KakddafkgqykgktaE-.-------------PlevakgsttaDNQILAISGATITSTAVTTGVNAAID.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1018:gid::pid::loc:1196952:1197522:strand:+:94:181 PP ..9***********88******************.88.54665554444332210...............1333444444499**********************85.
+GCA_000085225.1_ASM8522v1_genomic_ORF1657:gid::pid::loc:1869459:1869864:strand:-:65:131         vk-----ATVSVEVN-NGKIQNINILKH--DHLL.GKpA...............-E.KITTSIIKQQSL--..........--DVDAITSATYSSNTIRKAVENAL-r
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1657:gid::pid::loc:1869459:1869864:strand:-:65:131 PP 96.....58999999.99********88..5566.9955................5.788888888766..............7*********************9.6
+BGC0001010.1_ORF5:gid::pid:CAD89768.1:loc:8856:9420:strand:+:93:172                             gq--HEQITFAVKLSPEGAVERHEVMVYRESYGQeIT.Darf........rrqfQGkTVKD-PVRA-----..........GTDIDVVTGATISSRSMAVGVRRAL-i
+#=GR BGC0001010.1_ORF5:gid::pid:CAD89768.1:loc:8856:9420:strand:+:93:172                     PP 55..679*******99**********999*9886444.2476........65542112233.2222...............678********************98.8
+BGC0001009.1_ORF5:gid::pid:CAD89768.1:loc:8856:9420:strand:+:93:172                             gq--HEQITFAVKLSPEGAVERHEVMVYRESYGQeIT.Darf........rrqfQGkTVKD-PVRA-----..........GTDIDVVTGATISSRSMAVGVRRAL-i
+#=GR BGC0001009.1_ORF5:gid::pid:CAD89768.1:loc:8856:9420:strand:+:93:172                     PP 55..679*******99**********999*9886444.2476........65542112233.2222...............678********************98.8
+#=GC PP_cons                                                                                    ..9*88999*****99**********99**8887.66.3...............13.444484444766.1..........788*********************85.
+#=GC RF                                                                                         ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx.x...............xx.xxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

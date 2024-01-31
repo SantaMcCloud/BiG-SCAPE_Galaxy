@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2164:gid::pid::loc:2415345:2417364:strand:-:380:502         ...........aVAG.FIMDYFHLRDGRWIMLTVFSLTQP..YAENCIQRSRKRIEGTFIGAVIFIVLFSIIKDS..TLRSLIVLLAGYINSYVV-.-DYRKLMVCVTVSALGSAVV--MGDPNVLTISRISYVALGAIIALIV.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2164:gid::pid::loc:2415345:2417364:strand:-:380:502 PP ...........9578.************************..*********************************..9999**********9996...8*************99988..789999*****************97.
+BGC0000144.1_ORF8:gid::pid:AEZ53940.1:loc:7004:8204:strand:+:49:171                              ..........aa--WyLARHVVDHHLPLFAPIATIVALNA..PRGERGVNAVRLMLGVSVGILLGEASMAVIGGHgyLTLGAAVFASMLAALVLGG.ERIVIAQASVSAIIAIATGT------EEAGPQRLTDALIGTGVAIVV.
+#=GR BGC0000144.1_ORF8:gid::pid:AEZ53940.1:loc:7004:8204:strand:+:49:171                      PP ..........74..52555799******************..***************************999996678999999999999999999.99999999999988877775......357899*************97.
+BGC0001148.1_ORF13:gid:pgm13:pid:BAP82659.1:loc:16044:18285:strand:-:412:542                     .....lalavar---.TVAALDTLPHGFWAMLAVLSLTRT..TAVQTRATVRQALTGTFVGALAAGVVLALADGA.tLPCAILLPPLMLIAFCVGPvRGVGWMQAMFTLVVALVFAQL-SVATWQLAEVRFLDVLIGSVIGMLC.
+#=GR BGC0001148.1_ORF13:gid:pgm13:pid:BAP82659.1:loc:16044:18285:strand:-:412:542             PP .....9987655....45666778****************..********************************7.7**************999965999********8887777774.999*******************986.
+BGC0001133.1_ORF22:gid:yccS:pid:CBJ79908.1:loc:13989:16152:strand:+:410:535                      ........lctg--Y.AIIQLFDLQRGYWILLTSLFVCQP..NYNATRRRLALRVIGTLAGILIGLPILYFVPSI..EGQLVLIIISGVLFFAFRN.IQYAHATLFITLLVLLSFNL--LGEGFEVALPRITDTLIGCGIALL-a
+#=GR BGC0001133.1_ORF22:gid:yccS:pid:CBJ79908.1:loc:13989:16152:strand:+:410:535              PP ........9975..6.899*********************..********************************8..6666777888888889***.********************..6999******************98.5
+BGC0001106.1_ORF3:gid::pid:ABS90463.1:loc:7748:10076:strand:-:433:571                            raavqvavgsal-AI.VGGEFLSTQRWYWAVLTCWVVFLNtaSTGEILVKGYRRLLGTVLGVVAGVALAGAVGNH.tWLAFALVLLCVFGMFFTAP.LSYALMSFFVTAMLGLLYTLL-NTYSLDVLVLRVEETALGAACGIV-a
+#=GR BGC0001106.1_ORF3:gid::pid:ABS90463.1:loc:7748:10076:strand:-:433:571                    PP *********995.56.66899****************96668***************************777776.5*******************.********************7.88999*****************98.5
+#=GC PP_cons                                                                                     ............566.77889999**************99..***************************999997..9999999999999999999.99*********9999999886.7999899***************986.
+#=GC RF                                                                                          ............xxx.xxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

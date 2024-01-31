@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000629.1_ORF14:gid::pid:AAT65720.1:loc:32777:34187:strand:-:26:270         LRCYVRLVIVKAFGWDDVIMLLALGFFGMFSGcMIGGSIY.GTGRHLTELTNHQRTTAMeYWFLCDVAYCLSSILCKISVGIFLLRVTV-DKIQRIVIYAVTTLAAVFGLMFLILLLAQCKPVEFFWMRLSTEnpvsgSCINMTVIivaLYIFSAVSFIFDLTVGVLPVFVVRNLQMRRDVKFAVAGLLGMACI......
+#=GR BGC0000629.1_ORF14:gid::pid:AAT65720.1:loc:32777:34187:strand:-:26:270 PP 7*************************99999977778888.******************75477************************8.*************************************665555556669***8876111577899999************************************......
+BGC0000338.1_ORF2:gid::pid:AFT91371.1:loc:3515:5576:strand:+:119:356           LRIGWRTATKKAFGWDDGFILLALP-----DG.---AVKYhGLGTNLWTIPFDSITAQLkYLLIAEVFYMPAEAFTQLSFLAFYHRIFP--PKYKYPIYSLSAISACFGISNTLIMIFQCTPVSFFWNSWTGEv..sgTCIDINTY...SWYRAAMQICMDVSIIGLPIWPLSRLVLSRRKKAMVLVMFCTGFLpngktr
+#=GR BGC0000338.1_ORF2:gid::pid:AFT91371.1:loc:3515:5576:strand:+:119:356   PP 79**********************9.....44....67777*****************977788************************9..899************************************9999..99********...***************************************************
+#=GC PP_cons                                                                   79**********************9*999977.7777888.******************.6677************************9.*99**********************************888777.....9***9988...88999****************************************......
+#=GC RF                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxx.xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......
+
+BGC0000629.1_ORF14:gid::pid:AAT65720.1:loc:32777:34187:strand:-:26:270         ASVAVLVRMAYVET-LRNPDFLYATVGIAVWSNIETGLGIFAGSLATLRPLLR-m
+#=GR BGC0000629.1_ORF14:gid::pid:AAT65720.1:loc:32777:34187:strand:-:26:270 PP **********9999.567*********************************97.6
+BGC0000338.1_ORF2:gid::pid:AFT91371.1:loc:3515:5576:strand:+:119:356           ITIVSCLRLQSLIKFSKSPNISMDNNPAIYWSMVECDVAIICACMPCLPRLLK-p
+#=GR BGC0000338.1_ORF2:gid::pid:AFT91371.1:loc:3515:5576:strand:+:119:356   PP ***********************************************988875.9
+#=GC PP_cons                                                                   ***************888******************************99986..
+#=GC RF                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

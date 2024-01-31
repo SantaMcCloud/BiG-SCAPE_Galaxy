@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+BGC0000969.1_ORF12:gid::pid:CAJ46698.1:loc:45409:46171:strand:+:68:252             .gtyr----AGHHYKGIFNCKTPFDLHLYSLLLWELKPRTIIELGSFHGGSALWFADQLSLLHHGGVVHSFERFAELVSPRA--EHPslTFHRADLNDLTSLDASLFERLP------HPWLVV-DDA--HANVCNVLRYLDGFAKEGDYYVIEDIT..-.....----.SDFKSERYEEIG-QTVD--------ALN.YL
+#=GR BGC0000969.1_ORF12:gid::pid:CAJ46698.1:loc:45409:46171:strand:+:68:252     PP .9755....56789999999******************************************88888888887666666644..466215689999999999999988774......455665.444..467999999999999******988844.............333334544555.2222........346.77
+BGC0000928.1_ORF18:gid:sxtX:pid:ABI75105.1:loc:20237:21011:strand:-:45:253         .nrdl------FTWKGIPFLKGCTEIALYSMLLYELRPKTIIEIGALSGGSAIWLADHLELFQIEGCVYCIDIDLSLLDEKAKTD--..--SRVHFLEGDCNNMGAIMSSELLSGLAHPWLIVEDAHANAVGVVEYF--HENGLKSGDYLIVEDTNktMweldrEELDrDDLDEQELIEKGEQKLAELKSWLMLHENeYL
+#=GR BGC0000928.1_ORF18:gid:sxtX:pid:ABI75105.1:loc:20237:21011:strand:-:45:253 PP .9876......89*******************************************************************99886......9***********9999988777777888888877655555555544..3556789********9833211111122211222334456777777777777766655577
+BGC0000319.1_ORF8:gid::pid:EDY47109.1:loc:9866:10577:strand:+:51:190               sdfsp------YQWRGLRMLKDPDTQAVYHDMLWELRPRTIVELGVYNGGSLAWFRDLTKIMGIDCQVIGIDRDLSRCQIPASDM--..--ENITLHQGDCSDLTTFEHLREMAHP----LIFIDDAHANTFNIMK-WAVDHLLEEGDYFIIEDM-..-.....----.----------------------------.--
+#=GR BGC0000319.1_ORF8:gid::pid:EDY47109.1:loc:9866:10577:strand:+:51:190       PP *9876......79***********************************************************9877766666664......89***************99999876....7888999988765554.47899***********96.............................................
+BGC0000188.1_ORF18:gid:sxtX:pid:ABI75105.1:loc:20237:21011:strand:-:45:253         .nrdl------FTWKGIPFLKGCTEIALYSMLLYELRPKTIIEIGALSGGSAIWLADHLELFQIEGCVYCIDIDLSLLDEKAKTD--..--SRVHFLEGDCNNMGAIMSSELLSGLAHPWLIVEDAHANAVGVVEYF--HENGLKSGDYLIVEDTNktMweldrEELDrDDLDEQELIEKGEQKLAELKSWLMLHENeYL
+#=GR BGC0000188.1_ORF18:gid:sxtX:pid:ABI75105.1:loc:20237:21011:strand:-:45:253 PP .9876......89*******************************************************************99886......9***********9999988777777888888877655555555544..3556789********9833211111122211222334456777777777777766655577
+#=GC PP_cons                                                                       .........56799************************************************9999999999988888887787566..5699**********9999988788777877777787666666666655686778899******9976..2.....1222.2223334456667555577777766555.77
+#=GC RF                                                                            .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..x.....xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx
+
+BGC0000969.1_ORF12:gid::pid:CAJ46698.1:loc:45409:46171:strand:+:68:252             VDTSYTDNFGynLTCAPNGWLRK-m.................
+#=GR BGC0000969.1_ORF12:gid::pid:CAJ46698.1:loc:45409:46171:strand:+:68:252     PP 77777777765578899999987.5.................
+BGC0000928.1_ORF18:gid:sxtX:pid:ABI75105.1:loc:20237:21011:strand:-:45:253         IDTYYQ----..------------dmygyngsrnwnsilkrv
+#=GR BGC0000928.1_ORF18:gid:sxtX:pid:ABI75105.1:loc:20237:21011:strand:-:45:253 PP 776655..................566677788888888889
+BGC0000319.1_ORF8:gid::pid:EDY47109.1:loc:9866:10577:strand:+:51:190               ----------..------------ip................
+#=GR BGC0000319.1_ORF8:gid::pid:EDY47109.1:loc:9866:10577:strand:+:51:190       PP ........................69................
+BGC0000188.1_ORF18:gid:sxtX:pid:ABI75105.1:loc:20237:21011:strand:-:45:253         IDTYYQ----..------------dmygyngsrnwnsilkrv
+#=GR BGC0000188.1_ORF18:gid:sxtX:pid:ABI75105.1:loc:20237:21011:strand:-:45:253 PP 776655..................566677788888888889
+#=GC PP_cons                                                                       7776667776..78899999987...................
+#=GC RF                                                                            xxxxxxxxxx..xxxxxxxxxxxx..................
+//

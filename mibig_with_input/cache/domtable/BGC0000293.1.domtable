@@ -1,0 +1,22 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.32   382 BGC0000293.1_ORF1:gid::pid:EAW16180.1:loc:0:7132:strand:- -           2359  2.1e-118  395.7   0.0   1   2   1.9e-58   9.7e-55  186.1   0.0     3   381   239   574   237   575 0.84 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0000293.1_ORF1:gid::pid:EAW16180.1:loc:0:7132:strand:- -           2359  2.1e-118  395.7   0.0   2   2   6.8e-65   3.6e-61  207.3   0.1     6   382  1321  1653  1316  1653 0.84 AMP-binding enzyme
+Condensation         PF00668.24   456 BGC0000293.1_ORF1:gid::pid:EAW16180.1:loc:0:7132:strand:- -           2359   3.9e-70  237.0   0.0   1   2   1.6e-38   8.2e-35  120.6   0.0     2   450   883  1292   882  1297 0.81 Condensation domain
+Condensation         PF00668.24   456 BGC0000293.1_ORF1:gid::pid:EAW16180.1:loc:0:7132:strand:- -           2359   3.9e-70  237.0   0.0   2   2   5.5e-33   2.9e-29  102.3   0.5     7   435  1936  2356  1931  2358 0.84 Condensation domain
+PP-binding           PF00550.29    67 BGC0000293.1_ORF1:gid::pid:EAW16180.1:loc:0:7132:strand:- -           2359   4.7e-27   94.2   0.1   1   2   3.6e-16   1.9e-12   47.5   0.0     2    65   778   840   777   842 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0000293.1_ORF1:gid::pid:EAW16180.1:loc:0:7132:strand:- -           2359   4.7e-27   94.2   0.1   2   2     4e-15   2.1e-11   44.1   0.1     2    65  1850  1912  1849  1914 0.96 Phosphopantetheine attachment site
+Trp_DMAT             PF11991.12   357 BGC0000293.1_ORF2:gid::pid:EAW16181.1:loc:9057:10422:strand:+ -            437  2.1e-104  349.9   0.0   1   1  1.2e-108  2.5e-104  349.7   0.0     2   356    47   390    46   391 0.96 Tryptophan dimethylallyltransferase
+Transferase          PF02458.19   434 BGC0000293.1_ORF3:gid::pid:EAW16182.1:loc:11235:12765:strand:+ -            509   4.6e-23   81.8   0.0   1   2   2.1e-18   4.3e-14   52.2   0.0   131   303   131   344   118   349 0.75 Transferase family
+Transferase          PF02458.19   434 BGC0000293.1_ORF3:gid::pid:EAW16182.1:loc:11235:12765:strand:+ -            509   4.6e-23   81.8   0.0   2   2   8.2e-11   1.7e-06   27.2   0.0   328   430   392   492   364   494 0.79 Transferase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000293.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000293.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000293.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:21:10 2024
+# [ok]

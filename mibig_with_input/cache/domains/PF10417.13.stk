@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1331:gid::pid::loc:1523845:1525975:strand:-:157:195         ..ALQTSDRD.NIVTPANWFP.....GMPVILPYPKNYKELKNRV---ns..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1331:gid::pid::loc:1523845:1525975:strand:-:157:195 PP ..9*******.**********.....*******999999988875...78..
+BGC0001114.1_ORF3:gid::pid:AGN11879.1:loc:2439:3003:strand:-:154:186                             aa--QYIAAHpGEVCPAKWTP.....GADTL---TPSLD---------ligk
+#=GR BGC0001114.1_ORF3:gid::pid:AGN11879.1:loc:2439:3003:strand:-:154:186                     PP 65..9999999**********.....*****...88866.........6789
+GCF_000011105.1_ORF1138:gid::pid:WP_010885304.1:loc:1096032:1096683:strand:+:155:198             ..ALKISTEK.GVALPHKW-PnneliGDKVIVPPASTIEEKKQRE---eak.
+#=GR GCF_000011105.1_ORF1138:gid::pid:WP_010885304.1:loc:1096032:1096683:strand:+:155:198     PP ..89******.********.99*****************999986...568.
+BGC0001281.1_ORF53:gid::pid:XP_011392689.1:loc:140825:141572:strand:+:164:203                    ..SLQIGDKY.RVTTPVNWQK.....GDKVIVHPSVQGEEAEKL----fpgy
+#=GR BGC0001281.1_ORF53:gid::pid:XP_011392689.1:loc:140825:141572:strand:+:164:203            PP ..69******.**********.....******888777777775....5679
+#=GC PP_cons                                                                                     ..899*****.**********.....******9999888888875.......
+#=GC RF                                                                                          ..xxxxxxxx.xxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxx....
+//

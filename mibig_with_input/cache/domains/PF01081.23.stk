@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF3579:gid::pid::loc:4057725:4058358:strand:-:6:203         .i-TKRMSECGALAIVREENLNRACEIAEGCIKGGITVIEMSYTLNNAGEIIQGLNKKYGEIlCVGAGTVLDSETARHAILHGAQFIIAPNYNEGVAKICNRYQIPYAPGCTSLTEAVDALSLGATFIKAFPISDFYGPKLVKVFKTPIPDMPVLASGGINLENLHIWLENGVDVCGFGGLLTKGT-I-----------e
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3579:gid::pid::loc:4057725:4058358:strand:-:6:203 PP .5.6788899999****************************************99999888538************************************************************************99**************************************9999887655.4...........4
+GCF_008000775.1_ORF3284:gid:eda:pid:WP_162306796.1:loc:3690389:3691028:strand:+:4:199          fs--ETLKKYFLIPVVSIESLDKIAPLTQTLQAAGIKFLEITYRNKNASEALKILQNNNFNM.IIGAGTIRTLAQAEEAIKYGAKFLVSPGFNKEIIHFAAKRNIPFVPGVDSTLSIELANSEGISLLKFFPAEISGGIKWLKSIKGPYHEIKFIPTGGITLENLDLYVKLTNVAGIGGSFLAPKRLILEDNWDEIA--l
+#=GR GCF_008000775.1_ORF3284:gid:eda:pid:WP_162306796.1:loc:3690389:3691028:strand:+:4:199  PP 86..6799999***************************************************.************************************************************************************************************************************96..7
+#=GC PP_cons                                                                                   ...667899999********************************************999998.9*******************************************************************************************************************9998887*7*******96...
+#=GC RF                                                                                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+GCA_000085225.1_ASM8522v1_genomic_ORF3579:gid::pid::loc:4057725:4058358:strand:-:6:203         ditenakkirei
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3579:gid::pid::loc:4057725:4058358:strand:-:6:203 PP 455566667789
+GCF_008000775.1_ORF3284:gid:eda:pid:WP_162306796.1:loc:3690389:3691028:strand:+:4:199          i...........
+#=GR GCF_008000775.1_ORF3284:gid:eda:pid:WP_162306796.1:loc:3690389:3691028:strand:+:4:199  PP 8...........
+#=GC PP_cons                                                                                   ............
+#=GC RF                                                                                        ............
+//

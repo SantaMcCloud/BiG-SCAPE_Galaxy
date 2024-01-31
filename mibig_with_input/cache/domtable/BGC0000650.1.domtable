@@ -1,0 +1,30 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Sigma70_r2           PF04542.18    71 BGC0000650.1_ORF1:gid::pid:ABB88947.1:loc:28:541:strand:+ -            170     8e-13   48.2   0.1   1   1   2.8e-16   1.9e-12   47.0   0.0     8    67    16    73    10    77 0.89 Sigma-70 region 2
+Sigma70_r4_2         PF08281.16    54 BGC0000650.1_ORF1:gid::pid:ABB88947.1:loc:28:541:strand:+ -            170   1.2e-10   41.0   0.0   1   1   2.6e-14   1.8e-10   40.5   0.0     2    54   108   159   107   159 0.95 Sigma-70, region 4
+Sigma70_r4           PF04545.20    50 BGC0000650.1_ORF1:gid::pid:ABB88947.1:loc:28:541:strand:+ -            170   3.5e-06   26.6   0.0   1   1   1.1e-09   7.5e-06   25.6   0.0    16    50   127   161   113   161 0.90 Sigma-70, region 4
+Amino_oxidase        PF01593.28   443 BGC0000650.1_ORF2:gid:crtI:pid:ABB88948.1:loc:545:2024:strand:+ -            492   1.5e-39  136.7   0.0   1   1   9.2e-43   1.7e-39  136.5   0.0     1   443    13   488    13   488 0.82 Flavin containing amine oxidoreductase
+DAO                  PF01266.28   353 BGC0000650.1_ORF2:gid:crtI:pid:ABB88948.1:loc:545:2024:strand:+ -            492   9.7e-18   65.0   0.0   1   2   3.6e-11   6.8e-08   32.6   0.0     2    37     6    41     5    70 0.91 FAD dependent oxidoreductase
+DAO                  PF01266.28   353 BGC0000650.1_ORF2:gid:crtI:pid:ABB88948.1:loc:545:2024:strand:+ -            492   9.7e-18   65.0   0.0   2   2   1.9e-10   3.6e-07   30.2   0.0   124   202   201   277   172   295 0.82 FAD dependent oxidoreductase
+NAD_binding_8        PF13450.10    68 BGC0000650.1_ORF2:gid:crtI:pid:ABB88948.1:loc:545:2024:strand:+ -            492   3.8e-17   62.5   0.0   1   1   5.2e-20   9.8e-17   61.2   0.0     1    65     8    69     8    72 0.91 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.28   414 BGC0000650.1_ORF2:gid:crtI:pid:ABB88948.1:loc:545:2024:strand:+ -            492   3.3e-08   33.4   0.0   1   1   4.1e-09   7.8e-06   25.5   0.0     2    36     6    40     5    51 0.91 FAD binding domain
+SQS_PSY              PF00494.23   263 BGC0000650.1_ORF3:gid:crtB:pid:ABB88949.1:loc:2170:3013:strand:+ -            280   4.1e-41  141.6   0.0   1   1   1.7e-43   3.6e-39  135.2   0.0     2   261    20   261    19   263 0.91 Squalene/phytoene synthase
+Lycopene_cyc         PF18916.4     92 BGC0000650.1_ORF4:gid:crtYcd:pid:ABB88950.1:loc:3015:3726:strand:+ -            236   2.3e-46  156.5  38.4   1   2   3.6e-23   7.5e-19   68.3  16.4     1    92     3    96     3    96 0.91 Lycopene cyclase
+Lycopene_cyc         PF18916.4     92 BGC0000650.1_ORF4:gid:crtYcd:pid:ABB88950.1:loc:3015:3726:strand:+ -            236   2.3e-46  156.5  38.4   2   2   9.3e-33   1.9e-28   99.0   7.2     1    92   129   224   129   224 0.93 Lycopene cyclase
+LYTB                 PF02401.22   267 BGC0000650.1_ORF5:gid:ispH:pid:ABB88951.1:loc:3729:4575:strand:+ -            281   7.9e-85  284.6   0.1   1   1   4.2e-89   8.8e-85  284.4   0.1     3   266     8   278     6   279 0.95 LytB protein
+FA_desaturase        PF00487.28   253 BGC0000650.1_ORF6:gid:crtW:pid:ABB88952.1:loc:4532:5303:strand:+ -            256   3.9e-19   69.6  26.7   1   2   3.5e-12   7.3e-08   32.7   8.7     3    99    64   151    62   167 0.67 Fatty acid desaturase
+FA_desaturase        PF00487.28   253 BGC0000650.1_ORF6:gid:crtW:pid:ABB88952.1:loc:4532:5303:strand:+ -            256   3.9e-19   69.6  26.7   2   2     2e-15   4.1e-11   43.3  11.7   129   234   153   250   143   253 0.63 Fatty acid desaturase
+CarbopepD_reg_2      PF13715.10    88 BGC0000650.1_ORF7:gid::pid:ABB88953.1:loc:5263:7720:strand:+ -            818   6.6e-18   64.7   0.1   1   1   2.2e-21   1.5e-17   63.5   0.1     1    88    41   129    41   129 0.94 CarboxypepD_reg-like domain
+CarboxypepD_reg      PF13620.10    82 BGC0000650.1_ORF7:gid::pid:ABB88953.1:loc:5263:7720:strand:+ -            818   2.7e-15   56.7   0.1   1   1   7.5e-19   5.2e-15   55.8   0.1     2    81    41   117    40   118 0.97 Carboxypeptidase regulatory-like domain
+Plug                 PF07715.19   107 BGC0000650.1_ORF7:gid::pid:ABB88953.1:loc:5263:7720:strand:+ -            818   1.8e-07   31.8   0.2   1   1   6.8e-11   4.7e-07   30.5   0.2     3    97   137   236   135   240 0.93 TonB-dependent Receptor Plug Domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000650.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000650.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000650.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:28:05 2024
+# [ok]

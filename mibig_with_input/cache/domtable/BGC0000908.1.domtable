@@ -1,0 +1,19 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+RNase_H              PF00075.28   141 BGC0000908.1_ORF2:gid::pid:BAB69174.1:loc:700:1411:strand:+ -            236   1.1e-30  106.9   0.0   1   1   6.9e-35   1.4e-30  106.5   0.0     3   140     8   149     6   150 0.89 RNase H
+Tyrosinase           PF00264.24   214 BGC0000908.1_ORF3:gid:melC2:pid:BAB69175.1:loc:1552:2377:strand:- -            274   8.8e-47  160.4   1.2   1   1   5.4e-51   1.1e-46  160.1   1.2     2   213    29   228    28   229 0.75 Common central domain of tyrosinase
+MelC1                PF06236.15   115 BGC0000908.1_ORF4:gid:melC1:pid:BAB69176.1:loc:2412:2769:strand:- -            118   6.2e-43  145.7   5.4   1   1   3.6e-47   7.5e-43  145.5   5.4     1   115    13   117     9   117 0.88 Tyrosinase co-factor MelC1
+FAD_binding_3        PF01494.23   349 BGC0000908.1_ORF6:gid::pid:BAB69178.1:loc:3671:4877:strand:+ -            401   1.1e-09   38.2   0.8   1   1   1.4e-12     3e-08   33.5   1.2   150   340   129   317    92   323 0.62 FAD binding domain
+MFS_1                PF07690.20   347 BGC0000908.1_ORF7:gid::pid:BAB69179.1:loc:4940:6497:strand:+ -            518   1.1e-44  153.0  68.9   1   1   1.5e-46   1.6e-42  145.9  54.9     1   345    50   443    50   445 0.88 Major Facilitator Superfamily
+Sugar_tr             PF00083.28   452 BGC0000908.1_ORF7:gid::pid:BAB69179.1:loc:4940:6497:strand:+ -            518     2e-08   33.7   8.3   1   1     2e-12     2e-08   33.7   8.3    48   195    82   223    72   225 0.88 Sugar (and other) transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000908.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000908.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000908.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:26:37 2024
+# [ok]

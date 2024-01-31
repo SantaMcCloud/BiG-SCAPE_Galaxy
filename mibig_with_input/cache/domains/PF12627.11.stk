@@ -1,0 +1,9 @@
+# STOCKHOLM 1.0
+
+BGC0000153.1_ORF20:gid::pid:CAD19096.1:loc:65536:66808:strand:+:177:239                          GFTLDPATRDAIPPTLPVFRKVALERVREEFVKLLLSPRAELGLSLLVETGLLEAFLPELSS--a.
+#=GR BGC0000153.1_ORF20:gid::pid:CAD19096.1:loc:65536:66808:strand:+:177:239                  PP 8**********************************************************965..7.
+GCA_000085225.1_ASM8522v1_genomic_ORF2401:gid::pid::loc:2681254:2682592:strand:-:171:231         NFKIAEGTKQSIHKKADLIKNVSIERIQTEFNKILVSDSSK--LNLLKSTGLLKFIIPEIC---el
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2401:gid::pid::loc:2681254:2682592:strand:-:171:231 PP 7*************************************888..6***************95...68
+#=GC PP_cons                                                                                     8*************************************999**8***************955....
+#=GC RF                                                                                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

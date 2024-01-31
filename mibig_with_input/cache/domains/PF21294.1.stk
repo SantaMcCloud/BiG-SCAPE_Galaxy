@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000729.1_ORF10:gid::pid:BAF47002.1:loc:12281:13136:strand:+:63:266         fd---EKEGAFRVYYPAGSFDPqsmksKHLPSGGMNFKWAPFYSR-NKECAIIQYSVRFPKSFDFVKGGKLPGLYGGN---G--NTGGKipNGYDGFSVRLLWVENGMGKVYAYLPQEDK-----------KQKWGVGLSGLPWFYPRGEWQNITLKVKLNTVNFQNGIVKLWVNNKLVIDRRDVLFRKTPNLKIDGVLF
+#=GR BGC0000729.1_ORF10:gid::pid:BAF47002.1:loc:12281:13136:strand:+:63:266 PP 96...567899*********984332223347********99987.88899***************************...4..6788843457**********************9764...........468******************************************************************
+BGC0000728.1_ORF10:gid::pid:BAF46986.1:loc:12265:13120:strand:+:63:266         fd---EKEGAFRVYYPAGSFDPqsmksKHLPSGGMNFKWAPFYSR-NKECAIIQYSVRFPKSFDFVKGGKLPGLYGGN---G--NTGGKipNGYDGFSVRLLWVENGMGKVYAYLPQEDK-----------KQKWGVGLSGLPWFYPRGEWQNITLKVKLNTVNFQNGIVKLWVNNKLVIDRRDVLFRKTPNLKIDGVLF
+#=GR BGC0000728.1_ORF10:gid::pid:BAF46986.1:loc:12265:13120:strand:+:63:266 PP 96...567899*********984332223347********99987.88899***************************...4..6788843457**********************9764...........468******************************************************************
+#=GC PP_cons                                                                   .....567899*********98.....23347********99987.88899***************************...4..67888..457**********************9764...........468******************************************************************
+#=GC RF                                                                        ..xxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000729.1_ORF10:gid::pid:BAF47002.1:loc:12281:13136:strand:+:63:266         STFFGGNNPSFAPKELQYLDFKDI
+#=GR BGC0000729.1_ORF10:gid::pid:BAF47002.1:loc:12281:13136:strand:+:63:266 PP *********************996
+BGC0000728.1_ORF10:gid::pid:BAF46986.1:loc:12265:13120:strand:+:63:266         STFFGGNNPSFAPKELQYLDFKDI
+#=GR BGC0000728.1_ORF10:gid::pid:BAF46986.1:loc:12265:13120:strand:+:63:266 PP *********************996
+#=GC PP_cons                                                                   *********************996
+#=GC RF                                                                        xxxxxxxxxxxxxxxxxxxxxxxx
+//

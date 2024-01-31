@@ -1,0 +1,23 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Rgg_C                PF21259.1    182 BGC0000530.1_ORF1:gid::pid:EMC15120.1:loc:0:852:strand:+ -            283   5.6e-35  120.8  13.7   1   1   3.8e-39   7.9e-35  120.4  13.7     5   170    95   261    91   267 0.91 HTH-type transcriptional regulator Rgg, C-terminal domain
+Gallidermin          PF02052.19    52 BGC0000530.1_ORF3:gid::pid:EMC15122.1:loc:1711:1903:strand:+ -             63   6.2e-29  100.3   6.0   1   1   3.4e-33   7.1e-29  100.1   6.0     1    52    12    63    12    63 0.99 Gallidermin
+Gallidermin          PF02052.19    52 BGC0000530.1_ORF4:gid::pid:EMC15123.1:loc:1972:2167:strand:+ -             64   2.9e-14   53.3   0.8   1   1   1.8e-18   3.8e-14   53.0   0.8     2    52    13    64    12    64 0.87 Gallidermin
+Lant_dehydr_N        PF04738.17   649 BGC0000530.1_ORF5:gid::pid:EMC15124.1:loc:2321:5294:strand:+ -            990  9.7e-119  397.5   0.0   1   1  1.1e-122  1.2e-118  397.2   0.0     2   649    38   662    37   662 0.94 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.10   255 BGC0000530.1_ORF5:gid::pid:EMC15124.1:loc:2321:5294:strand:+ -            990     6e-30  105.4   4.2   1   1   5.8e-34     6e-30  105.4   4.2     3   250   725   968   724   973 0.75 Lantibiotic biosynthesis dehydratase C-term
+LANC_like            PF05147.17   350 BGC0000530.1_ORF6:gid::pid:EMC15125.1:loc:5280:6555:strand:+ -            424   2.5e-52  177.8   4.0   1   1   1.5e-56   3.1e-52  177.5   4.0     5   339    42   407    39   422 0.88 Lanthionine synthetase C-like protein
+Flavoprotein         PF02441.23   162 BGC0000530.1_ORF7:gid::pid:EMC15126.1:loc:6577:7144:strand:+ -            188   2.6e-27   95.6   0.8   1   1   1.8e-31   3.7e-27   95.1   0.8     1   146     8   162     8   184 0.85 Flavoprotein
+Peptidase_S8         PF00082.26   283 BGC0000530.1_ORF8:gid::pid:EMC15127.1:loc:7148:8492:strand:+ -            447   1.1e-45  156.3   8.8   1   1   5.4e-50   1.1e-45  156.3   8.8     2   268   130   428   129   439 0.87 Subtilase family
+ABC_tran             PF00005.31   137 BGC0000530.1_ORF9:gid::pid:EMC15128.1:loc:8492:10118:strand:+ -            541   6.3e-31  108.0   0.7   1   1   1.3e-34   1.3e-30  107.0   0.1     2   136   337   484   336   485 0.88 ABC transporter
+ABC_membrane         PF00664.27   274 BGC0000530.1_ORF9:gid::pid:EMC15128.1:loc:8492:10118:strand:+ -            541   5.1e-30  105.3  16.2   1   1   6.6e-34   6.8e-30  104.9  16.2     2   273    18   277    17   278 0.96 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000530.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000530.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000530.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:34:48 2024
+# [ok]

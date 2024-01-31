@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+BGC0000751.1_ORF2:gid:cps12A:pid:AAS77490.1:loc:649:1765:strand:+:103:210         RFEDHNELYYSVHAVLKYMPWVRHIFIITDNQKPKWLDETRQeKITLIDHQDIIDKEY-LPTFNSHVIEAFLHKIPNLSENFIYFNDDVFIARELQAEHFFQANGIA--si
+#=GR BGC0000751.1_ORF2:gid:cps12A:pid:AAS77490.1:loc:649:1765:strand:+:103:210 PP 89***********************************987644************999.*******************************************99875..68
+BGC0000807.1_ORF22:gid::pid:ADD45302.1:loc:22390:24172:strand:+:322:429           RFVNRDELRYALRSLNTYAPWINHIWIVTDQQRPQWLDVRHP.KLTVVDHKDIFEDPNVLPTFNSHAIESQLHRIPGLSEHFLYFNDDMMLGRPIGPDQFFTAAGVAK-v.
+#=GR BGC0000807.1_ORF22:gid::pid:ADD45302.1:loc:22390:24172:strand:+:322:429   PP 899***************************************.***********************************************************988765.7.
+BGC0000807.1_ORF23:gid::pid:ADD45303.1:loc:24159:25809:strand:+:272:379           RYISRDELKYSLRSVHQNAPWVRNVYIVTDDQTPPWLNTDDP.RVRVVDHREIFSDPSVLPVFNSHAIESQLHHIPGLSDQFLYFNDDMFLGRPLTPQRFFEANGLS--rf
+#=GR BGC0000807.1_ORF23:gid::pid:ADD45303.1:loc:24159:25809:strand:+:272:379   PP 899***************************************.***********************************************************99876..57
+#=GC PP_cons                                                                      899***********************************9998.***********************************************************998765...
+#=GC RF                                                                           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

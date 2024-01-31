@@ -1,0 +1,62 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="221.73333333333332" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="211.73333333333332" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (CU7111_1581)
+hypothetical protein</title>
+			<polygon class=" (CU7111_1581)
+hypothetical protein" points="18,10 37,40 18,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (CU7111_1582)
+hypothetical protein</title>
+			<polygon class=" (CU7111_1582)
+hypothetical protein" points="38,10 61,40 38,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_23 (PF13489)
+"Methyltransferase domain"</title>
+				<polygon class="PF13489" points="41,28 48,28 57,40 57,40 48,52 41,52" stroke-linejoin="round" width="16" height="24" fill="rgb(62,214,70)" stroke="rgb(49,171,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CU7111_1583)
+hypothetical protein</title>
+			<polygon class=" (CU7111_1583)
+hypothetical protein" points="61,10 84,40 61,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (CU7111_1584)
+hypothetical protein</title>
+			<polygon class=" (CU7111_1584)
+hypothetical protein" points="85,25 87,25 87,10 117,40 87,70 87,55 85,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (CU7111_1585)
+hypothetical protein</title>
+			<polygon class=" (CU7111_1585)
+hypothetical protein" points="117,25 133,25 133,10 163,40 133,70 133,55 117,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="125,28 147,28 159,40 159,40 147,52 125,52" stroke-linejoin="round" width="34" height="24" fill="rgb(69,185,74)" stroke="rgb(55,148,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CU7111_1586)
+hypothetical protein</title>
+			<polygon class=" (CU7111_1586)
+hypothetical protein" points="164,10 191,40 164,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nitroreductase (PF00881)
+"Nitroreductase family"</title>
+				<polygon class="PF00881" points="173,28 176,28 187,40 176,52 173,52" stroke-linejoin="round" width="18" height="24" fill="rgb(106,62,184)" stroke="rgb(84,49,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CU7111_1587)
+hypothetical protein</title>
+			<polygon class=" (CU7111_1587)
+hypothetical protein" points="192,10 211,40 192,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

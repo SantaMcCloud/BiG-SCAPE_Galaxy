@@ -1,0 +1,256 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1475.4333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1465.4333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ATEG_00316)
+conserved hypothetical protein</title>
+			<polygon class=" (ATEG_00316)
+conserved hypothetical protein" points="50,25 40,25 40,10 10,40 40,70 40,55 50,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="26,28 26,28 45,28 45,52 26,52 26,52" stroke-linejoin="round" width="19" height="24" fill="rgb(128,81,196)" stroke="rgb(102,64,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_00317)
+conserved hypothetical protein</title>
+			<polygon class=" (ATEG_00317)
+conserved hypothetical protein" points="60,25 96,25 96,10 126,40 96,70 96,55 60,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sas10_Utp3 (PF04000)
+"Sas10/Utp3/C1D family"</title>
+				<rect class="PF04000" x="81" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(99,172,204)" stroke="rgb(79,137,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sas10 (PF09368)
+"Sas10 C-terminal domain"</title>
+				<polygon class="PF09368" points="116,34 122,40 116,46" stroke-linejoin="round" width="7" height="24" fill="rgb(160,217,56)" stroke="rgb(128,173,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_00318)
+conserved hypothetical protein</title>
+			<polygon class=" (ATEG_00318)
+conserved hypothetical protein" points="140,25 159,25 159,10 189,40 159,70 159,55 140,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<rect class="PF00069" x="145" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(93,191,206)" stroke="rgb(74,152,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_00319)
+predicted protein</title>
+			<polygon class=" (ATEG_00319)
+predicted protein" points="326,25 246,25 246,10 216,40 246,70 246,55 326,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MutS_V (PF00488)
+"MutS domain V"</title>
+				<rect class="PF00488" x="249" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(185,76,67)" stroke="rgb(148,60,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MutS_III (PF05192)
+"MutS domain III"</title>
+				<rect class="PF05192" x="274" y="28" stroke-linejoin="round" width="30" height="24" fill="rgb(180,46,87)" stroke="rgb(144,36,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_00320)
+heat shock protein 78, mitochondrial precursor</title>
+			<polygon class=" (ATEG_00320)
+heat shock protein 78, mitochondrial precursor" points="424,25 374,25 374,10 344,40 374,70 374,55 424,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ClpB_D2-small (PF10431)
+"C-terminal, D2-small domain, of ClpB protein"</title>
+				<polygon class="PF10431" points="348,40 354,34 354,46" stroke-linejoin="round" width="8" height="24" fill="rgb(155,203,61)" stroke="rgb(124,162,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_2 (PF07724)
+"AAA domain (Cdc48 subfamily)"</title>
+				<polygon class="PF07724" points="355,33 360,28 372,28 372,52 360,52 355,47" stroke-linejoin="round" width="17" height="24" fill="rgb(182,67,182)" stroke="rgb(145,53,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_lid_9 (PF17871)
+"AAA lid domain"</title>
+				<rect class="PF17871" x="388" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(196,93,200)" stroke="rgb(156,74,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA (PF00004)
+"ATPase family associated with various cellular activities (AAA)"</title>
+				<rect class="PF00004" x="398" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(138,87,209)" stroke="rgb(110,69,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_00321)
+elongation factor 1-beta</title>
+			<polygon class=" (ATEG_00321)
+elongation factor 1-beta" points="440,25 444,25 444,10 474,40 444,70 444,55 440,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EF-1_beta_acid (PF10587)
+"Eukaryotic elongation factor 1 beta central acidic region"</title>
+				<rect class="PF10587" x="450" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(176,104,224)" stroke="rgb(140,83,179)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EF1_GNE (PF00736)
+"EF-1 guanine nucleotide exchange domain"</title>
+				<polygon class="PF00736" points="454,28 458,28 462,32 462,48 458,52 454,52" stroke-linejoin="round" width="8" height="24" fill="rgb(58,157,225)" stroke="rgb(46,125,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_00322)
+conserved hypothetical protein</title>
+			<polygon class=" (ATEG_00322)
+conserved hypothetical protein" points="488,10 512,40 488,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMgT (PF10270)
+"Membrane magnesium transporter"</title>
+				<rect class="PF10270" x="488" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(132,210,58)" stroke="rgb(105,168,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_00323)
+predicted protein</title>
+			<polygon class=" (ATEG_00323)
+predicted protein" points="547,10 564,40 547,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ATEG_00324)
+ubiquitin-conjugating enzyme E2S</title>
+			<polygon class=" (ATEG_00324)
+ubiquitin-conjugating enzyme E2S" points="615,25 606,25 606,10 576,40 606,70 606,55 615,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UQ_con (PF00179)
+"Ubiquitin-conjugating enzyme"</title>
+				<rect class="PF00179" x="607" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(89,221,176)" stroke="rgb(71,176,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_00325)
+hypothetical protein</title>
+			<polygon class=" (ATEG_00325)
+hypothetical protein" points="1037,25 667,25 667,10 637,40 667,70 667,55 1037,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<rect class="PF07993" x="656" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(210,94,130)" stroke="rgb(168,75,103)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="684" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="708" y="28" stroke-linejoin="round" width="35" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="746" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="800" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="817" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(203,145,81)" stroke="rgb(162,116,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PKS_DH_N (PF21089)
+"Polyketide synthase dehydratase domain"</title>
+				<rect class="PF21089" x="932" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(67,151,200)" stroke="rgb(53,120,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="949" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(132,93,193)" stroke="rgb(105,74,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="986" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(200,86,70)" stroke="rgb(160,68,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="998" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="1012" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_00326)
+predicted protein</title>
+			<polygon class=" (ATEG_00326)
+predicted protein" points="1126,25 1114,25 1114,10 1084,40 1114,70 1114,55 1126,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Zn_clus (PF00172)
+"Fungal Zn(2)-Cys(6) binuclear cluster domain"</title>
+				<rect class="PF00172" x="1121" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(58,207,82)" stroke="rgb(46,165,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_00327)
+predicted protein</title>
+			<polygon class=" (ATEG_00327)
+predicted protein" points="1242,25 1228,25 1228,10 1198,40 1228,70 1228,55 1242,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FrsA-like (PF06500)
+"Esterase FrsA-like"</title>
+				<polygon class="PF06500" points="1214,28 1214,28 1238,28 1238,52 1214,52 1214,52" stroke-linejoin="round" width="24" height="24" fill="rgb(178,134,76)" stroke="rgb(142,107,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_00328)
+predicted protein</title>
+			<polygon class=" (ATEG_00328)
+predicted protein" points="1300,25 1287,25 1287,10 1257,40 1287,70 1287,55 1300,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Zn_clus (PF00172)
+"Fungal Zn(2)-Cys(6) binuclear cluster domain"</title>
+				<rect class="PF00172" x="1294" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(58,207,82)" stroke="rgb(46,165,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_00329)
+predicted protein</title>
+			<polygon class=" (ATEG_00329)
+predicted protein" points="1329,40 1347,10 1347,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EthD (PF07110)
+"EthD domain"</title>
+				<polygon class="PF07110" points="1335,37 1340,28 1344,28 1344,52 1340,52 1335,43" stroke-linejoin="round" width="9" height="24" fill="rgb(72,84,203)" stroke="rgb(57,67,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_00330)
+predicted protein</title>
+			<polygon class=" (ATEG_00330)
+predicted protein" points="1364,40 1382,10 1382,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EthD (PF07110)
+"EthD domain"</title>
+				<polygon class="PF07110" points="1371,35 1375,28 1380,28 1380,52 1375,52 1371,45" stroke-linejoin="round" width="9" height="24" fill="rgb(72,84,203)" stroke="rgb(57,67,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_00331)
+predicted protein</title>
+			<polygon class=" (ATEG_00331)
+predicted protein" points="1401,25 1434,25 1434,10 1464,40 1434,70 1434,55 1401,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<rect class="PF07690" x="1402" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(228,207,98)" stroke="rgb(182,165,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

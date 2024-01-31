@@ -1,0 +1,1 @@
+BiG-SCAPE/bigscape.py -i ../../BiG-SCAPE/input/ -o ../../BiG-SCAPE_Galaxy/mibig_with_input/ --pfam_dir ../../BiG-SCAPE/pfam/ --include_gbk_str G --mibig13

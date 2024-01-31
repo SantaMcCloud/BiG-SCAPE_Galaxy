@@ -1,0 +1,98 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="236.56666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="226.56666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+CmaD</title>
+			<polygon class="
+CmaD" points="10,10 17,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="10,28 11,28 14,40 11,52 10,52" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+CmaE</title>
+			<polygon class="
+CmaE" points="18,10 46,40 18,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_1 (PF00561)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF00561" points="24,28 30,28 42,40 30,52 24,52" stroke-linejoin="round" width="19" height="24" fill="rgb(99,159,215)" stroke="rgb(79,127,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+CmaA</title>
+			<polygon class="
+CmaA" points="46,25 75,25 75,10 105,40 75,70 75,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="47" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="87,28 89,28 94,33 94,47 89,52 87,52" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="97,36 101,40 97,44" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+CmaB</title>
+			<polygon class="
+CmaB" points="105,25 106,25 106,10 136,40 106,70 106,55 105,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhyH (PF05721)
+"Phytanoyl-CoA dioxygenase (PhyH)"</title>
+				<polygon class="PF05721" points="106,28 119,28 129,38 129,42 119,52 106,52" stroke-linejoin="round" width="23" height="24" fill="rgb(186,53,95)" stroke="rgb(148,42,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+CmaC</title>
+			<polygon class="
+CmaC" points="136,10 150,40 136,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyoxalase_4 (PF13669)
+"Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"</title>
+				<polygon class="PF13669" points="137,28 140,28 146,40 140,52 137,52" stroke-linejoin="round" width="11" height="24" fill="rgb(77,228,69)" stroke="rgb(61,182,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+CmaT</title>
+			<polygon class="
+CmaT" points="151,10 176,40 151,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="153,28 162,28 172,40 162,52 153,52" stroke-linejoin="round" width="21" height="24" fill="rgb(69,76,223)" stroke="rgb(55,60,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+alanyl tRNA synthetase related protein</title>
+			<polygon class="
+alanyl tRNA synthetase related protein" points="176,10 183,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+CmaU</title>
+			<polygon class="
+CmaU" points="198,10 218,40 198,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysE (PF01810)
+"LysE type translocator"</title>
+				<polygon class="PF01810" points="199,28 206,28 214,40 206,52 199,52" stroke-linejoin="round" width="18" height="24" fill="rgb(178,96,213)" stroke="rgb(142,76,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

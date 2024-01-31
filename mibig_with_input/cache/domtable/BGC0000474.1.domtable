@@ -1,0 +1,25 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PatG_C               PF18065.5    115 BGC0000474.1_ORF1:gid:mcaA:pid:CAP64335.1:loc:73:2047:strand:+ -            657   4.2e-37  126.9   0.0   1   1   1.2e-40   8.4e-37  125.9   0.0     4   115   542   653   539   653 0.97 PatG C-terminal
+Peptidase_S8         PF00082.26   283 BGC0000474.1_ORF1:gid:mcaA:pid:CAP64335.1:loc:73:2047:strand:+ -            657   4.3e-34  118.3   0.0   1   1   8.9e-38   6.2e-34  117.8   0.0     2   268    13   253    12   291 0.82 Subtilase family
+PatG_D               PF18047.5    111 BGC0000474.1_ORF1:gid:mcaA:pid:CAP64335.1:loc:73:2047:strand:+ -            657   6.8e-21   75.0   0.0   1   1   1.7e-24   1.2e-20   74.2   0.0     2   110   381   494   380   495 0.97 PatG Domain
+YcaO                 PF02624.20   320 BGC0000474.1_ORF4:gid:mcaD:pid:CAP64338.1:loc:2755:5086:strand:+ -            776   1.3e-99  333.7   0.0   1   1  2.3e-103   2.4e-99  332.9   0.0     1   320   407   739   407   739 0.94 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+DUF4423_like         PF21084.1     76 BGC0000474.1_ORF4:gid:mcaD:pid:CAP64338.1:loc:2755:5086:strand:+ -            776   7.9e-38  128.8   1.0   1   1   1.4e-41   1.5e-37  128.0   1.0     1    76     8    83     8    83 0.99 Winged Helix-turn-helix domain
+DUF5837              PF19155.4     63 BGC0000474.1_ORF5:gid:mcaE:pid:CAP64339.1:loc:5202:5511:strand:+ -            102   1.4e-21   76.7  10.5   1   1   1.6e-23   3.4e-19   69.1  10.5     1    63     6   101     6   101 0.74 Family of unknown function (DUF5837)
+DUF5838              PF19156.4    289 BGC0000474.1_ORF6:gid:mcaF:pid:CAP74572.1:loc:5805:6771:strand:+ -            321   2.3e-80  270.2   0.2   1   1   1.3e-84   2.7e-80  270.0   0.2     2   288    15   303    14   304 0.95 Family of unknown function (DUF5838)
+DUF5829              PF19147.4    265 BGC0000474.1_ORF7:gid::pid:CAP64340.1:loc:6823:7627:strand:+ -            267   2.1e-47  162.2   0.1   1   1   1.1e-51   2.3e-47  162.0   0.1     1   265     5   266     5   266 0.94 Family of unknown function (DUF5829)
+PatG_C               PF18065.5    115 BGC0000474.1_ORF9:gid:mcaG:pid:CAP64342.1:loc:8566:12508:strand:+ -           1313   2.2e-30  105.2   0.0   1   1   8.2e-34   4.3e-30  104.3   0.0     8   115  1197  1304  1190  1304 0.97 PatG C-terminal
+Peptidase_S8         PF00082.26   283 BGC0000474.1_ORF9:gid:mcaG:pid:CAP64342.1:loc:8566:12508:strand:+ -           1313   1.4e-19   70.7   0.0   1   1   5.7e-23     3e-19   69.6   0.0    43   268   704   921   642   947 0.83 Subtilase family
+Nitroreductase       PF00881.28   168 BGC0000474.1_ORF9:gid:mcaG:pid:CAP64342.1:loc:8566:12508:strand:+ -           1313   3.6e-18   66.5   0.0   1   1   1.2e-21   6.4e-18   65.7   0.0     1   167   270   477   270   478 0.94 Nitroreductase family
+PatG_D               PF18047.5    111 BGC0000474.1_ORF9:gid:mcaG:pid:CAP64342.1:loc:8566:12508:strand:+ -           1313   4.7e-17   62.7   0.0   1   1   2.3e-20   1.2e-16   61.3   0.0     2   107  1033  1142  1032  1146 0.96 PatG Domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000474.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000474.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000474.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:27:47 2024
+# [ok]

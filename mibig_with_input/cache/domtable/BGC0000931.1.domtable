@@ -1,0 +1,19 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LIP                  PF03583.18   286 BGC0000931.1_ORF1:gid:Tri8:pid:AAK53582.1:loc:7:1345:strand:- -            445   2.5e-61  207.7   0.1   1   1   1.6e-65   3.3e-61  207.3   0.1     7   285   129   411   125   412 0.89 Secretory lipase
+Tri3                 PF07428.15   416 BGC0000931.1_ORF2:gid:Tri3:pid:AAK53583.1:loc:4282:6050:strand:+ -            511  8.7e-159  528.9   0.0   1   1  4.9e-163    1e-158  528.6   0.0     1   416     8   415     8   415 0.99 15-O-acetyltransferase Tri3
+p450                 PF00067.26   462 BGC0000931.1_ORF3:gid:Tri4:pid:AAK53584.1:loc:6996:8738:strand:- -            520     2e-54  185.3   0.0   1   1   1.4e-58   2.9e-54  184.8   0.0    18   450    62   494    47   502 0.78 Cytochrome P450
+TRI5                 PF06330.15   362 BGC0000931.1_ORF5:gid:Tri5:pid:AAK53586.1:loc:13449:14636:strand:+ -            375  9.1e-206  683.0   6.2   1   1    1e-209  1.1e-205  682.7   6.2     1   354     3   358     3   364 0.99 Trichodiene synthase (TRI5)
+Terpene_syn_C_2      PF19086.4    199 BGC0000931.1_ORF5:gid:Tri5:pid:AAK53586.1:loc:13449:14636:strand:+ -            375   2.7e-07   30.7   0.0   1   1   6.1e-11   6.4e-07   29.5   0.0    34   191   115   264    93   272 0.86 Terpene synthase family 2, C-terminal metal binding
+p450                 PF00067.26   462 BGC0000931.1_ORF6:gid:Tri11:pid:AAK53587.1:loc:18545:20286:strand:- -            492     1e-65  222.5   0.0   1   1     6e-70   1.2e-65  222.2   0.0    19   457    56   484    34   489 0.86 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000931.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000931.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000931.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:59:55 2024
+# [ok]

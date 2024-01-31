@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1208:gid::pid::loc:1389002:1390250:strand:+:165:340         .................................NITRESMLEYLNKYYIPNNAVISIAGNFNFDDMVEKIKSKFGHWEKKNlSIDISEAKFN------PCFISKNKDTEQVNLAICLKGIPF.....ENDEEVYSMAVVNNIFGGSISSRLFQKIREEKGL.VYSIYSSQTLYRKCGELGIFASMSTENLQDVYNLIKKE
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1208:gid::pid::loc:1389002:1390250:strand:+:165:340 PP .................................69*******************************************86544444444444......6667777777**************.....**********************************.**************************************
+GCA_000085225.1_ASM8522v1_genomic_ORF2593:gid::pid::loc:2904606:2905893:strand:-:182:364         .................................KITKEELYKCYNTFYNPGNMALFVVGDLDVEKVIDVTKK-SNNYKVDKlSKSIERFYPEEPESVKEKEVIEKFPISMPMFNIGFKDSNVglkgkELLRKEIVTDILVGMLFKK-GSKLYEDLY-MQGLiNENFGAGFSSQV-DYAFSIIAGDSKE-PKKVKEIILDY
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2593:gid::pid::loc:2904606:2905893:strand:-:182:364 PP .................................69**********************************663.33444344355666666666777788888888888**********9999999999999*************99.*********.99995677888877666.4556666655555.9**********
+GCA_000085225.1_ASM8522v1_genomic_ORF2594:gid::pid::loc:2905907:2907173:strand:-:182:359         .................................SITSRELYEHYKNILKTSPIDIVVEGNFDEDKVVDIISKNLKFEREE-.IINIPRADFI-KNVDEVKVIDEQMEITQGKLVMGYRANVD....yADIDKYYALVVGSNVLGGGPHSKLFVNVREKESL.CYYIFSSIEKYK--SIMFISSGIETKDYDKAVELIKKQ
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2594:gid::pid::loc:2905907:2907173:strand:-:182:359 PP .................................68999************************************877732..2222222222.333334444444466*********98655....4799*******************************.************..************************
+BGC0000602.1_ORF6:gid:ywhO:pid:CAD23203.1:loc:4171:5332:strand:+:194:326                         ipghasqtsavtagrflvnrhvfetetrsaagp------------------------------------------------.----------------------------SVLTLGFDCGEM.....KDASDYIKIQLIDGLLGKYGHSALFKHFREKDLA.VYHVITRYDIMN--NLLLVSICTNQLHEKEIPPRVLEA
+#=GR BGC0000602.1_ORF6:gid:ywhO:pid:CAD23203.1:loc:4171:5332:strand:+:194:326                 PP ***999999999999988888877777777665.............................................................................6799********.....*****************************99999.*********999..*******99988888888888888
+#=GC PP_cons                                                                                     .................................699*********************************998*87777544.44444444446555566666666677**99******9988.....9*****************************9999.999999999999*7999999999988999*99999999
+#=GC RF                                                                                          .................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1208:gid::pid::loc:1389002:1390250:strand:+:165:340         IENIRENYLTEKEISESKEQL..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1208:gid::pid::loc:1389002:1390250:strand:+:165:340 PP ******************997..
+GCA_000085225.1_ASM8522v1_genomic_ORF2593:gid::pid::loc:2904606:2905893:strand:-:182:364         IEKSKKEGLSKEEFERTKKK-k.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2593:gid::pid::loc:2904606:2905893:strand:-:182:364 PP *****************985.8.
+GCA_000085225.1_ASM8522v1_genomic_ORF2594:gid::pid::loc:2905907:2907173:strand:-:182:359         VESVKAGDISDEELENSKLA-l.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2594:gid::pid::loc:2905907:2907173:strand:-:182:359 PP ***************99866.5.
+BGC0000602.1_ORF6:gid:ywhO:pid:CAD23203.1:loc:4171:5332:strand:+:194:326                         VSHFSAD---ERELEQAKQ--ff
+#=GR BGC0000602.1_ORF6:gid:ywhO:pid:CAD23203.1:loc:4171:5332:strand:+:194:326                 PP 8888877...888888886..89
+#=GC PP_cons                                                                                     9999999********999777..
+#=GC RF                                                                                          xxxxxxxxxxxxxxxxxxxxx..
+//

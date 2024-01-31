@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2298:gid::pid::loc:2568284:2569199:strand:-:7:300         y-QIKELKKEKNAIILAHFYQPPEIQELADAVGDSYYLSEIARDC.KEEVVVFCGVRFMGESAKILSPEKTVLMPVSNAGCAMADMVDEEGVIKLKQQYPNALVVCYINSTAKVKAHCDVSVTSSSAIKILENI.D...NKEIIFLPDKNLGGYIAEQFPDKNFIFW..D..GYCKYHNNIRAEEIIELKDKYKNAEVLV
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2298:gid::pid::loc:2568284:2569199:strand:-:7:300 PP 8.79*****************************************.****************************************************************************************.*...****************************..*..****************************
+GCF_008000775.1_ORF3058:gid:nadA:pid:WP_147664166.1:loc:3415282:3416224:strand:-:5:311         .EKISALKTEKGVTILAHYYTPLGVHKIADRIGDSLGLSKIAKNEvDTDYILFAGVLFMAETASVLNPAKTILSPDKSAGCPLANFLSGDDIEKYKIQYPDIPVVVYVNTTAETKAHTDICCTSSNAIKISQKIaEehnTDTILFGPDKNLASYVRDRTDL-KVISI..PglGNCPRHNLFTKMDVVNAKNTHPNAILLV
+#=GR GCF_008000775.1_ORF3058:gid:nadA:pid:WP_147664166.1:loc:3415282:3416224:strand:-:5:311 PP .589**************************************9877************************************************************************************999852456789****************976.56666..54689**************************
+GCF_000011105.1_ORF15:gid:nadA:pid:WP_010884133.1:loc:10129:11032:strand:-:5:297               .EEILRLKEERNAIILAHNYQLPEVQDIADFIGDSLELARRATRV.DADVIVFAGVDFMAETAKILNPDKVVLIPSREATCAMANMLKVEHILEAKRKYPNAPVVLYVNSTAEAKAYADVTVTSANAVEVVKKL.D...SDVVIFGPDKNLAHYVAKMTGKK-IIPVpsK..GHCYVHQKFTLDDVERAKKLHPNAKLMI
+#=GR GCF_000011105.1_ORF15:gid:nadA:pid:WP_010884133.1:loc:10129:11032:strand:-:5:297       PP .689*****************************************.****************************************************************************************.*...*******************9986.6655337..****************************
+#=GC PP_cons                                                                                   .689***************************************99.***************************************************************************************9.7...999****************988877777..7..9***************************
+#=GC RF                                                                                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x...xxxxxxxxxxxxxxxxxxxxxxxxxxxx..x..xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2298:gid::pid::loc:2568284:2569199:strand:-:7:300         HPECKKEIRDLGDYVGSTSGIIKYATN.SKNKDFIIATEEGILHELKKNNPNKNFYIP-GGKILCTDMKKTTLENLYSTLKNMEN......EVIVEDEIMEKALNSLLNMH-k
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2298:gid::pid::loc:2568284:2569199:strand:-:7:300 PP ***************************.****************************55.67999*********************......****************9996.7
+GCF_008000775.1_ORF3058:gid:nadA:pid:WP_147664166.1:loc:3415282:3416224:strand:-:5:311         HPEAPPEVQQMADYIGSTSGMLNYVHEhENDAGYIIGTEIGLMDHLIWKNPSKKFF-PLNPKSLCENMKKITLEKIYTTLKSIGTpeeeqfQVKVPSHIAQKALLSIEKMI-d
+#=GR GCF_008000775.1_ORF3058:gid:nadA:pid:WP_147664166.1:loc:3415282:3416224:strand:-:5:311 PP *************************99677889***********************.8899*******************987666655556******************8.5
+GCF_000011105.1_ORF15:gid:nadA:pid:WP_010884133.1:loc:10129:11032:strand:-:5:297               HPECIPEVQEKADIIASTGGMIKRAC-.-EWDEWVVFTEREMVYRLRKLYPQKKFY-PAREDAFCIGMKAITLKNIYESLKDMKY......KVEVPEEIARKARKAIERMLE.
+#=GR GCF_000011105.1_ORF15:gid:nadA:pid:WP_010884133.1:loc:10129:11032:strand:-:5:297       PP ***********************985...5679***********************.8899************************......*******************96.
+#=GC PP_cons                                                                                   ************************98*.98889***********************578889*******************9999......9******************86.
+#=GC RF                                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxx.
+//

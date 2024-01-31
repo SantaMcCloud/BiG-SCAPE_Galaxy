@@ -1,0 +1,54 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="137.1" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="127.1" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (STER_1355)
+Predicted transporter</title>
+			<polygon class=" (STER_1355)
+Predicted transporter" points="46,25 40,25 40,10 10,40 40,70 40,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="17,37 26,28 45,28 45,52 26,52 17,43" stroke-linejoin="round" width="28" height="24" fill="rgb(228,207,98)" stroke="rgb(182,165,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (STER_1356)
+Radical SAM superfamily enzyme</title>
+			<polygon class=" (STER_1356)
+Radical SAM superfamily enzyme" points="90,25 76,25 76,10 46,40 76,70 76,55 90,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SPASM (PF13186)
+"Iron-sulfur cluster-binding domain"</title>
+				<polygon class="PF13186" points="50,40 55,35 55,45" stroke-linejoin="round" width="6" height="24" fill="rgb(70,195,165)" stroke="rgb(56,156,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="63" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(223,193,78)" stroke="rgb(178,154,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (STER_1357)
+Predicted protein</title>
+			<polygon class=" (STER_1357)
+Predicted protein" points="92,40 95,10 95,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (STER_1358)
+Transcriptional regulator, xre family</title>
+			<polygon class=" (STER_1358)
+Transcriptional regulator, xre family" points="98,40 126,10 126,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rgg_C (PF21259)
+"HTH-type transcriptional regulator Rgg, C-terminal domain"</title>
+				<polygon class="PF21259" points="102,40 113,28 117,28 117,52 113,52" stroke-linejoin="round" width="18" height="24" fill="rgb(64,66,181)" stroke="rgb(51,52,144)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_3 (PF01381)
+"Helix-turn-helix"</title>
+				<rect class="PF01381" x="120" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(168,185,81)" stroke="rgb(134,148,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

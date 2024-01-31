@@ -1,0 +1,25 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FMO-like             PF00743.23   532 BGC0000584.1_ORF1:gid::pid:CAA11511.1:loc:0:801:strand:- -            266   2.2e-31  109.1   0.0   1   1   1.5e-34   2.5e-31  108.9   0.0     3   244     2   228     1   247 0.92 Flavin-binding monooxygenase-like
+Pyr_redox_2          PF07992.18   291 BGC0000584.1_ORF1:gid::pid:CAA11511.1:loc:0:801:strand:- -            266   2.9e-21   76.3   0.0   1   1   2.5e-24   4.3e-21   75.8   0.0     1   170     1   196     1   221 0.74 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox_3          PF13738.10   305 BGC0000584.1_ORF1:gid::pid:CAA11511.1:loc:0:801:strand:- -            266   1.2e-19   70.9   0.0   1   1   2.4e-22   4.2e-19   69.1   0.0     2   196     5   200     4   205 0.84 Pyridine nucleotide-disulphide oxidoreductase
+NAD_binding_8        PF13450.10    68 BGC0000584.1_ORF1:gid::pid:CAA11511.1:loc:0:801:strand:- -            266   9.1e-09   35.7   0.9   1   1   2.6e-10   4.6e-07   30.2   0.0     1    36     5    40     5    82 0.89 NAD(P)-binding Rossmann-like domain
+HI0933_like          PF03486.18   409 BGC0000584.1_ORF1:gid::pid:CAA11511.1:loc:0:801:strand:- -            266   1.5e-07   30.7   2.7   1   1   9.7e-10   1.7e-06   27.3   0.3     2    36     2    36     1    45 0.95 HI0933-like protein
+FAD_oxidored         PF12831.11   414 BGC0000584.1_ORF1:gid::pid:CAA11511.1:loc:0:801:strand:- -            266   6.3e-07   29.2   0.0   1   1   3.7e-10   6.3e-07   29.2   0.0     2    37     3    38     2    64 0.91 FAD dependent oxidoreductase
+Lys_Orn_oxgnase      PF13434.10   340 BGC0000584.1_ORF1:gid::pid:CAA11511.1:loc:0:801:strand:- -            266   2.2e-06   27.2   0.0   1   1   2.4e-09   4.1e-06   26.3   0.0   106   215    89   194    74   204 0.81 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+FAD_binding_2        PF00890.28   414 BGC0000584.1_ORF1:gid::pid:CAA11511.1:loc:0:801:strand:- -            266   0.00014   21.4   0.1   1   1   8.1e-08   0.00014   21.4   0.1     2    45     3    47     2    58 0.90 FAD binding domain
+GFO_IDH_MocA_C       PF02894.21   218 BGC0000584.1_ORF2:gid::pid:CAA11512.1:loc:934:1816:strand:- -            293   7.7e-11   42.4   0.0   1   1   5.4e-15   1.1e-10   41.9   0.0     6   206    45   248    42   250 0.87 Oxidoreductase family, C-terminal alpha/beta domain
+MccV                 PF17508.6    104 BGC0000584.1_ORF4:gid:cvaC:pid:CAA11514.1:loc:2220:2532:strand:+ -            103   7.9e-53  177.6   1.9   1   1   4.2e-57   8.7e-53  177.4   1.9     1   104     1   102     1   102 1.00 Microcin V bacteriocin
+ABC_tran             PF00005.31   137 BGC0000584.1_ORF5:gid:cvaB:pid:CAA11515.1:loc:2701:3684:strand:- -            326   7.1e-33  114.4   0.0   1   1   1.1e-36   1.1e-32  113.7   0.0     3   137   139   286   137   286 0.95 ABC transporter
+ABC_membrane         PF00664.27   274 BGC0000584.1_ORF5:gid:cvaB:pid:CAA11515.1:loc:2701:3684:strand:- -            326   1.7e-10   41.3   0.4   1   1   2.3e-14   2.3e-10   40.8   0.4   205   272     5    72     2    74 0.94 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000584.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000584.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000584.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:37:59 2024
+# [ok]

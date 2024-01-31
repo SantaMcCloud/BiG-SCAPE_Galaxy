@@ -1,0 +1,18 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Asn_synthase         PF00733.25   354 BGC0000578.1_ORF1:gid::pid:WP_032798308.1:loc:236:1163:strand:+ -            309   3.8e-08   33.6   1.2   1   1   2.5e-12   5.2e-08   33.1   1.2     2    71   239   308   238   309 0.95 Asparagine synthase
+Asn_synthase         PF00733.25   354 BGC0000578.1_ORF2:gid::pid:WP_032798309.1:loc:1433:2453:strand:+ -            339   3.9e-24   86.2   0.1   1   1   2.3e-28   4.9e-24   85.8   0.1   108   352    43   315     6   317 0.73 Asparagine synthase
+PqqD                 PF05402.16    67 BGC0000578.1_ORF3:gid::pid:WP_006126488.1:loc:2449:2701:strand:+ -             83   2.3e-14   53.7   0.5   1   1   1.2e-18   2.6e-14   53.5   0.5     3    67    17    81    15    81 0.95 Coenzyme PQQ synthesis protein D (PqqD)
+ABC_membrane         PF00664.27   274 BGC0000578.1_ORF5:gid::pid:WP_010071619.1:loc:3121:5005:strand:+ -            627   6.8e-40  137.7   2.1   1   1   8.3e-44   8.7e-40  137.3   2.1     5   273    73   336    69   337 0.98 ABC transporter transmembrane region
+ABC_tran             PF00005.31   137 BGC0000578.1_ORF5:gid::pid:WP_010071619.1:loc:3121:5005:strand:+ -            627   3.2e-30  105.8   0.0   1   1   5.4e-34   5.6e-30  105.0   0.0     2   136   403   550   402   551 0.90 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000578.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000578.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000578.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:16:27 2024
+# [ok]

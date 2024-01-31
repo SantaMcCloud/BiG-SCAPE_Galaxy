@@ -1,0 +1,19 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.31   137 BGC0000542.1_ORF2:gid:pabF:pid:AHF21231.1:loc:346:1075:strand:+ -            242   7.6e-31  107.8   0.0   1   1   9.5e-35   9.9e-31  107.4   0.0     1   137    21   166    21   166 0.94 ABC transporter
+ABC2_membrane_4      PF12730.11   179 BGC0000542.1_ORF3:gid:pabE:pid:AHF21232.1:loc:1071:1872:strand:+ -            266   2.1e-07   31.3  12.4   1   1     1e-11   2.1e-07   31.3  12.4     1   175     4   185     4   192 0.74 ABC-2 family transporter protein
+Lant_dehydr_N        PF04738.17   649 BGC0000542.1_ORF5:gid:pabB:pid:AHF21234.1:loc:2679:5871:strand:+ -           1063  6.9e-181  602.8   0.0   1   1  8.2e-185  8.5e-181  602.5   0.0     2   647    54   704    53   706 0.93 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.10   255 BGC0000542.1_ORF5:gid:pabB:pid:AHF21234.1:loc:2679:5871:strand:+ -           1063   2.1e-53  182.3   6.5   1   1   3.9e-57   4.1e-53  181.4   5.8     1   254   789  1051   789  1052 0.87 Lantibiotic biosynthesis dehydratase C-term
+ABC_tran             PF00005.31   137 BGC0000542.1_ORF6:gid:pabT:pid:AHF21235.1:loc:5867:7751:strand:+ -            627     3e-33  115.6   0.0   1   1   6.5e-37   6.7e-33  114.4   0.0     2   136   385   537   384   538 0.88 ABC transporter
+LANC_like            PF05147.17   350 BGC0000542.1_ORF7:gid:pabC:pid:AHF21236.1:loc:7747:9130:strand:+ -            460     3e-59  200.5   0.6   1   1   1.8e-63   3.7e-59  200.3   0.6     2   350    59   458    58   458 0.91 Lanthionine synthetase C-like protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000542.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000542.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000542.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:50:18 2024
+# [ok]

@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF793:gid::pid::loc:928029:928566:strand:+:143:172            WQCQNCGHVYVGTEAPEKCPVCDHPKAYF-n
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF793:gid::pid::loc:928029:928566:strand:+:143:172    PP *****************************.5
+GCA_000085225.1_ASM8522v1_genomic_ORF1372:gid::pid::loc:1570642:1571188:strand:+:4:33            FVCTVCGYIHEGDAAPAQCPVCKVGADKFE.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1372:gid::pid::loc:1570642:1571188:strand:+:4:33    PP 68***************************8.
+GCA_000085225.1_ASM8522v1_genomic_ORF1424:gid::pid::loc:1625801:1626347:strand:+:4:33            FVCTVCGYIHEGDAAPAQCPVCKVGADKFE.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1424:gid::pid::loc:1625801:1626347:strand:+:4:33    PP 68***************************8.
+GCA_000085225.1_ASM8522v1_genomic_ORF1598:gid::pid::loc:1795562:1798094:strand:+:413:442         FKCVICNEVFEGDSAPSVCPVCGAKEDQF-i
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1598:gid::pid::loc:1795562:1798094:strand:+:413:442 PP 69**************************9.8
+GCA_000085225.1_ASM8522v1_genomic_ORF2786:gid::pid::loc:3160024:3160612:strand:+:158:187         WICTHCGHIHIGKEAPKACPVCLHPQGYF-l
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2786:gid::pid::loc:3160024:3160612:strand:+:158:187 PP ****************************9.9
+GCF_008000775.1_ORF1011:gid::pid:WP_147662128.1:loc:1112147:1112735:strand:+:160:189             WVCRECGYIHYGKEAPNNCPSCDHPQSYFQ.
+#=GR GCF_008000775.1_ORF1011:gid::pid:WP_147662128.1:loc:1112147:1112735:strand:+:160:189     PP *****************************5.
+GCF_008000775.1_ORF1082:gid::pid:WP_147662197.1:loc:1196115:1196619:strand:-:137:164             -VCPVCGFTVE-GEIPEVCPICGAKGETF-i
+#=GR GCF_008000775.1_ORF1082:gid::pid:WP_147662197.1:loc:1196115:1196619:strand:-:137:164     PP .6*******98.59************999.8
+GCF_008000775.1_ORF1098:gid::pid:WP_147662212.1:loc:1210167:1211523:strand:-:415:444             WRCKICGHLHYGDEPPEECPVCRMKKGAF-r
+#=GR GCF_008000775.1_ORF1098:gid::pid:WP_147662212.1:loc:1210167:1211523:strand:-:415:444     PP **************************999.6
+#=GC PP_cons                                                                                     89**********9***************97.
+#=GC RF                                                                                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

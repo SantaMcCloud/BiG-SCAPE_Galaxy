@@ -1,0 +1,76 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="342.73333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="332.73333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>hysO
+HysO</title>
+			<polygon class="hysO
+HysO" points="10,25 29,25 29,10 59,40 29,70 29,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="13,28 42,28 54,40 42,52 13,52" stroke-linejoin="round" width="44" height="24" fill="rgb(95,189,207)" stroke="rgb(76,151,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hysD
+HysD</title>
+			<polygon class="hysD
+HysD" points="58,25 123,25 123,10 153,40 123,70 123,55 58,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ferritin-like (PF12902)
+"Ferritin-like"</title>
+				<rect class="PF12902" x="112" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(183,62,62)" stroke="rgb(146,49,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hysC
+HysC</title>
+			<polygon class="hysC
+HysC" points="154,25 177,25 177,10 207,40 177,70 177,55 154,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="154" y="28" stroke-linejoin="round" width="35" height="24" fill="rgb(215,66,156)" stroke="rgb(172,52,124)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Rng_hyd_C (PF21274)
+"Aromatic-ring hydroxylase, C-terminal"</title>
+				<polygon class="PF21274" points="197,34 203,40 197,46" stroke-linejoin="round" width="9" height="24" fill="rgb(153,227,106)" stroke="rgb(122,181,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hysP
+HysP</title>
+			<polygon class="hysP
+HysP" points="207,25 216,25 216,10 246,40 216,70 216,55 207,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="224,28 230,28 242,40 242,40 230,52 224,52" stroke-linejoin="round" width="18" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hysX1
+HysX1</title>
+			<polygon class="hysX1
+HysX1" points="249,25 260,25 260,10 290,40 260,70 260,55 249,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="266,28 274,28 286,40 274,52 266,52" stroke-linejoin="round" width="21" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hysX2
+HysX2</title>
+			<polygon class="hysX2
+HysX2" points="290,25 301,25 301,10 331,40 301,70 301,55 290,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="298,28 315,28 327,40 315,52 298,52" stroke-linejoin="round" width="31" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

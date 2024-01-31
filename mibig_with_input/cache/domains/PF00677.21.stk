@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+BGC0000927.1_ORF1:gid:ribB:pid:CCK31523.1:loc:0:594:strand:+:3:86                               TGIVEELGEITAVENLGDACRFRL--RGPVVTEGAKHGDSIAVNGVCLTVVDNEGDEFTADVMAETLNRSSLGALDIGSRVNLER-p
+#=GR BGC0000927.1_ORF1:gid:ribB:pid:CCK31523.1:loc:0:594:strand:+:3:86                       PP 8************87787766666..555999999****************999******************************8.8
+BGC0000927.1_ORF1:gid:ribB:pid:CCK31523.1:loc:0:594:strand:+:99:183                             QGHVDGTGAVLERKPSDNWEIIKISLPDDLARYVVEKG-SITVDGISLTVVDAGPDYFTVSLIPTTLALTTLGLKQPGDPVNLEVD.
+#=GR BGC0000927.1_ORF1:gid:ribB:pid:CCK31523.1:loc:0:594:strand:+:99:183                     PP 7************9999*********************.************999******************************98.
+GCA_000085225.1_ASM8522v1_genomic_ORF1677:gid::pid::loc:1885722:1886388:strand:-:99:183         TGHVDGKGTICKFEKDENAVLVSIRPDKKLLSSMILKG-SVAIDGVSLTISYLDDEIFKVSIIPHTKINTILLTKNVGDFVNLESD.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1677:gid::pid::loc:1885722:1886388:strand:-:99:183 PP 8************9999*********************.************999******************************87.
+GCA_000085225.1_ASM8522v1_genomic_ORF1677:gid::pid::loc:1885722:1886388:strand:-:3:86           TGIVEEVGILRKITANGKSGKVTI-LSNKILDGT-NLGDSIAVNGVCLTVSNLGKNEFTADVMMETIRSTNLGLLNANDKVNLERA.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1677:gid::pid::loc:1885722:1886388:strand:-:3:86   PP 8************9999999****.554555544.89**************999******************************97.
+#=GC PP_cons                                                                                    8************98999999999*877788888*9***************999******************************97.
+#=GC RF                                                                                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

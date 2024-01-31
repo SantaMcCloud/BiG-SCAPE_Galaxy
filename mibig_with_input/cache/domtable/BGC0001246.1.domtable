@@ -1,0 +1,33 @@
+#                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.20   347 BGC0001246.1_ORF3:gid:resE:pid:AHV78251.1:loc:8298:10135:strand:+ -            565   4.2e-42  144.5  44.5   1   1   4.8e-46   9.9e-42  143.3  43.2     1   344    65   465    65   468 0.92 Major Facilitator Superfamily
+ketoacyl-synt        PF00109.30   252 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   3.1e-76  256.5   0.0   1   1     5e-79     8e-76  255.2   0.0     3   252    14   264    12   264 0.95 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.14   180 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   2.1e-62  210.4   0.0   1   1   2.8e-65   4.4e-62  209.4   0.0     2   178  2021  2198  2020  2200 0.98 KR domain
+Acyl_transf_1        PF00698.25   319 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   6.9e-58  196.8   0.1   1   1   7.2e-61   1.1e-57  196.1   0.1     2   317   555   891   554   893 0.87 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   1.1e-36  125.6   0.1   1   1   2.4e-39   3.8e-36  123.9   0.1     2   118   273   393   272   394 0.96 Beta-ketoacyl synthase, C-terminal domain
+ADH_zinc_N_2         PF13602.10   134 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   1.8e-18   68.0   0.0   1   1     3e-21   4.8e-18   66.6   0.0     5   134  1859  1995  1857  1995 0.80 Zinc-binding dehydrogenase
+PKS_DH_N             PF21089.1    103 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   6.5e-19   68.0   0.1   1   1   1.4e-21   2.3e-18   66.2   0.1     3    92   941  1034   939  1045 0.95 Polyketide synthase dehydratase domain
+ADH_zinc_N           PF00107.30   129 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   1.7e-14   54.1   0.0   1   1   3.3e-17   5.2e-14   52.5   0.0     1   103  1820  1926  1820  1957 0.89 Zinc-binding dehydrogenase
+KAsynt_C_assoc       PF16197.9    111 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   2.5e-14   53.8   0.0   1   1   4.1e-17   6.6e-14   52.5   0.0     1    85   396   490   396   510 0.86 Ketoacyl-synthetase C-terminal extension
+adh_short            PF00106.29   195 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   3.8e-13   49.6   0.0   1   1   1.6e-15   2.5e-12   46.9   0.0     3   169  2022  2185  2020  2203 0.84 short chain dehydrogenase
+PS-DH                PF14765.10   164 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   8.8e-12   45.1   0.0   1   1   1.2e-14   1.9e-11   44.0   0.0     9   159  1098  1258  1092  1262 0.84 Polyketide synthase dehydratase N-terminal domain
+PP-binding           PF00550.29    67 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   1.2e-08   35.3   0.0   1   1   2.5e-11     4e-08   33.6   0.0     2    63  2325  2386  2324  2390 0.89 Phosphopantetheine attachment site
+Thiolase_N           PF00108.27   260 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   7.4e-07   29.0   0.2   1   1   1.2e-09   1.9e-06   27.6   0.2    59   120   162   222   157   237 0.85 Thiolase, N-terminal domain
+ketoacyl-synt        PF00109.30   252 BGC0001246.1_ORF5:gid:resS2:pid:AHV78253.1:loc:19089:25725:strand:+ -           2211   1.4e-68  231.4   0.0   1   1   7.8e-72   2.7e-68  230.5   0.0     3   252   402   655   400   655 0.93 Beta-ketoacyl synthase, N-terminal domain
+SAT                  PF16073.9    239 BGC0001246.1_ORF5:gid:resS2:pid:AHV78253.1:loc:19089:25725:strand:+ -           2211   1.4e-54  185.4   0.2   1   1   7.4e-57   2.6e-53  181.3   0.0     1   239    15   258    15   258 0.96 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Acyl_transf_1        PF00698.25   319 BGC0001246.1_ORF5:gid:resS2:pid:AHV78253.1:loc:19089:25725:strand:+ -           2211   1.9e-41  142.8   0.1   1   1   9.9e-45   3.4e-41  141.9   0.1     2   300   955  1273   954  1294 0.84 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0001246.1_ORF5:gid:resS2:pid:AHV78253.1:loc:19089:25725:strand:+ -           2211   1.9e-34  118.4   0.2   1   1   1.7e-37     6e-34  116.8   0.2     1   116   663   787   663   789 0.95 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.29    67 BGC0001246.1_ORF5:gid:resS2:pid:AHV78253.1:loc:19089:25725:strand:+ -           2211   1.9e-11   44.2   0.6   1   1   1.6e-14   5.5e-11   42.8   0.6     2    63  1740  1801  1739  1805 0.96 Phosphopantetheine attachment site
+Thioesterase         PF00975.24   226 BGC0001246.1_ORF5:gid:resS2:pid:AHV78253.1:loc:19089:25725:strand:+ -           2211   2.3e-10   41.2   0.0   1   1   2.2e-13   7.7e-10   39.5   0.0    52   107  1987  2043  1943  2057 0.83 Thioesterase domain
+Aldose_epim          PF01263.24   299 BGC0001246.1_ORF6:gid::pid:AHV78254.1:loc:27396:28428:strand:+ -            343   4.5e-53  180.8   0.0   1   1   3.1e-57   6.3e-53  180.3   0.0    14   299     7   339     4   339 0.93 Aldose 1-epimerase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001246.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001246.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001246.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:30:54 2024
+# [ok]

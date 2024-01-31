@@ -1,0 +1,37 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Phage_integrase      PF00589.26   172 BGC0000607.1_ORF1:gid::pid:AIU53928.1:loc:112:679:strand:+ -            188   6.2e-22   78.4   0.1   1   1   3.8e-26     8e-22   78.0   0.1     9   168    14   170     9   173 0.88 Phage integrase family
+rve                  PF00665.30   102 BGC0000607.1_ORF3:gid::pid:AIU53930.1:loc:1974:3228:strand:+ -            417   2.2e-09   37.7   0.1   1   1   3.6e-13   3.7e-09   37.0   0.1     4   102   127   239   124   239 0.88 Integrase core domain
+HTH_28               PF13518.10    52 BGC0000607.1_ORF3:gid::pid:AIU53930.1:loc:1974:3228:strand:+ -            417   1.3e-07   31.7   0.1   1   1   2.9e-11     3e-07   30.6   0.1     2    39    11    49    10    60 0.92 Helix-turn-helix domain
+IstB_IS21            PF01695.21   238 BGC0000607.1_ORF4:gid::pid:AIU53931.1:loc:3243:4011:strand:+ -            255   4.7e-67  226.1   0.1   1   1   5.5e-71   5.7e-67  225.9   0.1     5   235    14   244    10   247 0.98 IstB-like ATP binding protein
+Bac_DnaA             PF00308.22   219 BGC0000607.1_ORF4:gid::pid:AIU53931.1:loc:3243:4011:strand:+ -            255   3.3e-06   27.3   0.2   1   1   6.6e-10   6.9e-06   26.3   0.2    34   137   102   201    71   213 0.82 Bacterial dnaA  protein
+rve                  PF00665.30   102 BGC0000607.1_ORF5:gid::pid:AIU53932.1:loc:4155:4740:strand:+ -            194   1.1e-18   67.6   0.0   1   1     5e-22   3.5e-18   66.0   0.0     2   102    36   130    35   130 0.93 Integrase core domain
+rve_2                PF13333.10    56 BGC0000607.1_ORF5:gid::pid:AIU53932.1:loc:4155:4740:strand:+ -            194   6.1e-10   39.3   0.5   1   1     2e-13   1.4e-09   38.1   0.5     1    53   137   191   137   193 0.86 Integrase core domain
+rve_3                PF13683.10    67 BGC0000607.1_ORF5:gid::pid:AIU53932.1:loc:4155:4740:strand:+ -            194   1.6e-08   34.3   0.0   1   1   4.4e-12   3.1e-08   33.4   0.0     2    67   119   186   118   186 0.93 Integrase core domain
+PriCT_1              PF08708.15    67 BGC0000607.1_ORF9:gid::pid:AIU53936.1:loc:9493:10993:strand:- -            499   1.6e-09   37.4   0.0   1   1   1.9e-13   3.9e-09   36.2   0.0    10    66   272   328   265   329 0.95 Primase C terminal 1 (PriCT-1)
+AAA_31               PF13614.10   177 BGC0000607.1_ORF10:gid::pid:AIU53937.1:loc:11462:12254:strand:+ -            263   4.6e-38  131.1   1.1   1   1   1.8e-41   6.1e-38  130.7   1.1     1   175     1   180     1   182 0.87 AAA domain
+CbiA                 PF01656.27   125 BGC0000607.1_ORF10:gid::pid:AIU53937.1:loc:11462:12254:strand:+ -            263   4.7e-16   59.1   0.0   1   1   3.2e-19   1.1e-15   57.9   0.0     1   122     4   230     4   233 0.90 CobQ/CobB/MinD/ParA nucleotide binding domain
+CBP_BcsQ             PF06564.16   234 BGC0000607.1_ORF10:gid::pid:AIU53937.1:loc:11462:12254:strand:+ -            263   2.1e-12   47.3   0.0   1   1   8.1e-16   2.8e-12   46.9   0.0     1   150     1   157     1   164 0.82 Cellulose biosynthesis protein BcsQ
+ArsA_ATPase          PF02374.19   305 BGC0000607.1_ORF10:gid::pid:AIU53937.1:loc:11462:12254:strand:+ -            263   1.8e-08   34.2   0.4   1   1   1.1e-11   3.7e-08   33.1   0.4     2   137     2   134     1   223 0.72 Anion-transporting ATPase
+ParA                 PF10609.13   246 BGC0000607.1_ORF10:gid::pid:AIU53937.1:loc:11462:12254:strand:+ -            263   5.5e-07   29.4   0.3   1   1   5.9e-10   2.1e-06   27.6   0.3     5   155     3   164     1   186 0.69 NUBPL iron-transfer P-loop NTPase
+adh_short            PF00106.29   195 BGC0000607.1_ORF14:gid:tclS:pid:AIU53941.1:loc:13404:14076:strand:- -            223   1.1e-15   57.9   0.0   1   1   1.3e-19   1.3e-15   57.6   0.0     4   189     5   188     2   193 0.91 short chain dehydrogenase
+adh_short_C2         PF13561.10   236 BGC0000607.1_ORF14:gid:tclS:pid:AIU53941.1:loc:13404:14076:strand:- -            223   1.5e-13   51.1   0.0   1   1   1.8e-17   1.8e-13   50.8   0.0    36   181    38   186    13   202 0.84 Enoyl-(Acyl carrier protein) reductase
+Ribosomal_L11        PF00298.23    69 BGC0000607.1_ORF16:gid:tclQ:pid:AIU53943.1:loc:14570:14993:strand:- -            140   3.2e-27   94.9   2.8   1   1     3e-31   3.2e-27   94.9   2.8     1    69    70   138    70   138 0.99 Ribosomal protein L11, RNA binding domain
+Ribosomal_L11_N      PF03946.18    58 BGC0000607.1_ORF16:gid:tclQ:pid:AIU53943.1:loc:14570:14993:strand:- -            140   1.7e-23   82.3   0.2   1   1   3.1e-27   3.2e-23   81.4   0.2     1    58     9    65     9    65 0.96 Ribosomal protein L11, N-terminal domain
+YcaO                 PF02624.20   320 BGC0000607.1_ORF18:gid:tclJ:pid:AIU53945.1:loc:15819:17511:strand:+ -            563   2.2e-46  158.8   0.0   1   1   1.3e-50   2.8e-46  158.5   0.0     2   319   183   525   182   526 0.82 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Lant_dehydr_C        PF14028.10   255 BGC0000607.1_ORF20:gid:tclL:pid:AIU53947.1:loc:20053:20857:strand:+ -            267   4.2e-28   99.4   1.0   1   1   5.2e-32   1.1e-27   98.1   1.0     1   253     3   255     3   257 0.73 Lantibiotic biosynthesis dehydratase C-term
+adh_short_C2         PF13561.10   236 BGC0000607.1_ORF23:gid:tclP:pid:AIU53950.1:loc:22975:23674:strand:+ -            232   5.8e-39  134.3   0.0   1   1   6.6e-43   6.8e-39  134.0   0.0    44   236    42   230    24   230 0.93 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.29   195 BGC0000607.1_ORF23:gid:tclP:pid:AIU53950.1:loc:22975:23674:strand:+ -            232   6.4e-24   84.7   0.0   1   1   9.5e-28   9.8e-24   84.1   0.0    44   183    35   173     2   184 0.85 short chain dehydrogenase
+MerR_1               PF13411.10    69 BGC0000607.1_ORF24:gid:tclU:pid:AIU53951.1:loc:23667:24009:strand:+ -            113   3.3e-12   46.5   0.0   1   1   4.6e-16   4.8e-12   46.0   0.0     1    66     5    70     5    72 0.97 MerR HTH family regulatory protein
+MerR                 PF00376.27    38 BGC0000607.1_ORF24:gid:tclU:pid:AIU53951.1:loc:23667:24009:strand:+ -            113   2.7e-08   33.7   0.0   1   1     4e-12   4.1e-08   33.1   0.0     1    38     6    42     6    42 0.98 MerR family regulatory protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000607.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000607.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000607.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:21:41 2024
+# [ok]

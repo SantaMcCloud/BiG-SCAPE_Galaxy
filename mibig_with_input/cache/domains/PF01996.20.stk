@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1891:gid::pid::loc:2109201:2110401:strand:+:11:392         ...GVRAPIIRQGDDLVKIVVDSVLNAskseNFEVRDKDVIAVTEAVVARAQGNYAHVDNI-.----AKDVKDKFGDDTvgvifpilsrnrfaiclkgiakgcRKVVLMLSYPSDEVGN-.-HLISIDelddkginpwsdvlteekyrelfgynkhtftgvdyvdyyknlikdcgaeveivfannpktilnyttsiltcd
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1891:gid::pid::loc:2109201:2110401:strand:+:11:392 PP ...79********************999999******************************......********6666666666999999999999999999****************...99999999**********************************************************************
+GCF_008000775.1_ORF2168:gid:cofE:pid:WP_147663255.1:loc:2387508:2388279:strand:-:7:226          kts----HIIKNNENLFEVICETLDYN....KIELTERSVIVIAETLVGTSENRIIDIESVKnISEKAEELALKYQIDP........................KFAQLVLEESDEIVGGIpGMLFTEK........................................................................
+#=GR GCF_008000775.1_ORF2168:gid:cofE:pid:WP_147663255.1:loc:2387508:2388279:strand:-:7:226  PP 986....68******************....******************************7479**************........................*****************56666666........................................................................
+#=GC PP_cons                                                                                    ...79**89****************99....******************************7.79**********8888........................*****************.6788877........................................................................
+#=GC RF                                                                                         ...xxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx........................xxxxxxxxxxxxxxxxx.xxxxxxx........................................................................
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1891:gid::pid::loc:2109201:2110401:strand:+:11:392         ihtrqrtkrilrqngakkvyslddimtasvdgsgyndQYGLLGSNKATEET-----.-VKLFPINCDEVVNKIQGNIKEITG.KDVEVMVygdgafKDPVGKIWELADPVVSPAyTKGLEgtpnevklkyladnDFADLSGdelkeaiskyivekdnkSDDLTGNmvSQGTTPRRLTDLIGSLADLTSGSGDKGTPIIYI
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1891:gid::pid::loc:2109201:2110401:strand:+:11:392 PP ***************************************************.......************************.***************************************************99999999999999999999999999****************************************
+GCF_008000775.1_ORF2168:gid:cofE:pid:WP_147663255.1:loc:2387508:2388279:strand:-:7:226          .....................................N-GILIANGGIDESNSGIEgKVSLWPRNPFGSARDLVQKIKQKFGlTDFGIII......SDSRVQPIRKGVVGVAIG.IDGFH..............PIIDCRG.................RKDLFGH..EMKWTTRAIADQLSDTAHVVMGECDEQTPCVLI
+#=GR GCF_008000775.1_ORF2168:gid:cofE:pid:WP_147663255.1:loc:2387508:2388279:strand:-:7:226  PP .....................................5.*************98655*************************669*****......******************.*****..............*******.................*******..********************************9
+#=GC PP_cons                                                                                    .....................................8**************9865.*************************.89*****......******************.*****..............9999999.................99*****..*********************************
+#=GC RF                                                                                         .....................................xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxx......xxxxxxxxxxxxxxxxxx.xxxxx..............xxxxxxx.................xxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1891:gid::pid::loc:2109201:2110401:strand:+:11:392         QG
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1891:gid::pid::loc:2109201:2110401:strand:+:11:392 PP 98
+GCF_008000775.1_ORF2168:gid:cofE:pid:WP_147663255.1:loc:2387508:2388279:strand:-:7:226          EN
+#=GR GCF_008000775.1_ORF2168:gid:cofE:pid:WP_147663255.1:loc:2387508:2388279:strand:-:7:226  PP 75
+#=GC PP_cons                                                                                    87
+#=GC RF                                                                                         xx
+//

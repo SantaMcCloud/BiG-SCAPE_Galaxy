@@ -1,0 +1,30 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_3        PF01494.23   349 BGC0000046.1_ORF2:gid:DEP2:pid:ACZ57545.1:loc:2840:4622:strand:+ -            528   2.3e-26   93.1   0.3   1   1   1.8e-29   9.1e-26   91.1   0.3     3   323     9   343     7   376 0.69 FAD binding domain
+GIDA                 PF01134.26   391 BGC0000046.1_ORF2:gid:DEP2:pid:ACZ57545.1:loc:2840:4622:strand:+ -            528   4.5e-05   22.9   0.1   1   1   1.2e-08   6.5e-05   22.4   0.1     1   158     9   172     9   204 0.87 Glucose inhibited division protein A
+MFS_1                PF07690.20   347 BGC0000046.1_ORF3:gid:DEP3:pid:ACZ57546.1:loc:5197:7358:strand:- -            564   2.8e-38  131.9  58.2   1   2   2.4e-28   2.5e-24   86.0  26.2     2   219    64   276    63   283 0.91 Major Facilitator Superfamily
+MFS_1                PF07690.20   347 BGC0000046.1_ORF3:gid:DEP3:pid:ACZ57546.1:loc:5197:7358:strand:- -            564   2.8e-38  131.9  58.2   2   2     1e-18     1e-14   54.4  24.4   131   346   262   467   254   468 0.88 Major Facilitator Superfamily
+Sugar_tr             PF00083.28   452 BGC0000046.1_ORF3:gid:DEP3:pid:ACZ57546.1:loc:5197:7358:strand:- -            564   1.5e-07   30.9  12.9   1   1   1.4e-11   1.5e-07   30.9  12.9    58   185   100   225    54   234 0.86 Sugar (and other) transporter
+FMO-like             PF00743.23   532 BGC0000046.1_ORF4:gid:DEP4:pid:ACZ57547.1:loc:7884:9848:strand:- -            581   2.8e-12   46.1   0.0   1   1   1.8e-10   1.2e-06   27.4   0.0     4   124     6   121     4   204 0.85 Flavin-binding monooxygenase-like
+Pyr_redox_3          PF13738.10   305 BGC0000046.1_ORF4:gid:DEP4:pid:ACZ57547.1:loc:7884:9848:strand:- -            581   4.6e-11   42.7   0.0   1   1   4.6e-13   3.2e-09   36.7   0.0     1   196     7   209     7   216 0.82 Pyridine nucleotide-disulphide oxidoreductase
+ketoacyl-synt        PF00109.30   252 BGC0000046.1_ORF5:gid:DEP5:pid:ACZ57548.1:loc:11124:18528:strand:+ -           2376   4.6e-74  249.4   0.0   1   1   3.8e-77   8.7e-74  248.5   0.0     2   252    48   299    47   299 0.95 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.14   180 BGC0000046.1_ORF5:gid:DEP5:pid:ACZ57548.1:loc:11124:18528:strand:+ -           2376   6.7e-61  205.5   0.0   1   1   7.7e-64   1.8e-60  204.1   0.0     1   177  1988  2163  1988  2166 0.98 KR domain
+Acyl_transf_1        PF00698.25   319 BGC0000046.1_ORF5:gid:DEP5:pid:ACZ57548.1:loc:11124:18528:strand:+ -           2376   7.2e-54  183.6   0.1   1   1     6e-57   1.4e-53  182.7   0.1     2   296   592   904   591   922 0.84 Acyl transferase domain
+PS-DH                PF14765.10   164 BGC0000046.1_ORF5:gid:DEP5:pid:ACZ57548.1:loc:11124:18528:strand:+ -           2376   5.2e-35  120.6   0.0   1   1   4.4e-38     1e-34  119.7   0.0     3   163  1121  1286  1119  1287 0.97 Polyketide synthase dehydratase N-terminal domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0000046.1_ORF5:gid:DEP5:pid:ACZ57548.1:loc:11124:18528:strand:+ -           2376   5.7e-28   97.5   0.1   1   1   6.7e-31   1.5e-27   96.1   0.1     2   118   308   427   307   428 0.95 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.9    111 BGC0000046.1_ORF5:gid:DEP5:pid:ACZ57548.1:loc:11124:18528:strand:+ -           2376   1.7e-16   60.8   0.0   1   1   1.7e-19   3.8e-16   59.7   0.0     1   110   430   560   430   561 0.85 Ketoacyl-synthetase C-terminal extension
+PKS_DH_N             PF21089.1    103 BGC0000046.1_ORF5:gid:DEP5:pid:ACZ57548.1:loc:11124:18528:strand:+ -           2376   9.7e-16   57.8   0.0   1   1   1.2e-18   2.9e-15   56.3   0.0     1    91   983  1081   983  1099 0.88 Polyketide synthase dehydratase domain
+adh_short            PF00106.29   195 BGC0000046.1_ORF5:gid:DEP5:pid:ACZ57548.1:loc:11124:18528:strand:+ -           2376   2.9e-08   33.6   0.0   1   1   2.6e-11   5.9e-08   32.6   0.0     4   161  1991  2147  1988  2167 0.89 short chain dehydrogenase
+Fungal_trans         PF04082.22   261 BGC0000046.1_ORF6:gid:DEP6:pid:ACZ57549.1:loc:19448:21753:strand:- -            646   3.4e-14   52.8   0.1   1   1   6.2e-18   6.4e-14   51.8   0.1     2   184   227   413   226   488 0.89 Fungal specific transcription factor domain
+Zn_clus              PF00172.22    39 BGC0000046.1_ORF6:gid:DEP6:pid:ACZ57549.1:loc:19448:21753:strand:- -            646   4.8e-09   36.4  13.3   1   1   8.5e-13   8.9e-09   35.5  13.3     1    38    14    51    14    52 0.95 Fungal Zn(2)-Cys(6) binuclear cluster domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000046.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000046.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000046.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:57:21 2024
+# [ok]

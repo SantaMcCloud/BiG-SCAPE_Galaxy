@@ -1,0 +1,326 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1233.3666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1223.3666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>vioA
+nonribosomal peptide synthetase</title>
+			<polygon class="vioA
+nonribosomal peptide synthetase" points="23,25 205,25 205,10 235,40 205,70 205,55 23,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="26" y="28" stroke-linejoin="round" width="35" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="67" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="78" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="85" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="132" y="28" stroke-linejoin="round" width="35" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="173" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="184" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="192,28 219,28 231,40 219,52 192,52" stroke-linejoin="round" width="42" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioB
+2,3-diaminopropionate synthase</title>
+			<polygon class="vioB
+2,3-diaminopropionate synthase" points="242,25 246,25 246,10 276,40 246,70 246,55 242,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PALP (PF00291)
+"Pyridoxal-phosphate dependent enzyme"</title>
+				<polygon class="PF00291" points="242,28 260,28 270,38 270,42 260,52 242,52" stroke-linejoin="round" width="28" height="24" fill="rgb(73,227,169)" stroke="rgb(58,181,135)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioC
+L-arginine beta-hydroxylase</title>
+			<polygon class="vioC
+L-arginine beta-hydroxylase" points="277,25 282,25 282,10 312,40 282,70 282,55 277,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TauD (PF02668)
+"Taurine catabolism dioxygenase TauD, TfdA family"</title>
+				<polygon class="PF02668" points="289,28 296,28 308,40 296,52 289,52" stroke-linejoin="round" width="21" height="24" fill="rgb(72,206,196)" stroke="rgb(57,164,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioD
+capreomycidine synthase</title>
+			<polygon class="vioD
+capreomycidine synthase" points="313,25 322,25 322,10 352,40 322,70 322,55 313,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="316,28 335,28 347,40 335,52 316,52" stroke-linejoin="round" width="33" height="24" fill="rgb(207,146,55)" stroke="rgb(165,116,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioE
+permease</title>
+			<polygon class="vioE
+permease" points="351,25 365,25 365,10 395,40 365,70 365,55 351,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_3 (PF05977)
+"Transmembrane secretion effector"</title>
+				<polygon class="PF05977" points="353,28 379,28 391,40 379,52 353,52" stroke-linejoin="round" width="39" height="24" fill="rgb(75,61,221)" stroke="rgb(60,48,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioF
+nonribosomal peptide synthetase</title>
+			<polygon class="vioF
+nonribosomal peptide synthetase" points="396,25 473,25 473,10 503,40 473,70 473,55 396,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="400" y="28" stroke-linejoin="round" width="37" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="443" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="453" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="461,28 487,28 496,37 496,43 487,52 461,52" stroke-linejoin="round" width="35" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioG
+nonribosomal peptide synthetase</title>
+			<polygon class="vioG
+nonribosomal peptide synthetase" points="506,25 584,25 584,10 614,40 584,70 584,55 506,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="510" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="553" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="563" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioH
+type II thioesterase</title>
+			<polygon class="vioH
+type II thioesterase" points="615,10 641,40 615,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="617,28 627,28 637,40 627,52 617,52" stroke-linejoin="round" width="23" height="24" fill="rgb(69,76,223)" stroke="rgb(55,60,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioI
+nonribosomal peptide synthetase</title>
+			<polygon class="vioI
+nonribosomal peptide synthetase" points="641,25 666,25 666,10 696,40 666,70 666,55 641,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="643" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="652,28 679,28 691,40 679,52 652,52" stroke-linejoin="round" width="43" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioJ
+2,3-diaminopropionate alpha,beta-desaturase</title>
+			<polygon class="vioJ
+2,3-diaminopropionate alpha,beta-desaturase" points="696,25 705,25 705,10 735,40 705,70 705,55 696,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl-CoA_dh_N (PF02771)
+"Acyl-CoA dehydrogenase, N-terminal domain"</title>
+				<rect class="PF02771" x="696" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(104,198,213)" stroke="rgb(83,158,170)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_M (PF02770)
+"Acyl-CoA dehydrogenase, middle domain"</title>
+				<rect class="PF02770" x="708" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(58,129,192)" stroke="rgb(46,103,153)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_1 (PF00441)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00441" points="719,29 730,40 719,51" stroke-linejoin="round" width="14" height="24" fill="rgb(96,175,206)" stroke="rgb(76,139,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioK
+ornithine cyclodeaminase</title>
+			<polygon class="vioK
+ornithine cyclodeaminase" points="737,25 743,25 743,10 773,40 743,70 743,55 737,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OCD_Mu_crystall (PF02423)
+"Ornithine cyclodeaminase/mu-crystallin family"</title>
+				<polygon class="PF02423" points="740,28 756,28 768,40 756,52 740,52" stroke-linejoin="round" width="31" height="24" fill="rgb(225,111,164)" stroke="rgb(180,88,131)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioL
+carbamoyltransferase</title>
+			<polygon class="vioL
+carbamoyltransferase" points="773,25 773,25 773,10 803,40 773,70 773,55 773,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OTCace_N (PF02729)
+"Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain"</title>
+				<rect class="PF02729" x="773" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(77,99,204)" stroke="rgb(61,79,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OTCace (PF00185)
+"Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain"</title>
+				<polygon class="PF00185" points="788,29 799,40 788,51" stroke-linejoin="round" width="15" height="24" fill="rgb(84,205,143)" stroke="rgb(67,164,114)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioM
+nonribosomal peptide synthetase</title>
+			<polygon class="vioM
+nonribosomal peptide synthetase" points="804,25 819,25 819,10 849,40 819,70 819,55 804,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="804,28 833,28 845,40 833,52 804,52" stroke-linejoin="round" width="42" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioN
+hypothetical protein</title>
+			<polygon class="vioN
+hypothetical protein" points="849,10 855,40 849,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MbtH (PF03621)
+"MbtH-like protein"</title>
+				<polygon class="PF03621" points="849,28 849,28 852,40 849,52 849,52" stroke-linejoin="round" width="4" height="24" fill="rgb(102,212,116)" stroke="rgb(81,169,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioO
+nonribosomal peptide synthetase</title>
+			<polygon class="vioO
+nonribosomal peptide synthetase" points="856,25 887,25 887,10 917,40 887,70 887,55 856,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="857" y="28" stroke-linejoin="round" width="35" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="898,28 900,28 905,33 905,47 900,52 898,52" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="909,37 912,40 909,43" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioP
+lysine 2,3-aminomutase</title>
+			<polygon class="vioP
+lysine 2,3-aminomutase" points="920,25 934,25 934,10 964,40 934,70 934,55 920,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>vph
+viomycin phosphotransferase</title>
+			<polygon class="vph
+viomycin phosphotransferase" points="965,40 994,10 994,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APH (PF01636)
+"Phosphotransferase enzyme family"</title>
+				<polygon class="PF01636" points="969,40 981,28 990,28 990,52 981,52" stroke-linejoin="round" width="22" height="24" fill="rgb(113,205,78)" stroke="rgb(90,164,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioQ
+capreomycidine hydroxylase</title>
+			<polygon class="vioQ
+capreomycidine hydroxylase" points="996,25 1000,25 1000,10 1030,40 1000,70 1000,55 996,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rieske (PF00355)
+"Rieske [2Fe-2S] domain"</title>
+				<rect class="PF00355" x="998" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(60,75,194)" stroke="rgb(48,60,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>VanA_C (PF19112)
+"Vanillate O-demethylase oxygenase C-terminal domain"</title>
+				<polygon class="PF19112" points="1011,28 1014,28 1026,40 1014,52 1011,52" stroke-linejoin="round" width="17" height="24" fill="rgb(82,202,147)" stroke="rgb(65,161,117)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioR
+transcriptional regulator</title>
+			<polygon class="vioR
+transcriptional regulator" points="1031,40 1054,10 1054,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="1035,40 1037,37 1037,43" stroke-linejoin="round" width="5" height="24" fill="rgb(225,67,110)" stroke="rgb(180,53,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioS
+viomycin phosphate phosphatase</title>
+			<polygon class="vioS
+viomycin phosphate phosphatase" points="1068,25 1083,25 1083,10 1113,40 1083,70 1083,55 1068,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Alk_phosphatase (PF00245)
+"Alkaline phosphatase"</title>
+				<polygon class="PF00245" points="1072,28 1097,28 1108,39 1108,41 1097,52 1072,52" stroke-linejoin="round" width="36" height="24" fill="rgb(95,217,201)" stroke="rgb(76,173,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioT
+transcriptional regulator</title>
+			<polygon class="vioT
+transcriptional regulator" points="1219,25 1163,25 1163,10 1133,40 1163,70 1163,55 1219,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_16 (PF13191)
+"AAA ATPase domain"</title>
+				<rect class="PF13191" x="1203" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(88,106,197)" stroke="rgb(70,84,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

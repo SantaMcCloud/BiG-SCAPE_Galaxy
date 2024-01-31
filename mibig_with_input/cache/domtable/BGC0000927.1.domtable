@@ -1,0 +1,26 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lum_binding          PF00677.21    86 BGC0000927.1_ORF1:gid:ribB:pid:CCK31523.1:loc:0:594:strand:+ -            197   2.9e-54  181.2   0.0   1   2   4.3e-28   8.9e-24   83.5   0.1     1    85     3    85     3    86 0.92 Lumazine binding domain
+Lum_binding          PF00677.21    86 BGC0000927.1_ORF1:gid:ribB:pid:CCK31523.1:loc:0:594:strand:+ -            197   2.9e-54  181.2   0.0   2   2   5.4e-32   1.1e-27   96.0   0.0     1    86    99   183    99   183 0.99 Lumazine binding domain
+NMN_transporter      PF04973.16   175 BGC0000927.1_ORF2:gid:ribM:pid:CCK31524.1:loc:590:1232:strand:+ -            213   3.2e-41  141.4  21.6   1   1   1.8e-45   3.7e-41  141.2  21.6     2   174    18   197    17   198 0.95 Nicotinamide mononucleotide transporter
+DHBP_synthase        PF00926.23   191 BGC0000927.1_ORF3:gid:ribA5:pid:CCK31525.1:loc:1228:2518:strand:+ -            429   1.5e-84  282.5   0.2   1   1     2e-88   2.1e-84  282.0   0.2     1   191    22   215    22   215 0.99 3,4-dihydroxy-2-butanone 4-phosphate synthase
+GTP_cyclohydro2      PF00925.24   165 BGC0000927.1_ORF3:gid:ribA5:pid:CCK31525.1:loc:1228:2518:strand:+ -            429   1.2e-72  243.0   0.0   1   1   6.9e-76   7.2e-72  240.5   0.0     2   164   225   390   224   391 0.98 GTP cyclohydrolase II
+DMRL_synthase        PF00885.23   139 BGC0000927.1_ORF4:gid:ribH:pid:CCK31526.1:loc:2541:3027:strand:+ -            161   8.3e-53  178.2   0.1   1   1   4.5e-57   9.4e-53  178.1   0.1     2   138    17   153    16   154 0.96 6,7-dimethyl-8-ribityllumazine synthase
+GTP_cyclohydro2      PF00925.24   165 BGC0000927.1_ORF5:gid:ribA3:pid:CCK29106.1:loc:3127:3763:strand:- -            211   4.2e-59  199.0   0.0   1   1   2.4e-63     5e-59  198.7   0.0    14   165    26   176    10   176 0.94 GTP cyclohydrolase II
+MarR_2               PF12802.11    61 BGC0000927.1_ORF6:gid::pid:CCK29107.1:loc:3869:4373:strand:- -            167   1.4e-12   47.7   0.0   1   1   5.3e-16   3.7e-12   46.4   0.0     2    60    37    96    36    97 0.97 MarR family
+MarR                 PF01047.26    59 BGC0000927.1_ORF6:gid::pid:CCK29107.1:loc:3869:4373:strand:- -            167     4e-10   39.6   0.1   1   1     1e-13   7.3e-10   38.8   0.1     6    57    43    96    40    98 0.95 MarR family
+HTH_24               PF13412.10    48 BGC0000927.1_ORF6:gid::pid:CCK29107.1:loc:3869:4373:strand:- -            167   1.6e-06   27.7   0.0   1   1   5.2e-10   3.6e-06   26.6   0.0    17    47    56    86    43    87 0.88 Winged helix-turn-helix DNA-binding
+RibD_C               PF01872.21   197 BGC0000927.1_ORF7:gid:ribG7:pid:CCK29108.1:loc:4448:5576:strand:+ -            375   5.4e-44  150.6   0.0   1   1   1.4e-47   7.2e-44  150.1   0.0     1   195     4   211     4   213 0.93 RibD C-terminal domain
+dCMP_cyt_deam_1      PF00383.27   102 BGC0000927.1_ORF7:gid:ribG7:pid:CCK29108.1:loc:4448:5576:strand:+ -            375   2.4e-16   59.7   0.0   1   1   7.2e-20   3.7e-16   59.1   0.0     4   100   230   331   227   333 0.94 Cytidine and deoxycytidylate deaminase zinc-binding region
+Inv-AAD              PF18785.5    129 BGC0000927.1_ORF7:gid:ribG7:pid:CCK29108.1:loc:4448:5576:strand:+ -            375   1.3e-10   41.5   0.0   1   1   1.3e-13   6.9e-10   39.1   0.0     1   120   254   362   254   367 0.83 Invertebrate-AID/APOBEC-deaminase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000927.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000927.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000927.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:52:43 2024
+# [ok]

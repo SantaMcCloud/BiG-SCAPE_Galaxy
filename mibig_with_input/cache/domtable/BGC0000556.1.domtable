@@ -1,0 +1,25 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Relaxase_C           PF11083.12   125 BGC0000556.1_ORF1:gid:srtI:pid:BAB08159.1:loc:252:570:strand:+ -            105   4.1e-26   91.9   7.9   1   1   2.3e-30   4.8e-26   91.7   7.9    35   124     1    90     1    91 0.98 C-terminal helical hairpin domain from relaxase
+Response_reg         PF00072.28   111 BGC0000556.1_ORF2:gid:srtR:pid:BAB08160.1:loc:720:1407:strand:+ -            228   3.3e-24   85.4   0.3   1   1   4.7e-28   4.9e-24   84.8   0.3     1   110     4   112     4   113 0.98 Response regulator receiver domain
+Trans_reg_C          PF00486.32    77 BGC0000556.1_ORF2:gid:srtR:pid:BAB08160.1:loc:720:1407:strand:+ -            228   1.7e-15   57.1   0.0   1   1   3.4e-19   3.6e-15   56.0   0.0     2    76   153   225   152   226 0.95 Transcriptional regulatory protein, C terminal
+HATPase_c            PF02518.30   111 BGC0000556.1_ORF3:gid:srtK:pid:BAB08161.1:loc:1399:2746:strand:+ -            448   6.7e-16   58.9   0.0   1   1   2.3e-19   1.6e-15   57.7   0.0     1   109   337   446   337   448 0.91 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HisKA                PF00512.29    66 BGC0000556.1_ORF3:gid:srtK:pid:BAB08161.1:loc:1399:2746:strand:+ -            448   2.1e-10   40.7   0.6   1   1   1.2e-13   8.5e-10   38.7   0.0     4    63   231   290   228   293 0.92 His Kinase A (phospho-acceptor) domain
+HATPase_c_5          PF14501.10   102 BGC0000556.1_ORF3:gid:srtK:pid:BAB08161.1:loc:1399:2746:strand:+ -            448   9.9e-07   28.9   0.9   1   1   3.9e-10   2.7e-06   27.5   0.0     4    89   340   431   338   435 0.84 GHKL domain
+ABC_tran             PF00005.31   137 BGC0000556.1_ORF5:gid:srtT:pid:BAB08163.1:loc:3157:4948:strand:+ -            596   5.9e-30  104.9   0.0   1   1   1.8e-33   1.2e-29  103.9   0.0     2   136   359   516   358   517 0.85 ABC transporter
+LANC_like            PF05147.17   350 BGC0000556.1_ORF6:gid:srtC:pid:BAB08164.1:loc:4931:6176:strand:+ -            414   6.7e-74  248.8   0.5   1   1     4e-78   8.4e-74  248.4   0.5     3   349    43   413    41   414 0.94 Lanthionine synthetase C-like protein
+Lant_dehydr_N        PF04738.17   649 BGC0000556.1_ORF7:gid:srtB:pid:BAB08165.1:loc:6194:9161:strand:+ -            988   2.6e-91  306.9   0.0   1   1   2.9e-95     3e-91  306.6   0.0     2   649    30   657    29   657 0.90 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.10   255 BGC0000556.1_ORF7:gid:srtB:pid:BAB08165.1:loc:6194:9161:strand:+ -            988   7.3e-34  118.3   1.8   1   1   1.9e-37     2e-33  116.9   0.5     1   252   724   976   724   979 0.76 Lantibiotic biosynthesis dehydratase C-term
+ABC_tran             PF00005.31   137 BGC0000556.1_ORF8:gid:srtF:pid:BAB08166.1:loc:9166:9856:strand:+ -            229   1.7e-34  119.6   0.0   1   1   2.2e-38   2.3e-34  119.2   0.0     1   137    17   154    17   154 0.97 ABC transporter
+AAA_21               PF13304.10   304 BGC0000556.1_ORF8:gid:srtF:pid:BAB08166.1:loc:9166:9856:strand:+ -            229   4.1e-16   60.0   2.0   1   1     7e-13   7.3e-09   36.2   0.0   224   302   112   187    63   189 0.80 AAA domain, putative AbiEii toxin, Type IV TA system
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000556.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000556.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000556.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:25:26 2024
+# [ok]

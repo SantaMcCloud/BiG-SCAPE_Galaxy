@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0001299.1_ORF19:gid::pid:ALD83712.1:loc:69220:70003:strand:+:69:256         saraaelakdlafqdahpgg---------------------..-ADFVKLRARVRQRLVWLKGQLSST-LPEHEVHYVLFPIVVHFDELVRLVSRGATT..RWE--PLQSELYDVDNGGELFYTRLEERLRQEETPPIVFEVFYFCLSDGFQGMYQGD---TKKIAEYKARVDLRIP-KKPIADADDGPEGAPVELVRFP
+#=GR BGC0001299.1_ORF19:gid::pid:ALD83712.1:loc:69220:70003:strand:+:69:256 PP ***99998888887766665........................567789999999999888888776.*********************999999999..995..7************************************************755...349*************.4555555566666666666666
+BGC0001096.1_ORF3:gid::pid:ADH01478.1:loc:2964:4572:strand:+:123:322           ...............pfvsh--------ALPAILQLQRHLAdgPPDQSTVRTQLGLEVRLYRERLAGSGCEWEQIRDASYLLCTYLDENVSDIARAASQvlYDGERSLLVEFHDDAWGGEDAFSDLGRWMKADDPPIRLLAFYELILSLGWQGRYRVLDRGDVLLQDLRSQLHALIWHHVPPEP--LGTGLI---TPARA
+#=GR BGC0001096.1_ORF3:gid::pid:ADH01478.1:loc:2964:4572:strand:+:123:322   PP ...............98765........4556677777766789**********************************************7777655554445678***********************************************************************7776655..555443...33333
+#=GC PP_cons                                                                   ............................4556677777766..9788899999999999999999988**********************888877777..676789************************************************977***77**************75655555555555566644444
+#=GC RF                                                                        ....................xxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0001299.1_ORF19:gid::pid:ALD83712.1:loc:69220:70003:strand:+:69:256         -------WLYYAAALGAMVGLYAVLTW-i...
+#=GR BGC0001299.1_ORF19:gid::pid:ALD83712.1:loc:69220:70003:strand:+:69:256 PP .......8999999*********9987.7...
+BGC0001096.1_ORF3:gid::pid:ADH01478.1:loc:2964:4572:strand:+:123:322           RRRWWTPMRAGAAALGAVLLTYGI----vsav
+#=GR BGC0001096.1_ORF3:gid::pid:ADH01478.1:loc:2964:4572:strand:+:123:322   PP 334444445666666666666665....4578
+#=GC PP_cons                                                                   334444467888888888888887987.....
+#=GC RF                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxx....
+//

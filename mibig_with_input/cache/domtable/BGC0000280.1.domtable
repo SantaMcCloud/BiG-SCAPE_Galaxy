@@ -1,0 +1,24 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TetR_C_11            PF16859.9    113 BGC0000280.1_ORF1:gid::pid:AAM27406.1:loc:384:1011:strand:- -            208   2.9e-20   72.9   0.0   1   1   4.8e-24     5e-20   72.1   0.0     2   104    80   182    79   186 0.97 Tetracyclin repressor-like, C-terminal domain
+TetR_N               PF00440.27    47 BGC0000280.1_ORF1:gid::pid:AAM27406.1:loc:384:1011:strand:- -            208   5.3e-12   45.5   0.0   1   1   8.1e-16   8.4e-12   44.9   0.0     2    47    23    68    22    68 0.94 Bacterial regulatory proteins, tetR family
+ACP_syn_III          PF08545.14    80 BGC0000280.1_ORF2:gid::pid:AAM27405.1:loc:1428:2511:strand:+ -            360   3.2e-06   27.1   2.5   1   1   1.5e-10   3.2e-06   27.1   2.5     2    65   108   170   107   184 0.86 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+Thiolase_N           PF00108.27   260 BGC0000280.1_ORF3:gid::pid:AAM27404.1:loc:2542:3739:strand:+ -            398   3.5e-09   36.6   0.1   1   1   7.6e-13   7.9e-09   35.5   0.0     1   154     6   156     6   176 0.78 Thiolase, N-terminal domain
+ketoacyl-synt        PF00109.30   252 BGC0000280.1_ORF3:gid::pid:AAM27404.1:loc:2542:3739:strand:+ -            398   2.4e-07   30.8   0.9   1   1     4e-10   4.2e-06   26.7   0.2   158   212    71   126    66   129 0.86 Beta-ketoacyl synthase, N-terminal domain
+DUF35_N              PF12172.12    37 BGC0000280.1_ORF4:gid::pid:AAM27407.1:loc:3749:4190:strand:+ -            146     2e-08   34.1   3.2   1   1   4.2e-12   4.4e-08   33.0   1.1     2    37    22    57    21    57 0.90 Rubredoxin-like zinc ribbon domain (DUF35_N)
+OB_aCoA_assoc        PF01796.21    65 BGC0000280.1_ORF4:gid::pid:AAM27407.1:loc:3749:4190:strand:+ -            146   1.8e-07   31.2   0.9   1   1   2.4e-11   2.5e-07   30.7   0.9    21    65    81   126    60   126 0.88 DUF35 OB-fold domain, acyl-CoA-associated
+Chal_sti_synt_N      PF00195.23   225 BGC0000280.1_ORF5:gid::pid:AAM27403.1:loc:4345:5395:strand:+ -            349   1.4e-20   73.9   0.0   1   1   4.5e-24   2.3e-20   73.2   0.0    52   224    37   200     6   201 0.85 Chalcone and stilbene synthases, N-terminal domain
+Chal_sti_synt_C      PF02797.19   151 BGC0000280.1_ORF5:gid::pid:AAM27403.1:loc:4345:5395:strand:+ -            349   2.2e-15   57.2   0.0   1   1   6.4e-19   3.3e-15   56.6   0.0     7   146   213   344   207   349 0.83 Chalcone and stilbene synthases, C-terminal domain
+FAE1_CUT1_RppA       PF08392.16   290 BGC0000280.1_ORF5:gid::pid:AAM27403.1:loc:4345:5395:strand:+ -            349   5.7e-12   45.7   0.0   1   1   1.7e-15   8.8e-12   45.1   0.0    22   203    13   197     9   207 0.80 FAE1/Type III polyketide synthase-like protein
+MFS_1                PF07690.20   347 BGC0000280.1_ORF6:gid::pid:AAM27402.1:loc:5520:6033:strand:+ -            171   3.1e-21   75.9  17.1   1   1   1.7e-25   3.5e-21   75.7  17.1     1   149    22   170    22   171 0.93 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000280.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000280.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000280.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:20:21 2024
+# [ok]

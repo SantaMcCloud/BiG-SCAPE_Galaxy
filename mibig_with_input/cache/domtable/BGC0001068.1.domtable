@@ -1,0 +1,26 @@
+#                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.30   252 BGC0001068.1_ORF3:gid::pid::loc:2906:12777:strand:- -           2929   2.9e-80  269.7   0.0   1   1   2.4e-83   5.4e-80  268.8   0.0     2   252     5   255     4   255 0.98 Beta-ketoacyl synthase, N-terminal domain
+AMP-binding          PF00501.32   382 BGC0001068.1_ORF3:gid::pid::loc:2906:12777:strand:- -           2929   1.1e-52  179.3   0.0   1   1   1.7e-55     4e-52  177.5   0.0    19   372  2457  2818  2443  2828 0.84 AMP-binding enzyme
+Acyl_transf_1        PF00698.25   319 BGC0001068.1_ORF3:gid::pid::loc:2906:12777:strand:- -           2929     2e-47  162.4   0.0   1   1   4.2e-50   9.7e-47  160.2   0.0     3   284   548   849   547   874 0.89 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0001068.1_ORF3:gid::pid::loc:2906:12777:strand:- -           2929   4.9e-31  107.4   0.2   1   1   1.3e-32   3.1e-29  101.6   0.1     2   116   264   386   263   389 0.91 Beta-ketoacyl synthase, C-terminal domain
+KR                   PF08659.14   180 BGC0001068.1_ORF3:gid::pid::loc:2906:12777:strand:- -           2929   2.2e-22   80.0   0.0   1   1     3e-25   6.8e-22   78.4   0.0     2   178  2085  2259  2084  2261 0.95 KR domain
+PS-DH                PF14765.10   164 BGC0001068.1_ORF3:gid::pid::loc:2906:12777:strand:- -           2929   9.6e-16   58.0   0.0   1   1   6.6e-18   1.5e-14   54.1   0.0     5   155  1072  1223  1068  1232 0.90 Polyketide synthase dehydratase N-terminal domain
+KAsynt_C_assoc       PF16197.9    111 BGC0001068.1_ORF3:gid::pid::loc:2906:12777:strand:- -           2929   1.6e-15   57.7   0.0   1   1   2.3e-18   5.4e-15   56.0   0.0     2   106   392   503   392   505 0.88 Ketoacyl-synthetase C-terminal extension
+PKS_DH_N             PF21089.1    103 BGC0001068.1_ORF3:gid::pid::loc:2906:12777:strand:- -           2929   6.4e-12   45.5   0.0   1   1   7.5e-15   1.7e-11   44.2   0.0     3    89   938  1028   936  1039 0.88 Polyketide synthase dehydratase domain
+AMP-binding_C        PF13193.10    76 BGC0001068.1_ORF3:gid::pid::loc:2906:12777:strand:- -           2929   1.6e-10   42.0   0.0   1   1   2.1e-13   4.8e-10   40.4   0.0     1    76  2823  2901  2823  2901 0.91 AMP-binding enzyme C-terminal domain
+p450                 PF00067.26   462 BGC0001068.1_ORF4:gid::pid::loc:13960:15144:strand:+ -            213   2.8e-16   59.5   0.0   1   1   1.9e-20   3.9e-16   59.1   0.0   342   439    76   182    71   199 0.90 Cytochrome P450
+UbiA                 PF01040.22   249 BGC0001068.1_ORF5:gid::pid::loc:19778:22936:strand:+ -            421   4.5e-25   88.6   6.0   1   1   6.7e-29   6.9e-25   88.0   6.0    15   138   271   407   256   417 0.79 UbiA prenyltransferase family
+FAD_binding_3        PF01494.23   349 BGC0001068.1_ORF5:gid::pid::loc:19778:22936:strand:+ -            421   9.3e-07   28.6   0.0   1   1   1.1e-10   1.2e-06   28.2   0.0     3    68     2    68     1   169 0.84 FAD binding domain
+E1-E2_ATPase         PF00122.24   181 BGC0001068.1_ORF6:gid::pid::loc:26860:31855:strand:+ -           1346   2.6e-17   63.1   0.0   1   1   8.4e-21   8.8e-17   61.4   0.0     3   180   306   527   304   528 0.91 E1-E2 ATPase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001068.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001068.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001068.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:47:23 2024
+# [ok]

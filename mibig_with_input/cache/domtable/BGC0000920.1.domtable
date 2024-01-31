@@ -1,0 +1,17 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Abhydrolase_1        PF00561.24   245 BGC0000920.1_ORF2:gid:phaC:pid:ABF29870.1:loc:1554:2640:strand:+ -            361   2.5e-18   66.8   0.0   1   1   1.2e-21   6.4e-18   65.5   0.0     3   242    72   339    70   341 0.83 alpha/beta hydrolase fold
+Hydrolase_4          PF12146.12   237 BGC0000920.1_ORF2:gid:phaC:pid:ABF29870.1:loc:1554:2640:strand:+ -            361   3.5e-12   46.3   0.0   1   1   3.1e-11   1.6e-07   31.0   0.0    23   111    93   179    90   201 0.86 Serine aminopeptidase, S33
+PhaC_N               PF07167.17   173 BGC0000920.1_ORF2:gid:phaC:pid:ABF29870.1:loc:1554:2640:strand:+ -            361   1.4e-10   41.3   0.6   1   1   4.9e-14   2.6e-10   40.5   0.6   117   173    41    97    38    97 0.96 Poly-beta-hydroxybutyrate polymerase (PhaC) N-terminus
+PHB_depo_C           PF06850.15   203 BGC0000920.1_ORF2:gid:phaC:pid:ABF29870.1:loc:1554:2640:strand:+ -            361     5e-08   32.8   0.0   1   1   1.6e-11   8.5e-08   32.1   0.0    97   201   259   358   253   360 0.88 PHB de-polymerase C-terminus
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000920.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000920.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000920.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:34:34 2024
+# [ok]

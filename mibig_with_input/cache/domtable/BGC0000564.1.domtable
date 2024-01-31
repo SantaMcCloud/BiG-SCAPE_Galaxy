@@ -1,0 +1,24 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Nitroreductase       PF00881.28   168 BGC0000564.1_ORF2:gid:SagB:pid:CAL82041.1:loc:347:1304:strand:+ -            318   1.2e-21   77.8   0.0   1   1   8.5e-26   1.8e-21   77.3   0.0     1   168   124   314   124   314 0.93 Nitroreductase family
+YcaO                 PF02624.20   320 BGC0000564.1_ORF4:gid:sagD:pid:CAL82043.1:loc:2405:3764:strand:+ -            452   5.3e-43  147.7   0.0   1   1     3e-47   6.1e-43  147.5   0.0     1   319    68   421    68   422 0.81 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Rce1-like            PF02517.20    93 BGC0000564.1_ORF5:gid:sagE:pid:CAL82044.1:loc:3738:4377:strand:+ -            212   7.6e-13   48.7   6.4   1   1   3.7e-17   7.6e-13   48.7   6.4     6    92   117   206   112   207 0.92 Type II CAAX prenyl endopeptidase Rce1-like
+DUF5968              PF19393.3    150 BGC0000564.1_ORF6:gid:sagF:pid:CAL82045.1:loc:4384:5113:strand:+ -            242   9.1e-70  233.8  27.8   1   1   4.4e-74   9.1e-70  233.8  27.8     1   150    93   242    93   242 0.99 Family of unknown function (DUF5968)
+ABC_tran             PF00005.31   137 BGC0000564.1_ORF7:gid:sagG:pid:CAL82046.1:loc:5421:6354:strand:+ -            310   3.1e-37  128.5   0.0   1   1     7e-41   7.2e-37  127.3   0.0     1   136    19   162    19   163 0.98 ABC transporter
+AAA_21               PF13304.10   304 BGC0000564.1_ORF7:gid:sagG:pid:CAL82046.1:loc:5421:6354:strand:+ -            310   5.4e-12   46.4   0.3   1   1   1.8e-12   1.9e-08   34.8   0.0   235   298   132   192    76   197 0.87 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_3      PF12698.11   347 BGC0000564.1_ORF8:gid:sagH:pid:CAL82047.1:loc:6356:7490:strand:+ -            377   8.8e-39  133.8  23.0   1   1   1.4e-42     1e-38  133.6  23.0     2   347    22   370    21   370 0.84 ABC-2 family transporter protein
+ABC2_membrane        PF01061.28   211 BGC0000564.1_ORF8:gid:sagH:pid:CAL82047.1:loc:6356:7490:strand:+ -            377     4e-23   82.2  17.8   1   1   1.7e-24   1.2e-20   74.2   7.9    44   211   177   343   155   343 0.87 ABC-2 type transporter
+ABC2_membrane_2      PF12679.11   283 BGC0000564.1_ORF8:gid:sagH:pid:CAL82047.1:loc:6356:7490:strand:+ -            377   6.2e-10   39.0   6.9   1   1   1.4e-13   9.5e-10   38.4   6.9     1   282     7   375     7   376 0.79 ABC-2 family transporter protein
+ABC2_membrane_3      PF12698.11   347 BGC0000564.1_ORF9:gid:sagI:pid:CAL82048.1:loc:7491:8634:strand:+ -            380   1.5e-40  139.6  30.4   1   1   1.7e-44   1.8e-40  139.3  30.4     2   347    20   368    19   368 0.82 ABC-2 family transporter protein
+ABC2_membrane        PF01061.28   211 BGC0000564.1_ORF9:gid:sagI:pid:CAL82048.1:loc:7491:8634:strand:+ -            380   5.1e-24   85.2  11.7   1   1     5e-28   5.1e-24   85.2  11.7    46   205   179   335   161   340 0.86 ABC-2 type transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000564.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000564.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000564.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:16:48 2024
+# [ok]

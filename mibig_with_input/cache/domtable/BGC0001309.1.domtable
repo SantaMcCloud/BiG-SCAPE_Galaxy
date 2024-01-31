@@ -1,0 +1,26 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.30   252 BGC0001309.1_ORF1:gid:MPAS:pid:ALA62323.1:loc:0:7950:strand:+ -           2541   1.2e-79  267.7   0.0   1   1   1.6e-82   2.6e-79  266.6   0.0     2   252   392   633   391   633 0.93 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0001309.1_ORF1:gid:MPAS:pid:ALA62323.1:loc:0:7950:strand:+ -           2541   6.6e-35  119.9   0.1   1   1   8.8e-38   1.4e-34  118.8   0.1     1   118   641   757   641   758 0.97 Beta-ketoacyl synthase, C-terminal domain
+HTH_51               PF18558.5     88 BGC0001309.1_ORF1:gid:MPAS:pid:ALA62323.1:loc:0:7950:strand:+ -           2541   9.4e-24   83.1   0.0   1   1   4.6e-26   7.4e-23   80.3   0.0     3    87  1828  1912  1826  1913 0.97 Helix-turn-helix domain
+Acyl_transf_1        PF00698.25   319 BGC0001309.1_ORF1:gid:MPAS:pid:ALA62323.1:loc:0:7950:strand:+ -           2541   9.3e-21   74.8   0.0   1   1   1.1e-22   1.7e-19   70.6   0.0    17   286   937  1213   921  1245 0.82 Acyl transferase domain
+SAT                  PF16073.9    239 BGC0001309.1_ORF1:gid:MPAS:pid:ALA62323.1:loc:0:7950:strand:+ -           2541   6.7e-15   55.5   0.1   1   1   4.2e-18   6.7e-15   55.5   0.1    69   239    84   260    41   260 0.82 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Methyltransf_12      PF08242.16    98 BGC0001309.1_ORF1:gid:MPAS:pid:ALA62323.1:loc:0:7950:strand:+ -           2541   1.9e-12   47.9   0.0   1   1     6e-15   9.6e-12   45.7   0.0     1    98  2015  2115  2015  2115 0.93 Methyltransferase domain
+Abhydrolase_3        PF07859.17   210 BGC0001309.1_ORF1:gid:MPAS:pid:ALA62323.1:loc:0:7950:strand:+ -           2541   6.7e-12   45.8   0.0   1   1   1.8e-13   2.9e-10   40.5   0.0     3   117  2258  2379  2256  2427 0.83 alpha/beta hydrolase fold
+BD-FAE               PF20434.2    215 BGC0001309.1_ORF1:gid:MPAS:pid:ALA62323.1:loc:0:7950:strand:+ -           2541   8.1e-12   45.3   0.0   1   1   5.5e-14   8.8e-11   41.9   0.0    15   213  2255  2490  2246  2492 0.73 BD-FAE
+PP-binding           PF00550.29    67 BGC0001309.1_ORF1:gid:MPAS:pid:ALA62323.1:loc:0:7950:strand:+ -           2541   4.1e-11   43.2   2.4   1   1   5.8e-14   9.3e-11   42.0   0.9     2    67  1670  1735  1669  1735 0.97 Phosphopantetheine attachment site
+Methyltransf_25      PF13649.10    97 BGC0001309.1_ORF1:gid:MPAS:pid:ALA62323.1:loc:0:7950:strand:+ -           2541   1.6e-08   35.3   0.0   1   1   5.4e-11   8.6e-08   33.0   0.0     1    97  2014  2113  2014  2113 0.83 Methyltransferase domain
+Methyltransf_23      PF13489.10   163 BGC0001309.1_ORF1:gid:MPAS:pid:ALA62323.1:loc:0:7950:strand:+ -           2541   1.3e-07   31.7   0.0   1   1   1.8e-10   2.9e-07   30.5   0.0     7   161  1993  2166  1983  2168 0.75 Methyltransferase domain
+Methyltransf_11      PF08241.16    95 BGC0001309.1_ORF1:gid:MPAS:pid:ALA62323.1:loc:0:7950:strand:+ -           2541   8.8e-06   26.5   0.0   1   1   1.4e-08   2.3e-05   25.1   0.0     1    94  2015  2116  2015  2117 0.90 Methyltransferase domain
+p450                 PF00067.26   462 BGC0001309.1_ORF2:gid:MPAO:pid:ALA62324.1:loc:8050:9388:strand:+ -            445   1.1e-37  130.1   0.0   1   1   6.5e-42   1.4e-37  129.8   0.0     6   382    77   445    73   445 0.85 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001309.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001309.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001309.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:17:26 2024
+# [ok]

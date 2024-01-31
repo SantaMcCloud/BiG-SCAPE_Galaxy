@@ -1,0 +1,26 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TPP_enzyme_C         PF02775.25   151 BGC0000841.1_ORF1:gid:ceaS1:pid:EFG04560.1:loc:0:1644:strand:+ -            547     2e-33  115.5   0.0   1   1   5.8e-37     4e-33  114.5   0.0     1   151   383   531   383   531 0.94 Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+TPP_enzyme_N         PF02776.22   119 BGC0000841.1_ORF1:gid:ceaS1:pid:EFG04560.1:loc:0:1644:strand:+ -            547   5.1e-28   97.5   1.5   1   1   1.8e-31   1.2e-27   96.2   0.2     7   118     1   110     1   111 0.93 Thiamine pyrophosphate enzyme, N-terminal TPP binding domain
+TPP_enzyme_M         PF00205.26   137 BGC0000841.1_ORF1:gid:ceaS1:pid:EFG04560.1:loc:0:1644:strand:+ -            547   7.4e-28   97.2   0.2   1   1   2.4e-31   1.6e-27   96.0   0.0     1   137   186   326   186   326 0.87 Thiamine pyrophosphate enzyme, central domain
+Asn_synthase         PF00733.25   354 BGC0000841.1_ORF2:gid:bls1:pid:EFG04561.1:loc:1667:3251:strand:+ -            527   4.4e-34  118.9   0.5   1   2   1.8e-24   1.2e-20   74.7   0.5     2   144   232   373   231   396 0.91 Asparagine synthase
+Asn_synthase         PF00733.25   354 BGC0000841.1_ORF2:gid:bls1:pid:EFG04561.1:loc:1667:3251:strand:+ -            527   4.4e-34  118.9   0.5   2   2   1.2e-14   8.3e-11   42.3   0.0   239   295   405   461   399   497 0.86 Asparagine synthase
+GATase_7             PF13537.10   123 BGC0000841.1_ORF2:gid:bls1:pid:EFG04561.1:loc:1667:3251:strand:+ -            527     5e-14   52.5   0.0   1   1   1.2e-17   8.1e-14   51.8   0.0    12   121    62   165    56   167 0.92 Glutamine amidotransferase domain
+GATase_6             PF13522.10   130 BGC0000841.1_ORF2:gid:bls1:pid:EFG04561.1:loc:1667:3251:strand:+ -            527   5.3e-11   42.9   0.0   1   1   1.4e-14   9.7e-11   42.0   0.0    27   122    61   153    54   161 0.88 Glutamine amidotransferase domain
+Arginase             PF00491.25   279 BGC0000841.1_ORF3:gid:pah1:pid:EFG04562.1:loc:3247:4621:strand:+ -            457   2.4e-88  296.4   0.3   1   1   1.5e-92   3.2e-88  296.0   0.3     2   278   134   405   133   406 0.96 Arginase family
+ArgJ                 PF01960.22   377 BGC0000841.1_ORF4:gid:oat1:pid:EFG04563.1:loc:4812:6171:strand:- -            452   1.3e-80  271.2   0.0   1   1   7.4e-85   1.5e-80  270.9   0.0     2   372    72   447    71   449 0.93 ArgJ family
+Aminotran_3          PF00202.25   403 BGC0000841.1_ORF5:gid:cvm6P:pid:EFG04564.1:loc:6621:8145:strand:- -            507   4.7e-89  299.1   0.0   1   1   2.8e-93   5.8e-89  298.8   0.0    12   402    85   490    77   491 0.94 Aminotransferase class-III
+BTAD                 PF03704.21   146 BGC0000841.1_ORF6:gid:cvm7P:pid:EFG04565.1:loc:8275:11023:strand:- -            915   5.2e-40  137.3  11.0   1   1   2.6e-43   1.4e-39  136.0  11.0     1   146   218   363   218   363 0.99 Bacterial transcriptional activator domain
+AAA_16               PF13191.10   167 BGC0000841.1_ORF6:gid:cvm7P:pid:EFG04565.1:loc:8275:11023:strand:- -            915   1.1e-21   78.3   5.3   1   1   3.5e-25   1.8e-21   77.5   0.1     1   167   516   720   516   721 0.87 AAA ATPase domain
+Trans_reg_C          PF00486.32    77 BGC0000841.1_ORF6:gid:cvm7P:pid:EFG04565.1:loc:8275:11023:strand:- -            915   3.9e-07   30.3   0.0   1   1   2.3e-10   1.2e-06   28.7   0.0     7    59   138   191   131   209 0.89 Transcriptional regulatory protein, C terminal
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000841.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000841.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000841.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:17:43 2024
+# [ok]

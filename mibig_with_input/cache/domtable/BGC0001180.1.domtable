@@ -1,0 +1,28 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+E1_dh                PF00676.24   300 BGC0001180.1_ORF1:gid::pid:CAE14176.1:loc:12:2010:strand:+ -            665   4.6e-47  160.6   0.0   1   1   1.2e-50   6.4e-47  160.2   0.0     4   299    31   319    29   320 0.94 Dehydrogenase E1 component
+Transketolase_C      PF02780.24   124 BGC0001180.1_ORF1:gid::pid:CAE14176.1:loc:12:2010:strand:+ -            665   1.5e-28   99.4   0.0   1   1   5.2e-32   2.7e-28   98.6   0.0     1   124   532   656   532   656 0.95 Transketolase, C-terminal domain
+Transket_pyr         PF02779.28   174 BGC0001180.1_ORF1:gid::pid:CAE14176.1:loc:12:2010:strand:+ -            665   5.1e-26   91.6   0.0   1   1   3.8e-29     2e-25   89.7   0.0     7   173   347   518   343   520 0.91 Transketolase, pyrimidine binding domain
+DXP_synthase_N       PF13292.10   274 BGC0001180.1_ORF1:gid::pid:CAE14176.1:loc:12:2010:strand:+ -            665   6.1e-06   25.9   0.0   1   1     2e-09     1e-05   25.2   0.0   105   202   121   219   108   239 0.82 1-deoxy-D-xylulose-5-phosphate synthase
+Biotin_lipoyl        PF00364.26    73 BGC0001180.1_ORF2:gid::pid:CAE14177.1:loc:2019:3585:strand:+ -            521   1.9e-14   53.5   0.4   1   1   5.7e-18   3.9e-14   52.4   0.4     2    73     3    75     2    75 0.97 Biotin-requiring enzyme
+2-oxoacid_dh         PF00198.27   232 BGC0001180.1_ORF2:gid::pid:CAE14177.1:loc:2019:3585:strand:+ -            521   4.9e-11   42.7   0.0   1   1     3e-14   2.1e-10   40.7   0.0    52   220   232   384   217   393 0.85 2-oxoacid dehydrogenases acyltransferase (catalytic domain)
+PP-binding           PF00550.29    67 BGC0001180.1_ORF2:gid::pid:CAE14177.1:loc:2019:3585:strand:+ -            521   3.2e-07   30.7   0.0   1   1   1.1e-10   7.4e-07   29.5   0.0     2    67   412   479   411   479 0.86 Phosphopantetheine attachment site
+ketoacyl-synt        PF00109.30   252 BGC0001180.1_ORF3:gid::pid:CAE14178.1:loc:3577:5428:strand:+ -            616   5.8e-77  258.9   0.0   1   1   1.7e-80   1.2e-76  257.9   0.0     3   252    44   288    42   288 0.95 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0001180.1_ORF3:gid::pid:CAE14178.1:loc:3577:5428:strand:+ -            616   3.5e-40  136.9   0.3   1   1     1e-43   7.1e-40  135.9   0.1     1   118   296   415   296   416 0.97 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.9    111 BGC0001180.1_ORF3:gid::pid:CAE14178.1:loc:3577:5428:strand:+ -            616   5.7e-14   52.7   0.0   1   1   1.7e-17   1.2e-13   51.7   0.0     2   108   419   531   419   534 0.91 Ketoacyl-synthetase C-terminal extension
+AMP-binding          PF00501.32   382 BGC0001180.1_ORF4:gid:fadD:pid:CAE14427.1:loc:5540:7223:strand:+ -            560   2.6e-97  326.2   0.0   1   1  3.3e-101   3.5e-97  325.8   0.0     1   382    29   419    29   419 0.88 AMP-binding enzyme
+AMP-binding_C        PF13193.10    76 BGC0001180.1_ORF4:gid:fadD:pid:CAE14427.1:loc:5540:7223:strand:+ -            560   3.9e-17   63.1   0.6   1   1   9.7e-21     1e-16   61.8   0.2     1    76   469   543   469   543 0.95 AMP-binding enzyme C-terminal domain
+ACP_syn_III_C        PF08541.14    90 BGC0001180.1_ORF6:gid::pid:CAE14457.1:loc:13799:14948:strand:+ -            382     5e-10   39.6   0.0   1   1   5.9e-14   1.2e-09   38.4   0.0     3    74   288   364   286   365 0.88 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+PP-binding           PF00550.29    67 BGC0001180.1_ORF7:gid::pid:CAE14458.1:loc:15027:15270:strand:+ -             80     8e-15   55.0   0.2   1   1   4.3e-19     9e-15   54.9   0.2     2    67     7    72     6    72 0.95 Phosphopantetheine attachment site
+Lyase_aromatic       PF00221.23   466 BGC0001180.1_ORF8:gid::pid:CAE14527.1:loc:28221:29820:strand:- -            532  2.1e-149  498.3   4.8   1   1  1.2e-153  2.4e-149  498.1   4.8     2   466    19   496    18   496 0.98 Aromatic amino acid lyase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001180.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001180.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001180.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:51:39 2024
+# [ok]

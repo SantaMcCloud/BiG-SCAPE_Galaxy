@@ -1,0 +1,105 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="544.2" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="534.2" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (H340_11735)
+hypothetical protein</title>
+			<polygon class=" (H340_11735)
+hypothetical protein" points="10,25 43,25 43,10 73,40 43,70 43,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (H340_11740)
+NADH oxidase</title>
+			<polygon class=" (H340_11740)
+NADH oxidase" points="73,25 107,25 107,10 137,40 107,70 107,55 73,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nitroreductase (PF00881)
+"Nitroreductase family"</title>
+				<polygon class="PF00881" points="125,32 133,40 125,48" stroke-linejoin="round" width="10" height="24" fill="rgb(106,62,184)" stroke="rgb(84,49,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (H340_11745)
+hypothetical protein</title>
+			<polygon class=" (H340_11745)
+hypothetical protein" points="143,10 149,40 143,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (H340_11750)
+hypothetical protein</title>
+			<polygon class=" (H340_11750)
+hypothetical protein" points="153,25 187,25 187,10 217,40 187,70 187,55 153,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="178,28 201,28 212,39 212,41 201,52 178,52" stroke-linejoin="round" width="34" height="24" fill="rgb(69,185,74)" stroke="rgb(55,148,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (H340_11755)
+Lanthionine biosynthesis protein</title>
+			<polygon class=" (H340_11755)
+Lanthionine biosynthesis protein" points="218,25 274,25 274,10 304,40 274,70 274,55 218,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<rect class="PF04738" x="232" y="28" stroke-linejoin="round" width="41" height="24" fill="rgb(191,60,69)" stroke="rgb(152,48,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<polygon class="PF04738" points="275,28 288,28 296,36 296,44 288,52 275,52" stroke-linejoin="round" width="21" height="24" fill="rgb(191,60,69)" stroke="rgb(152,48,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (H340_11760)
+Lantibiotic biosynthesis protein</title>
+			<polygon class=" (H340_11760)
+Lantibiotic biosynthesis protein" points="304,25 308,25 308,10 338,40 308,70 308,55 304,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="305,28 321,28 333,40 321,52 305,52" stroke-linejoin="round" width="31" height="24" fill="rgb(195,82,58)" stroke="rgb(156,65,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (H340_11765)
+hypothetical protein</title>
+			<polygon class=" (H340_11765)
+hypothetical protein" points="338,25 347,25 347,10 377,40 347,70 347,55 338,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="338,28 361,28 372,39 372,41 361,52 338,52" stroke-linejoin="round" width="34" height="24" fill="rgb(195,82,58)" stroke="rgb(156,65,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (H340_11770)
+hypothetical protein</title>
+			<polygon class=" (H340_11770)
+hypothetical protein" points="384,10 411,40 384,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (H340_11775)
+hypothetical protein</title>
+			<polygon class=" (H340_11775)
+hypothetical protein" points="412,40 430,10 430,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (H340_11780)
+LuxR family transcriptional regulator</title>
+			<polygon class=" (H340_11780)
+LuxR family transcriptional regulator" points="533,25 470,25 470,10 440,40 470,70 470,55 533,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="444,40 445,39 445,41" stroke-linejoin="round" width="5" height="24" fill="rgb(225,67,110)" stroke="rgb(180,53,88)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_16 (PF13191)
+"AAA ATPase domain"</title>
+				<rect class="PF13191" x="518" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(88,106,197)" stroke="rgb(70,84,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+BGC0000873.1_ORF13:gid:ata15:pid:CAD62188.1:loc:13204:14575:strand:-:58:308         lgi---DLGATMTRFQLGTAAEGTaIPLVKVRYLTAGTPRAFLDQVSEVVSLarLVGLGAPAAVRVGAAG.PVYGGgaptAVEVTNHPgW.VLT..DclARLRERTGCADVHVVNDMAVGldgpSAASWERD.AEPLRSPGGGHGL.....ATGRRLKCQVGTGLNIAMVAADGG---VHAFEYGHQPFPALTEQDHALV
+#=GR BGC0000873.1_ORF13:gid:ata15:pid:CAD62188.1:loc:13204:14575:strand:-:58:308 PP 775...9**********9999998444555555555555555566666555434688899999*******.**99744446899***77*.**9..64589***************8653121144444556.6677788899999.....*****************9998877...5589******************
+BGC0000288.1_ORF53:gid::pid:BAJ19082.1:loc:77808:78900:strand:-:18:346              agi---DAGGTKTHMRFLDPSTGE.---IRHVQARSADYDSLEHLFYGCFD-..-MAGCLPRSLVAGVAGrPGRDG....DVRITNHPqWpTFR..R..RAFATDLEMALV-TINDMVAT....TAGVADLD.ESDWVPLTPEVAP....hPGPALLAVSVGTGVGSASVDRTGR---AHPAESGHVAWQPVTVLEEDYL
+#=GR BGC0000288.1_ORF53:gid::pid:BAJ19082.1:loc:77808:78900:strand:-:18:346      PP 997...89****************....7777889***************8....66777799*******999***....******96596699..9..99****999766.59******....********.*******988655....1666677899*******99866665...569*******************
+BGC0001138.1_ORF17:gid::pid:AET51852.1:loc:19163:20522:strand:-:58:293              lgi---DAGATMTRVQLGTCAPDGpRPLLKIRYLTADRPEGFLEQVAEITTVvrALDLAEPRAIRIGIAG.PVYDSgplpSAQITNRPgW.SLTdfA..ARLRELTGCHDTAVANDMTVG....MRWLPGGPwERLLRPLLRPRPAasspsSTGRLVKCQVGTGLNIAMRAAEGGVE---AFEYGHHPFPATGEADRNLV
+#=GR BGC0001138.1_ORF17:gid::pid:AET51852.1:loc:19163:20522:strand:-:58:293      PP 776...89*********9999888334445555555444555555555554444889999**********.**997445579****966*.**8445..89***************9987....6667764404444556555543233324555666789****999988777755...88******************
+#=GC PP_cons                                                                        ......99**********999999.444566666666666777777777664..77888899********.**998....89****96.9.999..7..99*******999*8***9877....77777777.7777788877766.....7777788999******9988777655.5699******************
+#=GC RF                                                                             ...xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxx.xxxxx....xxxxxxxx.x.xxx..x..xxxxxxxxxxxxxxxxxxxxx....xxxxxxxx.xxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000873.1_ORF13:gid:ata15:pid:CAD62188.1:loc:13204:14575:strand:-:58:308         RALSVLHrrRVVTFEDFLGG.RGFGPLLLGYAA--...........------.....---------------------------------------------.--------..-------.-------------.-------------------------------ltaeparrslppgvrelldtvsahaggdgpgtaa
+#=GR BGC0000873.1_ORF13:gid:ata15:pid:CAD62188.1:loc:13204:14575:strand:-:58:308 PP **99766436699*******.**8766444443.....................................................................................................................................4444555666777778888899999999******
+BGC0000288.1_ORF53:gid::pid:BAJ19082.1:loc:77808:78900:strand:-:18:346              RSLQRLRpgIPISVELSIGGlRGIDHMYDFMTTRKkpgpyiqehvdR----FrrehrGIGPVITAAAV-GGDACCREIMRLFGAILGQFLRSIVLTCMSEGGsVWLTSGVLqaPGVCDLLiSDTAFVERFIATGaEHAELMQEIPLFAVTDRQVAVRGAFALTRQ-s.................................
+#=GR BGC0000288.1_ORF53:gid::pid:BAJ19082.1:loc:77808:78900:strand:-:18:346      PP ****999666799999999977************9888766655443....04443344566777776.788*****************************99*******722557776527889*****999835788********************988776.7.................................
+BGC0001138.1_ORF17:gid::pid:AET51852.1:loc:19163:20522:strand:-:58:293              RALAAIHgrEIVTFEDVLGG.RGFGPLVLAHAASA...........TPESRF.....LLPAD----------------------------------------.--------..-------.-------------.-------------------------------lrdll.............................
+#=GR BGC0001138.1_ORF17:gid::pid:AET51852.1:loc:19163:20522:strand:-:58:293      PP *****995556*********.***99999988888...........777776.....66665........................................................................................................6789*.............................
+#=GC PP_cons                                                                        ***9988..6699*******.9*998887777799...........577773.....55666777776.788*****************************9.*******7..5577765.7889*****9998.5788********************988776...................................
+#=GC RF                                                                             xxxxxxx..xxxxxxxxxxx.xxxxxxxxxxxxxx...........xxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx..xxxxxxx.xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..................................
+
+BGC0000873.1_ORF13:gid:ata15:pid:CAD62188.1:loc:13204:14575:strand:-:58:308         t
+#=GR BGC0000873.1_ORF13:gid:ata15:pid:CAD62188.1:loc:13204:14575:strand:-:58:308 PP *
+BGC0000288.1_ORF53:gid::pid:BAJ19082.1:loc:77808:78900:strand:-:18:346              .
+#=GR BGC0000288.1_ORF53:gid::pid:BAJ19082.1:loc:77808:78900:strand:-:18:346      PP .
+BGC0001138.1_ORF17:gid::pid:AET51852.1:loc:19163:20522:strand:-:58:293              .
+#=GR BGC0001138.1_ORF17:gid::pid:AET51852.1:loc:19163:20522:strand:-:58:293      PP .
+#=GC PP_cons                                                                        .
+#=GC RF                                                                             .
+//

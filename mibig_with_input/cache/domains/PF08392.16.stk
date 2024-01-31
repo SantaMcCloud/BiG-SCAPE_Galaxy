@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0001357.1_ORF9:gid:cabI:pid:AMB48450.1:loc:17903:19025:strand:+:54:188         yfalpldslldppkwev--------------------------------------------------------------------------SINRGMEASLSLAETAINKLLEKTNIQPQDISLL-ASVSMTPAIPSLDGRLINRIPFSSTIKRLPMNGVGCMGGAFGISRVADYLKAHPKEAAILFAVEISSA-LWQG-
+#=GR BGC0001357.1_ORF9:gid:cabI:pid:AMB48450.1:loc:17903:19025:strand:+:54:188 PP **999988877766655..........................................................................4555556666677899***************977.689*********************************************************99996554.4445.
+BGC0001064.1_ORF9:gid::pid:AFV96143.1:loc:19361:20483:strand:+:55:186             falpldslldpptwgvs---------------------------------------------------------------------------ISRGLENSLNLAETAITKLLEKTNVQPQDISLL-ASVSMTPAIPSLDGRLMNRIPFSSTLKRLPMNGVGCMGGAFGISRVADYLKAHPKEAAILFAVEISSAL-WQ--
+#=GR BGC0001064.1_ORF9:gid::pid:AFV96143.1:loc:19361:20483:strand:+:55:186     PP **999988887777665...........................................................................56666777778889****************977.689*********************************************************999965544.44..
+#=GC PP_cons                                                                      ...........................................................................................4555666666777899***************977.689*********************************************************9999655444445.
+#=GC RF                                                                           .................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0001357.1_ORF9:gid:cabI:pid:AMB48450.1:loc:17903:19025:strand:+:54:188         -----------------------------------------------------------------------------------------------------------slqanltslihr
+#=GR BGC0001357.1_ORF9:gid:cabI:pid:AMB48450.1:loc:17903:19025:strand:+:54:188 PP ...........................................................................................................5666778899**
+BGC0001064.1_ORF9:gid::pid:AFV96143.1:loc:19361:20483:strand:+:55:186             -----------------------------------------------------------------------------------------------------------gslqanltsli.
+#=GR BGC0001064.1_ORF9:gid::pid:AFV96143.1:loc:19361:20483:strand:+:55:186     PP ...........................................................................................................5566677889*.
+#=GC PP_cons                                                                      .......................................................................................................................
+#=GC RF                                                                           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx............
+//

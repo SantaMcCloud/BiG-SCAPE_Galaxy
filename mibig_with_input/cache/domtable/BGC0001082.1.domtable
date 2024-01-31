@@ -1,0 +1,20 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+polyprenyl_synt      PF00348.21   251 BGC0001082.1_ORF1:gid:paxG:pid:AAK11531.1:loc:0:1294:strand:- -            371   1.3e-66  224.5   0.0   1   1   8.8e-71   1.8e-66  224.1   0.0     2   251    74   315    73   315 0.95 Polyprenyl synthetase
+FAD_binding_3        PF01494.23   349 BGC0001082.1_ORF3:gid:paxM:pid:AAK11530.1:loc:3719:5278:strand:- -            477   1.1e-25   90.8   0.1   1   1   2.1e-28   1.1e-24   87.5   0.1     2   318     6   335     5   341 0.71 FAD binding domain
+NAD_binding_8        PF13450.10    68 BGC0001082.1_ORF3:gid:paxM:pid:AAK11530.1:loc:3719:5278:strand:- -            477   3.7e-05   24.1   0.4   1   1   1.9e-08   9.9e-05   22.7   0.4     1    32    10    41    10    58 0.94 NAD(P)-binding Rossmann-like domain
+polyprenyl_synt      PF00348.21   251 BGC0001082.1_ORF5:gid:paxC:pid:AAK11529.1:loc:7641:8718:strand:+ -            317   3.8e-25   88.7   0.0   1   1   2.4e-29     5e-25   88.3   0.0     7   223    43   256    38   291 0.84 Polyprenyl synthetase
+p450                 PF00067.26   462 BGC0001082.1_ORF6:gid:paxP:pid:AAK11528.1:loc:9257:11106:strand:- -            515   5.4e-44  150.9   0.0   1   1   3.4e-48     7e-44  150.5   0.0   137   445   176   490   101   505 0.87 Cytochrome P450
+p450                 PF00067.26   462 BGC0001082.1_ORF7:gid:paxQ:pid:AAK11527.1:loc:13491:15578:strand:- -            512   8.2e-36  123.9   0.0   1   1   5.1e-40   1.1e-35  123.6   0.0   119   454   157   496   134   504 0.84 Cytochrome P450
+Trp_DMAT             PF11991.12   357 BGC0001082.1_ORF8:gid:paxD:pid:AAK11526.2:loc:17402:18809:strand:- -            438   6.5e-87  292.4   0.0   1   1   3.6e-91   7.5e-87  292.2   0.0     1   356    24   384    24   385 0.93 Tryptophan dimethylallyltransferase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001082.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001082.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001082.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:17:40 2024
+# [ok]

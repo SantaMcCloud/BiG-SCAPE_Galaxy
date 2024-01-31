@@ -1,0 +1,37 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MarR                 PF01047.26    59 BGC0000271.1_ORF1:gid::pid:BAB69161.1:loc:0:510:strand:- -            169   5.9e-12   45.5   0.0   1   1   1.3e-15   9.1e-12   44.9   0.0     6    57    62   113    58   115 0.95 MarR family
+MarR_2               PF12802.11    61 BGC0000271.1_ORF1:gid::pid:BAB69161.1:loc:0:510:strand:- -            169     2e-11   44.0   0.0   1   1   4.2e-15   2.9e-11   43.5   0.0     1    60    53   113    53   114 0.90 MarR family
+HTH_27               PF13463.10    68 BGC0000271.1_ORF1:gid::pid:BAB69161.1:loc:0:510:strand:- -            169   5.8e-06   26.7   0.0   1   1   1.2e-09   8.4e-06   26.2   0.0     4    68    60   123    57   123 0.94 Winged helix DNA-binding domain
+FAD_binding_3        PF01494.23   349 BGC0000271.1_ORF2:gid::pid:BAB69162.1:loc:759:2349:strand:- -            529  4.3e-105  352.0   0.0   1   1  5.8e-109    6e-105  351.5   0.0    13   347     2   345     1   347 0.97 FAD binding domain
+Rng_hyd_C            PF21274.1    107 BGC0000271.1_ORF2:gid::pid:BAB69162.1:loc:759:2349:strand:- -            529   6.9e-19   68.3   1.1   1   1   2.3e-22   2.4e-18   66.6   1.1     4   104   410   526   407   529 0.82 Aromatic-ring hydroxylase, C-terminal
+SchA_CurD            PF04486.16   119 BGC0000271.1_ORF3:gid::pid:BAB69163.1:loc:2755:3880:strand:+ -            374   2.1e-53  179.7   0.0   1   1   1.1e-51   1.1e-47  161.2   0.1     1   119   136   248   136   248 0.99 SchA/CurD like domain
+ABM                  PF03992.20    78 BGC0000271.1_ORF3:gid::pid:BAB69163.1:loc:2755:3880:strand:+ -            374   5.6e-18   65.1   0.1   1   1   3.9e-21     4e-17   62.3   0.1     3    76    18    90    16    92 0.95 Antibiotic biosynthesis monooxygenase
+Cupin_2              PF07883.15    70 BGC0000271.1_ORF4:gid::pid:BAB69164.1:loc:3953:4397:strand:+ -            147   2.6e-21   75.3   0.5   1   1   5.1e-25   3.6e-21   74.9   0.5     2    68    42   109    41   111 0.96 Cupin domain
+AraC_binding         PF02311.23   135 BGC0000271.1_ORF4:gid::pid:BAB69164.1:loc:3953:4397:strand:+ -            147   3.5e-08   33.5   0.2   1   1   6.8e-12   4.7e-08   33.0   0.2    11    73    46   107    37   115 0.90 AraC-like ligand binding domain
+MannoseP_isomer      PF01050.22   151 BGC0000271.1_ORF4:gid::pid:BAB69164.1:loc:3953:4397:strand:+ -            147   1.2e-05   25.5   0.0   1   1   2.4e-09   1.7e-05   25.0   0.0    69   130    44   105    36   110 0.90 Mannose-6-phosphate isomerase
+ketoacyl-synt        PF00109.30   252 BGC0000271.1_ORF5:gid::pid:BAB69165.1:loc:4393:5659:strand:+ -            421   1.9e-54  185.1   0.6   1   1   2.9e-58   3.1e-54  184.5   0.6     2   252     3   252     2   252 0.93 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0000271.1_ORF5:gid::pid:BAB69165.1:loc:4393:5659:strand:+ -            421   8.3e-35  119.6   0.7   1   1   1.6e-38   1.7e-34  118.6   0.7     1   118   260   374   260   375 0.97 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.30   252 BGC0000271.1_ORF6:gid::pid:BAB69166.1:loc:5658:6909:strand:+ -            416   2.8e-31  109.2   0.6   1   1   3.9e-35   4.1e-31  108.7   0.6     2   250     7   248     6   250 0.89 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0000271.1_ORF6:gid::pid:BAB69166.1:loc:5658:6909:strand:+ -            416   6.9e-25   87.6   0.0   1   1   1.4e-28   1.4e-24   86.5   0.0     2   118   259   370   258   371 0.95 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.29    67 BGC0000271.1_ORF7:gid::pid:BAB69167.1:loc:6895:7180:strand:+ -             94   1.2e-07   32.1   0.0   1   1   1.5e-11   3.1e-07   30.7   0.0     2    66    18    85    17    86 0.84 Phosphopantetheine attachment site
+Polyketide_cyc       PF03364.24   126 BGC0000271.1_ORF8:gid::pid:BAB69168.1:loc:7181:7661:strand:+ -            159   1.2e-14   54.9   2.0   1   1   1.5e-18   1.5e-14   54.5   2.0     1   106    11   121    11   135 0.84 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc2      PF10604.13   143 BGC0000271.1_ORF8:gid::pid:BAB69168.1:loc:7181:7661:strand:+ -            159   4.9e-12   46.5   1.8   1   1   5.4e-16   5.6e-12   46.3   1.8     3   131     4   133     2   145 0.76 Polyketide cyclase / dehydrase and lipid transport
+Cyclase_polyket      PF04673.16   104 BGC0000271.1_ORF9:gid::pid:BAB69169.1:loc:7740:8067:strand:+ -            108   2.6e-46  156.4   0.0   1   1   1.4e-50   2.9e-46  156.2   0.0     1   104     2   105     2   105 0.99 Polyketide synthesis cyclase
+Methyltransf_2       PF00891.22   210 BGC0000271.1_ORF10:gid::pid:BAB69170.1:loc:8100:9096:strand:- -            331   5.7e-36  124.0   0.0   1   1   6.9e-40   7.2e-36  123.7   0.0     1   208   103   309   103   311 0.94 O-methyltransferase domain
+Beta_helix           PF13229.10   158 BGC0000271.1_ORF11:gid::pid:BAB69171.1:loc:9181:9994:strand:- -            270   2.9e-18   66.2  11.2   1   2   1.1e-10   1.1e-06   28.6   0.1    45   123    14    97     8   102 0.84 Right handed beta helix region
+Beta_helix           PF13229.10   158 BGC0000271.1_ORF11:gid::pid:BAB69171.1:loc:9181:9994:strand:- -            270   2.9e-18   66.2  11.2   2   2   1.1e-13   1.2e-09   38.2   7.0     8   138   107   260   103   269 0.82 Right handed beta helix region
+NosD                 PF05048.17   212 BGC0000271.1_ORF11:gid::pid:BAB69171.1:loc:9181:9994:strand:- -            270   3.1e-13   49.8   9.4   1   2   5.1e-10   5.3e-06   26.2   0.2    40   113    17    97     7   101 0.53 Periplasmic copper-binding protein (NosD)
+NosD                 PF05048.17   212 BGC0000271.1_ORF11:gid::pid:BAB69171.1:loc:9181:9994:strand:- -            270   3.1e-13   49.8   9.4   2   2     1e-09     1e-05   25.3   5.2    45   168   106   260    96   268 0.87 Periplasmic copper-binding protein (NosD)
+TetR_N               PF00440.27    47 BGC0000271.1_ORF12:gid::pid:BAB69172.1:loc:10485:11118:strand:- -            210   3.8e-13   49.2   2.3   1   1   4.1e-17   8.5e-13   48.1   2.3     1    47     9    55     9    55 0.97 Bacterial regulatory proteins, tetR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000271.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000271.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000271.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:20:51 2024
+# [ok]

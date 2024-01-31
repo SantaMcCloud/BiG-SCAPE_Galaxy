@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0001373.1_ORF26:gid::pid:BAV32165.1:loc:81858:82632:strand:+:25:244           .................snhgtrnpg-------DWSSINEEHNGQVTQVSNVVYEGT.TAL..KMTQTFD--P-NydGRYHSEVVVNNAY....SKGDTRFYGFAFRLSETWEFSNE-.NFNIAQFIADFTYtgCDDYMPTTMVWLNGARLYTRRKYGSVCSKPQPIET--YDSHVDVTAGVWHKIVMQVKWASDSTGYI
+#=GR BGC0001373.1_ORF26:gid::pid:BAV32165.1:loc:81858:82632:strand:+:25:244   PP .................988776554.......4889********************.***..*******..3.247*************....**********************6..9***********9777*************************988888876..77899************************
+BGC0000336.1_ORF58:gid::pid:AAX31573.1:loc:115469:116348:strand:+:71:287         aldsgipglttthakasdastvesgg----------------------------DGSaHSVshKVTLNDPDYVSD..GAPRSESANNEIEksliHVGDVHRYEFSVMLKD-WETSSSKaGDIIFQGKHAGGN..----KPSFYLMAQRNAIAFRSPLLDL--------QAPVVEDFRPYVDQWMRFRIDVRWAESRTGYY
+#=GR BGC0000336.1_ORF58:gid::pid:AAX31573.1:loc:115469:116348:strand:+:71:287 PP ****9999988777666665555544............................444455566999999976666..*******************************99.77777556*********9999......9*****************9999........566788999999********************
+#=GC PP_cons                                                                     .................................4889*****************777.777..999999976464..*************....***************9*9988865.9**********99..7*************************9888888756677899999*********************
+#=GC RF                                                                          ..........................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxx..xxxxxxxxxxxx..xxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0001373.1_ORF26:gid::pid:BAV32165.1:loc:81858:82632:strand:+:25:244           KLWY..DGTK....VVEDLGVPTTIAEDK...PFQFRVGLYANgwhdnnhqmKGTQGFRQIWFDEIA
+#=GR BGC0001373.1_ORF26:gid::pid:BAV32165.1:loc:81858:82632:strand:+:25:244   PP ****..****....******997775555...*********************************95
+BGC0000336.1_ORF58:gid::pid:AAX31573.1:loc:115469:116348:strand:+:71:287         KVSVrlPGEKdftlKKTYTDVN-TFHPENptaFGYIKWGLYRPas....steAGDPATRVVRHDDIR
+#=GR BGC0000336.1_ORF58:gid::pid:AAX31573.1:loc:115469:116348:strand:+:71:287 PP ***9556766554333344444.33333367788***********....**99999*******9996
+#=GC PP_cons                                                                     ****..8888....777777777554444...99*********.........************996
+#=GC RF                                                                          xxxx..xxxx....xxxxxxxxxxxxxxx...xxxxxxxxxxx.........xxxxxxxxxxxxxxx
+//

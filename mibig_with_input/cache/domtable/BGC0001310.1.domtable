@@ -1,0 +1,18 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.26   462 BGC0001310.1_ORF1:gid:p-mel:pid:EFG10558.1:loc:0:1365:strand:+ -            454     2e-29  102.9   0.1   1   1   2.3e-24   4.8e-20   71.9   0.0   324   432   324   424   322   425 0.96 Cytochrome P450
+Chal_sti_synt_N      PF00195.23   225 BGC0001310.1_ORF2:gid:rppA:pid:EFG10559.1:loc:1649:2705:strand:+ -            351   2.8e-18   66.4   0.0   1   1   1.1e-21   4.5e-18   65.7   0.0    21   221     9   197     1   201 0.84 Chalcone and stilbene synthases, N-terminal domain
+Chal_sti_synt_C      PF02797.19   151 BGC0001310.1_ORF2:gid:rppA:pid:EFG10559.1:loc:1649:2705:strand:+ -            351   1.8e-16   60.7   0.0   1   1   9.5e-20     4e-16   59.6   0.0     8   143   213   340   206   345 0.84 Chalcone and stilbene synthases, C-terminal domain
+FAE1_CUT1_RppA       PF08392.16   290 BGC0001310.1_ORF2:gid:rppA:pid:EFG10559.1:loc:1649:2705:strand:+ -            351   1.7e-15   57.4   0.0   1   1   5.6e-19   2.3e-15   56.9   0.0    32   204    23   198    10   209 0.79 FAE1/Type III polyketide synthase-like protein
+ACP_syn_III_C        PF08541.14    90 BGC0001310.1_ORF2:gid:rppA:pid:EFG10559.1:loc:1649:2705:strand:+ -            351   9.7e-10   38.7   0.0   1   1     2e-11   8.3e-08   32.5   0.0     2    83   255   339   254   346 0.91 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001310.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001310.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001310.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:16:32 2024
+# [ok]

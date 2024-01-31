@@ -1,0 +1,25 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PHZA_PHZB            PF03284.17   162 BGC0000936.1_ORF1:gid:phzA:pid:AAC64489.1:loc:429:918:strand:+ -            162   4.9e-91  302.6   0.6   1   1   5.4e-95   5.6e-91  302.4   0.6    14   162    14   162     2   162 0.97 Phenazine biosynthesis protein A/B
+SnoaL_2              PF12680.11   102 BGC0000936.1_ORF1:gid:phzA:pid:AAC64489.1:loc:429:918:strand:+ -            162   9.8e-07   29.5   0.0   1   1   1.2e-10   1.3e-06   29.2   0.0    26   101    51   134    24   135 0.73 SnoaL-like domain
+PHZA_PHZB            PF03284.17   162 BGC0000936.1_ORF2:gid:phzB:pid:AAC64490.1:loc:947:1436:strand:+ -            162   1.7e-96  320.4   0.2   1   1  8.7e-101   1.8e-96  320.2   0.2     3   162     3   162     1   162 0.98 Phenazine biosynthesis protein A/B
+DAHP_synth_2         PF01474.20   438 BGC0000936.1_ORF3:gid:phzC:pid:AAC64491.1:loc:1459:2677:strand:+ -            405  1.4e-129  432.6   0.0   1   2   8.7e-54   1.8e-49  168.6   0.0     5   164     7   166     4   173 0.97 Class-II DAHP synthetase family
+DAHP_synth_2         PF01474.20   438 BGC0000936.1_ORF3:gid:phzC:pid:AAC64491.1:loc:1459:2677:strand:+ -            405  1.4e-129  432.6   0.0   2   2   4.5e-83   9.4e-79  265.1   0.0   207   433   161   384   158   389 0.96 Class-II DAHP synthetase family
+Isochorismatase      PF00857.24   175 BGC0000936.1_ORF4:gid:phzD:pid:AAC64487.1:loc:2673:3297:strand:+ -            207   3.3e-37  128.5   0.0   1   1   1.8e-41   3.8e-37  128.3   0.0     2   175    33   204    32   204 0.98 Isochorismatase family
+Chorismate_bind      PF00425.22   257 BGC0000936.1_ORF5:gid:phzE:pid:AAC64488.1:loc:3293:5177:strand:+ -            627   3.5e-41  141.6   0.0   1   1   4.7e-45   4.9e-41  141.2   0.0     2   257   122   381   121   381 0.91 chorismate binding enzyme
+GATase               PF00117.32   190 BGC0000936.1_ORF5:gid:phzE:pid:AAC64488.1:loc:3293:5177:strand:+ -            627   5.6e-31  107.9   0.0   1   1   8.5e-35   8.9e-31  107.2   0.0     1   188   438   619   438   621 0.94 Glutamine amidotransferase class-I
+PhzC-PhzF            PF02567.20   281 BGC0000936.1_ORF6:gid:phzF:pid:AAC64492.1:loc:5190:6027:strand:+ -            278   2.6e-89  299.6   0.0   1   1   1.4e-93     3e-89  299.5   0.0     1   281     7   274     7   274 0.98 Phenazine biosynthesis-like protein
+Putative_PNPOx       PF01243.24    88 BGC0000936.1_ORF7:gid:phzG:pid:AAC64493.2:loc:6052:6697:strand:+ -            214     5e-18   65.2   0.0   1   1   1.1e-21   7.8e-18   64.6   0.0     9    87    45   122    37   123 0.95 Pyridoxamine 5'-phosphate oxidase
+PNP_phzG_C           PF10590.13    42 BGC0000936.1_ORF7:gid:phzG:pid:AAC64493.2:loc:6052:6697:strand:+ -            214   3.3e-12   46.3   0.6   1   1   1.2e-15   8.2e-12   45.0   0.6     2    42   175   214   174   214 0.93 Pyridoxine 5'-phosphate oxidase C-terminal dimerisation region
+Pyridox_oxase_2      PF12766.11   100 BGC0000936.1_ORF7:gid:phzG:pid:AAC64493.2:loc:6052:6697:strand:+ -            214   4.4e-06   27.4   0.0   1   1   1.1e-09   7.4e-06   26.7   0.0    18    96    45   116    27   119 0.87 Pyridoxamine 5'-phosphate oxidase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000936.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000936.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000936.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:28:27 2024
+# [ok]

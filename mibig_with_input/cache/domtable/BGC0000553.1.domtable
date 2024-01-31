@@ -1,0 +1,19 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase              PF00069.29   263 BGC0000553.1_ORF1:gid::pid:WP_032798330.1:loc:66:1542:strand:+ -            492   7.8e-14   51.9   0.0   1   1   9.7e-18     1e-13   51.5   0.0    11   192   244   437   234   478 0.86 Protein kinase domain
+RamS                 PF19402.3     43 BGC0000553.1_ORF3:gid::pid:WP_003966507.1:loc:2903:3035:strand:+ -             43   1.3e-15   57.7   2.8   1   1   6.6e-20   1.4e-15   57.6   2.8     1    42     1    41     1    42 0.96 Lanthionine-containing peptide SapB precursor RamS
+ABC_membrane         PF00664.27   274 BGC0000553.1_ORF4:gid::pid:WP_032798143.1:loc:3127:4193:strand:+ -            355     7e-15   55.6   0.0   1   1   4.1e-19   8.5e-15   55.4   0.0     4   269    30   290    27   294 0.93 ABC transporter transmembrane region
+ABC_tran             PF00005.31   137 BGC0000553.1_ORF5:gid::pid:WP_032798144.1:loc:4476:4822:strand:+ -            115   8.2e-06   26.7   0.0   1   1   5.8e-10   1.2e-05   26.2   0.0   105   136    22    53     2    54 0.83 ABC transporter
+GerE                 PF00196.23    57 BGC0000553.1_ORF6:gid::pid:WP_006127364.1:loc:6834:7440:strand:- -            201     3e-12   46.1   0.0   1   1   6.6e-16   6.9e-12   45.0   0.0     1    57   139   195   139   195 0.97 Bacterial regulatory proteins, luxR family
+Response_reg         PF00072.28   111 BGC0000553.1_ORF6:gid::pid:WP_006127364.1:loc:6834:7440:strand:- -            201   1.4e-07   31.8   0.0   1   1   2.1e-11   2.1e-07   31.3   0.0     1   108     4   113     4   116 0.89 Response regulator receiver domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000553.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000553.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000553.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:20:44 2024
+# [ok]

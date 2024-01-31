@@ -1,0 +1,17 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+BacteriocIIc_cy      PF12173.12    91 BGC0001222.1_ORF3:gid:aciA:pid:AJP07153.1:loc:988:1264:strand:+ -             91   7.7e-50  167.3  11.8   1   1   4.1e-54   8.5e-50  167.2  11.8     1    91     1    91     1    91 0.99 Bacteriocin class IIc cyclic gassericin A-like
+SpoIIM               PF01944.21   162 BGC0001222.1_ORF4:gid:aciD:pid:AJP07154.1:loc:1347:1836:strand:+ -            162     6e-07   29.8  23.5   1   1     2e-10   4.2e-06   27.0  23.5     4   162    14   155     9   155 0.72 Stage II sporulation protein M
+ABC_tran             PF00005.31   137 BGC0001222.1_ORF6:gid:aciT:pid:AJP07151.1:loc:2041:2722:strand:+ -            226   1.6e-21   77.6   0.1   1   1   7.5e-25   5.2e-21   75.9   0.1     1   137    21   149    21   149 0.85 ABC transporter
+ABC2_membrane_5      PF13346.10   205 BGC0001222.1_ORF7:gid:aciE:pid:AJP07152.1:loc:2724:3363:strand:+ -            212   1.1e-16   61.2  41.7   1   1   6.1e-21   1.3e-16   61.0  41.7     1   204     3   208     3   209 0.84 ABC-2 family transporter protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001222.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001222.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001222.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:16:50 2024
+# [ok]

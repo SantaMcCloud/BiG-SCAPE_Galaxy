@@ -1,0 +1,158 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1211.2333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1201.2333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (CHGG_01237)
+hypothetical protein</title>
+			<polygon class=" (CHGG_01237)
+hypothetical protein" points="63,25 40,25 40,10 10,40 40,70 40,55 63,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (CHGG_01238)
+hypothetical protein</title>
+			<polygon class=" (CHGG_01238)
+hypothetical protein" points="111,25 128,25 128,10 158,40 128,70 128,55 111,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_psq (PF05225)
+"helix-turn-helix, Psq domain"</title>
+				<rect class="PF05225" x="111" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(81,59,209)" stroke="rgb(64,47,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_Tnp_Tc5 (PF03221)
+"Tc5 transposase DNA-binding domain"</title>
+				<rect class="PF03221" x="117" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(51,201,169)" stroke="rgb(40,160,135)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CHGG_01239)
+hypothetical protein</title>
+			<polygon class=" (CHGG_01239)
+hypothetical protein" points="770,25 267,25 267,10 237,40 267,70 267,55 770,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<rect class="PF07993" x="310" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(210,94,130)" stroke="rgb(168,75,103)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="339" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="364" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="384" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="400" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="455" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="473" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(203,145,81)" stroke="rgb(162,116,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_12 (PF08242)
+"Methyltransferase domain"</title>
+				<rect class="PF08242" x="552" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(78,210,205)" stroke="rgb(62,168,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase N-terminal domain"</title>
+				<rect class="PF14765" x="575" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(189,61,178)" stroke="rgb(151,48,142)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PKS_DH_N (PF21089)
+"Polyketide synthase dehydratase domain"</title>
+				<rect class="PF21089" x="595" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(67,151,200)" stroke="rgb(53,120,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="611" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(132,93,193)" stroke="rgb(105,74,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="649" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(200,86,70)" stroke="rgb(160,68,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="662" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="675" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MULE (PF10551)
+"MULE transposase domain"</title>
+				<rect class="PF10551" x="733" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(222,111,226)" stroke="rgb(177,88,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CHGG_01240)
+hypothetical protein</title>
+			<polygon class=" (CHGG_01240)
+hypothetical protein" points="842,25 833,25 833,10 803,40 833,70 833,55 842,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (CHGG_01241)
+hypothetical protein</title>
+			<polygon class=" (CHGG_01241)
+hypothetical protein" points="863,25 875,25 875,10 905,40 875,70 875,55 863,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (CHGG_01242)
+hypothetical protein</title>
+			<polygon class=" (CHGG_01242)
+hypothetical protein" points="1063,25 955,25 955,10 925,40 955,70 955,55 1063,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BBE (PF08031)
+"Berberine and berberine like"</title>
+				<rect class="PF08031" x="957" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(56,179,213)" stroke="rgb(44,143,170)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_4 (PF01565)
+"FAD binding domain"</title>
+				<rect class="PF01565" x="985" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(194,197,94)" stroke="rgb(155,157,75)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<rect class="PF00067" x="1019" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CHGG_01243)
+hypothetical protein</title>
+			<polygon class=" (CHGG_01243)
+hypothetical protein" points="1143,25 1137,25 1137,10 1107,40 1137,70 1137,55 1143,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="1111,40 1123,28 1136,28 1136,52 1123,52" stroke-linejoin="round" width="27" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CHGG_01244)
+hypothetical protein</title>
+			<polygon class=" (CHGG_01244)
+hypothetical protein" points="1182,10 1200,40 1182,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

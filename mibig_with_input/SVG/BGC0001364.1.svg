@@ -1,0 +1,203 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="606.3333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="596.3333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (G339_RS0111955)
+hypothetical protein</title>
+			<polygon class=" (G339_RS0111955)
+hypothetical protein" points="10,40 23,10 23,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SnoaL_2 (PF12680)
+"SnoaL-like domain"</title>
+				<polygon class="PF12680" points="13,40 19,28 21,28 21,52 19,52" stroke-linejoin="round" width="10" height="24" fill="rgb(180,149,73)" stroke="rgb(144,119,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G339_RS33370)
+hypothetical protein</title>
+			<polygon class=" (G339_RS33370)
+hypothetical protein" points="24,10 36,40 24,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_C_43 (PF21597)
+"Transcriptional regulator SbtR-like, C-terminal domain"</title>
+				<polygon class="PF21597" points="25,28 28,28 33,40 28,52 25,52" stroke-linejoin="round" width="10" height="24" fill="rgb(54,198,207)" stroke="rgb(43,158,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G339_RS0111965)
+hypothetical protein</title>
+			<polygon class=" (G339_RS0111965)
+hypothetical protein" points="43,25 54,25 54,10 84,40 54,70 54,55 43,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (G339_RS0111970)
+hypothetical protein</title>
+			<polygon class=" (G339_RS0111970)
+hypothetical protein" points="83,10 108,40 83,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2OG-FeII_Oxy_2 (PF13532)
+"2OG-Fe(II) oxygenase superfamily"</title>
+				<polygon class="PF13532" points="87,28 94,28 102,37 102,43 94,52 87,52" stroke-linejoin="round" width="15" height="24" fill="rgb(55,192,133)" stroke="rgb(44,153,106)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G339_RS0111975)
+MerR family transcriptional regulator</title>
+			<polygon class=" (G339_RS0111975)
+MerR family transcriptional regulator" points="115,10 129,40 115,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_17 (PF12728)
+"Helix-turn-helix domain"</title>
+				<rect class="PF12728" x="115" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(60,116,223)" stroke="rgb(48,92,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G339_RS0111980)
+alpha/beta hydrolase</title>
+			<polygon class=" (G339_RS0111980)
+alpha/beta hydrolase" points="129,10 141,40 129,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4180 (PF13788)
+"Domain of unknown function (DUF4180)"</title>
+				<polygon class="PF13788" points="129,28 132,28 138,40 132,52 129,52" stroke-linejoin="round" width="11" height="24" fill="rgb(82,118,184)" stroke="rgb(65,94,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G339_RS0111985)
+hypothetical protein</title>
+			<polygon class=" (G339_RS0111985)
+hypothetical protein" points="149,10 160,40 149,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5713 (PF18977)
+"Family of unknown function (DUF5713)"</title>
+				<polygon class="PF18977" points="149,28 152,28 157,40 152,52 149,52" stroke-linejoin="round" width="10" height="24" fill="rgb(52,183,162)" stroke="rgb(41,146,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G339_RS0111990)
+hypothetical protein</title>
+			<polygon class=" (G339_RS0111990)
+hypothetical protein" points="161,40 188,10 188,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_10 (PF13460)
+"NAD(P)H-binding"</title>
+				<polygon class="PF13460" points="171,34 176,28 188,28 188,52 176,52 171,46" stroke-linejoin="round" width="17" height="24" fill="rgb(131,53,182)" stroke="rgb(104,42,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G339_RS36605)
+hypothetical protein</title>
+			<polygon class=" (G339_RS36605)
+hypothetical protein" points="192,10 220,40 192,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_31 (PF13560)
+"Helix-turn-helix domain"</title>
+				<rect class="PF13560" x="192" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(109,58,189)" stroke="rgb(87,46,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G339_RS0112000)
+hypothetical protein</title>
+			<polygon class=" (G339_RS0112000)
+hypothetical protein" points="220,40 227,10 227,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (G339_RS0112005)
+hypothetical protein</title>
+			<polygon class=" (G339_RS0112005)
+hypothetical protein" points="263,25 260,25 260,10 230,40 260,70 260,55 263,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (G339_RS0112010)
+hypothetical protein</title>
+			<polygon class=" (G339_RS0112010)
+hypothetical protein" points="310,25 305,25 305,10 275,40 305,70 305,55 310,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glu_dehyd_C (PF16912)
+"Glucose dehydrogenase C-terminus"</title>
+				<polygon class="PF16912" points="279,40 291,28 295,28 295,52 291,52" stroke-linejoin="round" width="20" height="24" fill="rgb(68,102,189)" stroke="rgb(54,81,151)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="296" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(217,198,105)" stroke="rgb(173,158,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G339_RS33385)
+hypothetical protein</title>
+			<polygon class=" (G339_RS33385)
+hypothetical protein" points="379,25 378,25 378,10 348,40 378,70 378,55 379,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="362,30 364,28 376,28 376,52 364,52 362,50" stroke-linejoin="round" width="14" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G339_RS0112020)
+Nif11-like leader peptide family natural product precursor</title>
+			<polygon class=" (G339_RS0112020)
+Nif11-like leader peptide family natural product precursor" points="410,25 410,25 410,10 380,40 410,70 410,55 410,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nif11 (PF07862)
+"Nif11 domain"</title>
+				<rect class="PF07862" x="405" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(61,111,193)" stroke="rgb(48,88,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G339_RS0112025)
+hypothetical protein</title>
+			<polygon class=" (G339_RS0112025)
+hypothetical protein" points="517,25 440,25 440,10 410,40 440,70 440,55 517,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="414,40 426,28 445,28 445,52 426,52" stroke-linejoin="round" width="34" height="24" fill="rgb(91,189,96)" stroke="rgb(72,151,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4135 (PF13575)
+"Domain of unknown function (DUF4135)"</title>
+				<rect class="PF13575" x="456" y="28" stroke-linejoin="round" width="37" height="24" fill="rgb(170,90,215)" stroke="rgb(135,72,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G339_RS0112030)
+hypothetical protein</title>
+			<polygon class=" (G339_RS0112030)
+hypothetical protein" points="522,40 530,10 530,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5973 (PF19398)
+"Family of unknown function (DUF5973)"</title>
+				<polygon class="PF19398" points="525,40 528,28 529,28 529,52 528,52" stroke-linejoin="round" width="7" height="24" fill="rgb(112,203,89)" stroke="rgb(89,162,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G339_RS0112035)
+hypothetical protein</title>
+			<polygon class=" (G339_RS0112035)
+hypothetical protein" points="532,40 544,10 544,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5950 (PF19375)
+"Family of unknown function (DUF5950)"</title>
+				<polygon class="PF19375" points="535,40 540,28 542,28 542,52 540,52" stroke-linejoin="round" width="10" height="24" fill="rgb(126,227,63)" stroke="rgb(100,181,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G339_RS0112040)
+LacI family transcriptional regulator</title>
+			<polygon class=" (G339_RS0112040)
+LacI family transcriptional regulator" points="595,25 592,25 592,10 562,40 592,70 592,55 595,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_3 (PF13377)
+"Periplasmic binding protein-like domain"</title>
+				<polygon class="PF13377" points="566,40 577,29 577,51" stroke-linejoin="round" width="15" height="24" fill="rgb(220,188,82)" stroke="rgb(176,150,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LacI (PF00356)
+"Bacterial regulatory proteins, lacI family"</title>
+				<rect class="PF00356" x="590" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(84,207,204)" stroke="rgb(67,165,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

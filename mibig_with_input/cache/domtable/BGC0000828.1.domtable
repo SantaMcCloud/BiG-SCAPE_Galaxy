@@ -1,0 +1,19 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Amino_oxidase        PF01593.28   443 BGC0000828.1_ORF1:gid:vio_A:pid:BAA84782.1:loc:551:1808:strand:+ -            418   1.6e-35  123.5   0.0   1   1   4.9e-38   3.4e-34  119.1   0.0     1   442    14   412    14   413 0.86 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.10    68 BGC0000828.1_ORF1:gid:vio_A:pid:BAA84782.1:loc:551:1808:strand:+ -            418     9e-10   38.9   0.0   1   1   3.1e-13   2.2e-09   37.7   0.0     1    54     9    67     9    80 0.83 NAD(P)-binding Rossmann-like domain
+Ferritin-like        PF12902.11   221 BGC0000828.1_ORF2:gid:vio_B:pid:BAA84783.1:loc:1882:4879:strand:+ -            998   6.2e-38  131.0   0.0   1   1   4.4e-42   9.2e-38  130.5   0.0     1   220   605   827   605   828 0.89 Ferritin-like
+FAD_binding_3        PF01494.23   349 BGC0000828.1_ORF3:gid:vio_C:pid:BAA84784.1:loc:4880:6170:strand:+ -            429   7.6e-28   97.9   0.0   1   1     4e-31   1.4e-27   97.1   0.0     4   317     4   332     2   343 0.78 FAD binding domain
+NAD_binding_8        PF13450.10    68 BGC0000828.1_ORF3:gid:vio_C:pid:BAA84784.1:loc:4880:6170:strand:+ -            429   1.6e-07   31.7   0.3   1   1   2.7e-10   9.3e-07   29.2   0.3     1    31     6    36     6    51 0.92 NAD(P)-binding Rossmann-like domain
+Pyr_redox_2          PF07992.18   291 BGC0000828.1_ORF3:gid:vio_C:pid:BAA84784.1:loc:4880:6170:strand:+ -            429   1.3e-07   31.5   0.1   1   1     2e-10   6.8e-07   29.2   0.1     2   113     3   171     2   191 0.88 Pyridine nucleotide-disulphide oxidoreductase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000828.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000828.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000828.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:35:16 2024
+# [ok]

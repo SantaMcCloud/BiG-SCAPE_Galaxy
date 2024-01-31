@@ -1,0 +1,40 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_3        PF01494.23   349 BGC0001372.1_ORF1:gid::pid:ANY57879.1:loc:182:1481:strand:+ -            432   3.5e-17   62.9   4.9   1   2     9e-11   9.4e-07   28.6   1.2     2   169     7   180     6   210 0.73 FAD binding domain
+FAD_binding_3        PF01494.23   349 BGC0001372.1_ORF1:gid::pid:ANY57879.1:loc:182:1481:strand:+ -            432   3.5e-17   62.9   4.9   2   2   1.6e-12   1.6e-08   34.4   0.1   286   347   339   408   311   410 0.79 FAD binding domain
+p450                 PF00067.26   462 BGC0001372.1_ORF2:gid::pid:ANY57880.1:loc:2195:3708:strand:- -            445     3e-62  211.1   0.0   1   1   1.9e-66     4e-62  210.7   0.0    48   447    18   417     9   430 0.85 Cytochrome P450
+Methyltransf_2       PF00891.22   210 BGC0001372.1_ORF3:gid::pid:ANY57881.1:loc:5427:6865:strand:- -            398   5.9e-20   71.7   0.0   1   1   4.2e-24   8.7e-20   71.2   0.0    65   209   234   376   216   377 0.88 O-methyltransferase domain
+adh_short_C2         PF13561.10   236 BGC0001372.1_ORF4:gid::pid:ANY57882.1:loc:7638:8472:strand:- -            277   5.5e-41  140.9   0.1   1   1   9.7e-45   6.8e-41  140.6   0.1     6   235    26   269    23   270 0.91 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.29   195 BGC0001372.1_ORF4:gid::pid:ANY57882.1:loc:7638:8472:strand:- -            277   1.6e-38  132.4   0.3   1   1   2.9e-42     2e-38  132.0   0.3     1   190    17   215    17   219 0.93 short chain dehydrogenase
+KR                   PF08659.14   180 BGC0001372.1_ORF4:gid::pid:ANY57882.1:loc:7638:8472:strand:- -            277   5.9e-10   39.5   0.1   1   1   1.2e-13   8.1e-10   39.1   0.1     2   163    18   187    17   198 0.87 KR domain
+FAD_binding_3        PF01494.23   349 BGC0001372.1_ORF5:gid::pid:ANY57883.1:loc:10012:11635:strand:+ -            475   2.5e-24   86.3   0.0   1   2   2.1e-14   2.2e-10   40.5   0.0     2   166     6   169     5   172 0.76 FAD binding domain
+FAD_binding_3        PF01494.23   349 BGC0001372.1_ORF5:gid::pid:ANY57883.1:loc:10012:11635:strand:+ -            475   2.5e-24   86.3   0.0   2   2   2.7e-15   2.8e-11   43.5   0.0   268   323   285   340   231   352 0.86 FAD binding domain
+NAD_binding_8        PF13450.10    68 BGC0001372.1_ORF5:gid::pid:ANY57883.1:loc:10012:11635:strand:+ -            475   2.8e-05   24.5   0.1   1   1   1.1e-08   0.00012   22.5   0.1     1    31    10    40    10    43 0.95 NAD(P)-binding Rossmann-like domain
+Trp_DMAT             PF11991.12   357 BGC0001372.1_ORF7:gid::pid:ANY57885.1:loc:15708:17071:strand:+ -            434   6.1e-92  308.9   0.0   1   1   3.6e-96   7.5e-92  308.6   0.0     2   356    49   381    48   382 0.95 Tryptophan dimethylallyltransferase
+FAD_binding_4        PF01565.27   139 BGC0001372.1_ORF8:gid::pid:ANY57886.1:loc:17345:19174:strand:- -            574   5.1e-14   52.4   1.5   1   1   9.3e-18   9.7e-14   51.5   1.5     1   137   126   271   126   273 0.89 FAD binding domain
+BBE                  PF08031.16    45 BGC0001372.1_ORF8:gid::pid:ANY57886.1:loc:17345:19174:strand:- -            574   7.3e-12   45.3   0.1   1   1   1.2e-15   1.2e-11   44.6   0.1     1    44   517   561   517   562 0.94 Berberine and berberine like
+Trp_DMAT             PF11991.12   357 BGC0001372.1_ORF9:gid::pid:ANY57887.1:loc:20609:22054:strand:+ -            459   8.1e-78  262.5   0.0   1   1     5e-82     1e-77  262.1   0.0     2   356    54   419    54   420 0.89 Tryptophan dimethylallyltransferase
+Isochorismatase      PF00857.24   175 BGC0001372.1_ORF10:gid::pid:ANY57888.1:loc:34303:34903:strand:+ -            199   5.7e-34  117.9   0.3   1   1   3.2e-38   6.6e-34  117.7   0.3     2   174    25   195    24   196 0.93 Isochorismatase family
+Methyltransf_2       PF00891.22   210 BGC0001372.1_ORF11:gid::pid:ANY57889.1:loc:35704:37206:strand:- -            420   3.5e-23   82.2   0.0   1   1   2.6e-27   5.4e-23   81.6   0.0    17   208   200   395   184   397 0.79 O-methyltransferase domain
+Hemocyanin_M         PF00372.23   268 BGC0001372.1_ORF12:gid::pid:ANY57890.1:loc:39638:41801:strand:- -            720   3.1e-28   98.9   0.0   1   1   4.7e-32   4.9e-28   98.3   0.0    57   265   123   358    92   360 0.82 Hemocyanin, copper containing domain
+Hemocyanin_C         PF03723.18   249 BGC0001372.1_ORF12:gid::pid:ANY57890.1:loc:39638:41801:strand:- -            720   1.9e-14   53.9   0.0   1   1   8.4e-18   8.8e-14   51.6   0.0    48   231   409   579   377   592 0.72 Hemocyanin, ig-like domain
+PhyH                 PF05721.17   213 BGC0001372.1_ORF13:gid::pid:ANY57891.1:loc:42655:43594:strand:+ -            312   9.4e-23   81.8   0.0   1   1   6.6e-27   1.4e-22   81.2   0.0     2   211    28   223    27   225 0.71 Phytanoyl-CoA dioxygenase (PhyH)
+AMP-binding          PF00501.32   382 BGC0001372.1_ORF14:gid::pid:ANY57892.1:loc:44920:53377:strand:+ -           2797  3.7e-119  398.1   4.2   1   2   2.2e-57   7.7e-54  183.1   0.3     4   382   236   572   233   572 0.86 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0001372.1_ORF14:gid::pid:ANY57892.1:loc:44920:53377:strand:+ -           2797  3.7e-119  398.1   4.2   2   2   1.7e-67   5.7e-64  216.5   0.3     1   381  1328  1680  1328  1681 0.83 AMP-binding enzyme
+Condensation         PF00668.24   456 BGC0001372.1_ORF14:gid::pid:ANY57892.1:loc:44920:53377:strand:+ -           2797    5e-107  358.6   0.0   1   2   1.4e-81   4.8e-78  263.1   0.0     7   447   870  1299   864  1302 0.92 Condensation domain
+Condensation         PF00668.24   456 BGC0001372.1_ORF14:gid::pid:ANY57892.1:loc:44920:53377:strand:+ -           2797    5e-107  358.6   0.0   2   2   4.9e-25   1.7e-21   76.7   0.0     3   344  2394  2699  2392  2708 0.85 Condensation domain
+PP-binding           PF00550.29    67 BGC0001372.1_ORF14:gid::pid:ANY57892.1:loc:44920:53377:strand:+ -           2797   2.5e-26   91.9   0.0   1   2   5.8e-12     2e-08   34.5   0.0     3    66   757   819   755   820 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0001372.1_ORF14:gid::pid:ANY57892.1:loc:44920:53377:strand:+ -           2797   2.5e-26   91.9   0.0   2   2   3.1e-18   1.1e-14   54.6   0.0     5    66  2285  2346  2284  2347 0.90 Phosphopantetheine attachment site
+Methyltransf_12      PF08242.16    98 BGC0001372.1_ORF14:gid::pid:ANY57892.1:loc:44920:53377:strand:+ -           2797   6.9e-08   33.3   0.0   1   1   9.3e-11   3.2e-07   31.2   0.0     1    90  1857  1950  1857  1956 0.91 Methyltransferase domain
+Methyltransf_11      PF08241.16    95 BGC0001372.1_ORF14:gid::pid:ANY57892.1:loc:44920:53377:strand:+ -           2797     7e-05   23.6   0.0   1   1   7.5e-08   0.00026   21.8   0.0     1    78  1857  1940  1857  1951 0.88 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001372.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001372.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001372.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:46:23 2024
+# [ok]

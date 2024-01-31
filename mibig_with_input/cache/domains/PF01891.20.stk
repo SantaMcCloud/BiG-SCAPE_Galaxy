@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF350:gid::pid::loc:395457:396210:strand:+:27:235         HIMEGYLPVKWSIAWGVIFIPFFLVGLKSIGKIvKqdPKKKVLLALCGAFVFVLSALKIPSVTGSCSHPTGVGLGAIMFGPSVMFVLGTIVLIFQALLLAHGGITTLGANAFSMAIIGP...IISFLIFKALKKK-..........-DGNNAMPVFLAAAIGDLATYTVTSIQLALAFPDPSggvmASAIKFLGIFFMTQ
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF350:gid::pid::loc:395457:396210:strand:+:27:235 PP ***************************7777776511555*******************************************************************************...********99888............6789**************************877668999999***********
+GCF_008000775.1_ORF1625:gid::pid:WP_147662724.1:loc:1757282:1757975:strand:-:2:219           HIGEGLLDLSILIPLWIIVFGYGIFSLLKMRGSvK..PEQIPIISVITAMVFTLQMLNFPVLAGTSGHLLGFVLMAIFFSPSTAFIMISVILLIQSLMFGDGGLLALGANIFNMGIATMpgyFTYWIIRKKTVKTNsdnqsgeksaETKWLLISAFVGAYISIIIASLCCGIEIGISEK-FP....YGIGLTIPAMLGYH
+#=GR GCF_008000775.1_ORF1625:gid::pid:WP_147662724.1:loc:1757282:1757975:strand:-:2:219   PP *********************************99..******************************************************************************876533144444444444444789999887437778999***********************66.78....**************
+#=GC PP_cons                                                                                 ***************************999888.7..777***************************************************************************9888...77777777766664..........3678999************************77777....**************
+#=GC RF                                                                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF350:gid::pid::loc:395457:396210:strand:+:27:235         IPIAIAEGILTVIVYNLITE-----ngek
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF350:gid::pid::loc:395457:396210:strand:+:27:235 PP ***************99975.....7899
+GCF_008000775.1_ORF1625:gid::pid:WP_147662724.1:loc:1757282:1757975:strand:-:2:219           ALIGIGEGLITMVIVGFFAKYAPE-y...
+#=GR GCF_008000775.1_ORF1625:gid::pid:WP_147662724.1:loc:1757282:1757975:strand:-:2:219   PP **********************98.7...
+#=GC PP_cons                                                                                 *****************997**98.....
+#=GC RF                                                                                      xxxxxxxxxxxxxxxxxxxxxxxxx....
+//

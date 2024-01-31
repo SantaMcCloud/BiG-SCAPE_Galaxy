@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+BGC0000905.1_ORF5:gid:ccsA:pid:ABT18039.1:loc:3380:4229:strand:+:68:278                    lt--NGYEFLLAFSWGIASVYLFA---EKKYQIPVAGAFVVPTAWLILAYVAVLMDPASRAARPLMPALQSNWLTYHVITAMFSYGAFAFSFGVGIMYLWKKSAe...srEKQRGVVAFLPSSEKLDEIGYRLI.AIGFPLLTLCIITGAIWAEYAWGRYWSWDPKETWSLITWLIYAAYLHARFT-YGWKGNRAAWMAV
+#=GR BGC0000905.1_ORF5:gid:ccsA:pid:ABT18039.1:loc:3380:4229:strand:+:68:278            PP 76..67999999999999999999...567778********************999********************************************99999...8889999999****************.*************************************************87.5************
+GCF_008000775.1_ORF3288:gid::pid:WP_162306797.1:loc:3694560:3695028:strand:+:1:145         .m---------------------------------------------------------------------WLLILHVFINVLGLVFLMAGSFQILISSSKNSStiqseeLDNSFIENNNGKSKEVRKSKNKLI.EIGWYLYTFGVILGAFQAKITVGYYWTWDLKEIFSLLSILGYFSYIIIEM---KWNKRVKQFLIL
+#=GR GCF_008000775.1_ORF3288:gid::pid:WP_162306797.1:loc:3694560:3695028:strand:+:1:145 PP .8.....................................................................5799***********************955555***99999999999999*************.***********************************************875...455555555555
+BGC0000906.1_ORF5:gid:ccsA:pid:ABU41505.1:loc:4474:5320:strand:+:65:276                    lt--NGYEFLLAFSWGIAATYLIAER---YYRIPLAGAFVVPVAWLILAYVAMLMDPVSRASRPLMPALQSNWLTYHVITAMVAYGAFAFSFGVGVMYLWKKSAi...ksGRTTGIGAHLPSPERLDEIGYRLIaAVGFPLLTLCIITGAIWAEFAWGRYWAWDPKETWSAITWLIYAAYLHARHT-FGWRGNRAAWMAI
+#=GR BGC0000906.1_ORF5:gid:ccsA:pid:ABU41505.1:loc:4474:5320:strand:+:65:276            PP 75..77999***************66...5556********************9999********************************************9998...8888899999************9976269***********************************************65.5************
+#=GC PP_cons                                                                               ....67999999*******9999966.566667********************999***************89**************************88888......88999999**************99.9**********************************************9966.5888888888888
+#=GC RF                                                                                    ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000905.1_ORF5:gid:ccsA:pid:ABT18039.1:loc:3380:4229:strand:+:68:278                    IGFLAVLFTFFGVNYFLSGLH..........
+#=GR BGC0000905.1_ORF5:gid:ccsA:pid:ABT18039.1:loc:3380:4229:strand:+:68:278            PP ***************999998..........
+GCF_008000775.1_ORF3288:gid::pid:WP_162306797.1:loc:3694560:3695028:strand:+:1:145         ISLILTIIT------------viipaiaysy
+#=GR GCF_008000775.1_ORF3288:gid::pid:WP_162306797.1:loc:3694560:3695028:strand:+:1:145 PP 555544443............34578899**
+BGC0000906.1_ORF5:gid:ccsA:pid:ABU41505.1:loc:4474:5320:strand:+:65:276                    IGFMAVLFTFFGVNYFLTGLH..........
+#=GR BGC0000906.1_ORF5:gid:ccsA:pid:ABU41505.1:loc:4474:5320:strand:+:65:276            PP ***************999998..........
+#=GC PP_cons                                                                               888888888******999998..........
+#=GC RF                                                                                    xxxxxxxxxxxxxxxxxxxxx..........
+//

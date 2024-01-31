@@ -1,0 +1,15 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AfsA                 PF03756.17   133 BGC0000848.1_ORF1:gid:afsA:pid:BAG23718.1:loc:0:945:strand:+ -            314     3e-51  173.1   0.0   1   2   2.8e-37   5.8e-33  113.9   0.0     1   131    28   162    28   164 0.98 A-factor biosynthesis hotdog domain
+AfsA                 PF03756.17   133 BGC0000848.1_ORF1:gid:afsA:pid:BAG23718.1:loc:0:945:strand:+ -            314     3e-51  173.1   0.0   2   2   9.9e-20   2.1e-15   57.1   0.0     3   129   196   307   195   309 0.94 A-factor biosynthesis hotdog domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000848.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000848.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000848.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:43:32 2024
+# [ok]

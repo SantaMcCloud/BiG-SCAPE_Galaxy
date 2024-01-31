@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000385.1_ORF42:gid::pid:AEH59063.1:loc:43682:44972:strand:-:141:290           ..PAKTALGKRLFEDPRLSGSGQIACASCHDSELGWGDGRS.VPFGHDRQRGR........................................................RNALPVAMSGFAAHLFWDGRASSLEAQVLHPLTDPREMAARPAAVLRRLRSQADYRRAYADAFGsPGIDLARTSQALASFQRSLVPRFNRF
+#=GR BGC0000385.1_ORF42:gid::pid:AEH59063.1:loc:43682:44972:strand:-:141:290   PP ..5899***********************************.***********........................................................****************************************************************9889***********************
+BGC0000974.1_ORF19:gid:ccp:pid:CBD77757.1:loc:57146:58493:strand:-:17:196         lt------GEQLFTQ-AFPGTNGRSCASCHVPEDNFTLTPAhVTRLLETNPSDplfsaidaddptaetltfehlkvglvrvwltvpdtmdliddagnvttppdrkvfvwRSVPSIADTAMTAPFQFDGRAATLEEQAQAAIISHSEGGTVSQTELARIAA-------------.--------------------------
+#=GR BGC0000974.1_ORF19:gid:ccp:pid:CBD77757.1:loc:57146:58493:strand:-:17:196 PP 98......8889886.78888999************986543444433333337888888889999999999**************************************************************************99666665666654........................................
+#=GC PP_cons                                                                      ..5899**9999998*8999999*************99877.77777777777........................................................***************************************888888888887*************.889***********************
+#=GC RF                                                                           ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx........................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000385.1_ORF42:gid::pid:AEH59063.1:loc:43682:44972:strand:-:141:290           DRFLEGSR-n..........................
+#=GR BGC0000385.1_ORF42:gid::pid:AEH59063.1:loc:43682:44972:strand:-:141:290   PP *****976.6..........................
+BGC0000974.1_ORF19:gid:ccp:pid:CBD77757.1:loc:57146:58493:strand:-:17:196         ---------fqrevftsdraraaaehlargvapenv
+#=GR BGC0000974.1_ORF19:gid:ccp:pid:CBD77757.1:loc:57146:58493:strand:-:17:196 PP .........55566777888888899999999****
+#=GC PP_cons                                                                      *****976............................
+#=GC RF                                                                           xxxxxxxxx...........................
+//

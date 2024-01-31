@@ -1,0 +1,132 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="572.5" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="562.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (SSLG_04250)
+TRAP dicarboxylate transporter</title>
+			<polygon class=" (SSLG_04250)
+TRAP dicarboxylate transporter" points="10,25 11,25 11,10 41,40 11,70 11,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FA_hydroxylase (PF04116)
+"Fatty acid hydroxylase"</title>
+				<polygon class="PF04116" points="22,28 25,28 35,38 35,42 25,52 22,52" stroke-linejoin="round" width="13" height="24" fill="rgb(54,190,140)" stroke="rgb(43,152,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSLG_04251)
+amino acid adenylation domain-containing protein</title>
+			<polygon class=" (SSLG_04251)
+amino acid adenylation domain-containing protein" points="46,25 297,25 297,10 327,40 297,70 297,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="50" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="76" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="88" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(200,86,70)" stroke="rgb(160,68,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="103" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(132,93,193)" stroke="rgb(105,74,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PKS_DH_N (PF21089)
+"Polyketide synthase dehydratase domain"</title>
+				<rect class="PF21089" x="139" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(67,151,200)" stroke="rgb(53,120,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase N-terminal domain"</title>
+				<rect class="PF14765" x="151" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(189,61,178)" stroke="rgb(151,48,142)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="193" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(203,145,81)" stroke="rgb(162,116,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="222" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="231" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="278,28 311,28 313,30 313,50 311,52 278,52" stroke-linejoin="round" width="35" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="319,36 323,40 319,44" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSLG_04252)
+predicted protein</title>
+			<polygon class=" (SSLG_04252)
+predicted protein" points="355,10 359,40 355,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SSLG_04253)
+FAD dependent oxidoreductase</title>
+			<polygon class=" (SSLG_04253)
+FAD dependent oxidoreductase" points="364,25 391,25 391,10 421,40 391,70 391,55 364,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="368,28 404,28 416,40 404,52 368,52" stroke-linejoin="round" width="49" height="24" fill="rgb(95,189,207)" stroke="rgb(76,151,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSLG_04254)
+FAD dependent oxidoreductase</title>
+			<polygon class=" (SSLG_04254)
+FAD dependent oxidoreductase" points="427,25 454,25 454,10 484,40 454,70 454,55 427,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="427,28 468,28 470,30 470,50 468,52 427,52" stroke-linejoin="round" width="43" height="24" fill="rgb(95,189,207)" stroke="rgb(76,151,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSLG_04255)
+leukotriene B4 12-hydroxydehydrogenase/15-oxo-prostaglandin 13-reductase</title>
+			<polygon class=" (SSLG_04255)
+leukotriene B4 12-hydroxydehydrogenase/15-oxo-prostaglandin 13-reductase" points="485,25 490,25 490,10 520,40 490,70 490,55 485,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N_2 (PF16884)
+"N-terminal domain of oxidoreductase"</title>
+				<rect class="PF16884" x="485" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(225,66,194)" stroke="rgb(180,52,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="502,28 503,28 515,40 515,40 503,52 502,52" stroke-linejoin="round" width="13" height="24" fill="rgb(79,114,198)" stroke="rgb(63,91,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSLG_04256)
+cytochrome P450 hydroxylase</title>
+			<polygon class=" (SSLG_04256)
+cytochrome P450 hydroxylase" points="523,25 532,25 532,10 562,40 532,70 532,55 523,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="549,31 558,40 558,40 549,49" stroke-linejoin="round" width="9" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

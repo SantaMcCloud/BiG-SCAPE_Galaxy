@@ -1,0 +1,18 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AICARFT_IMPCHas      PF01808.22   311 BGC0000494.1_ORF1:gid::pid:ABG48501.1:loc:169:1330:strand:+ -            386    8e-123  410.0   1.0   1   1  4.5e-127  9.4e-123  409.8   1.0     1   311     5   320     5   320 0.96 AICARFT/IMPCHase bienzyme
+LytTR                PF04397.19    98 BGC0000494.1_ORF2:gid::pid:ABG48502.1:loc:1382:2138:strand:- -            251   4.3e-20   72.0   2.8   1   1     4e-24   8.2e-20   71.0   2.8     3    97   151   242   150   243 0.93 LytTr DNA-binding domain
+Bacteriocin_IId      PF09221.14    67 BGC0000494.1_ORF3:gid:ublA:pid:ABG48503.1:loc:2437:2668:strand:+ -             76     9e-25   86.9  14.2   1   1   4.9e-29     1e-24   86.7  14.2     1    67     8    76     8    76 0.99 Bacteriocin class IId cyclical uberolysin-like
+SpoIIM               PF01944.21   162 BGC0000494.1_ORF5:gid:ublC:pid:ABG48505.1:loc:4345:4891:strand:+ -            181   3.1e-16   60.0  18.9   1   1   2.2e-20   4.6e-16   59.4  18.9     2   159    17   171    13   173 0.82 Stage II sporulation protein M
+ABC_tran             PF00005.31   137 BGC0000494.1_ORF6:gid:ublD:pid:ABG48506.1:loc:4875:5532:strand:+ -            218   9.3e-15   55.7   0.0   1   1   1.3e-18   1.3e-14   55.2   0.0     2   134    23   162    22   165 0.90 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000494.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000494.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000494.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:29:52 2024
+# [ok]

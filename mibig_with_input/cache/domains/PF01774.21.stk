@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000029.1_ORF26:gid::pid:ACO94477.1:loc:83177:83948:strand:-:45:245         vt--VVGAMSAPLGGDRLALEVAVRDGAALTVDAAAAMIALPGRRtgdepgdHARYDLRLTVGEDAVLHWLPEQLISVTGSDLRAHTRVELAPTARLVLREEQILGR--HGEPP--GTLTTRLTVHHAGRPLLDQQLALGPGApGGWDGGAVIGGHRAVGQLLLVAPEFD-EKPATARLL----GDTAVLTPLAGpGALV
+#=GR BGC0000029.1_ORF26:gid::pid:ACO94477.1:loc:83177:83948:strand:-:45:245 PP 76..566667789*****************************83336678899******************************************************..9****..***********************98553443444556*************9986.333333333....234678888644679*
+BGC0000187.1_ORF6:gid::pid:ADI58664.1:loc:5098:5866:strand:+:46:235            ia--LVGTRAGLLAGDDLLLDISVGPGARLELVEPSGLVAYDHRG......gTSSWRARVDIAEGGELCWDARPFVISTGAAVERSMEVTLAAGARMLWRDTLVLGR--SGERG--GGVRAMTHATYDGCELLVEDLDLMDPD.-LRELPGILGPNRIIGSVTALGAAP--------------------------.----
+#=GR BGC0000187.1_ORF6:gid::pid:ADI58664.1:loc:5098:5866:strand:+:46:235    PP 75..78899*********************************944......469*****************************************************..89*99..99***********99999999998645..688****************99554...............................
+#=GC PP_cons                                                                   ....67778899******************************833.......7******************************************************..99**9..99************9******999755.455677888*************7766.333333333....23467888864.679*
+#=GC RF                                                                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxx
+
+BGC0000029.1_ORF26:gid::pid:ACO94477.1:loc:83177:83948:strand:-:45:245         TALAPDARALRR...................................
+#=GR BGC0000029.1_ORF26:gid::pid:ACO94477.1:loc:83177:83948:strand:-:45:245 PP *******99986...................................
+BGC0000187.1_ORF6:gid::pid:ADI58664.1:loc:5098:5866:strand:+:46:235            ------------agrphpyrmdlagpgaqvrlldtvapaieadlaav
+#=GR BGC0000187.1_ORF6:gid::pid:ADI58664.1:loc:5098:5866:strand:+:46:235    PP ............456677888888999999999999999********
+#=GC PP_cons                                                                   *******99986...................................
+#=GC RF                                                                        xxxxxxxxxxxx...................................
+//

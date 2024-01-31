@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+BGC0000434.1_ORF2:gid::pid:BAI63267.1:loc:3227:6521:strand:-:1:63                    .----------MVM.SATDVTLPGVLPLLLERHYVSG.HPCGGWFGRTWAGTLDQRLEIDDA-GVVYITDDGMLLTY..
+#=GR BGC0000434.1_ORF2:gid::pid:BAI63267.1:loc:3227:6521:strand:-:1:63            PP ...........689.9*********************.**********************66.**********9987..
+BGC0000179.1_ORF13:gid::pid:CAN93356.1:loc:89447:91106:strand:+:44:115               .GDPVDVVTGRVFTiPAVDLELPGPLPLSIVRSYTTAaFERDVGLGFGWSHSLAWEIEVRQR-ILRVWTDDG-----pv
+#=GR BGC0000179.1_ORF13:gid::pid:CAN93356.1:loc:89447:91106:strand:+:44:115       PP .8***********758********************999*******************9977.999999998.....78
+BGC0001003.1_ORF18:gid:lipX3:pid:ABB05107.1:loc:57096:61779:strand:-:355:427         .GDPIDMVSGEMLM.EQVDLELGGLLPLVVRRTHVST.YRWGRCFGPSWASTLDQRLEIDDQ-GVVFASEDGMLLAY..
+#=GR BGC0001003.1_ORF18:gid:lipX3:pid:ABB05107.1:loc:57096:61779:strand:-:355:427 PP .8************.**********************.**********************66.*********98876..
+BGC0000141.1_ORF19:gid:Rub7:pid:CAI94694.1:loc:34796:38087:strand:-:9:81             n-DLVDVATGDATV.AETDVTLPGVLPLVLERVHRSS.TRTGRWFGRSWTSSLDQRLHVTGG-QIHARFAGGQTLTF..
+#=GR BGC0000141.1_ORF19:gid:Rub7:pid:CAI94694.1:loc:34796:38087:strand:-:9:81     PP 6.77**********.**********************.*******************99956.99999999999998..
+#=GC PP_cons                                                                         .899*******999.9*********************.********************9966.9***9999999887..
+#=GC RF                                                                              .xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

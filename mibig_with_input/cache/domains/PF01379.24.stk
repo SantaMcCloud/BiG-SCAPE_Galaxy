@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+BGC0000905.1_ORF8:gid:hemC:pid:ABT18042.1:loc:6201:7146:strand:+:8:215                         VVIGTRDSALALWQTNWVMARLKELfpEQAFEVKAIKTKGDKILDVALAKIGDKGLFTKELEVSMLEGEIDMAVHSLKDLPTVLPEGLTIGAMCVREDCRDILISR.HGG-LDALPQGARVGTASLRRKAQIWQVRPDLELLDIRGNLQTRLRKMEEQNLDGLILAAAGVIRLGWAEKISQYIPVDMCLPAVGQGSIGIE
+#=GR BGC0000905.1_ORF8:gid:hemC:pid:ABT18042.1:loc:6201:7146:strand:+:8:215                 PP 57********************99566889***************************************************************************9.888.********************************************************************99*******************
+GCA_000085225.1_ASM8522v1_genomic_ORF3317:gid::pid::loc:3797210:3798116:strand:-:3:212         IVVGTRGSTLALIQTEWVINELKKKypEISFEIKIIKTKGDLIQNVSLDKIGDKGLFVKEIEQQLLDGKIDIAVHSMKDMPSYLADGLKFAHTPKREDPRDVLILReGYKNLDDLPHGAVIGTGSKRRKFQLLKQRPDLNIVQVRGNVETRIRKIKDENMHGIVLAASGIIRANLQDKISSYLPVDVVIPAPAQGALAIE
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3317:gid::pid::loc:3797210:3798116:strand:-:3:212 PP 78*********************9777999**************************************************************************5548899********************************************************************99*******************
+BGC0000906.1_ORF8:gid:hemC:pid:ABU41508.1:loc:7264:8212:strand:+:8:216                         IVIGTRDSALALWQTHWVLEQLQARfpEQRFEIKAIKTKGDKILDVALAKIGDKGLFTKELEVAMLEGEVDMAVHSLKDLPTQLPEGLTVGAMCIREDYRDVLIGR.TARTLAELKPGARVGTASLRRKSQIWKVRPDLELLDIRGNLQTRMRKMEEQDLDGIILAAAGVLRLGWADKITQYIDEDVCLPAVGQGSVGIE
+#=GR BGC0000906.1_ORF8:gid:hemC:pid:ABU41508.1:loc:7264:8212:strand:+:8:216                 PP 78********************99777899**************************************************************************99.999******************************************************************************************
+#=GC PP_cons                                                                                   68********************996..899**************************************************************************88.8999*****************************************************************************************
+#=GC RF                                                                                        xxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000905.1_ORF8:gid:hemC:pid:ABT18042.1:loc:6201:7146:strand:+:8:215                         IREGDDEIA-k.
+#=GR BGC0000905.1_ORF8:gid:hemC:pid:ABT18042.1:loc:6201:7146:strand:+:8:215                 PP *****9986.6.
+GCA_000085225.1_ASM8522v1_genomic_ORF3317:gid::pid::loc:3797210:3798116:strand:-:3:212         IRSNDSTI--eg
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3317:gid::pid::loc:3797210:3798116:strand:-:3:212 PP *****987..58
+BGC0000906.1_ORF8:gid:hemC:pid:ABU41508.1:loc:7264:8212:strand:+:8:216                         IRDGDEAIA-r.
+#=GR BGC0000906.1_ORF8:gid:hemC:pid:ABU41508.1:loc:7264:8212:strand:+:8:216                 PP *****9875.7.
+#=GC PP_cons                                                                                   *****9876...
+#=GC RF                                                                                        xxxxxxxxxx..
+//

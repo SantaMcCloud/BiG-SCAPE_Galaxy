@@ -1,0 +1,32 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tRNA_edit            PF04073.19   123 BGC0000287.1_ORF1:gid::pid:AAG05689.1:loc:0:543:strand:- -            180   1.6e-21   76.8   0.0   1   1   1.1e-25   2.3e-21   76.3   0.0     6   122    48   167    44   168 0.90 Aminoacyl-tRNA editing domain
+AMP-binding          PF00501.32   382 BGC0000287.1_ORF2:gid:ambE:pid:AAG05690.1:loc:610:6985:strand:- -           2124   1.9e-67  227.9   0.1   1   1   7.8e-71   2.7e-67  227.4   0.1     2   381   455   798   454   799 0.85 AMP-binding enzyme
+Condensation         PF00668.24   456 BGC0000287.1_ORF2:gid:ambE:pid:AAG05690.1:loc:610:6985:strand:- -           2124   5.4e-56  190.4   0.0   1   1   6.6e-57   2.3e-53  181.7   0.0     3   441  1359  1780  1357  1792 0.90 Condensation domain
+Thioesterase         PF00975.24   226 BGC0000287.1_ORF2:gid:ambE:pid:AAG05690.1:loc:610:6985:strand:- -           2124   8.3e-35  121.2   0.0   1   1   5.7e-38     2e-34  119.9   0.0     2   224  1886  2108  1885  2110 0.92 Thioesterase domain
+PP-binding           PF00550.29    67 BGC0000287.1_ORF2:gid:ambE:pid:AAG05690.1:loc:610:6985:strand:- -           2124   5.8e-23   81.1   0.1   1   2   5.2e-17   1.8e-13   50.7   0.0     2    67  1259  1321  1258  1321 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0000287.1_ORF2:gid:ambE:pid:AAG05690.1:loc:610:6985:strand:- -           2124   5.8e-23   81.1   0.1   2   2   1.1e-09   3.8e-06   27.3   0.0     2    66  1793  1854  1792  1855 0.94 Phosphopantetheine attachment site
+Methyltransf_21      PF05050.16   173 BGC0000287.1_ORF2:gid:ambE:pid:AAG05690.1:loc:610:6985:strand:- -           2124   1.1e-14   55.1   0.0   1   1   6.6e-18   2.3e-14   54.0   0.0     1   172   950  1146   950  1147 0.69 Methyltransferase FkbM domain
+TauD                 PF02668.20   267 BGC0000287.1_ORF3:gid:ambD:pid:AAG05691.1:loc:7004:8024:strand:- -            339   5.7e-48  164.3   2.4   1   1   3.4e-52   7.1e-48  164.0   2.4    12   266    39   330    28   332 0.91 Taurine catabolism dioxygenase TauD, TfdA family
+TauD                 PF02668.20   267 BGC0000287.1_ORF4:gid:ambC:pid:AAG05692.1:loc:8020:9109:strand:- -            362   2.6e-50  172.0   1.9   1   1   1.7e-54   3.6e-50  171.5   1.9     6   263    39   334    34   337 0.90 Taurine catabolism dioxygenase TauD, TfdA family
+AMP-binding          PF00501.32   382 BGC0000287.1_ORF5:gid:ambB:pid:AAG05693.1:loc:9138:12888:strand:- -           1249     3e-78  263.5   0.0   1   1   9.9e-82   5.1e-78  262.7   0.0     1   382   245   586   245   586 0.87 AMP-binding enzyme
+Condensation         PF00668.24   456 BGC0000287.1_ORF5:gid:ambB:pid:AAG05693.1:loc:9138:12888:strand:- -           1249   1.8e-34  119.5   0.0   1   1   4.5e-38   2.3e-34  119.1   0.0     6   342   823  1150   818  1156 0.90 Condensation domain
+AMP-binding_C        PF13193.10    76 BGC0000287.1_ORF5:gid:ambB:pid:AAG05693.1:loc:9138:12888:strand:- -           1249   2.2e-07   31.9   0.0   1   1   1.2e-10   6.4e-07   30.4   0.0     1    76   642   715   642   715 0.88 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.29    67 BGC0000287.1_ORF5:gid:ambB:pid:AAG05693.1:loc:9138:12888:strand:- -           1249   3.2e-07   30.7   0.0   1   1   2.2e-10   1.2e-06   28.9   0.0     1    66   741   804   741   805 0.89 Phosphopantetheine attachment site
+LysE                 PF01810.22   193 BGC0000287.1_ORF6:gid:ambA:pid:AAG05694.1:loc:12983:13601:strand:- -            205   4.7e-17   62.3   9.4   1   1   3.2e-21   6.8e-17   61.8   9.4     2   183    17   192    16   194 0.84 LysE type translocator
+BPD_transp_1         PF00528.26   184 BGC0000287.1_ORF7:gid::pid:AAG05695.1:loc:13710:14577:strand:- -            288   1.1e-13   51.5  19.6   1   1   6.6e-17   1.4e-12   47.9  16.7     1   174    98   271    98   284 0.88 Binding-protein-dependent transport system inner membrane component
+ABC_tran             PF00005.31   137 BGC0000287.1_ORF8:gid::pid:AAG05696.1:loc:14593:15442:strand:- -            282   1.6e-33  116.5   0.0   1   1   3.3e-37   2.3e-33  115.9   0.0     2   137    37   178    36   178 0.95 ABC transporter
+NMT1_2               PF13379.10   252 BGC0000287.1_ORF9:gid::pid:AAG05697.1:loc:15449:16472:strand:- -            340   6.7e-10   39.4   0.5   1   1   3.7e-11   3.8e-07   30.4   0.1   156   246   180   273   151   278 0.88 NMT1-like family
+NMT1                 PF09084.15   216 BGC0000287.1_ORF9:gid::pid:AAG05697.1:loc:15449:16472:strand:- -            340   0.00015   21.9   0.0   1   1   2.7e-08   0.00028   21.0   0.0    21   213    69   268    63   271 0.72 NMT1/THI5 like
+TauD                 PF02668.20   267 BGC0000287.1_ORF10:gid::pid:AAG05698.1:loc:16512:17400:strand:- -            295   2.9e-70  237.4   1.9   1   1   1.6e-74   3.3e-70  237.2   1.9     2   267    17   288    16   288 0.96 Taurine catabolism dioxygenase TauD, TfdA family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000287.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000287.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000287.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:37:09 2024
+# [ok]

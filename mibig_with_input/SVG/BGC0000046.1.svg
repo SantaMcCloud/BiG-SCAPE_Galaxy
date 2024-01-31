@@ -1,0 +1,101 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="853.3333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="843.3333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>DEP1
+hypothetical protein</title>
+			<polygon class="DEP1
+hypothetical protein" points="89,25 82,25 82,10 52,40 82,70 82,55 89,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>DEP2
+predicted monooxygenase</title>
+			<polygon class="DEP2
+predicted monooxygenase" points="104,25 133,25 133,10 163,40 133,70 133,55 104,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="104" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(215,66,156)" stroke="rgb(172,52,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DEP3
+predicted MFS transporter</title>
+			<polygon class="DEP3
+predicted MFS transporter" points="255,25 213,25 213,10 183,40 213,70 213,55 255,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<rect class="PF07690" x="226" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(228,207,98)" stroke="rgb(182,165,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DEP4
+predicted monooxygenase</title>
+			<polygon class="DEP4
+predicted monooxygenase" points="337,25 302,25 302,10 272,40 302,70 302,55 337,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyr_redox_3 (PF13738)
+"Pyridine nucleotide-disulphide oxidoreductase"</title>
+				<rect class="PF13738" x="315" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(77,193,76)" stroke="rgb(61,154,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DEP5
+polyketide synthase</title>
+			<polygon class="DEP5
+polyketide synthase" points="380,25 596,25 596,10 626,40 596,70 596,55 380,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="384" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="410" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="423" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(200,86,70)" stroke="rgb(160,68,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="439" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(132,93,193)" stroke="rgb(105,74,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PKS_DH_N (PF21089)
+"Polyketide synthase dehydratase domain"</title>
+				<rect class="PF21089" x="478" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(67,151,200)" stroke="rgb(53,120,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase N-terminal domain"</title>
+				<rect class="PF14765" x="491" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(189,61,178)" stroke="rgb(151,48,142)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="578" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(203,145,81)" stroke="rgb(162,116,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DEP6
+predicted transcription factor</title>
+			<polygon class="DEP6
+predicted transcription factor" points="734,25 688,25 688,10 658,40 688,70 688,55 734,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fungal_trans (PF04082)
+"Fungal specific transcription factor domain"</title>
+				<rect class="PF04082" x="686" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(214,73,227)" stroke="rgb(171,58,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Zn_clus (PF00172)
+"Fungal Zn(2)-Cys(6) binuclear cluster domain"</title>
+				<rect class="PF00172" x="729" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(58,207,82)" stroke="rgb(46,165,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

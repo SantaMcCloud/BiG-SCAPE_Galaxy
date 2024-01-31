@@ -1,0 +1,26 @@
+#                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.26   462 BGC0001314.1_ORF1:gid:CYP716A1:pid:AED94045.1:loc:0:2237:strand:+ -            477   3.4e-55  187.9   0.0   1   1   2.1e-59   4.3e-55  187.5   0.0     1   436    35   449    35   465 0.85 Cytochrome P450
+YGGT                 PF02325.21    70 BGC0001314.1_ORF2:gid:CCB3:pid:AED94046.1:loc:3302:3827:strand:- -            174   1.6e-15   57.4   3.2   1   1   1.4e-19   2.8e-15   56.6   3.2     3    70    89   158    87   159 0.93 YGGT family
+p450                 PF00067.26   462 BGC0001314.1_ORF3:gid::pid:AED94047.1:loc:13916:14435:strand:- -            140   2.4e-31  109.2   0.3   1   1   1.3e-35   2.6e-31  109.1   0.3   321   436     1   112     1   130 0.92 Cytochrome P450
+p450                 PF00067.26   462 BGC0001314.1_ORF4:gid:CYP716A2:pid:AED94048.1:loc:16835:17883:strand:- -            318     5e-14   52.1   0.0   1   1   3.2e-18   6.7e-14   51.7   0.0     1   301    34   311    34   315 0.80 Cytochrome P450
+SQHop_cyclase_C      PF13243.10   319 BGC0001314.1_ORF5:gid:PEN3:pid:AED94049.1:loc:25360:30046:strand:- -            760     2e-51  175.2   0.1   1   1   6.5e-48   4.5e-44  151.0   0.0     2   318   416   753   415   754 0.82 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_N      PF13249.10   291 BGC0001314.1_ORF5:gid:PEN3:pid:AED94049.1:loc:25360:30046:strand:- -            760     7e-42  143.8   0.0   1   1   2.2e-42   1.5e-38  132.8   0.0     5   288   103   404    99   407 0.81 Squalene-hopene cyclase N-terminal domain
+Prenyltrans          PF00432.25    44 BGC0001314.1_ORF5:gid:PEN3:pid:AED94049.1:loc:25360:30046:strand:- -            760   1.8e-18   66.2   6.0   1   3   2.4e-09   1.6e-05   24.7   0.0     2    44   148   190   147   190 0.95 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.25    44 BGC0001314.1_ORF5:gid:PEN3:pid:AED94049.1:loc:25360:30046:strand:- -            760   1.8e-18   66.2   6.0   2   3   8.6e-10   5.9e-06   26.1   0.2     5    43   594   631   592   632 0.91 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.25    44 BGC0001314.1_ORF5:gid:PEN3:pid:AED94049.1:loc:25360:30046:strand:- -            760   1.8e-18   66.2   6.0   3   3   3.1e-06     0.021   14.8   0.0     4    28   642   666   639   667 0.88 Prenyltransferase and squalene oxidase repeat
+Aminotran_1_2        PF00155.25   361 BGC0001314.1_ORF6:gid::pid:AED94050.1:loc:37884:39753:strand:- -            420   1.5e-56  192.4   0.0   1   1     8e-61   1.7e-56  192.2   0.0     2   349    43   396    42   408 0.93 Aminotransferase class I and II
+PCRF                 PF03462.22   194 BGC0001314.1_ORF8:gid:HCF109:pid:AED94051.1:loc:40706:42598:strand:- -            456   6.9e-52  176.3   1.0   1   1   6.6e-56   6.9e-52  176.3   1.0     1   194   107   299   107   299 0.93 PCRF domain
+RF-1                 PF00472.24   116 BGC0001314.1_ORF8:gid:HCF109:pid:AED94051.1:loc:40706:42598:strand:- -            456   8.9e-36  122.6   2.3   1   1   1.3e-39   1.3e-35  122.0   0.1     3   116   310   418   307   418 0.91 RF-1 domain
+Peptidase_S10        PF00450.26   420 BGC0001314.1_ORF10:gid:scpl1:pid:AED94054.1:loc:43821:46486:strand:+ -            441  5.7e-139  464.3   0.9   1   1  3.2e-143  6.6e-139  464.1   0.9     1   420    37   438    37   438 0.98 Serine carboxypeptidase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001314.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001314.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001314.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:49:10 2024
+# [ok]

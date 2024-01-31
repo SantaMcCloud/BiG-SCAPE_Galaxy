@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+BGC0000085.1_ORF28:gid:lkmT:pid:BAC76509.1:loc:63976:65197:strand:-:3:101                   .r-RLFTSESVTEGHPDKIADQISDAILDALLREDPAARVAVETLITTGQVHVAGEVTTTAYADIPALVREKILEIGYDASQKGFDGASCGVSVSIGAQSP.
+#=GR BGC0000085.1_ORF28:gid:lkmT:pid:BAC76509.1:loc:63976:65197:strand:-:3:101           PP .6.69**********************************************************************************************97.
+GCA_000085225.1_ASM8522v1_genomic_ORF145:gid::pid::loc:172494:173688:strand:+:3:101         .r-HLFTSESVTEGHPDKICDQISDSILDALLEKDPQSRVACETTVTTGLVLVAGEISTSAYVDIPKLVRETVREIGYTRAKYGFDCDTCAVITSIDEQS-g
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF145:gid::pid::loc:172494:173688:strand:+:3:101 PP .6.79**********************************************************************************************9.7
+BGC0000238.1_ORF52:gid:lct52:pid:ABX71135.1:loc:53187:54405:strand:+:3:101                  .r-RLFTSESVTEGHPDKIADQISDTILDALLREDPASRVAVETLITTGQVHVAGEVTTTAYAPIAQLVRDKILAIGYDSSAKGFDGASCGVSVSIGAQSP.
+#=GR BGC0000238.1_ORF52:gid:lct52:pid:ABX71135.1:loc:53187:54405:strand:+:3:101          PP .6.69**********************************************************************************************97.
+BGC0001382.1_ORF22:gid::pid:ALV82467.1:loc:27561:28875:strand:+:28:126                      .r-RLFTSESVTEGHPDKIADQISDTILDALLRGDPTSRVAVETLITTGLVHVAGEVTTTAYAPIAQLVRDKVLEIGYDSSAKGFDGASCGIEVSIGAQSP.
+#=GR BGC0001382.1_ORF22:gid::pid:ALV82467.1:loc:27561:28875:strand:+:28:126              PP .6.69**********************************************************************************************97.
+BGC0000279.1_ORF5:gid:xanY5:pid:ADE22279.1:loc:6816:8037:strand:-:3:101                     lr--LFTSESVTEGHPDKIADQISDAILDALLTQDPKSRVAVETLITTGQVHVAGEVTTQGYAEIQSLVRETVLKIGYDSSAKGFDGASCGVSVSIGAQSP.
+#=GR BGC0000279.1_ORF5:gid:xanY5:pid:ADE22279.1:loc:6816:8037:strand:-:3:101             PP 95..8**********************************************************************************************97.
+BGC0000952.1_ORF1:gid:samS:pid:CBW45636.1:loc:6:1215:strand:-:3:101                         .r-RLFTSESVTEGHPDKIADQISDTVLDALLREDPASRVAVETLITTGQVHIAGEVTTKAYAPIAQLVRDTILAIGYDSSAKGFDGASCGVSVSIGAQSP.
+#=GR BGC0000952.1_ORF1:gid:samS:pid:CBW45636.1:loc:6:1215:strand:-:3:101                 PP .6.69**********************************************************************************************97.
+BGC0000247.1_ORF4:gid:mtmA:pid:CAK50772.1:loc:5257:6640:strand:+:3:101                      .g-HLFTSESVTEGHPDKIADRISGTIPDALLREDPRSRVAVETLITTGQVYVADKVTTGAYVPIAQLVRDAVLTIGYDSSAKGFDGACCGVSVSIGPQSP.
+#=GR BGC0000247.1_ORF4:gid:mtmA:pid:CAK50772.1:loc:5257:6640:strand:+:3:101              PP .8.69**********************************************************************************************97.
+BGC0000269.1_ORF18:gid:ssfQ:pid:ADE34497.1:loc:18405:19614:strand:-:3:101                   gr--LFTSESVTEGHPDKIADQISDTLLDALLREDPASRVAVETLITTGQVHIAGEVTTKAYAPMADLVRRKILEIGYDSSAKGFDGTSCGVSVSIDAQSP.
+#=GR BGC0000269.1_ORF18:gid:ssfQ:pid:ADE34497.1:loc:18405:19614:strand:-:3:101           PP 85..8**********************************************************************************************97.
+BGC0001409.1_ORF43:gid:dutX:pid:AKD43530.1:loc:52524:53688:strand:-:3:101                   .r-RLFTSESVTEGHPDKIADQISDTILDALLKEDPASRVAVETLITTGLVHVAGEVSTRAYAPIAQLVREKILDIGYDSSKKGFDGSSCGVSVSIGSQSP.
+#=GR BGC0001409.1_ORF43:gid:dutX:pid:AKD43530.1:loc:52524:53688:strand:-:3:101           PP .6.69**********************************************************************************************97.
+BGC0001302.1_ORF18:gid::pid:AKC91620.1:loc:19455:20649:strand:+:3:101                       .r-RLFTPESVTEGHPDKIADRISDTILDALLTEDSRSRVAVETLITTGQVHVAGEVATTAYADIPGLVRDAVLDIGYDASQKGFDGRSCGVSVSIGAQSP.
+#=GR BGC0001302.1_ORF18:gid::pid:AKC91620.1:loc:19455:20649:strand:+:3:101               PP .6.69**********************************************************************************************97.
+BGC0000203.1_ORF7:gid::pid:ADI71438.1:loc:6956:8159:strand:+:6:104                          .s-RLFTSESVTEGHPDKICDAISDSILDGLLSKDPRSRVAVETLITTGQVHVAGEVTTEAYADIPTIVRDVILKIGYDSSAKGFDGNSCGVNVAIGSQSP.
+#=GR BGC0000203.1_ORF7:gid::pid:ADI71438.1:loc:6956:8159:strand:+:6:104                  PP .7.69**********************************************************************************************97.
+BGC0000422.1_ORF38:gid:sfmS5:pid:ABI22144.1:loc:51463:52669:strand:-:2:100                  gr--LFTSESVTEGHPDKIADRISDTILDALLREDPSSRVAVETLITTGQVHVAGEVTTKAYAPIAQLVRDAILDIGYDSSAKGFDGASCGVSISIGAQSP.
+#=GR BGC0000422.1_ORF38:gid:sfmS5:pid:ABI22144.1:loc:51463:52669:strand:-:2:100          PP 85..8**********************************************************************************************97.
+#=GC PP_cons                                                                                ...69**********************************************************************************************97.
+#=GC RF                                                                                     ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

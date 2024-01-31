@@ -1,0 +1,24 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.20   347 BGC0000375.1_ORF1:gid::pid:AFV27433.1:loc:0:1266:strand:+ -            421   3.4e-23   82.3  50.5   1   1   5.1e-26   1.1e-21   77.4  42.7    11   313    43   345    33   356 0.82 Major Facilitator Superfamily
+AMP-binding          PF00501.32   382 BGC0000375.1_ORF2:gid:indC:pid:AFV27434.1:loc:1629:5763:strand:+ -           1377   1.1e-92  311.1   0.3   1   1   3.5e-96   1.8e-92  310.3   0.1     1   382    20   376    20   376 0.88 AMP-binding enzyme
+Thioesterase         PF00975.24   226 BGC0000375.1_ORF2:gid:indC:pid:AFV27434.1:loc:1629:5763:strand:+ -           1377     3e-24   86.6   0.2   1   1   1.2e-27   6.4e-24   85.6   0.2     2   108  1030  1135  1029  1273 0.88 Thioesterase domain
+PP-binding           PF00550.29    67 BGC0000375.1_ORF2:gid:indC:pid:AFV27434.1:loc:1629:5763:strand:+ -           1377   1.5e-17   63.8   0.1   1   1   6.9e-21   3.6e-17   62.6   0.1     1    67   944  1008   944  1008 0.96 Phosphopantetheine attachment site
+Indigoidine_A        PF04227.16   291 BGC0000375.1_ORF3:gid:indA:pid:AFV27435.1:loc:5797:6751:strand:+ -            317  7.1e-109  363.8   1.4   1   1  3.9e-113  8.1e-109  363.6   1.4     1   290    18   306    18   307 0.99 Indigoidine synthase A like protein
+Questin_oxidase      PF14027.10   340 BGC0000375.1_ORF4:gid:indB:pid:AFV27436.1:loc:6834:8679:strand:+ -            614   1.1e-40  140.5   0.1   1   1     1e-43   4.2e-40  138.6   0.0     2   340   245   578   244   578 0.81 Questin oxidase-like
+HAD_2                PF13419.10   178 BGC0000375.1_ORF4:gid:indB:pid:AFV27436.1:loc:6834:8679:strand:+ -            614   7.3e-35  120.9   0.0   1   1   2.4e-38     1e-34  120.4   0.0     2   178     1   182     1   182 0.97 Haloacid dehalogenase-like hydrolase
+Hydrolase            PF00702.30   191 BGC0000375.1_ORF4:gid:indB:pid:AFV27436.1:loc:6834:8679:strand:+ -            614   5.4e-28   98.9   0.1   1   1   2.6e-31   1.1e-27   97.9   0.1     6   191     2   176     1   176 0.89 haloacid dehalogenase-like hydrolase
+Hydrolase_like       PF13242.10    75 BGC0000375.1_ORF4:gid:indB:pid:AFV27436.1:loc:6834:8679:strand:+ -            614   1.5e-16   60.2   0.2   1   1   8.9e-20   3.7e-16   59.0   0.2     3    75   138   207   136   207 0.95 HAD-hyrolase-like
+HAD                  PF12710.11   189 BGC0000375.1_ORF4:gid:indB:pid:AFV27436.1:loc:6834:8679:strand:+ -            614   3.9e-10   40.7   0.3   1   1   3.4e-13   1.4e-09   38.8   0.3     3   188     2   172     1   173 0.64 haloacid dehalogenase-like hydrolase
+UPRTase              PF14681.10   206 BGC0000375.1_ORF5:gid::pid:AFV27437.1:loc:8740:9457:strand:+ -            238   2.3e-78  262.6   0.0   1   1   1.4e-82   2.9e-78  262.3   0.0     2   206    33   236    32   236 0.99 Uracil phosphoribosyltransferase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000375.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000375.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000375.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:29:43 2024
+# [ok]

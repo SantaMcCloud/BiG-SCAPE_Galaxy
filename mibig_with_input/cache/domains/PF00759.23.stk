@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+BGC0001011.1_ORF8:gid::pid:ABC87500.1:loc:9294:10935:strand:+:309:530         vit-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR BGC0001011.1_ORF8:gid::pid:ABC87500.1:loc:9294:10935:strand:+:309:530 PP 975.....................................................................................................................................................................................................
+BGC0001013.1_ORF10:gid::pid::loc:10336:10960:strand:+:1:191                   ..m-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR BGC0001013.1_ORF10:gid::pid::loc:10336:10960:strand:+:1:191           PP ..5.....................................................................................................................................................................................................
+#=GC PP_cons                                                                  ........................................................................................................................................................................................................
+#=GC RF                                                                       ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0001011.1_ORF8:gid::pid:ABC87500.1:loc:9294:10935:strand:+:309:530         --------------------------------TGDHGYAKAVLDSPLHRDVGA----LFPRGGgMSWAS-TAG-----LGALDL-AtVPNkltpkqraEVRAMVTKAADRYaaDSA--------------KSAYGVPYapkdgKYEWGSNSQVLNNMIVLATAHD-LTDKPRYLDAVLRGMDYLLGGNPLNQSYVTGHGE
+#=GR BGC0001011.1_ORF8:gid::pid:ABC87500.1:loc:9294:10935:strand:+:309:530 PP ................................556566666654332222222....22222347****.999.....555565.3344423333444555555555555532233..............44559999999999*********************.9*********************************
+BGC0001013.1_ORF10:gid::pid::loc:10336:10960:strand:+:1:191                   ---------------------------------------------------------------.-SWAS-TAG-----LGALDL-AtVPNkltpkqraEVRAMVTKAADRYaaDSA--------------KSAYGVPYapkdgKYEWGSNSQVLNNMIVLATAHD-LTDKPRYLDAVLRGMDYLLGGNPLNQSYVTGHGE
+#=GR BGC0001013.1_ORF10:gid::pid::loc:10336:10960:strand:+:1:191           PP .................................................................8999.888.....555555.2234423333444555555555555532233..............44559999999999*********************.9*********************************
+#=GC PP_cons                                                                  ................................556566666654332222222....222223.79999.999.....555555.3.344........5555555555555..233..............44559999.....9*********************.9*********************************
+#=GC RF                                                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx.xxx........xxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0001011.1_ORF8:gid::pid:ABC87500.1:loc:9294:10935:strand:+:309:530         RDSHNQHHRFWAHQ----RDHRLPHPAPGSLAGGPNsglqdpvakkklkgcaPAMCYTDSLMAFSTNEITINWNAPLAWI-a
+#=GR BGC0001011.1_ORF8:gid::pid:ABC87500.1:loc:9294:10935:strand:+:309:530 PP *************9....6679**************99999999998888877*************************97.6
+BGC0001013.1_ORF10:gid::pid::loc:10336:10960:strand:+:1:191                   RDSHNQHHRFWAHQ----RDHRLPHPAPGSLAGGPNsglqdpvakkklkgcaPAMCYTDSLMAFSTNEITINWNAPLAWI-a
+#=GR BGC0001013.1_ORF10:gid::pid::loc:10336:10960:strand:+:1:191           PP *************9....6679**************99999999998888877*************************97.6
+#=GC PP_cons                                                                  *************9....6679**************................7*************************97..
+#=GC RF                                                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx................xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_008000775.1_ORF280:gid::pid:WP_147661423.1:loc:305176:305872:strand:-:4:230         f-KKHNKFDGIFLSGY-KETQKIYTVNLDFNKSVYGEKLLLDGDLQYREWNPFRSKLCAAIKCNARKIFINPSSKVLYLGASSGTTVSHVSDIVT-KGIIYAIEFSSRSLRELVQNSVDRQNVIPILGDANQPHEYLKFITgAIDIIYMDVAQPNQSEILIKNAKMYLKPGvGKFIYTVKSRSIDSIASPKEIFAKEIKT
+#=GR GCF_008000775.1_ORF280:gid::pid:WP_147661423.1:loc:305176:305872:strand:-:4:230 PP 6.79*********995.56666************************************************************************9.9***************************************9998779***************************97899999**********************
+GCF_000011105.1_ORF48:gid::pid:WP_010884167.1:loc:45575:46259:strand:-:4:227            v-KKH-KFPGVYTVIDDDGSERIATKNLVPGQRVYGERVIKWEGEEYRIWNPNRSKLGAAIMNGLKNFPIKPGKSVLYLGIASGTTASHVSDIVGWEGKIFGIEFSPRVLRELVPIVEERRNIVPILGDATKPEEYRALVP.KVDVIFEDVAQPTQAKILIDNAEVYLKRG.GYGMIAVKSRSIDVTKEPEQVFREVERE
+#=GR GCF_000011105.1_ORF48:gid::pid:WP_010884167.1:loc:45575:46259:strand:-:4:227    PP 5.566.9**************************************************************************************************************************************.*****************************.****************************
+#=GC PP_cons                                                                            ..678*********97*78888*******************************************************************************************************************9999.****************************9.999*************************
+#=GC RF                                                                                 .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_008000775.1_ORF280:gid::pid:WP_147661423.1:loc:305176:305872:strand:-:4:230         LEENGLMVTDNVNITSFQTDHVVLFGRYQ-g.
+#=GR GCF_008000775.1_ORF280:gid::pid:WP_147661423.1:loc:305176:305872:strand:-:4:230 PP **************************996.7.
+GCF_000011105.1_ORF48:gid::pid:WP_010884167.1:loc:45575:46259:strand:-:4:227            LSEY-FEVIERLNLEPYEKDHALFVVR---kt
+#=GR GCF_000011105.1_ORF48:gid::pid:WP_010884167.1:loc:45575:46259:strand:-:4:227    PP *876.******************9986...58
+#=GC PP_cons                                                                            *998********************99896...
+#=GC RF                                                                                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

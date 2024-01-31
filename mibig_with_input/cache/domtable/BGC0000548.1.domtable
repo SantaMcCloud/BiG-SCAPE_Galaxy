@@ -1,0 +1,24 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+L_biotic_typeA       PF04604.17    50 BGC0000548.1_ORF1:gid:salA:pid:AAA02867.2:loc:588:735:strand:+ -             48     5e-18   64.9   0.4   1   1   2.7e-22   5.6e-18   64.7   0.4     1    50     1    48     1    48 0.99 Type-A lantibiotic
+DUF4135              PF13575.10   378 BGC0000548.1_ORF2:gid:salB:pid:AAG32536.1:loc:819:2466:strand:+ -            548   3.9e-79  266.8   0.0   1   1   2.3e-83   4.7e-79  266.5   0.0     1   377   106   468   106   469 0.95 Domain of unknown function (DUF4135)
+LANC_like            PF05147.17   350 BGC0000548.1_ORF3:gid:salC:pid:AAG32537.1:loc:2721:3657:strand:+ -            311   4.3e-69  232.9   5.3   1   1   2.4e-73   4.9e-69  232.7   5.3    54   350     2   295     1   295 0.96 Lanthionine synthetase C-like protein
+ABC_tran             PF00005.31   137 BGC0000548.1_ORF4:gid:salT:pid:AAG32538.1:loc:3610:5779:strand:+ -            722   1.9e-28  100.0   0.0   1   1   4.7e-32   3.3e-28   99.3   0.0     1   137   495   644   495   644 0.84 ABC transporter
+Peptidase_C39        PF03412.19   133 BGC0000548.1_ORF4:gid:salT:pid:AAG32538.1:loc:3610:5779:strand:+ -            722   1.4e-21   76.9   0.0   1   1   6.2e-25   4.3e-21   75.3   0.0     4   119    14   124    11   127 0.94 Peptidase C39 family
+ABC_membrane         PF00664.27   274 BGC0000548.1_ORF4:gid:salT:pid:AAG32538.1:loc:3610:5779:strand:+ -            722     6e-10   39.5  19.8   1   1   1.3e-13   9.2e-10   38.8  19.8     2   259   167   419   166   434 0.87 ABC transporter transmembrane region
+ABC_tran             PF00005.31   137 BGC0000548.1_ORF5:gid:salX:pid:AAG32539.1:loc:5775:6513:strand:+ -            245   1.4e-31  110.2   0.0   1   1   9.4e-36     2e-31  109.7   0.0     1   136    21   169    21   170 0.91 ABC transporter
+FtsX                 PF02687.25   120 BGC0000548.1_ORF6:gid:salY:pid:AAG32540.1:loc:6514:8422:strand:+ -            635   1.1e-14   54.6  42.9   1   2   3.9e-13   8.1e-09   35.7  15.6     4   118    61   178    58   180 0.84 FtsX-like permease family
+FtsX                 PF02687.25   120 BGC0000548.1_ORF6:gid:salY:pid:AAG32540.1:loc:6514:8422:strand:+ -            635   1.1e-14   54.6  42.9   2   2   2.1e-12   4.4e-08   33.3  19.3     2   105   518   618   517   633 0.73 FtsX-like permease family
+Response_reg         PF00072.28   111 BGC0000548.1_ORF8:gid:salR:pid:AAG32542.1:loc:10004:10610:strand:+ -            201   1.8e-17   63.7   1.8   1   1   2.3e-21   2.4e-17   63.3   1.0     1   110     3   116     3   117 0.89 Response regulator receiver domain
+GerE                 PF00196.23    57 BGC0000548.1_ORF8:gid:salR:pid:AAG32542.1:loc:10004:10610:strand:+ -            201     4e-13   48.9   0.4   1   1   7.6e-17   7.9e-13   48.0   0.4     2    55   137   190   136   192 0.96 Bacterial regulatory proteins, luxR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000548.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000548.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000548.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:47:01 2024
+# [ok]

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1487:gid::pid::loc:1688013:1690431:strand:+:478:697         .....................LNSLKWDGIKRVDTLLIDYLGAEDNHYTRTIIRKVLVAAVAR.VFNPGIKFDNMMVLSGPQGMGKSTFIKKLGG-....DWYSDSLTTVQGKEAYEQLQGVWLLEMGEMMATKKADIEAVKHFLSKSEDIYRVAYGKRTSRFLRQCVVIGTTND..KEFLRDKTGNRRFWPIDTgvkkV
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1487:gid::pid::loc:1688013:1690431:strand:+:478:697 PP .....................899***************************************.*******************************.....***************************************************************************..******************77665
+BGC0001053.1_ORF10:gid::pid:CAF05638.1:loc:18808:21154:strand:-:474:678                          rgdaeefirattgrldpvdlv-------------------------------VVLHFIWQVKRkLFGKPVKDHLMPIFVGKQRGGKTTAIKSLLQPlgdlVGFPADLQFLTDERQQFRLTRCYGMFFDEMAKAERVASDVLKNRITAERIEYRVLGVQKLQTGTNNATFIGASNKqvKEIVVDPTGMRRFYQLDC....-
+#=GR BGC0001053.1_ORF10:gid::pid:CAF05638.1:loc:18808:21154:strand:-:474:678                  PP **9998888888887776654...............................4556666666614566799**********************9866523235557999*****************************************************************83459****************.....
+#=GC PP_cons                                                                                     .....................899****************************77888888888.78888************************996....667779********************************************************************9..89****************....5
+#=GC RF                                                                                          .....................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxx....x
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1487:gid::pid::loc:1688013:1690431:strand:+:478:697         NKSIFNGQLDNERNQIWAEAVELCKANEQLYLSDEEKKEAERQQRTHS-e.................................
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1487:gid::pid::loc:1688013:1690431:strand:+:478:697 PP 6666699**********************88*************9886.6.................................
+BGC0001053.1_ORF10:gid::pid:CAF05638.1:loc:18808:21154:strand:-:474:678                          LPQMNWT------------------------------------------aleqidflamwtsvdekaespllgqlaqvqarqd
+#=GR BGC0001053.1_ORF10:gid::pid:CAF05638.1:loc:18808:21154:strand:-:474:678                  PP 3344422..........................................23334455566677889999999***********
+#=GC PP_cons                                                                                     5555566**********************88*************9886...................................
+#=GC RF                                                                                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..................................
+//

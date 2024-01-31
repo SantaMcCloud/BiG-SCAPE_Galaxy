@@ -1,0 +1,39 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acetyltransf_18      PF18014.5    124 BGC0000373.1_ORF2:gid::pid:EFG10340.1:loc:838:1693:strand:- -            284   1.1e-24   86.8   0.0   1   1   1.6e-28   1.7e-24   86.2   0.0     3   124   156   277   154   277 0.96 Acetyltransferase (GNAT) domain
+Acetyltransf_1       PF00583.29   116 BGC0000373.1_ORF2:gid::pid:EFG10340.1:loc:838:1693:strand:- -            284   3.8e-08   33.8   0.4   1   1   6.2e-11   6.4e-07   29.8   0.2     3    98    16   105    14   120 0.76 Acetyltransferase (GNAT) family
+Acyl-CoA_dh_1        PF00441.28   150 BGC0000373.1_ORF3:gid::pid:EFG10341.1:loc:1775:2915:strand:- -            379   7.1e-41  140.1   3.9   1   1   2.2e-44   1.1e-40  139.4   3.9     2   149   230   377   229   378 0.99 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_N        PF02771.20   113 BGC0000373.1_ORF3:gid::pid:EFG10341.1:loc:1775:2915:strand:- -            379   4.3e-30  104.6   0.0   1   1     2e-33     1e-29  103.4   0.0     3   113     8   118     6   118 0.96 Acyl-CoA dehydrogenase, N-terminal domain
+Acyl-CoA_dh_M        PF02770.23    97 BGC0000373.1_ORF3:gid::pid:EFG10341.1:loc:1775:2915:strand:- -            379   1.3e-25   89.6   0.0   1   1   5.3e-29   2.7e-25   88.5   0.0     1    97   122   217   122   217 0.92 Acyl-CoA dehydrogenase, middle domain
+Acyl-CoA_dh_2        PF08028.15   134 BGC0000373.1_ORF3:gid::pid:EFG10341.1:loc:1775:2915:strand:- -            379   1.8e-12   47.8   2.8   1   1   5.4e-16   2.8e-12   47.2   2.8     1   131   244   364   244   367 0.94 Acyl-CoA dehydrogenase, C-terminal domain
+Thioesterase         PF00975.24   226 BGC0000373.1_ORF4:gid::pid:EFG10342.1:loc:2911:3715:strand:- -            267   3.8e-23   83.0   0.6   1   1   2.3e-27   4.8e-23   82.7   0.6     2   211    12   231    11   241 0.86 Thioesterase domain
+GMC_oxred_N          PF00732.23   218 BGC0000373.1_ORF5:gid::pid:EFG10343.1:loc:3711:5385:strand:- -            557   6.7e-41  140.7   0.0   1   1   2.9e-44   1.2e-40  139.8   0.0     2   217    18   333    17   334 0.88 GMC oxidoreductase
+GMC_oxred_C          PF05199.17   142 BGC0000373.1_ORF5:gid::pid:EFG10343.1:loc:3711:5385:strand:- -            557   2.4e-35  122.3   0.0   1   1   9.8e-39   4.1e-35  121.6   0.0     1   142   404   543   404   543 0.88 GMC oxidoreductase
+NAD_binding_8        PF13450.10    68 BGC0000373.1_ORF5:gid::pid:EFG10343.1:loc:3711:5385:strand:- -            557   4.9e-05   23.7   0.2   1   1     4e-08   0.00017   22.0   0.2     1    28    21    48    21    80 0.88 NAD(P)-binding Rossmann-like domain
+AMP-binding          PF00501.32   382 BGC0000373.1_ORF6:gid::pid:EFG10344.1:loc:5381:8672:strand:- -           1096   4.5e-80  269.5   0.1   1   1   1.2e-83   6.3e-80  269.0   0.1     2   382   503   859   502   859 0.87 AMP-binding enzyme
+Condensation         PF00668.24   456 BGC0000373.1_ORF6:gid::pid:EFG10344.1:loc:5381:8672:strand:- -           1096     3e-28   98.9   0.0   1   1     1e-31   5.2e-28   98.1   0.0     4   436    37   462    34   468 0.84 Condensation domain
+PP-binding           PF00550.29    67 BGC0000373.1_ORF6:gid::pid:EFG10344.1:loc:5381:8672:strand:- -           1096   2.2e-09   37.6   0.2   1   1   9.6e-13     5e-09   36.5   0.2     2    52  1020  1068  1019  1088 0.82 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.10    76 BGC0000373.1_ORF6:gid::pid:EFG10344.1:loc:5381:8672:strand:- -           1096   1.4e-07   32.5   0.0   1   1   8.3e-11   4.3e-07   31.0   0.0     1    76   915   991   915   991 0.89 AMP-binding enzyme C-terminal domain
+Flavoprotein         PF02441.23   162 BGC0000373.1_ORF7:gid::pid:EFG10345.1:loc:8835:9441:strand:+ -            201     7e-19   68.2   0.0   1   1   5.4e-23   1.1e-18   67.5   0.0     1   158    12   185    12   189 0.77 Flavoprotein
+Bac_globin           PF01152.25   121 BGC0000373.1_ORF8:gid::pid:EFG10346.1:loc:9440:9905:strand:+ -            154   4.1e-17   62.7   0.0   1   1   2.4e-21   5.1e-17   62.4   0.0     1   103     7   107     7   120 0.88 Bacterial-like globin
+MFS_1                PF07690.20   347 BGC0000373.1_ORF9:gid::pid:EFG10347.1:loc:9974:11447:strand:- -            490   8.5e-52  176.4 115.7   1   2   9.9e-48     1e-43  149.8  70.1     3   346    50   446    48   447 0.85 Major Facilitator Superfamily
+MFS_1                PF07690.20   347 BGC0000373.1_ORF9:gid::pid:EFG10347.1:loc:9974:11447:strand:- -            490   8.5e-52  176.4 115.7   2   2   1.5e-14   1.6e-10   40.7  37.7     3   175   308   489   306   490 0.91 Major Facilitator Superfamily
+TRI12                PF06609.17   599 BGC0000373.1_ORF9:gid::pid:EFG10347.1:loc:9974:11447:strand:- -            490   1.3e-08   33.9  10.3   1   1   1.3e-12   1.3e-08   33.9  10.3    50   335    49   330    28   334 0.78 Fungal trichothecene efflux pump (TRI12)
+Pyr_redox_2          PF07992.18   291 BGC0000373.1_ORF10:gid::pid:EFG10348.1:loc:11512:12577:strand:- -            354   4.7e-25   88.8   0.1   1   1   1.2e-28   6.4e-25   88.3   0.1     2   280    46   316    45   331 0.82 Pyridine nucleotide-disulphide oxidoreductase
+FAD_binding_2        PF00890.28   414 BGC0000373.1_ORF10:gid::pid:EFG10348.1:loc:11512:12577:strand:- -            354   1.6e-08   34.4   5.0   1   1   7.3e-11   3.8e-07   29.8   0.7     1    43    46    88    46   104 0.90 FAD binding domain
+Thioesterase         PF00975.24   226 BGC0000373.1_ORF11:gid::pid:EFG10349.1:loc:13141:13912:strand:- -            256   1.4e-38  133.5   0.3   1   1   8.8e-43   1.8e-38  133.1   0.3     2   222     7   228     6   232 0.92 Thioesterase domain
+Condensation         PF00668.24   456 BGC0000373.1_ORF12:gid::pid:EFG10350.1:loc:13911:15378:strand:- -            488   4.3e-10   39.1   0.0   1   1   1.7e-12   3.6e-08   32.7   0.0     6   175    63   230    59   233 0.85 Condensation domain
+GerE                 PF00196.23    57 BGC0000373.1_ORF13:gid::pid:EFG10351.1:loc:15522:18318:strand:+ -            931     1e-11   44.5   0.0   1   1   2.8e-15   1.9e-11   43.5   0.0     2    55   849   902   848   904 0.95 Bacterial regulatory proteins, luxR family
+AAA_16               PF13191.10   167 BGC0000373.1_ORF13:gid::pid:EFG10351.1:loc:15522:18318:strand:+ -            931     2e-08   35.1   0.0   1   1   2.8e-12     2e-08   35.1   0.0     1   163     4   154     4   158 0.74 AAA ATPase domain
+BrxC_BrxD            PF10923.12   414 BGC0000373.1_ORF13:gid::pid:EFG10351.1:loc:15522:18318:strand:+ -            931   3.8e-06   26.2   0.0   1   1   8.8e-10   6.1e-06   25.5   0.0    29    95     7    72     4    94 0.91 BREX system ATP-binding protein BrxC/D
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000373.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000373.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000373.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:27:02 2024
+# [ok]

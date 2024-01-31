@@ -1,0 +1,26 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tRNA-synt_1b         PF00579.29   292 BGC0001206.1_ORF1:gid:ind0:pid:AJT38681.1:loc:861:1827:strand:- -            321   2.7e-50  171.6   0.0   1   1   1.6e-54   3.3e-50  171.3   0.0     9   289     4   273     1   279 0.89 tRNA synthetases class I (W and Y)
+Methyltransf_25      PF13649.10    97 BGC0001206.1_ORF2:gid:ind1:pid:AJT38682.1:loc:2493:3483:strand:+ -            329   1.3e-13   51.6   0.1   1   1   1.4e-16   4.1e-13   50.0   0.1     1    87   153   241   153   247 0.85 Methyltransferase domain
+Methyltransf_23      PF13489.10   163 BGC0001206.1_ORF2:gid:ind1:pid:AJT38682.1:loc:2493:3483:strand:+ -            329   1.8e-10   41.0   0.0   1   1   9.5e-14   2.8e-10   40.3   0.0     7   158   134   301   130   306 0.69 Methyltransferase domain
+Methyltransf_31      PF13847.10   150 BGC0001206.1_ORF2:gid:ind1:pid:AJT38682.1:loc:2493:3483:strand:+ -            329   1.6e-09   37.9   0.0   1   1   6.8e-13     2e-09   37.6   0.0     4    89   150   232   147   300 0.80 Methyltransferase domain
+Methyltransf_11      PF08241.16    95 BGC0001206.1_ORF2:gid:ind1:pid:AJT38682.1:loc:2493:3483:strand:+ -            329   2.9e-09   37.7   0.1   1   1   1.8e-12   5.4e-09   36.8   0.1     2    85   155   242   154   247 0.88 Methyltransferase domain
+Methyltransf_12      PF08242.16    98 BGC0001206.1_ORF2:gid:ind1:pid:AJT38682.1:loc:2493:3483:strand:+ -            329   1.2e-08   35.8   0.2   1   1     1e-10     3e-07   31.3   0.1     2    89   155   245   154   248 0.85 Methyltransferase domain
+Methyltransf_2       PF00891.22   210 BGC0001206.1_ORF2:gid:ind1:pid:AJT38682.1:loc:2493:3483:strand:+ -            329   4.8e-05   23.0   0.0   1   1   2.2e-08   6.4e-05   22.6   0.0    56   209   142   301   128   302 0.77 O-methyltransferase domain
+Aminotran_1_2        PF00155.25   361 BGC0001206.1_ORF5:gid:ind4:pid:AJT38685.1:loc:6603:7755:strand:+ -            383     3e-15   56.5   0.0   1   1   1.7e-19   3.6e-15   56.2   0.0     4   346    19   353    16   366 0.85 Aminotransferase class I and II
+2-Hacid_dh_C         PF02826.23   178 BGC0001206.1_ORF6:gid:ind5:pid:AJT38686.1:loc:7751:8711:strand:+ -            319   8.6e-32  110.1   0.0   1   1   1.9e-35   1.3e-31  109.5   0.0     6   177   124   287   119   288 0.94 D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+2-Hacid_dh           PF00389.34   134 BGC0001206.1_ORF6:gid:ind5:pid:AJT38686.1:loc:7751:8711:strand:+ -            319   1.8e-15   57.0   0.0   1   1   3.4e-19   2.4e-15   56.6   0.0    22   131    32   316    19   319 0.95 D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain
+Methyltransf_25      PF13649.10    97 BGC0001206.1_ORF8:gid:ind7:pid:AJT38688.1:loc:9352:10066:strand:+ -            237   4.1e-13   50.0   0.0   1   1   6.7e-17     7e-13   49.3   0.0     1    96    48   142    48   142 0.94 Methyltransferase domain
+Methyltransf_11      PF08241.16    95 BGC0001206.1_ORF8:gid:ind7:pid:AJT38688.1:loc:9352:10066:strand:+ -            237   1.8e-11   44.7   0.0   1   1   2.8e-15   2.9e-11   44.1   0.0     1    94    49   146    49   147 0.92 Methyltransferase domain
+Aminotran_1_2        PF00155.25   361 BGC0001206.1_ORF9:gid:ind8:pid:AJT38689.1:loc:10121:11207:strand:+ -            361   2.6e-45  155.4   0.0   1   1   1.5e-49   3.2e-45  155.1   0.0     5   359    37   353    34   355 0.92 Aminotransferase class I and II
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001206.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001206.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001206.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:44:02 2024
+# [ok]

@@ -1,0 +1,129 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="373.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="363.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>exoB
+UDP-glucose 4-epimerase</title>
+			<polygon class="exoB
+UDP-glucose 4-epimerase" points="10,40 14,10 14,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="13,40 13,40 13,40" stroke-linejoin="round" width="3" height="24" fill="rgb(215,89,157)" stroke="rgb(172,71,125)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>exsA
+ExsA protein</title>
+			<polygon class="exsA
+ExsA protein" points="32,25 62,25 62,10 92,40 62,70 62,55 32,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="35" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(62,71,183)" stroke="rgb(49,56,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="69,28 76,28 83,35 83,45 76,52 69,52" stroke-linejoin="round" width="14" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>exsB
+ExsB protein</title>
+			<polygon class="exsB
+ExsB protein" points="97,10 120,40 97,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>QueC (PF06508)
+"Queuosine biosynthesis protein QueC"</title>
+				<polygon class="PF06508" points="97,28 107,28 116,40 116,40 107,52 97,52" stroke-linejoin="round" width="19" height="24" fill="rgb(186,127,52)" stroke="rgb(148,101,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>exsC
+ExsC protein</title>
+			<polygon class="exsC
+ExsC protein" points="120,10 132,40 120,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTPS (PF01242)
+"6-pyruvoyl tetrahydropterin synthase"</title>
+				<polygon class="PF01242" points="120,28 123,28 128,40 123,52 120,52" stroke-linejoin="round" width="11" height="24" fill="rgb(60,110,179)" stroke="rgb(47,88,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>exsD
+ExsD protein</title>
+			<polygon class="exsD
+ExsD protein" points="132,10 156,40 132,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="135,28 143,28 144,30 144,50 143,52 135,52" stroke-linejoin="round" width="9" height="24" fill="rgb(223,193,78)" stroke="rgb(178,154,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>exsE
+ExsE protein</title>
+			<polygon class="exsE
+ExsE protein" points="218,25 188,25 188,10 158,40 188,70 188,55 218,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="165,37 174,28 178,28 178,52 174,52 165,43" stroke-linejoin="round" width="13" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane_2 (PF06472)
+"ABC transporter transmembrane region 2"</title>
+				<rect class="PF06472" x="187" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(89,181,116)" stroke="rgb(71,144,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>exsI
+ExsI protein</title>
+			<polygon class="exsI
+ExsI protein" points="247,10 255,40 247,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>exsF
+ExsF protein</title>
+			<polygon class="exsF
+ExsF protein" points="254,40 271,10 271,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>exsG
+ExsG protein</title>
+			<polygon class="exsG
+ExsG protein" points="361,25 301,25 301,10 271,40 301,70 301,55 361,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HWE_HK (PF07536)
+"HWE histidine kinase"</title>
+				<polygon class="PF07536" points="281,34 287,28 289,28 289,52 287,52 281,46" stroke-linejoin="round" width="8" height="24" fill="rgb(201,99,82)" stroke="rgb(160,79,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PAS_3 (PF08447)
+"PAS fold"</title>
+				<rect class="PF08447" x="292" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(84,184,80)" stroke="rgb(67,147,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PAS_4 (PF08448)
+"PAS fold"</title>
+				<rect class="PF08448" x="303" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(133,67,228)" stroke="rgb(106,53,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GAF_2 (PF13185)
+"GAF domain"</title>
+				<rect class="PF13185" x="319" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(180,56,162)" stroke="rgb(144,44,129)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PAS (PF00989)
+"PAS fold"</title>
+				<rect class="PF00989" x="335" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(188,139,74)" stroke="rgb(150,111,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PAS_9 (PF13426)
+"PAS domain"</title>
+				<rect class="PF13426" x="347" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(60,119,201)" stroke="rgb(48,95,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

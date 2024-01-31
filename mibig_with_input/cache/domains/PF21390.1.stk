@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+BGC0000324.1_ORF5:gid:SCO7685:pid:CAC17502.1:loc:15181:17215:strand:+:146:250         .QRPLFVDAATPVHLMHPLVDILGRAMGTLRPwrF.....ADPAPLp.adIGPQPVRSLHGILAGVPLTLRVHHQLDPSDRDNHALHWHRISIGTEGGVLTLADTHGPVLWS
+#=GR BGC0000324.1_ORF5:gid:SCO7685:pid:CAC17502.1:loc:15181:17215:strand:+:146:250 PP .7999***********************8432112.....3333331.1146677********************************************************7
+BGC0001055.1_ORF26:gid::pid:CAJ87592.1:loc:39965:41066:strand:+:151:250               .KTPQVVHATTSRQLLYSTLDLLLLALGVDAA..A.....VECDVV....GSFSDFHCLRLFWPEGEACLLLQRYLDPDDPDMHSLIMHRLLLGWPEGHLSLEASYGPVIWS
+#=GR BGC0001055.1_ORF26:gid::pid:CAJ87592.1:loc:39965:41066:strand:+:151:250       PP .5799***************************..*.....******....*************************************************************7
+BGC0001014.1_ORF2:gid::pid:CAD15507.1:loc:2495:3659:strand:-:161:269                  n-RPAFVEITTSLQLLYSSLDMVCRALGGEGT..FacagpLPLDTLpgrpDAPWPFRAIQGVICGVPFSLNLQTYLDPADPDHHSLVMHRIAIGGPEGHVLLVGSYGPVIWS
+#=GR BGC0001014.1_ORF2:gid::pid:CAD15507.1:loc:2495:3659:strand:-:161:269          PP 5.89************************9976..422222456665443356677********************************************************7
+BGC0000467.1_ORF2:gid:irp3:pid:CAA73128.1:loc:10097:11195:strand:+:150:249            k-TPPVVHATTSRQLLYSTLDLLLLALGVDTA..A.....VECDVV....GSFSDFHCLRLFWPEGEACLLLQRYLDPDDPDMHSLIMHRLLLGWPEGHLSLEASYGPVIWS
+#=GR BGC0000467.1_ORF2:gid:irp3:pid:CAA73128.1:loc:10097:11195:strand:+:150:249    PP 5.7899**************************..*.....******....*************************************************************7
+#=GC PP_cons                                                                          .6899***********************9887..7.....777777....78889********************************************************7
+#=GC RF                                                                               .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..x.....xxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

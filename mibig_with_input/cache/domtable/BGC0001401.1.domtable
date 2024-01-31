@@ -1,0 +1,35 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Trp_halogenase       PF04820.18   458 BGC0001401.1_ORF1:gid:armH1:pid:AEM76785.1:loc:0:2053:strand:+ -            522   1.8e-26   93.2   0.0   1   2   9.6e-15     4e-11   42.6   0.0     1    77    10    80    10   102 0.90 Tryptophan halogenase
+Trp_halogenase       PF04820.18   458 BGC0001401.1_ORF1:gid:armH1:pid:AEM76785.1:loc:0:2053:strand:+ -            522   1.8e-26   93.2   0.0   2   2   1.7e-16   7.1e-13   48.4   0.0   157   396   108   390    97   418 0.76 Tryptophan halogenase
+FAD_binding_3        PF01494.23   349 BGC0001401.1_ORF1:gid:armH1:pid:AEM76785.1:loc:0:2053:strand:+ -            522   9.5e-14   51.6   0.0   1   1   2.3e-16   9.4e-13   48.3   0.0     3   327    10   353     8   357 0.69 FAD binding domain
+NAD_binding_8        PF13450.10    68 BGC0001401.1_ORF1:gid:armH1:pid:AEM76785.1:loc:0:2053:strand:+ -            522   6.1e-06   26.6   0.0   1   1   5.6e-09   2.3e-05   24.8   0.0     1    28    13    40    13    45 0.96 NAD(P)-binding Rossmann-like domain
+Trp_halogenase       PF04820.18   458 BGC0001401.1_ORF2:gid:armH2:pid:AEM76786.1:loc:2167:4211:strand:+ -            516     8e-27   94.4   0.0   1   2   2.1e-13   7.3e-10   38.5   0.0     1    75    10    78    10    96 0.88 Tryptophan halogenase
+Trp_halogenase       PF04820.18   458 BGC0001401.1_ORF2:gid:armH2:pid:AEM76786.1:loc:2167:4211:strand:+ -            516     8e-27   94.4   0.0   2   2   6.6e-18   2.3e-14   53.3   0.1   150   352   101   346    87   389 0.73 Tryptophan halogenase
+FAD_binding_3        PF01494.23   349 BGC0001401.1_ORF2:gid:armH2:pid:AEM76786.1:loc:2167:4211:strand:+ -            516   9.6e-12   45.0   0.0   1   1   1.2e-14   4.2e-11   42.9   0.0     2   325     9   351     8   368 0.62 FAD binding domain
+NAD_binding_8        PF13450.10    68 BGC0001401.1_ORF2:gid:armH2:pid:AEM76786.1:loc:2167:4211:strand:+ -            516   7.4e-05   23.1   1.4   1   1   3.3e-08   0.00012   22.5   0.1     1    28    13    40    13    43 0.97 NAD(P)-binding Rossmann-like domain
+Trp_halogenase       PF04820.18   458 BGC0001401.1_ORF3:gid:armH3:pid:ALT31850.1:loc:6464:7979:strand:+ -            504   2.4e-28   99.4   0.0   1   2   1.4e-14   3.7e-11   42.8   0.0     1    79    10    82    10   101 0.85 Tryptophan halogenase
+Trp_halogenase       PF04820.18   458 BGC0001401.1_ORF3:gid:armH3:pid:ALT31850.1:loc:6464:7979:strand:+ -            504   2.4e-28   99.4   0.0   2   2   5.5e-18   1.4e-14   54.0   0.2   150   398   101   393    95   426 0.79 Tryptophan halogenase
+FAD_binding_3        PF01494.23   349 BGC0001401.1_ORF3:gid:armH3:pid:ALT31850.1:loc:6464:7979:strand:+ -            504   6.3e-13   48.9   0.0   1   1   2.9e-15   7.5e-12   45.3   0.0     2   325     9   352     8   369 0.60 FAD binding domain
+NAD_binding_8        PF13450.10    68 BGC0001401.1_ORF3:gid:armH3:pid:ALT31850.1:loc:6464:7979:strand:+ -            504   8.6e-07   29.3   0.1   1   1   1.5e-09   3.9e-06   27.2   0.1     1    28    13    40    13    45 0.96 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.28   414 BGC0001401.1_ORF3:gid:armH3:pid:ALT31850.1:loc:6464:7979:strand:+ -            504   1.8e-05   24.3   0.1   1   1   1.2e-08     3e-05   23.6   0.1     1    31    10    40    10    48 0.93 FAD binding domain
+GIDA                 PF01134.26   391 BGC0001401.1_ORF3:gid:armH3:pid:ALT31850.1:loc:6464:7979:strand:+ -            504   2.7e-05   23.6   0.0   1   1   1.6e-08   4.2e-05   23.0   0.0     1    29    10    41    10    62 0.80 Glucose inhibited division protein A
+Trp_halogenase       PF04820.18   458 BGC0001401.1_ORF4:gid:armH4:pid:ALT31851.1:loc:14543:16145:strand:+ -            533   7.7e-27   94.4   0.0   1   2   3.9e-13   1.6e-09   37.3   0.0     1    94    10    96    10   102 0.86 Tryptophan halogenase
+Trp_halogenase       PF04820.18   458 BGC0001401.1_ORF4:gid:armH4:pid:ALT31851.1:loc:14543:16145:strand:+ -            533   7.7e-27   94.4   0.0   2   2   1.7e-18   7.2e-15   55.0   0.0   150   393   106   396    95   431 0.77 Tryptophan halogenase
+FAD_binding_3        PF01494.23   349 BGC0001401.1_ORF4:gid:armH4:pid:ALT31851.1:loc:14543:16145:strand:+ -            533     4e-13   49.5   0.0   1   1   1.7e-14   7.1e-11   42.1   0.0     2   163     9   182     8   203 0.75 FAD binding domain
+NAD_binding_8        PF13450.10    68 BGC0001401.1_ORF4:gid:armH4:pid:ALT31851.1:loc:14543:16145:strand:+ -            533     8e-07   29.5   0.1   1   1   8.1e-10   3.4e-06   27.4   0.1     1    28    13    40    13    49 0.94 NAD(P)-binding Rossmann-like domain
+Trp_halogenase       PF04820.18   458 BGC0001401.1_ORF5:gid:armH5:pid:ALT31852.1:loc:30788:32360:strand:+ -            523   4.4e-23   82.1   0.0   1   2   1.9e-13     1e-09   38.0   0.0     2    92    12    95    11   107 0.86 Tryptophan halogenase
+Trp_halogenase       PF04820.18   458 BGC0001401.1_ORF5:gid:armH5:pid:ALT31852.1:loc:30788:32360:strand:+ -            523   4.4e-23   82.1   0.0   2   2   2.4e-14   1.3e-10   41.0   0.1   157   349   109   339   101   382 0.69 Tryptophan halogenase
+FAD_binding_3        PF01494.23   349 BGC0001401.1_ORF5:gid:armH5:pid:ALT31852.1:loc:30788:32360:strand:+ -            523   5.4e-17   62.2   0.0   1   1   1.7e-20   8.6e-17   61.6   0.0     2   325    10   351     9   362 0.71 FAD binding domain
+NAD_binding_8        PF13450.10    68 BGC0001401.1_ORF5:gid:armH5:pid:ALT31852.1:loc:30788:32360:strand:+ -            523   1.2e-05   25.7   0.0   1   1   7.8e-09     4e-05   24.0   0.0     1    31    14    44    14    59 0.92 NAD(P)-binding Rossmann-like domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001401.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001401.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001401.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:33:04 2024
+# [ok]

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000474.1_ORF7:gid::pid:CAP64340.1:loc:6823:7627:strand:+:5:266         FNHLYVTLDAETLDSIAKSEFISQeFCTISRD-TVKTDTESWTGIYLRGKHSYLELFPPGGAEGLR--EGFSGIGFNSQQSGEMDIVQEKLRPLLgAKEILSDLQVRQTEAG-KVPWFYYLSiNPVEREAFASWLMEFHQDYLKYKNIKL---TSDGCFNRAAYLKTLDTseTCLFDDISEVHLELTLSEQEELALLLQA
+#=GR BGC0000474.1_ORF7:gid::pid:CAP64340.1:loc:6823:7627:strand:+:5:266 PP 8***********************99999877.9999**************************998..9***********************9866999*************.*******997888******************998876...*************87776699**************************
+BGC0000473.1_ORF7:gid::pid:CAO82087.1:loc:7533:8337:strand:+:5:266         FNHLYVTLDAETLDSIAKSEFISQeFCTISRD-TVKTDTESWTGIYLRGKHSYLELFPPGGAEGLR--EGFSGIGFNSQQAGEMDIVQEKLRPLLgAKEILSDLQVRQTEAG-KVPWFYYLSiNPVEREAFASWLMEFHQDYLDYKNIEM---TSAGCFNRAAYLKTLETseTSLFDDISEVHLELTLPEQEELALLLQA
+#=GR BGC0000473.1_ORF7:gid::pid:CAO82087.1:loc:7533:8337:strand:+:5:266 PP 8***********************99999877.9999**************************998..9***********************9866999*************.*******997888*****************9988855...9************9888789***************************
+#=GC PP_cons                                                               8***********************.9999877.9999**************************998..9***********************986.999*************.*******99.888******************988866...*************8877..99**************************
+#=GC RF                                                                    xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000474.1_ORF7:gid::pid:CAP64340.1:loc:6823:7627:strand:+:5:266         FGYDSSSAGDI-TTYHSHNFMIKVCHKVARRYRICKVVCTLKEQLQQEKTFTFGKNAQLNVGRSLAIWEF
+#=GR BGC0000474.1_ORF7:gid::pid:CAP64340.1:loc:6823:7627:strand:+:5:266 PP *****999665.888888889999999999***************************99999999***98
+BGC0000473.1_ORF7:gid::pid:CAO82087.1:loc:7533:8337:strand:+:5:266         FGYDSSSAGDI-TTYHSHNFMIKVCQKVARRYRICKVVCTLKEQLQQEKTFTFGKNAQLNLGRSLAIWEF
+#=GR BGC0000473.1_ORF7:gid::pid:CAO82087.1:loc:7533:8337:strand:+:5:266 PP *****999665.888888888999999999************************99999999999***98
+#=GC PP_cons                                                               *****999665.888888889999999999**************************999999999***98
+#=GC RF                                                                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

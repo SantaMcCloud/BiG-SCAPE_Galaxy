@@ -1,0 +1,20 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SAT                  PF16073.9    239 BGC0000107.1_ORF1:gid:wA:pid:CBF74114.1:loc:144:6819:strand:- -           2157   9.4e-87  290.8   4.5   1   1     2e-88   6.1e-85  284.8   0.0     1   239     8   244     8   244 0.99 Starter unit:ACP transacylase in aflatoxin biosynthesis
+ketoacyl-synt        PF00109.30   252 BGC0000107.1_ORF1:gid:wA:pid:CBF74114.1:loc:144:6819:strand:- -           2157   1.8e-83  280.2   0.0   1   1     1e-86     3e-83  279.5   0.0     3   252   378   626   376   626 0.96 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.25   319 BGC0000107.1_ORF1:gid:wA:pid:CBF74114.1:loc:144:6819:strand:- -           2157   4.4e-46  158.0   0.0   1   1   2.2e-49   6.5e-46  157.5   0.0     2   317   912  1231   911  1233 0.87 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0000107.1_ORF1:gid:wA:pid:CBF74114.1:loc:144:6819:strand:- -           2157   5.5e-34  116.9   0.2   1   1   4.4e-37   1.3e-33  115.7   0.2     1   118   634   753   634   754 0.96 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.29    67 BGC0000107.1_ORF1:gid:wA:pid:CBF74114.1:loc:144:6819:strand:- -           2157   2.7e-25   88.6   5.1   1   2   2.5e-14   7.4e-11   42.3   0.2     4    67  1655  1718  1653  1718 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0000107.1_ORF1:gid:wA:pid:CBF74114.1:loc:144:6819:strand:- -           2157   2.7e-25   88.6   5.1   2   2   5.6e-16   1.7e-12   47.6   0.9     2    66  1775  1839  1774  1840 0.96 Phosphopantetheine attachment site
+Thioesterase         PF00975.24   226 BGC0000107.1_ORF1:gid:wA:pid:CBF74114.1:loc:144:6819:strand:- -           2157     3e-18   67.0   0.2   1   1   4.2e-21   1.2e-17   65.0   0.0     2   105  1897  1999  1896  2008 0.95 Thioesterase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000107.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000107.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000107.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:48:39 2024
+# [ok]

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000087.1_ORF2:gid::pid:CAQ64672.1:loc:1470:2379:strand:-:11:191            SFGLVTVPVNVVSATES-HSIQFHQYHLEDMG-RVRVRKFCEVEDREVSTAEIGKGFQWtKDQVIPISDEELRDLPLPTAKAIEIDAFVPMEDIDPIRI--GDGYYLQA---GGTVAAKPYKLLVEALRRSSKVAVAKYAWSGRER--LGLLRVH---GDALVLHAMHWDDEIR.....DPsE-LlpPPVEVSDEEIE-g
+#=GR BGC0000087.1_ORF2:gid::pid:CAQ64672.1:loc:1470:2379:strand:-:11:191    PP 69***************.**************.***********99*************9888************************************..9*******...7777888***************************..*******...67**************.....6632.24655588888875.9
+BGC0000223.1_ORF56:gid::pid:AEE65512.1:loc:57121:58060:strand:-:10:190         SFGLVSIAVKLYSATEE-KDIRFHQVHRTDGG-RIKYQRTCSVDGEVVSYDDIAKGYDIgGGEMVILTDEDFSDLPLTTSRAIDVLQFVPADEIDPIMF--AKAYYLEP---EGQ-AAKPYVLLRDALADADRVAIVKIAIRQREQ--LATLRVR---DDVLVLNTMLWPDEVRgvdfgFL.D--..EEIETRPAEL--a
+#=GR BGC0000223.1_ORF56:gid::pid:AEE65512.1:loc:57121:58060:strand:-:10:190 PP 69***************.**************.***************************899**************99********************..9*******...555.677***************************..*******...77**************7633222.2....3335555555..6
+#=GC PP_cons                                                                   69***************.**************.**************************.888**************99********************..9*******...6667778***************************..*******...77**************.....44.2.2..44467777665..
+#=GC RF                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xx.xxx..xxxxxxxxxxxx.
+
+BGC0000087.1_ORF2:gid::pid:CAQ64672.1:loc:1470:2379:strand:-:11:191            .
+#=GR BGC0000087.1_ORF2:gid::pid:CAQ64672.1:loc:1470:2379:strand:-:11:191    PP .
+BGC0000223.1_ORF56:gid::pid:AEE65512.1:loc:57121:58060:strand:-:10:190         m
+#=GR BGC0000223.1_ORF56:gid::pid:AEE65512.1:loc:57121:58060:strand:-:10:190 PP 7
+#=GC PP_cons                                                                   .
+#=GC RF                                                                        .
+//

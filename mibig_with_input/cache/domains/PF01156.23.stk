@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1659:gid::pid::loc:1870976:1871945:strand:+:6:301         VIIDCDPGIDDSLAILLALNSPELEVIGITTCCGNVPANIGAENALKTLQMCSsLNIPVYIGEEAPLKRKLVTAQDTHGEDGIGENFYQKVVGAKAKNGAVDFIINTLHNH--EKVSIIALAPLTNIAKALIKDKKAFENLDEFVSMGGAFRIHGNCSPVAEFNYWVDPHGADYVYKNlSKKIHMVGLDVTRKIVLTPNI
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1659:gid::pid::loc:1870976:1871945:strand:+:6:301 PP 8***************************************************9677*****************************9988888999999**********997..59**************************************************************988888*****************
+BGC0001106.1_ORF6:gid::pid:ABA39080.2:loc:12019:12967:strand:+:5:301                           IILDCDPGHDDAIAMLLAHGNPDVELVAVTTVVGNQTLEKVTRNALSVARIANiTGVPFAAGCSRPLIRTVETAPDIHGESGIDGPVMPEPTLALDDRHAVDLIIETVMAHEPGEITIVPTAGLTNIALAARKEPRIVERVREVVLMGGGYH-TGNWSPVAEFNIKIDPEAAHIVFNE.PWPVTMVGLDLTHQALATPEV
+#=GR BGC0001106.1_ORF6:gid::pid:ABA39080.2:loc:12019:12967:strand:+:5:301                   PP 8****************************************************666***************************99999********************99999**************************************9.*************************.**************9******
+#=GC PP_cons                                                                                   8***************************************************9.66****************************9999999999**************9989979**************************************************************9.9999*****************
+#=GC RF                                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1659:gid::pid::loc:1870976:1871945:strand:+:6:301         IEFINRLDKKMAKYITEITRFYIDFHWEQEGIIGCVINDPLAVAYFIDRSICKGFESYVEV-VEDGIAMGQSIVDSFNFYKKNPNAIVLNEVDEKKFM-y
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1659:gid::pid::loc:1870976:1871945:strand:+:6:301 PP ****************************************************9999*****.7888******************************96.8
+BGC0001106.1_ORF6:gid::pid:ABA39080.2:loc:12019:12967:strand:+:5:301                           VERIAKVGTGPAVFVTELLDFFGAMYLQAQGFDAPPVHDPCAVAYVIDPDVMTVRKAPVDIELTGTLTLGMTVTDLRAPAPADCHTQVAVDLDHQRFWD.
+#=GR BGC0001106.1_ORF6:gid::pid:ABA39080.2:loc:12019:12967:strand:+:5:301                   PP *********9999***************************************99********************************************6.
+#=GC PP_cons                                                                                   *********9999***************************************99********9999*******************************86.
+#=GC RF                                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

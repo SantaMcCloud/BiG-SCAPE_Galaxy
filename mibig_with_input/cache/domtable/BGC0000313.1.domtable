@@ -1,0 +1,32 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Fungal_trans_2       PF11951.12   385 BGC0000313.1_ORF1:gid::pid:ACI30651.1:loc:0:2705:strand:- -            747   3.3e-45  154.8   0.2   1   1   4.6e-49   4.8e-45  154.2   0.2     2   363   374   735   373   745 0.88 Fungal specific transcription factor domain
+Zn_clus              PF00172.22    39 BGC0000313.1_ORF1:gid::pid:ACI30651.1:loc:0:2705:strand:- -            747   2.1e-10   40.7   8.0   1   1   4.7e-14   4.9e-10   39.5   8.0     1    38    18    55    18    56 0.95 Fungal Zn(2)-Cys(6) binuclear cluster domain
+Pro_isomerase        PF00160.25   159 BGC0000313.1_ORF2:gid::pid:ACI30652.1:loc:3518:5598:strand:- -            623   1.4e-51  175.1   0.1   1   1     4e-55   2.8e-51  174.1   0.1     4   158   476   621   473   622 0.94 Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD
+WD40                 PF00400.36    39 BGC0000313.1_ORF2:gid::pid:ACI30652.1:loc:3518:5598:strand:- -            623     2e-16   59.9   0.0   1   2   3.4e-07    0.0023   18.6   0.0    10    38    70    98    63    99 0.91 WD domain, G-beta repeat
+WD40                 PF00400.36    39 BGC0000313.1_ORF2:gid::pid:ACI30652.1:loc:3518:5598:strand:- -            623     2e-16   59.9   0.0   2   2   1.4e-09   9.5e-06   26.2   0.0     3    39   107   143   105   143 0.94 WD domain, G-beta repeat
+Far-17a_AIG1         PF04750.18   206 BGC0000313.1_ORF3:gid::pid:ACI30653.1:loc:6215:6956:strand:+ -            228   2.1e-33  115.7  15.1   1   1   1.2e-37   2.5e-33  115.5  15.1     1   204    16   212    16   214 0.91 FAR-17a/AIG1-like protein
+FMN_dh               PF01070.22   350 BGC0000313.1_ORF4:gid:glycolate_oxidase_L-lactate_2-monooxygenase:pid::loc:7040:7751:strand:- -             49     2e-07   30.6   0.0   1   1     1e-11   2.1e-07   30.5   0.0    75   117     6    49     2    49 0.90 FMN-dependent dehydrogenase
+ApbA_C               PF08546.15   125 BGC0000313.1_ORF5:gid:kivr:pid:ACI30654.1:loc:7881:9270:strand:- -            462   6.3e-22   78.4   0.0   1   1   2.2e-25   2.3e-21   76.6   0.0     5   111   286   434   283   448 0.80 Ketopantoate reductase PanE/ApbA C terminal
+ApbA                 PF02558.20   150 BGC0000313.1_ORF5:gid:kivr:pid:ACI30654.1:loc:7881:9270:strand:- -            462   2.5e-11   43.6   0.0   1   1   3.6e-15   3.7e-11   43.1   0.0     1   105    68   189    68   240 0.87 Ketopantoate reductase PanE/ApbA
+Condensation         PF00668.24   456 BGC0000313.1_ORF6:gid:Beas:pid:ACI30655.1:loc:11510:21080:strand:+ -           3189  5.3e-135  450.8   0.0   1   3   4.2e-16   2.2e-12   46.6   0.0     3   454    48   482    46   483 0.76 Condensation domain
+Condensation         PF00668.24   456 BGC0000313.1_ORF6:gid:Beas:pid:ACI30655.1:loc:11510:21080:strand:+ -           3189  5.3e-135  450.8   0.0   2   3   1.3e-84   6.8e-81  272.5   0.0     8   446  1136  1568  1131  1574 0.92 Condensation domain
+Condensation         PF00668.24   456 BGC0000313.1_ORF6:gid:Beas:pid:ACI30655.1:loc:11510:21080:strand:+ -           3189  5.3e-135  450.8   0.0   3   3   9.2e-41   4.8e-37  127.9   0.0     2   431  2773  3183  2772  3188 0.87 Condensation domain
+AMP-binding          PF00501.32   382 BGC0000313.1_ORF6:gid:Beas:pid:ACI30655.1:loc:11510:21080:strand:+ -           3189  3.9e-126  421.1   0.0   1   2   6.4e-62   3.3e-58  197.5   0.0     3   381   504   843   502   844 0.85 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0000313.1_ORF6:gid:Beas:pid:ACI30655.1:loc:11510:21080:strand:+ -           3189  3.9e-126  421.1   0.0   2   2   3.3e-69   1.7e-65  221.5   0.0     1   381  1599  1952  1599  1953 0.87 AMP-binding enzyme
+PP-binding           PF00550.29    67 BGC0000313.1_ORF6:gid:Beas:pid:ACI30655.1:loc:11510:21080:strand:+ -           3189     1e-34  118.8   0.1   1   3   1.6e-13   8.4e-10   39.0   0.0     2    63  1044  1104  1043  1107 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0000313.1_ORF6:gid:Beas:pid:ACI30655.1:loc:11510:21080:strand:+ -           3189     1e-34  118.8   0.1   2   3   3.6e-10   1.9e-06   28.2   0.0    18    64  2578  2624  2565  2627 0.90 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0000313.1_ORF6:gid:Beas:pid:ACI30655.1:loc:11510:21080:strand:+ -           3189     1e-34  118.8   0.1   3   3   4.6e-16   2.4e-12   47.1   0.0     3    63  2663  2720  2662  2724 0.92 Phosphopantetheine attachment site
+Calreticulin         PF00262.22   369 BGC0000313.1_ORF8:gid::pid:ACI30657.1:loc:25821:27691:strand:+ -            557  2.5e-169  563.2  19.3   1   1  1.2e-173  2.5e-169  563.2  19.3     1   369    45   415    45   415 0.98 Calreticulin family
+Aldedh               PF00171.26   462 BGC0000313.1_ORF9:gid::pid:ACI30658.1:loc:28614:30425:strand:+ -            584  3.2e-136  454.7   0.1   1   1    2e-140  4.2e-136  454.3   0.1     2   462    98   562    97   562 0.98 Aldehyde dehydrogenase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000313.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000313.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000313.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:24:01 2024
+# [ok]

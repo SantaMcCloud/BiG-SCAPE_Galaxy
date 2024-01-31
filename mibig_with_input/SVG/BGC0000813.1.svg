@@ -1,0 +1,169 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="696.6666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="686.6666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>inkT
+InkT</title>
+			<polygon class="inkT
+InkT" points="10,40 39,10 39,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BacA (PF02673)
+"Bacitracin resistance protein BacA"</title>
+				<polygon class="PF02673" points="14,40 26,28 36,28 36,52 26,52" stroke-linejoin="round" width="25" height="24" fill="rgb(202,75,97)" stroke="rgb(161,60,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>inkH
+InkH</title>
+			<polygon class="inkH
+InkH" points="40,40 66,10 66,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NmrA (PF05368)
+"NmrA-like family"</title>
+				<polygon class="PF05368" points="46,38 55,28 56,28 56,52 55,52 46,42" stroke-linejoin="round" width="10" height="24" fill="rgb(102,214,88)" stroke="rgb(81,171,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>inkR
+InkR</title>
+			<polygon class="inkR
+InkR" points="69,25 69,25 69,10 99,40 69,70 69,55 69,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cupin_6 (PF12852)
+"Cupin"</title>
+				<polygon class="PF12852" points="69,28 82,28 87,33 87,47 82,52 69,52" stroke-linejoin="round" width="18" height="24" fill="rgb(216,56,213)" stroke="rgb(172,44,170)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="91,37 94,40 91,43" stroke-linejoin="round" width="7" height="24" fill="rgb(96,195,114)" stroke="rgb(76,156,91)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>inkL
+InkL</title>
+			<polygon class="inkL
+InkL" points="147,40 175,10 175,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RmlD_sub_bind (PF04321)
+"RmlD substrate binding domain"</title>
+				<polygon class="PF04321" points="151,40 162,28 174,28 174,52 162,52" stroke-linejoin="round" width="27" height="24" fill="rgb(71,77,207)" stroke="rgb(56,61,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>inkB
+InkB</title>
+			<polygon class="inkB
+InkB" points="205,25 205,25 205,10 175,40 205,70 205,55 205,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDP_Man_Dehyd (PF16363)
+"GDP-mannose 4,6 dehydratase"</title>
+				<polygon class="PF16363" points="179,40 191,28 204,28 204,52 191,52" stroke-linejoin="round" width="28" height="24" fill="rgb(50,144,195)" stroke="rgb(40,115,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>inkA
+InkA</title>
+			<polygon class="inkA
+InkA" points="243,25 236,25 236,10 206,40 236,70 236,55 243,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="217,33 222,28 235,28 235,52 222,52 217,47" stroke-linejoin="round" width="18" height="24" fill="rgb(211,145,90)" stroke="rgb(168,116,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>inkM
+InkM</title>
+			<polygon class="inkM
+InkM" points="280,25 273,25 273,10 243,40 273,70 273,55 280,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_24 (PF13578)
+"Methyltransferase domain"</title>
+				<polygon class="PF13578" points="251,36 259,28 260,28 260,52 259,52 251,44" stroke-linejoin="round" width="9" height="24" fill="rgb(197,61,215)" stroke="rgb(157,48,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MycE_N (PF17843)
+"MycE methyltransferase N-terminal"</title>
+				<rect class="PF17843" x="269" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(100,183,60)" stroke="rgb(79,146,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>inkY
+InkY</title>
+			<polygon class="inkY
+InkY" points="281,40 298,10 298,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="284,40 291,28 294,28 294,52 291,52" stroke-linejoin="round" width="11" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>inkG
+InkG</title>
+			<polygon class="inkG
+InkG" points="360,25 352,25 352,10 322,40 352,70 352,55 360,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EryCIII-like_C (PF06722)
+"Erythromycin biosynthesis protein CIII-like, C-terminal domain"</title>
+				<polygon class="PF06722" points="326,40 337,29 337,51" stroke-linejoin="round" width="14" height="24" fill="rgb(48,103,191)" stroke="rgb(38,82,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>inkO
+InkO</title>
+			<polygon class="inkO
+InkO" points="374,25 392,25 392,10 422,40 392,70 392,55 374,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="376,28 406,28 418,40 406,52 376,52" stroke-linejoin="round" width="44" height="24" fill="rgb(95,189,207)" stroke="rgb(76,151,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>inkD
+InkD</title>
+			<polygon class="inkD
+InkD" points="423,25 496,25 496,10 526,40 496,70 496,55 423,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ferritin-like (PF12902)
+"Ferritin-like"</title>
+				<rect class="PF12902" x="484" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(183,62,62)" stroke="rgb(146,49,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>inkE
+InkE</title>
+			<polygon class="inkE
+InkE" points="526,25 548,25 548,10 578,40 548,70 548,55 526,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="526" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(215,66,156)" stroke="rgb(172,52,124)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Rng_hyd_C (PF21274)
+"Aromatic-ring hydroxylase, C-terminal"</title>
+				<polygon class="PF21274" points="568,34 574,40 568,46" stroke-linejoin="round" width="9" height="24" fill="rgb(153,227,106)" stroke="rgb(122,181,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>inkP
+InkP</title>
+			<polygon class="inkP
+InkP" points="578,10 595,40 578,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>inkU
+InkU</title>
+			<polygon class="inkU
+InkU" points="659,10 686,40 659,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBP_bac_3 (PF00497)
+"Bacterial extracellular solute-binding proteins, family 3"</title>
+				<polygon class="PF00497" points="662,28 670,28 682,40 670,52 662,52" stroke-linejoin="round" width="21" height="24" fill="rgb(142,223,107)" stroke="rgb(113,178,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

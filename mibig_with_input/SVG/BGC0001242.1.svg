@@ -1,0 +1,128 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="792.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="782.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (FF_03983)
+hypothetical protein</title>
+			<polygon class=" (FF_03983)
+hypothetical protein" points="75,25 46,25 46,10 16,40 46,70 46,55 75,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="20,40 32,28 67,28 67,52 32,52" stroke-linejoin="round" width="48" height="24" fill="rgb(95,189,207)" stroke="rgb(76,151,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fsr1
+polyketide synthase</title>
+			<polygon class="fsr1
+polyketide synthase" points="336,25 131,25 131,10 101,40 131,70 131,55 336,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<rect class="PF07993" x="122" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(210,94,130)" stroke="rgb(168,75,103)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="154" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="165" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="214" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(132,93,193)" stroke="rgb(105,74,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="261" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="274" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SAT (PF16073)
+"Starter unit:ACP transacylase in aflatoxin biosynthesis"</title>
+				<rect class="PF16073" x="312" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(77,185,114)" stroke="rgb(61,148,91)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fsr2
+methyltransferase</title>
+			<polygon class="fsr2
+methyltransferase" points="355,25 365,25 365,10 395,40 365,70 365,55 355,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="368,28 379,28 389,38 389,42 379,52 368,52" stroke-linejoin="round" width="21" height="24" fill="rgb(91,124,224)" stroke="rgb(72,99,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fsr3
+monooxygenase</title>
+			<polygon class="fsr3
+monooxygenase" points="464,25 439,25 439,10 409,40 439,70 439,55 464,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<polygon class="PF01494" points="422,31 425,28 458,28 458,52 425,52 422,49" stroke-linejoin="round" width="36" height="24" fill="rgb(215,66,156)" stroke="rgb(172,52,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fsr4
+oxidoreductase</title>
+			<polygon class="fsr4
+oxidoreductase" points="531,25 524,25 524,10 494,40 524,70 524,55 531,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="519" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(217,198,105)" stroke="rgb(173,158,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fsr5
+dehydrogenase</title>
+			<polygon class="fsr5
+dehydrogenase" points="552,40 578,10 578,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="556,40 567,28 576,28 576,52 567,52" stroke-linejoin="round" width="23" height="24" fill="rgb(79,221,209)" stroke="rgb(63,176,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fsr6
+transcription factor</title>
+			<polygon class="fsr6
+transcription factor" points="660,25 657,25 657,10 627,40 657,70 657,55 660,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AflR (PF08493)
+"Aflatoxin regulatory protein"</title>
+				<polygon class="PF08493" points="634,37 643,28 644,28 644,52 643,52 634,43" stroke-linejoin="round" width="10" height="24" fill="rgb(82,57,195)" stroke="rgb(65,45,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Zn_clus (PF00172)
+"Fungal Zn(2)-Cys(6) binuclear cluster domain"</title>
+				<rect class="PF00172" x="655" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(58,207,82)" stroke="rgb(46,165,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (FF_03990)
+hypothetical protein</title>
+			<polygon class=" (FF_03990)
+hypothetical protein" points="710,25 719,25 719,10 749,40 719,70 719,55 710,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_6 (PF12697)
+"Alpha/beta hydrolase family"</title>
+				<polygon class="PF12697" points="716,28 733,28 745,40 745,40 733,52 716,52" stroke-linejoin="round" width="29" height="24" fill="rgb(87,73,196)" stroke="rgb(69,58,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

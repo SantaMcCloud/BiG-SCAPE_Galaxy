@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1446:gid::pid::loc:1653171:1653825:strand:+:5:209         flkg----RDPISSLTHFIGACLSLLATIILVFQSVTLQEtSLLMIVSVSVFGLSLIALYSASSYYHFLKGTPE--QELFFRKVDHAMIYVLIAGSYTPICLNFME--KKEGIIFVTAIWIVAFIGIIIKIFWM---DAPRWLSTSIYLLMGWAIVFDINA-FNSIPKD------CLRLLIMEGVSYSIGAIIYIIK---
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1446:gid::pid::loc:1653171:1653825:strand:+:5:209 PP 8877....577899**********99999999988777667999************************999666..899************************994..689***********************...*********************999.7777733......3*********************...
+GCF_008000775.1_ORF2053:gid::pid:WP_147663137.1:loc:2260044:2260746:strand:-:22:224            .kvs---QKEKFSSMSHLFGAILAILGMSILIFKSNGNI-.--VNIIIALIYGLSTFFLFISSAIYHA--QKKEENEESFWRKMDHIAIFIMIAGTYTPICFLFL--EGAWRWSILLLQWILVISGIILKLLVL---NTPRWVTITIYLVQGWVAIIPIYQLTQVMPLVS------IILLFTGGLSYTIGAIIYKMK---
+#=GR GCF_008000775.1_ORF2053:gid::pid:WP_147663137.1:loc:2260044:2260746:strand:-:22:224    PP .987...699**************999999999998776....57***********************..777779*****************************..589************************...************************999999888......*********************...
+#=GC PP_cons                                                                                   .......6788999**********9999999999877766.9978***********************9987777999***************************4.5799***********************...************************988888558.....3*********************...
+#=GC RF                                                                                        ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1446:gid::pid::loc:1653171:1653825:strand:+:5:209         --KPNIS-PEFGFHEIFHIFIMIGSLFHF
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1446:gid::pid::loc:1653171:1653825:strand:+:5:209 PP ..66555.5689****************7
+GCF_008000775.1_ORF2053:gid::pid:WP_147663137.1:loc:2260044:2260746:strand:-:22:224            --KPNPIPGKFGFHEIFHIWILLGAIFHY
+#=GR GCF_008000775.1_ORF2053:gid::pid:WP_147663137.1:loc:2260044:2260746:strand:-:22:224    PP ..**************************8
+#=GC PP_cons                                                                                   ..88877*8899****************8
+#=GC RF                                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,15 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LysE                 PF01810.22   193 BGC0000884.1_ORF1:gid:mrsC:pid:ACY54551.1:loc:0:633:strand:- -            210   9.6e-30  103.7   9.5   1   1   5.4e-34   1.1e-29  103.5   9.5     1   192    14   205    14   206 0.91 LysE type translocator
+Aminotran_1_2        PF00155.25   361 BGC0000884.1_ORF2:gid:mrsB:pid:ACY54550.1:loc:696:1860:strand:- -            387   4.4e-25   88.8   0.0   1   1   2.6e-29   5.4e-25   88.5   0.0    29   327    55   342    31   376 0.73 Aminotransferase class I and II
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000884.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000884.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000884.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:33:10 2024
+# [ok]

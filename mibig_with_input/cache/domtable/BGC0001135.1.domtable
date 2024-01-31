@@ -1,0 +1,33 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.32   382 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1510.3  20.5   1   5   7.5e-96   3.9e-92  309.2   0.1     1   382   273   622   273   622 0.87 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1510.3  20.5   2   5   4.3e-91   2.2e-87  293.5   1.6     1   382  1355  1698  1355  1698 0.87 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1510.3  20.5   3   5     3e-96   1.6e-92  310.5   0.2     1   382  2417  2766  2417  2766 0.88 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1510.3  20.5   4   5   9.1e-94   4.8e-90  302.3   0.2     1   382  3499  3848  3499  3848 0.87 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1510.3  20.5   5   5   4.4e-95   2.3e-91  306.7   0.2     1   382  4582  4931  4582  4931 0.87 AMP-binding enzyme
+Condensation         PF00668.24   456 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1172.7   0.0   1   5   5.8e-46     3e-42  145.1   0.0     2   455   900  1334   899  1335 0.87 Condensation domain
+Condensation         PF00668.24   456 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1172.7   0.0   2   5  6.3e-116  3.3e-112  375.7   0.0     2   456  1951  2397  1950  2397 0.95 Condensation domain
+Condensation         PF00668.24   456 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1172.7   0.0   3   5   1.1e-45   5.6e-42  144.2   0.0     2   455  3044  3478  3043  3479 0.89 Condensation domain
+Condensation         PF00668.24   456 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1172.7   0.0   4   5   2.4e-46   1.3e-42  146.3   0.0     2   455  4126  4560  4125  4561 0.90 Condensation domain
+Condensation         PF00668.24   456 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1172.7   0.0   5   5  4.3e-109  2.2e-105  353.2   0.1     3   451  5174  5614  5172  5615 0.94 Condensation domain
+PP-binding           PF00550.29    67 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   3.9e-71  235.4  11.7   1   5   1.2e-15     6e-12   45.8   0.1     3    67   789   850   787   850 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   3.9e-71  235.4  11.7   2   5   1.7e-16   8.7e-13   48.5   0.1     2    67  1869  1931  1868  1931 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   3.9e-71  235.4  11.7   3   5   1.8e-17   9.2e-14   51.6   0.1     3    67  2933  2994  2932  2994 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   3.9e-71  235.4  11.7   4   5   9.6e-16     5e-12   46.1   0.1     3    67  4015  4076  4014  4076 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   3.9e-71  235.4  11.7   5   5   6.4e-16   3.3e-12   46.7   0.1     3    65  5093  5152  5092  5154 0.93 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.10    76 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   3.1e-67  223.7   7.7   1   5   9.5e-14     5e-10   40.4   0.0     1    76   681   759   681   759 0.88 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.10    76 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   3.1e-67  223.7   7.7   2   5   3.1e-12   1.6e-08   35.5   0.3     1    76  1757  1840  1757  1840 0.85 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.10    76 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   3.1e-67  223.7   7.7   3   5   1.8e-16   9.3e-13   49.1   0.2     1    76  2825  2903  2825  2903 0.91 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.10    76 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   3.1e-67  223.7   7.7   4   5   1.7e-16   8.8e-13   49.2   0.1     1    76  3907  3985  3907  3985 0.92 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.10    76 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   3.1e-67  223.7   7.7   5   5   1.6e-16   8.2e-13   49.3   0.0     1    76  4990  5063  4990  5063 0.95 AMP-binding enzyme C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001135.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001135.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001135.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:21:17 2024
+# [ok]

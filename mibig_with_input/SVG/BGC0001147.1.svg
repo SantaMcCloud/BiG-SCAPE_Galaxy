@@ -1,0 +1,309 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="973.3333333333334" height="160">
+	<g>
+		<line x1="10" y1="40.0" x2="963.3333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>dst22
+Dst22</title>
+			<polygon class="dst22
+Dst22" points="65,25 43,25 43,10 13,40 43,70 43,55 65,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="17,40 22,35 22,45" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="28,29 29,28 63,28 63,52 29,52 28,51" stroke-linejoin="round" width="35" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst21
+Dst21</title>
+			<polygon class="dst21
+Dst21" points="128,25 95,25 95,10 65,40 95,70 95,55 128,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="76,33 81,28 90,28 90,52 81,52 76,47" stroke-linejoin="round" width="14" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="97" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(62,71,183)" stroke="rgb(49,56,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst20
+Dst20</title>
+			<polygon class="dst20
+Dst20" points="189,25 158,25 158,10 128,40 158,70 158,55 189,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="137,35 144,28 152,28 152,52 144,52 137,45" stroke-linejoin="round" width="15" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="158" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(62,71,183)" stroke="rgb(49,56,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst1
+Dst1</title>
+			<polygon class="dst1
+Dst1" points="209,10 231,40 209,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="225,37 227,40 225,43" stroke-linejoin="round" width="5" height="24" fill="rgb(225,67,110)" stroke="rgb(180,53,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst2
+Dst2</title>
+			<polygon class="dst2
+Dst2" points="242,25 258,25 258,10 288,40 258,70 258,55 242,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="243,28 272,28 276,32 276,48 272,52 243,52" stroke-linejoin="round" width="33" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst4
+Dst4</title>
+			<polygon class="dst4
+Dst4" points="301,10 319,40 301,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>dst5
+Dst5</title>
+			<polygon class="dst5
+Dst5" points="319,25 319,25 319,10 349,40 319,70 319,55 319,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DHO_dh (PF01180)
+"Dihydroorotate dehydrogenase"</title>
+				<polygon class="PF01180" points="319,28 333,28 345,40 333,52 319,52" stroke-linejoin="round" width="27" height="24" fill="rgb(137,103,209)" stroke="rgb(109,82,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst6
+Dst6</title>
+			<polygon class="dst6
+Dst6" points="349,10 375,40 349,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Creatininase (PF02633)
+"Creatinine amidohydrolase"</title>
+				<polygon class="PF02633" points="350,28 360,28 371,40 360,52 350,52" stroke-linejoin="round" width="23" height="24" fill="rgb(220,82,191)" stroke="rgb(176,65,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst7
+Dst7</title>
+			<polygon class="dst7
+Dst7" points="378,25 385,25 385,10 415,40 385,70 385,55 378,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>dst8
+Dst8</title>
+			<polygon class="dst8
+Dst8" points="417,25 430,25 430,10 460,40 430,70 430,55 417,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UDPG_MGDP_dh_N (PF03721)
+"UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain"</title>
+				<rect class="PF03721" x="418" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(63,215,56)" stroke="rgb(50,172,44)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh (PF00984)
+"UDP-glucose/GDP-mannose dehydrogenase family, central domain"</title>
+				<polygon class="PF00984" points="437,28 444,28 446,30 446,50 444,52 437,52" stroke-linejoin="round" width="9" height="24" fill="rgb(171,213,56)" stroke="rgb(136,170,44)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh_C (PF03720)
+"UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain"</title>
+				<polygon class="PF03720" points="449,33 456,40 449,47" stroke-linejoin="round" width="10" height="24" fill="rgb(78,165,180)" stroke="rgb(62,132,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst9
+Dst9</title>
+			<polygon class="dst9
+Dst9" points="460,25 462,25 462,10 492,40 462,70 462,55 460,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="460,28 476,28 484,36 484,44 476,52 460,52" stroke-linejoin="round" width="24" height="24" fill="rgb(215,89,157)" stroke="rgb(172,71,125)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst10
+Dst10</title>
+			<polygon class="dst10
+Dst10" points="493,25 498,25 498,10 528,40 498,70 498,55 493,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="509,28 512,28 524,40 512,52 509,52" stroke-linejoin="round" width="16" height="24" fill="rgb(66,178,218)" stroke="rgb(52,142,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst11
+Dst11</title>
+			<polygon class="dst11
+Dst11" points="529,10 554,40 529,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="529,28 540,28 550,40 540,52 529,52" stroke-linejoin="round" width="22" height="24" fill="rgb(211,145,90)" stroke="rgb(168,116,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst12
+Dst12</title>
+			<polygon class="dst12
+Dst12" points="554,25 562,25 562,10 592,40 562,70 562,55 554,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="555,28 576,28 588,40 576,52 555,52" stroke-linejoin="round" width="36" height="24" fill="rgb(228,110,183)" stroke="rgb(182,88,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst13
+Dst13</title>
+			<polygon class="dst13
+Dst13" points="592,25 625,25 625,10 655,40 625,70 625,55 592,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_hydro_42 (PF02449)
+"Beta-galactosidase"</title>
+				<rect class="PF02449" x="595" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(197,61,145)" stroke="rgb(157,48,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_hydro_42M (PF08532)
+"Beta-galactosidase trimerisation domain"</title>
+				<polygon class="PF08532" points="629,28 639,28 646,35 646,45 639,52 629,52" stroke-linejoin="round" width="17" height="24" fill="rgb(214,201,64)" stroke="rgb(171,160,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst15
+Dst15</title>
+			<polygon class="dst15
+Dst15" points="658,10 683,40 658,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<rect class="PF13649" x="660" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(224,103,106)" stroke="rgb(179,82,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst16
+Dst16</title>
+			<polygon class="dst16
+Dst16" points="683,25 700,25 700,10 730,40 700,70 700,55 683,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="685,28 713,28 725,40 713,52 685,52" stroke-linejoin="round" width="44" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst17
+Dst17</title>
+			<polygon class="dst17
+Dst17" points="730,25 734,25 734,10 764,40 734,70 734,55 730,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="732" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(217,198,105)" stroke="rgb(173,158,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="748,28 748,28 760,40 760,40 748,52 748,52" stroke-linejoin="round" width="12" height="24" fill="rgb(79,114,198)" stroke="rgb(63,91,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst18
+Dst18</title>
+			<polygon class="dst18
+Dst18" points="765,25 841,25 841,10 871,40 841,70 841,55 765,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="767" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="809" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="819" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="827,28 855,28 867,40 855,52 827,52" stroke-linejoin="round" width="43" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+Dst3</title>
+			<polygon class="
+Dst3" points="921,25 904,25 904,10 874,40 904,70 904,55 921,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="878,40 890,28 919,28 919,52 890,52" stroke-linejoin="round" width="45" height="24" fill="rgb(180,140,83)" stroke="rgb(144,112,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dst19
+Dst19</title>
+			<polygon class="dst19
+Dst19" points="934,10 946,40 934,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="936,28 937,28 942,40 937,52 936,52" stroke-linejoin="round" width="7" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="260.0" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>dst23
+Dst23</title>
+			<polygon class="dst23
+Dst23" points="33,90 44,120 33,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>dst24
+Dst24</title>
+			<polygon class="dst24
+Dst24" points="45,105 62,105 62,90 92,120 62,150 62,135 45,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>dst25
+Dst25</title>
+			<polygon class="dst25
+Dst25" points="112,105 132,105 132,90 162,120 132,150 132,135 112,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>dst14
+Dst14</title>
+			<polygon class="dst14
+Dst14" points="168,105 168,105 168,90 198,120 168,150 168,135 168,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>dst26
+Dst26</title>
+			<polygon class="dst26
+Dst26" points="203,105 225,105 225,90 255,120 225,150 225,135 203,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

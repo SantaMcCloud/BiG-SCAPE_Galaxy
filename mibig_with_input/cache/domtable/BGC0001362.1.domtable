@@ -1,0 +1,37 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aldedh               PF00171.26   462 BGC0001362.1_ORF1:gid:paaZ:pid:AFO93362.1:loc:3:2136:strand:+ -            710   7.4e-37  127.1   0.0   1   1   1.5e-40   1.1e-36  126.6   0.0    25   416    42   447    20   464 0.87 Aldehyde dehydrogenase family
+MaoC_dehydratas      PF01575.23   123 BGC0001362.1_ORF1:gid:paaZ:pid:AFO93362.1:loc:3:2136:strand:+ -            710   4.6e-21   74.9   0.0   1   1   1.2e-24   8.1e-21   74.1   0.0     6   106   541   641   537   651 0.90 MaoC like domain
+Flavoprotein         PF02441.23   162 BGC0001362.1_ORF2:gid:tdaF:pid:AFO93363.1:loc:2170:2740:strand:+ -            189   9.2e-19   67.8   0.0   1   1   5.6e-23   1.2e-18   67.5   0.0     2   156     9   179     8   185 0.82 Flavoprotein
+Na_sulph_symp        PF00939.23   472 BGC0001362.1_ORF6:gid::pid:AFO93367.1:loc:5873:7331:strand:- -            485   3.2e-24   86.0  38.1   1   1   3.7e-28   3.9e-24   85.7  38.1    20   471    48   484    30   485 0.86 Sodium:sulfate symporter transmembrane region
+CitMHS               PF03600.20   336 BGC0001362.1_ORF6:gid::pid:AFO93367.1:loc:5873:7331:strand:- -            485   2.2e-19   70.0  42.5   1   1   2.1e-23   2.2e-19   70.0  42.5     3   332    71   425    69   429 0.85 Citrate transporter
+TrmO                 PF01980.20   116 BGC0001362.1_ORF7:gid::pid:AFO93368.1:loc:7628:8087:strand:+ -            152   8.3e-33  113.3   0.0   1   1   4.8e-37     1e-32  113.0   0.0     2   116    33   143    32   143 0.94 tRNA-methyltransferase O
+SBP_bac_5            PF00496.26   368 BGC0001362.1_ORF8:gid::pid:AFO93369.1:loc:8129:9731:strand:+ -            533   6.2e-64  216.6   0.0   1   1   3.5e-68   7.3e-64  216.4   0.0     3   348    91   433    89   452 0.88 Bacterial extracellular solute-binding proteins, family 5 Middle
+BPD_transp_1         PF00528.26   184 BGC0001362.1_ORF9:gid::pid:AFO93370.1:loc:9735:10779:strand:+ -            347   1.8e-25   89.9  10.6   1   1   8.6e-30   1.8e-25   89.9  10.6     1   181   143   346   140   346 0.97 Binding-protein-dependent transport system inner membrane component
+ABC_tran             PF00005.31   137 BGC0001362.1_ORF11:gid::pid:AFO93372.1:loc:11585:13082:strand:+ -            498   2.6e-56  190.3   0.0   1   2   7.5e-30   1.9e-26   93.5   0.0     2   137    18   179    17   179 0.95 ABC transporter
+ABC_tran             PF00005.31   137 BGC0001362.1_ORF11:gid::pid:AFO93372.1:loc:11585:13082:strand:+ -            498   2.6e-56  190.3   0.0   2   2   8.6e-30   2.2e-26   93.3   0.0     1   137   289   439   289   439 0.92 ABC transporter
+ChaC                 PF04752.16   176 BGC0001362.1_ORF12:gid::pid:AFO93373.1:loc:13078:13636:strand:- -            185   3.9e-38  131.4   0.0   1   1   4.3e-42   4.5e-38  131.2   0.0     1   175     5   174     5   175 0.96 ChaC-like protein
+GGACT                PF06094.16   120 BGC0001362.1_ORF12:gid::pid:AFO93373.1:loc:13078:13636:strand:- -            185   4.1e-05   24.3   0.0   1   1   5.6e-09   5.9e-05   23.8   0.0     1   108     7   121     7   132 0.71 Gamma-glutamyl cyclotransferase, AIG2-like
+Peptidase_M23        PF01551.26    96 BGC0001362.1_ORF13:gid::pid:AFO93374.1:loc:13719:14406:strand:- -            228   1.4e-07   31.8   0.0   1   1   1.1e-11   2.3e-07   31.1   0.0     2    89   111   200   110   207 0.80 Peptidase family M23
+Acyl-CoA_dh_1        PF00441.28   150 BGC0001362.1_ORF15:gid:tdaE:pid:AFO93376.1:loc:15024:16218:strand:- -            397   2.7e-24   86.3   0.2   1   1   8.6e-28     6e-24   85.1   0.1     2   145   228   371   227   376 0.96 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_M        PF02770.23    97 BGC0001362.1_ORF15:gid:tdaE:pid:AFO93376.1:loc:15024:16218:strand:- -            397   2.9e-19   69.2   0.0   1   1   8.3e-23   5.8e-19   68.2   0.0     1    97   120   215   120   215 0.95 Acyl-CoA dehydrogenase, middle domain
+Acyl-CoA_dh_N        PF02771.20   113 BGC0001362.1_ORF15:gid:tdaE:pid:AFO93376.1:loc:15024:16218:strand:- -            397   2.5e-12   47.4   0.1   1   1   7.2e-16     5e-12   46.4   0.1     3   113     8   117     6   117 0.83 Acyl-CoA dehydrogenase, N-terminal domain
+4HBT_2               PF13279.10   122 BGC0001362.1_ORF16:gid:tdaD:pid:AFO93377.1:loc:16241:16658:strand:- -            138   1.6e-18   67.5   0.2   1   1   1.8e-22   1.9e-18   67.2   0.2     2   120    13   129    12   131 0.94 Thioesterase-like superfamily
+4HBT                 PF03061.26    79 BGC0001362.1_ORF16:gid:tdaD:pid:AFO93377.1:loc:16241:16658:strand:- -            138   3.6e-08   33.8   0.0   1   1   5.1e-12   5.3e-08   33.3   0.0     1    76    20    99    20   102 0.96 Thioesterase superfamily
+GST_N_3              PF13417.10    75 BGC0001362.1_ORF18:gid:tdaB:pid:AFO93379.1:loc:17817:18516:strand:- -            232   1.7e-12   47.7   0.0   1   1   5.7e-16   2.9e-12   46.9   0.0     5    73    16    82    14    85 0.93 Glutathione S-transferase, N-terminal domain
+GST_N_2              PF13409.10    70 BGC0001362.1_ORF18:gid:tdaB:pid:AFO93379.1:loc:17817:18516:strand:- -            232   4.5e-12   46.6   0.0   1   1   2.6e-15   1.4e-11   45.0   0.0     1    70    17    79    17    79 0.85 Glutathione S-transferase, N-terminal domain
+GST_C                PF00043.29    93 BGC0001362.1_ORF18:gid:tdaB:pid:AFO93379.1:loc:17817:18516:strand:- -            232   2.3e-06   28.0   0.0   1   1   7.9e-10   4.1e-06   27.1   0.0    26    90   152   216   111   218 0.91 Glutathione S-transferase, C-terminal domain
+GST_N                PF02798.24    76 BGC0001362.1_ORF18:gid:tdaB:pid:AFO93379.1:loc:17817:18516:strand:- -            232   1.9e-05   25.1   0.0   1   1   9.7e-09     5e-05   23.7   0.0    11    76    18    78    15    78 0.94 Glutathione S-transferase, N-terminal domain
+LysR_substrate       PF03466.24   209 BGC0001362.1_ORF19:gid:tdaA:pid:AFO93380.1:loc:18730:19621:strand:- -            296   1.7e-31  109.5   0.2   1   1   2.2e-35   2.3e-31  109.0   0.2     2   205    87   288    86   291 0.96 LysR substrate binding domain
+HTH_1                PF00126.31    60 BGC0001362.1_ORF19:gid:tdaA:pid:AFO93380.1:loc:18730:19621:strand:- -            296   6.3e-22   77.5   0.3   1   1   1.5e-25   1.5e-21   76.3   0.3     2    60     4    62     3    62 0.98 Bacterial regulatory helix-turn-helix protein, lysR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001362.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001362.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001362.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:40:48 2024
+# [ok]

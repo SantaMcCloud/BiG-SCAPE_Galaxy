@@ -1,0 +1,21 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HATPase_c_5          PF14501.10   102 BGC0000619.1_ORF2:gid:gatK:pid:BAM09400.1:loc:310:1618:strand:+ -            435     9e-12   45.0   3.3   1   1   1.1e-15   2.2e-11   43.8   3.3     1   101   319   427   319   428 0.79 GHKL domain
+LytTR                PF04397.19    98 BGC0000619.1_ORF3:gid:gatR:pid:BAM09401.1:loc:1614:2412:strand:+ -            265   3.2e-13   49.9   0.7   1   1   8.7e-17   9.1e-13   48.5   0.7     6    97   168   256   163   257 0.92 LytTr DNA-binding domain
+Response_reg         PF00072.28   111 BGC0000619.1_ORF3:gid:gatR:pid:BAM09401.1:loc:1614:2412:strand:+ -            265   3.6e-09   37.0   1.2   1   1   5.7e-12     6e-08   33.0   0.5    30   110    49   135     5   136 0.78 Response regulator receiver domain
+ABC_membrane         PF00664.27   274 BGC0000619.1_ORF4:gid:gatT:pid:BAM09402.1:loc:2424:4584:strand:+ -            719   5.8e-65  219.9  20.8   1   1   1.4e-68   9.8e-65  219.1  20.8     1   274   169   439   169   439 0.99 ABC transporter transmembrane region
+Peptidase_C39        PF03412.19   133 BGC0000619.1_ORF4:gid:gatT:pid:BAM09402.1:loc:2424:4584:strand:+ -            719   5.2e-45  152.7   0.2   1   1   8.6e-48     6e-44  149.3   0.0     2   132     7   143     6   144 0.97 Peptidase C39 family
+ABC_tran             PF00005.31   137 BGC0000619.1_ORF4:gid:gatT:pid:BAM09402.1:loc:2424:4584:strand:+ -            719   2.7e-29  102.8   0.0   1   1   8.7e-33     6e-29  101.6   0.0     1   136   501   650   501   651 0.90 ABC transporter
+Bacteriocin_IIc      PF10439.13    62 BGC0000619.1_ORF7:gid:gatA:pid:BAM09405.1:loc:5489:5717:strand:+ -             75   1.2e-10   41.5  17.3   1   1   5.7e-14   1.2e-09   38.3  17.3     1    59     1    72     1    75 0.97 Bacteriocin class II with double-glycine leader peptide
+Bacteriocin_IIc      PF10439.13    62 BGC0000619.1_ORF8:gid:gatX:pid:BAM09406.1:loc:5726:5924:strand:+ -             65   3.6e-10   39.9   6.6   1   1   1.9e-14   3.9e-10   39.8   6.6     4    62     3    60     1    60 0.95 Bacteriocin class II with double-glycine leader peptide
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000619.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000619.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000619.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:34:34 2024
+# [ok]

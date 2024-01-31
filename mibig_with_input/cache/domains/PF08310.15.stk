@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+
+BGC0001010.1_ORF3:gid::pid:CAD89766.1:loc:3092:4529:strand:-:441:478         LGYPVSDEYA--VSEGRESEFQKG....FLTFNAATGAVSVR---------------mk
+#=GR BGC0001010.1_ORF3:gid::pid:CAD89766.1:loc:3092:4529:strand:-:441:478 PP 9*******88..999*********....***********997...............78
+BGC0001010.1_ORF3:gid::pid:CAD89766.1:loc:3092:4529:strand:-:383:439         LGYPTTNEMTTPDGVGRYNHFKKGttlgSIYWTPATGAHEVHGRIRDKWAELGWERG..
+#=GR BGC0001010.1_ORF3:gid::pid:CAD89766.1:loc:3092:4529:strand:-:383:439 PP 9********************9955555***************************98..
+BGC0001010.1_ORF3:gid::pid:CAD89766.1:loc:3092:4529:strand:-:325:381         LGYPITGEKPTPDGVGRFNHFKKGttlgSIYWTPETGAWEVHGLIRAKWESLGWET-s.
+#=GR BGC0001010.1_ORF3:gid::pid:CAD89766.1:loc:3092:4529:strand:-:325:381 PP 9********************9955555***************************8.6.
+BGC0001010.1_ORF3:gid::pid:CAD89766.1:loc:3092:4529:strand:-:271:323         LGPCTTNELPTPDGVGRFNHFQNG....SIYWTPETGAWEVHGLIRARWESLGWET-s.
+#=GR BGC0001010.1_ORF3:gid::pid:CAD89766.1:loc:3092:4529:strand:-:271:323 PP 9***********************....***************************8.5.
+BGC0001009.1_ORF3:gid::pid:CAD89766.1:loc:3092:4529:strand:-:441:478         LGYPVSDEYA--VSEGRESEFQKG....FLTFNAATGAVSVR---------------mk
+#=GR BGC0001009.1_ORF3:gid::pid:CAD89766.1:loc:3092:4529:strand:-:441:478 PP 9*******88..999*********....***********997...............78
+BGC0001009.1_ORF3:gid::pid:CAD89766.1:loc:3092:4529:strand:-:383:439         LGYPTTNEMTTPDGVGRYNHFKKGttlgSIYWTPATGAHEVHGRIRDKWAELGWERG..
+#=GR BGC0001009.1_ORF3:gid::pid:CAD89766.1:loc:3092:4529:strand:-:383:439 PP 9********************9955555***************************98..
+BGC0001009.1_ORF3:gid::pid:CAD89766.1:loc:3092:4529:strand:-:325:381         LGYPITGEKPTPDGVGRFNHFKKGttlgSIYWTPETGAWEVHGLIRAKWESLGWET-s.
+#=GR BGC0001009.1_ORF3:gid::pid:CAD89766.1:loc:3092:4529:strand:-:325:381 PP 9********************9955555***************************8.6.
+BGC0001009.1_ORF3:gid::pid:CAD89766.1:loc:3092:4529:strand:-:271:323         LGPCTTNELPTPDGVGRFNHFQNG....SIYWTPETGAWEVHGLIRARWESLGWET-s.
+#=GR BGC0001009.1_ORF3:gid::pid:CAD89766.1:loc:3092:4529:strand:-:271:323 PP 9***********************....***************************8.5.
+#=GC PP_cons                                                                 9********9*************8....*************9*************88..
+#=GC RF                                                                      xxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

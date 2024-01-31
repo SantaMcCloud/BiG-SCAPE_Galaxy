@@ -1,0 +1,9 @@
+# STOCKHOLM 1.0
+
+BGC0000780.1_ORF54:gid::pid:BAG50502.1:loc:55287:58110:strand:+:20:128         ea--NATLPDVCLTTVGNAVVPIPYGNNAKSADLVEGTTTVTADGGNSiALKDSKFAKSSGDAGGDKKGVASGTIESEAEFISASPNVIIEGKGVARLSDQMTMNKANTM-c
+#=GR BGC0000780.1_ORF54:gid::pid:BAG50502.1:loc:55287:58110:strand:+:20:128 PP 86..6899**************************************9999**********************************************************98.6
+BGC0001096.1_ORF1:gid::pid:ADH01476.1:loc:431:791:strand:+:1:105               ma---LSGSDVCKTPPLA--IPVSYSNIANKPEAVPNVTNIIYAGGPV.HNMNTIIPVTHSDEPGSMGGVASGTVSAQSRHVTGSGKVLIQGSPQTRLTDTNLPNNQNTSG.
+#=GR BGC0001096.1_ORF1:gid::pid:ADH01476.1:loc:431:791:strand:+:1:105       PP 65...5668*******87..9999************************.***********************************************************975.
+#=GC PP_cons                                                                   ....66789*******98******************************.***********************************************************975.
+#=GC RF                                                                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

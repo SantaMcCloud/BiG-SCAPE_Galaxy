@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000695.1_ORF42:gid:MolJ05.4c:pid:CAG38672.1:loc:44074:45499:strand:-:83:326         sal---ASLQQERRLSVAYLAQP-....-SRDLQKLLDRRQQTDQRIAAMRS-AADSALGnAPQSIATQWRTLAGHLDELPGVRSTIDARSADQQGVYDFYNDLLDAATGLFDTQARIVPDVTAAQGGIAATETFRASDLMSRAGSKIDGAFGSRSFGQQDYLEFVSLVGAYHAGLANVAPHLQADVRRRHEGITAGSPW
+#=GR BGC0000695.1_ORF42:gid:MolJ05.4c:pid:CAG38672.1:loc:44074:45499:strand:-:83:326 PP 875...68*************86......667788****************8.66788888*******************************************************************************************************************************************
+BGC0001197.1_ORF1:gid::pid:ABW11816.1:loc:0:3399:strand:+:55:296                        ...NLVHVLQRERYATNSYVGSNFlipmL---GQQAVDARKPVDDALAIYLA-DEQALPAsARDALGSTLSSIRTHLDQLGEHRKQIDAHQTEIASNGAFYNEAVNELLLLNARIAAGSSDAKLVNGSTTLAGIAQAKEQASQQRGSVAQMLSMGNPTPQMLRALLAYAGAETAWTEQFRSTATPAELELFTNTV-GRSA
+#=GR BGC0001197.1_ORF1:gid::pid:ABW11816.1:loc:0:3399:strand:+:55:296                PP ...69****************96465431...556889***********997.66788888999*****************************************************************************************999***************************************.7899
+#=GC PP_cons                                                                            ...69*89*************864....166767799**************7.6678888.***************************************************************************************************************************************9999
+#=GC RF                                                                                 ...xxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000695.1_ORF42:gid:MolJ05.4c:pid:CAG38672.1:loc:44074:45499:strand:-:83:326         KQLVAAENALIAGGpwrdG--MPrALpfTRAEWDTLTQQVSDDLINLTVEQADK--vs
+#=GR BGC0000695.1_ORF42:gid:MolJ05.4c:pid:CAG38672.1:loc:44074:45499:strand:-:83:326 PP **********977788543..33233447788************8887777765..68
+BGC0001197.1_ORF1:gid::pid:ABW11816.1:loc:0:3399:strand:+:55:296                        TGVNQMRDDVVNRF....SGQQApDV..GLEAWRTAADSKIAQMHDVEVQIANDL-a.
+#=GR BGC0001197.1_ORF1:gid::pid:ABW11816.1:loc:0:3399:strand:+:55:296                PP ***********988....66656588..8889*********************98.5.
+#=GC PP_cons                                                                            ***********888....46644.55..8888************99998888878...
+#=GC RF                                                                                 xxxxxxxxxxxxxx....xxxxx.xx..xxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

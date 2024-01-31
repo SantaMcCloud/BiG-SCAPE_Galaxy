@@ -1,0 +1,33 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.30   252 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   1.7e-79  267.2   0.0   1   1   2.9e-82   2.9e-79  266.4   0.0     2   252    10   260     9   260 0.97 Beta-ketoacyl synthase, N-terminal domain
+AMP-binding          PF00501.32   382 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738     9e-73  245.5   0.5   1   1   1.4e-75   1.4e-72  244.8   0.5     1   382  2795  3150  2795  3150 0.87 AMP-binding enzyme
+Condensation         PF00668.24   456 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   5.3e-68  230.0   0.7   1   1     9e-71     9e-68  229.2   0.7     6   444  2344  2763  2340  2773 0.90 Condensation domain
+KR                   PF08659.14   180 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738     1e-55  188.7   3.3   1   1   1.6e-58   1.5e-55  188.0   0.3     2   178  1914  2088  1913  2090 0.98 KR domain
+Acyl_transf_1        PF00698.25   319 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   1.3e-47  163.0   0.1   1   1   4.7e-50   4.6e-47  161.2   0.1     3   303   548   868   547   880 0.85 Acyl transferase domain
+NAD_binding_4        PF07993.16   258 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   3.6e-45  154.3   0.0   1   1   1.2e-46   1.2e-43  149.4   0.0     1   257  3434  3656  3434  3657 0.89 Male sterility protein
+Ketoacyl-synt_C      PF02801.26   119 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   5.4e-30  104.0   0.0   1   1   1.3e-32   1.2e-29  102.9   0.0     2   116   269   386   268   389 0.96 Beta-ketoacyl synthase, C-terminal domain
+PS-DH                PF14765.10   164 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   5.3e-24   84.8   0.1   1   1   3.1e-26   3.1e-23   82.3   0.0    15   163  1085  1235  1072  1236 0.91 Polyketide synthase dehydratase N-terminal domain
+PP-binding           PF00550.29    67 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   6.6e-19   68.1   0.4   1   2   3.5e-08   3.5e-05   24.2   0.1     3    65  2203  2265  2201  2267 0.92 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   6.6e-19   68.1   0.4   2   2   1.5e-13   1.4e-10   41.4   0.0    10    65  3331  3386  3322  3388 0.89 Phosphopantetheine attachment site
+Methyltransf_12      PF08242.16    98 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   5.3e-17   62.5   0.0   1   1   1.7e-19   1.6e-16   61.0   0.0     1    98  1412  1513  1412  1513 0.94 Methyltransferase domain
+Epimerase            PF01370.25   240 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   2.1e-16   60.3   0.0   1   1   3.6e-15   3.6e-12   46.4   0.0     2   187  3433  3627  3432  3657 0.78 NAD dependent epimerase/dehydratase family
+PKS_DH_N             PF21089.1    103 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738     2e-16   60.0   0.0   1   1   7.9e-19   7.8e-16   58.1   0.0     1    91   935  1027   935  1039 0.91 Polyketide synthase dehydratase domain
+Methyltransf_23      PF13489.10   163 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   5.2e-15   55.7   0.0   1   1   1.3e-17   1.3e-14   54.4   0.0    18   160  1403  1565  1389  1568 0.73 Methyltransferase domain
+adh_short            PF00106.29   195 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   5.5e-15   55.6   0.2   1   1   2.8e-17   2.8e-14   53.3   0.1     3   180  1915  2086  1913  2097 0.86 short chain dehydrogenase
+KAsynt_C_assoc       PF16197.9    111 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   8.6e-13   48.9   0.0   1   1   2.2e-15   2.2e-12   47.6   0.0    11   109   400   507   392   508 0.86 Ketoacyl-synthetase C-terminal extension
+3Beta_HSD            PF01073.23   280 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   2.2e-10   40.2   0.0   1   1   2.8e-08   2.7e-05   23.5   0.0     2   120  3434  3555  3433  3620 0.86 3-beta hydroxysteroid dehydrogenase/isomerase family
+Methyltransf_11      PF08241.16    95 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   7.8e-10   39.5   0.0   1   1     3e-12     3e-09   37.6   0.0     1    94  1412  1514  1412  1515 0.88 Methyltransferase domain
+Methyltransf_25      PF13649.10    97 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   1.3e-09   38.8   0.0   1   1   2.4e-11   2.4e-08   34.8   0.0     1    97  1411  1511  1411  1511 0.85 Methyltransferase domain
+Ubie_methyltran      PF01209.22   233 BGC0001268.1_ORF1:gid:fusA:pid:AFP73394.1:loc:894:12763:strand:+ -           3738   1.9e-05   24.4   0.0   1   1   4.7e-08   4.6e-05   23.1   0.0    30   156  1389  1520  1366  1534 0.80 ubiE/COQ5 methyltransferase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001268.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001268.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001268.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:42:20 2024
+# [ok]

@@ -1,0 +1,32 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+polyprenyl_synt      PF00348.21   251 BGC0000648.1_ORF1:gid:ORF1:pid:CAA79955.1:loc:1057:2143:strand:+ -            361   2.1e-48  164.9   0.0   1   1   1.2e-52   2.5e-48  164.7   0.0     2   235    51   294    50   312 0.90 Polyprenyl synthetase
+Amino_oxidase        PF01593.28   443 BGC0000648.1_ORF2:gid:ORF2:pid:CAA79956.1:loc:2150:3704:strand:+ -            517   6.6e-42  144.5   0.4   1   1   3.3e-45   7.6e-42  144.3   0.4     2   442    18   491    17   492 0.80 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.10    68 BGC0000648.1_ORF2:gid:ORF2:pid:CAA79956.1:loc:2150:3704:strand:+ -            517   1.4e-15   57.5   0.1   1   1   1.5e-18   3.5e-15   56.2   0.1     1    60    12    71    12    78 0.91 NAD(P)-binding Rossmann-like domain
+DAO                  PF01266.28   353 BGC0000648.1_ORF2:gid:ORF2:pid:CAA79956.1:loc:2150:3704:strand:+ -            517   8.9e-14   52.0   5.1   1   1   4.3e-10   9.9e-07   28.8   0.1   126   353   210   490   166   490 0.65 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.28   414 BGC0000648.1_ORF2:gid:ORF2:pid:CAA79956.1:loc:2150:3704:strand:+ -            517     3e-08   33.5   1.4   1   1   1.4e-09   3.1e-06   26.8   1.1     2    36    10    44     9    48 0.93 FAD binding domain
+SQS_PSY              PF00494.23   263 BGC0000648.1_ORF3:gid:ORF3:pid:CAA79957.1:loc:3700:4711:strand:+ -            336   3.5e-79  266.4  13.0   1   1     2e-83   4.2e-79  266.1  13.0     2   263    22   302    21   302 0.90 Squalene/phytoene synthase
+Amino_oxidase        PF01593.28   443 BGC0000648.1_ORF4:gid:ORF4:pid:CAA79958.1:loc:4771:6229:strand:+ -            485   2.5e-23   83.3   3.7   1   1   3.4e-26   1.2e-22   81.1   3.7     1   440    13   475    13   477 0.77 Flavin containing amine oxidoreductase
+DAO                  PF01266.28   353 BGC0000648.1_ORF4:gid:ORF4:pid:CAA79958.1:loc:4771:6229:strand:+ -            485   7.1e-14   52.3  14.2   1   1     2e-15   7.1e-12   45.7  14.2     1   353     5   476     5   476 0.60 FAD dependent oxidoreductase
+NAD_binding_8        PF13450.10    68 BGC0000648.1_ORF4:gid:ORF4:pid:CAA79958.1:loc:4771:6229:strand:+ -            485   8.7e-14   51.8   2.6   1   1   4.6e-17   1.6e-13   50.9   0.8     1    55     8    62     8    72 0.91 NAD(P)-binding Rossmann-like domain
+FAD_oxidored         PF12831.11   414 BGC0000648.1_ORF4:gid:ORF4:pid:CAA79958.1:loc:4771:6229:strand:+ -            485   5.8e-07   29.4   1.0   1   1   4.9e-10   1.7e-06   27.8   1.3     2    63     6    71     5    85 0.84 FAD dependent oxidoreductase
+Glyco_transf_21      PF13506.10   173 BGC0000648.1_ORF6:gid:ORF6:pid:CAA79960.1:loc:7148:8261:strand:+ -            370     4e-05   23.4   0.0   1   1   4.6e-09   9.6e-05   22.2   0.0    10   172    91   249    84   250 0.73 Glycosyl transferase family 21
+Lycopene_cyc         PF18916.4     92 BGC0000648.1_ORF7:gid:ORF7:pid:CAA79961.1:loc:8257:8644:strand:+ -            128   2.2e-07   31.5   3.2   1   1   1.3e-11   2.7e-07   31.2   3.2     7    86     6    89     1    93 0.62 Lycopene cyclase
+Acyltransferase      PF01553.25   132 BGC0000648.1_ORF9:gid:ORF9:pid:CAA79963.1:loc:8987:9665:strand:+ -            225   1.4e-08   34.8   0.0   1   1   9.8e-13     2e-08   34.3   0.0    16   131    42   155    31   156 0.88 Acyltransferase
+MerR_1               PF13411.10    69 BGC0000648.1_ORF10:gid:carA:pid:CAA79964.1:loc:9661:10528:strand:+ -            288   2.1e-13   50.4   1.4   1   1   3.4e-17   3.5e-13   49.7   0.7     2    62     4    67     3    72 0.90 MerR HTH family regulatory protein
+B12-binding          PF02310.23   121 BGC0000648.1_ORF10:gid:carA:pid:CAA79964.1:loc:9661:10528:strand:+ -            288   9.3e-12   45.1   0.1   1   1   1.8e-15   1.8e-11   44.1   0.0     2   106   164   266   163   277 0.85 B12 binding domain
+MerR_1               PF13411.10    69 BGC0000648.1_ORF11:gid:carH:pid:CAA79965.2:loc:10543:11443:strand:+ -            299     2e-16   60.0   0.2   1   1   6.4e-20   3.3e-16   59.3   0.2     1    68     6    74     6    75 0.96 MerR HTH family regulatory protein
+B12-binding          PF02310.23   121 BGC0000648.1_ORF11:gid:carH:pid:CAA79965.2:loc:10543:11443:strand:+ -            299   8.2e-14   51.7   0.0   1   1   2.8e-17   1.5e-13   50.9   0.0     2   112   182   290   181   294 0.89 B12 binding domain
+B12-binding_2        PF02607.21    74 BGC0000648.1_ORF11:gid:carH:pid:CAA79965.2:loc:10543:11443:strand:+ -            299   4.3e-13   49.4   0.0   1   1   2.4e-16   1.2e-12   48.0   0.0     2    70   100   168    99   171 0.93 B12 binding domain
+MerR                 PF00376.27    38 BGC0000648.1_ORF11:gid:carH:pid:CAA79965.2:loc:10543:11443:strand:+ -            299   6.5e-07   29.3   2.1   1   1   1.2e-10   6.5e-07   29.3   2.1     2    38     8    44     7    44 0.94 MerR family regulatory protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000648.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000648.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000648.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:38:26 2024
+# [ok]

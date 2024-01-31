@@ -1,0 +1,50 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="113.83333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="103.83333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>cpsD
+CpsD</title>
+			<polygon class="cpsD
+CpsD" points="10,10 14,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>cpsE
+CpsE</title>
+			<polygon class="cpsE
+CpsE" points="15,25 30,25 30,10 60,40 30,70 30,55 15,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_transf (PF02397)
+"Bacterial sugar transferase"</title>
+				<polygon class="PF02397" points="40,28 43,28 55,40 43,52 40,52" stroke-linejoin="round" width="18" height="24" fill="rgb(100,199,213)" stroke="rgb(80,159,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cpsF
+CpsF</title>
+			<polygon class="cpsF
+CpsF" points="61,10 76,40 61,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Alg14 (PF08660)
+"Oligosaccharide biosynthesis protein Alg14 like"</title>
+				<polygon class="PF08660" points="61,28 66,28 72,40 66,52 61,52" stroke-linejoin="round" width="14" height="24" fill="rgb(68,151,206)" stroke="rgb(54,120,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cpsG
+CpsG</title>
+			<polygon class="cpsG
+CpsG" points="76,10 91,40 76,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_tran_28_C (PF04101)
+"Glycosyltransferase family 28 C-terminal domain"</title>
+				<polygon class="PF04101" points="76,28 81,28 88,40 81,52 76,52" stroke-linejoin="round" width="15" height="24" fill="rgb(77,119,200)" stroke="rgb(61,95,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cpsH
+CpsH</title>
+			<polygon class="cpsH
+CpsH" points="92,10 103,40 92,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

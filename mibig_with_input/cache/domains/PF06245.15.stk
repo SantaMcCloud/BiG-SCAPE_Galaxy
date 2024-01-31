@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF890:gid::pid::loc:1036769:1038020:strand:+:4:328         ..........IKPFKAIR-PNKYIVDKVAALPYDVMNSKEARRIAEGNPYSFLHIDKSEIDLDENIDLYDekVYLKARENLYEFRKQEILVKDDKECIYIYKQIM--DGRAQVGIVACISVDESLNGT.IKKHEYTRPEKEIDRTKHIKYCDANTGTILVTYKHQRVIDDIINDF-MDNNEPLYDFITD-DKIEHTVWKI
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF890:gid::pid::loc:1036769:1038020:strand:+:4:328 PP ..........89******.99999*********************************************************************************..8********************.**********************************************.77999*****777.**********
+GCF_008000775.1_ORF1251:gid::pid:WP_147662360.1:loc:1360696:1361896:strand:-:4:310            ispikpflpk-------------NPKEFCTNPYDIIDQQEELEL-KKNPNSLIHLILPDG-----TGDE-..VYENAKKALVQLKENNAIIQEKIQSIFVYRQES--PNFSQQGFIMGSSLEDYDNGKgILKHEYTRAKPLADRTKHITITHMAAGLVWNVYKSNEKINSVMEDI-KKQ-DPLYDF-QK-YGYRQILWKE
+#=GR GCF_008000775.1_ORF1251:gid::pid:WP_147662360.1:loc:1360696:1361896:strand:-:4:310    PP 8765555544.............4678999***********999.89**********954.....3334...*********************************..57******************************************************************.645.6*****.66.9*********
+#=GC PP_cons                                                                                  ..........89******.999978899***************9*9************87*****6767*..*********************************..68*******************.**********************************************.66798*****777.9*********
+#=GC RF                                                                                       ..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF890:gid::pid::loc:1036769:1038020:strand:+:4:328         DSDDIIDNLVDKFEKLDYLYIADGHHRTASAENVAKEMR-AKNPNYTGKEEFNYFIAMIAPDEN--LMVLDYNRVIKDLNGLSEEEFINKIKENFEL....EeiegkekyKPDKKGTFGMYL-GDKWYKMKANKNLLEIEDPV-DSLDIS.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF890:gid::pid::loc:1036769:1038020:strand:+:4:328 PP **************************************7.***99*******************..*****************************99....445566789************.778******77743344599.***975.
+GCF_008000775.1_ORF1251:gid::pid:WP_147662360.1:loc:1360696:1361896:strand:-:4:310            SDPEIIQKLKNLF-KNEKLYIADGHHRCASANEYRKLK-IKEGKKPTGKEPWEYLLNYVSSDDQ--IKVMAYNRVIRKL-PITEEDFMKRLNEIYCIipvtEg......fNPKEKHEVALCC-KGKWYKLEV-KS--KKFANIRDSLDV-a
+#=GR GCF_008000775.1_ORF1251:gid::pid:WP_147662360.1:loc:1360696:1361896:strand:-:4:310    PP *************.*********************666.4666568******************..************9.89***********8866565527......88***********.999******.88..668888899998.5
+#=GC PP_cons                                                                                  ***********************************88874888789******************..**************9************9988....3........9***********.888******7774345669989**985.
+#=GC RF                                                                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....x........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

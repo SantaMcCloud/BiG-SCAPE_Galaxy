@@ -1,0 +1,32 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CPSase_L_D2          PF02786.21   211 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020  3.8e-108  360.1   0.0   1   2   2.1e-76   5.4e-73  245.2   0.0     1   210   128   333   128   334 0.99 Carbamoyl-phosphate synthase L chain, ATP binding domain
+CPSase_L_D2          PF02786.21   211 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020  3.8e-108  360.1   0.0   2   2   6.6e-36   1.7e-32  112.8   0.0     1   209   664   863   664   865 0.94 Carbamoyl-phosphate synthase L chain, ATP binding domain
+Dala_Dala_lig_C      PF07478.17   204 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020   1.2e-19   70.9   0.0   1   2     3e-11   7.7e-08   32.3   0.0    28   174   155   301   140   311 0.82 D-ala D-ala ligase C-terminus
+Dala_Dala_lig_C      PF07478.17   204 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020   1.2e-19   70.9   0.0   2   2   2.4e-12   6.2e-09   35.8   0.0    28   174   691   832   676   855 0.82 D-ala D-ala ligase C-terminus
+ATP-grasp            PF02222.26   171 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020   9.1e-18   64.6   0.0   1   2   1.3e-11   3.4e-08   33.5   0.0     2   161   137   304   136   311 0.88 ATP-grasp domain
+ATP-grasp            PF02222.26   171 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020   9.1e-18   64.6   0.0   2   2   4.1e-10   1.1e-06   28.6   0.0     5   160   676   834   672   838 0.84 ATP-grasp domain
+ATP-grasp_3          PF02655.18   160 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020   4.8e-17   62.7   0.0   1   1   1.6e-12   4.2e-09   36.9   0.0    28   157   696   834   676   837 0.83 ATP-grasp domain
+CPSase_L_D3          PF02787.23    80 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020   5.3e-17   61.8   0.0   1   1   5.5e-20   1.4e-16   60.4   0.0     2    78   424   497   423   499 0.95 Carbamoyl-phosphate synthetase large chain, oligomerisation domain
+GATase               PF00117.32   190 BGC0000895.1_ORF3:gid:carA:pid:CAA68238.2:loc:3538:4606:strand:- -            355   1.4e-42  145.7   0.0   1   1   2.9e-46     2e-42  145.2   0.0     6   188   173   344   168   346 0.94 Glutamine amidotransferase class-I
+CPSase_sm_chain      PF00988.26   126 BGC0000895.1_ORF3:gid:carA:pid:CAA68238.2:loc:3538:4606:strand:- -            355   3.4e-42  143.5   0.2   1   1   7.3e-46     5e-42  142.9   0.2     1   125     5   130     5   131 0.97 Carbamoyl-phosphate synthase small chain, CPSase domain
+Peptidase_C26        PF07722.17   219 BGC0000895.1_ORF3:gid:carA:pid:CAA68238.2:loc:3538:4606:strand:- -            355   5.5e-08   33.0   1.3   1   1   2.3e-09   1.6e-05   25.0   0.5   100   219   229   328   217   328 0.76 Peptidase C26
+Semialdhyde_dhC      PF02774.22   184 BGC0000895.1_ORF4:gid:argC:pid:CAA68239.1:loc:4873:5899:strand:+ -            341   5.8e-36  124.5   0.4   1   1   8.8e-40   9.1e-36  123.9   0.4     1   184   155   312   155   312 0.98 Semialdehyde dehydrogenase, dimerisation domain
+Semialdhyde_dh       PF01118.28   121 BGC0000895.1_ORF4:gid:argC:pid:CAA68239.1:loc:4873:5899:strand:+ -            341   1.2e-20   74.3   0.0   1   1   2.5e-24   2.6e-20   73.2   0.0     1   111     2   131     2   164 0.86 Semialdehyde dehydrogenase, NAD binding domain
+ArgJ                 PF01960.22   377 BGC0000895.1_ORF5:gid:argJ:pid:CAA68240.1:loc:5923:7138:strand:+ -            404  1.3e-141  471.9   5.9   1   1    7e-146  1.5e-141  471.7   5.9     3   377    25   404    23   404 0.98 ArgJ family
+AA_kinase            PF00696.32   232 BGC0000895.1_ORF6:gid:argB:pid:CAA68241.1:loc:7153:7900:strand:+ -            248   2.8e-41  142.0   1.6   1   1   1.5e-45   3.1e-41  141.8   1.6     1   232     3   233     3   233 0.97 Amino acid kinase family
+Aminotran_3          PF00202.25   403 BGC0000895.1_ORF7:gid:argD:pid:CAA68242.1:loc:7896:9066:strand:+ -            389  1.1e-101  340.6   0.8   1   1  1.5e-105  1.6e-101  340.2   0.8     6   403    10   378     6   378 0.95 Aminotransferase class-III
+OTCace               PF00185.28   157 BGC0000895.1_ORF8:gid:argF:pid:CAA68243.1:loc:9058:10081:strand:+ -            340   1.8e-48  164.8   0.0   1   1   2.5e-52   2.6e-48  164.3   0.0     1   156   154   327   154   328 0.98 Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain
+OTCace_N             PF02729.25   148 BGC0000895.1_ORF8:gid:argF:pid:CAA68243.1:loc:9058:10081:strand:+ -            340     2e-43  148.2   0.0   1   1     3e-47   3.2e-43  147.5   0.0     1   148     8   148     8   148 0.98 Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain
+QueT                 PF06177.15   141 BGC0000895.1_ORF9:gid:ccl:pid:CAA68244.1:loc:10189:10696:strand:+ -            168   3.1e-30  105.6  15.5   1   1   1.7e-34   3.4e-30  105.4  15.5     2   140    10   158     9   159 0.89 QueT transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000895.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000895.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000895.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:36:29 2024
+# [ok]

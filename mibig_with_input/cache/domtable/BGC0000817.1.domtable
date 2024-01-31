@@ -1,0 +1,19 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_2       PF00891.22   210 BGC0000817.1_ORF1:gid:marM:pid:AHE14572.1:loc:0:1056:strand:- -            351   7.1e-49  166.2   0.0   1   1   1.4e-52   9.4e-49  165.8   0.0     1   210   112   329   112   329 0.89 O-methyltransferase domain
+Dimerisation2        PF16864.9     90 BGC0000817.1_ORF1:gid:marM:pid:AHE14572.1:loc:0:1056:strand:- -            351   4.8e-09   36.2   0.0   1   1   1.4e-12   9.5e-09   35.3   0.0     2    82    15    90    14    96 0.92 Dimerisation domain
+Ferritin-like        PF12902.11   221 BGC0000817.1_ORF2:gid:marB:pid:AHE14562.1:loc:1409:4838:strand:+ -           1142   2.4e-34  119.3   0.0   1   1     2e-38   4.2e-34  118.5   0.0     1   220   715   968   715   969 0.85 Ferritin-like
+Rieske               PF00355.30    88 BGC0000817.1_ORF3:gid:marC:pid:AHE14552.1:loc:4883:6221:strand:+ -            445   2.7e-17   62.6   0.0   1   1   6.4e-21   6.6e-17   61.4   0.0     2    83    27   109    26   126 0.86 Rieske [2Fe-2S] domain
+LigXa_C              PF19301.3    303 BGC0000817.1_ORF3:gid:marC:pid:AHE14552.1:loc:4883:6221:strand:+ -            445   1.5e-12   47.6   0.1   1   1   1.7e-10   1.7e-06   27.6   0.0   208   257   314   363   308   375 0.92 LigXa C-terminal domain like
+VioE                 PF18234.5    182 BGC0000817.1_ORF4:gid:marE:pid:AHE14571.1:loc:6217:6814:strand:+ -            198   5.2e-60  202.9   0.0   1   1   2.8e-64   5.9e-60  202.8   0.0     1   182     8   190     8   190 0.98 Violacein biosynthetic enzyme VioE
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000817.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000817.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000817.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:27:48 2024
+# [ok]

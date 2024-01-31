@@ -1,0 +1,18 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.26   462 BGC0001315.1_ORF1:gid::pid:KGN46388.1:loc:0:1959:strand:- -            508   1.1e-96  324.7   0.0   1   1  6.2e-101   1.3e-96  324.4   0.0     1   455    37   490    37   495 0.89 Cytochrome P450
+p450                 PF00067.26   462 BGC0001315.1_ORF2:gid::pid:KGN46389.1:loc:3304:4867:strand:+ -            520   7.1e-85  285.7   0.0   1   1   4.1e-89   8.5e-85  285.4   0.0     1   453    35   509    35   517 0.89 Cytochrome P450
+p450                 PF00067.26   462 BGC0001315.1_ORF3:gid::pid:KGN46390.1:loc:7757:9421:strand:- -            507  9.4e-100  334.7   0.0   1   1  5.7e-104   1.2e-99  334.4   0.0     1   455    32   486    32   490 0.91 Cytochrome P450
+Transferase          PF02458.19   434 BGC0001315.1_ORF5:gid::pid:KGN46392.1:loc:29483:30785:strand:- -            433   4.4e-96  322.4   0.0   1   1  2.4e-100   5.1e-96  322.2   0.0     1   432     3   417     3   419 0.89 Transferase family
+p450                 PF00067.26   462 BGC0001315.1_ORF6:gid::pid:KGN46393.1:loc:32410:34908:strand:+ -            481   6.4e-53  180.3   0.0   1   1   4.1e-57   8.5e-53  179.9   0.0     1   445    40   464    40   473 0.85 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001315.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001315.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001315.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:23:51 2024
+# [ok]

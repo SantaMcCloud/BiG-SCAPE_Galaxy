@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1377:gid::pid::loc:1573965:1576122:strand:+:3:157          i-KIGLIGNPNCGKTTMFNGLTGSSQYVGNWPGVTVEKKGGKLK-GNKDVEIVDLPGIYSLSPYTLEEVVTRNFMLDDKPDAVINIVDASNIERNLYLTTQVLELG.IPTIIALNMMDIVNKNGDKINIKELSEVIGCPVVEVTAVKGQGIMEAAE--ka
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1377:gid::pid::loc:1573965:1576122:strand:+:3:157  PP 5.799***************************************.99***********************************************************.********************************************98766..58
+GCA_000085225.1_ASM8522v1_genomic_ORF1417:gid::pid::loc:1617341:1619462:strand:-:26:181         f-VIALAGNPNTGKSTVFNHLTGLRQHTGNWPGKTVATARGNFKYKNTEYALIDLPGTYSLFALSQEEIVARDFICFGNPDAVIVVCDATCLERNLNLVFQVMELT.DKVILCINLIDEARKKGITIDKKLLEDSLGIPVILTAARNGSGMDELLDT-l.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1417:gid::pid::loc:1617341:1619462:strand:-:26:181 PP 7.69******************************************************************************************************.***********************************************986.7.
+GCA_000085225.1_ASM8522v1_genomic_ORF3206:gid::pid::loc:3661038:3662985:strand:+:2:154          i-NVALLGNPNVGKTTVFNLLTGSNQYVGNWPGVTIEKKEGFLG---KEIKVVDLPGIYAMDTFSNEEKVSKSYLENEDVDVIVNVVDASNLSRNLYLTTQLMQFN.KPIVILLNMLDIAESKGVNIDAKKLSEELGVIVVPIIAKKKNGVDRIEEEI..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3206:gid::pid::loc:3661038:3662985:strand:+:2:154  PP 5.79*************************************999...9**********************************************************.**********************************************99875..
+GCF_008000775.1_ORF1615:gid:feoB:pid:WP_147662714.1:loc:1748236:1750465:strand:+:11:166         i-HIALAGNPNVGKSVIFNQLTGMSQIVGNWPGKTVKKAEGKCKFKNYIFKIVDLPGIYSLSTYSIEEIISREYIVEEKPDYIINVIDCNQLERNLFFTTQLQMLN.RPMILALNQYDLLLQRGFDIDESKIEEMLGIKAQKVVAVHNRGVHELLEKI..
+#=GR GCF_008000775.1_ORF1615:gid:feoB:pid:WP_147662714.1:loc:1748236:1750465:strand:+:11:166 PP 5.79******************************************************************************************************.***********************************************9986..
+GCF_000011105.1_ORF1126:gid:feoB:pid:WP_010885291.1:loc:1085373:1087359:strand:-:3:159          k-VVALVGNPNVGKTTIFNALTGMRQHVGNWPGVTVEKKEGIMKYKGEEYLIVDLPGIYSMTAHSIDELIARNFILEGNASVIVDIIDSSCLMRNLFLTLELFEMGvKNVIIVLNKIDMIKKKGVKIDIKEMERIFGVPVVPTNAKTGEGLDELKRKI..
+#=GR GCF_000011105.1_ORF1126:gid:feoB:pid:WP_010885291.1:loc:1085373:1087359:strand:-:3:159  PP 7.69******************************************************************************************************557899******************************************9986..
+#=GC PP_cons                                                                                    ..79******************************************************************************************************.99*******************************************999876..
+#=GC RF                                                                                         .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

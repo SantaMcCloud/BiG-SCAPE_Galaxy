@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000484.1_ORF5:gid:gccC:pid:ADV57363.1:loc:4669:5089:strand:+:28:122            .vqeplyhsik--------------------------------------------------------------------------------------------------------------------ATQLQADIKNKKDD--..VVYFYQKGCEGCEHSTPILNRFIRNKRVTVKAIDINADPSKDFIL--------GT
+#=GR BGC0000484.1_ORF5:gid:gccC:pid:ADV57363.1:loc:4669:5089:strand:+:28:122    PP .*988765555....................................................................................................................55555555555554....69**************************************99776........79
+BGC0000487.1_ORF15:gid:trxA:pid:ADO17966.1:loc:11266:11698:strand:+:33:140         vsslkeldtnd---------------------------------------------------------------------------------------------------------------------------LKSLTKQEGthIVYIGRPTCEYCIDFVPKLNKVVKETILEVNYYDTDKNRK-DLQM----TELLTE
+#=GR BGC0000487.1_ORF15:gid:trxA:pid:ADO17966.1:loc:11266:11698:strand:+:33:140 PP *9987776655...........................................................................................................................666666655337888899*******************************87.4555....89****
+#=GC PP_cons                                                                       ...............................................................................................................................5555555666666555..689999********************************9996666....89**8*
+#=GC RF                                                                            ...........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000484.1_ORF5:gid:gccC:pid:ADV57363.1:loc:4669:5089:strand:+:28:122            LGISSTPTILFIHHG----------------------kivqrinqv...........
+#=GR BGC0000484.1_ORF5:gid:gccC:pid:ADV57363.1:loc:4669:5089:strand:+:28:122    PP *********999876......................56788899*...........
+BGC0000487.1_ORF15:gid:trxA:pid:ADO17966.1:loc:11266:11698:strand:+:33:140         LHVETVPAVIVVKDKT---------------------vvkqinptklsaidlenefl
+#=GR BGC0000487.1_ORF15:gid:trxA:pid:ADO17966.1:loc:11266:11698:strand:+:33:140 PP ************9985.....................34445566677777777889
+#=GC PP_cons                                                                       **********999875.........................................
+#=GC RF                                                                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....................
+//

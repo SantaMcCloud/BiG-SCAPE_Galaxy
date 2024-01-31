@@ -1,0 +1,32 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_23      PF13489.10   163 BGC0001173.1_ORF1:gid::pid:WP_034619896.1:loc:0:807:strand:- -            268   5.7e-14   52.3   0.0   1   1   2.8e-17   8.4e-14   51.8   0.0    16   123    56   171    40   202 0.85 Methyltransferase domain
+Methyltransf_25      PF13649.10    97 BGC0001173.1_ORF1:gid::pid:WP_034619896.1:loc:0:807:strand:- -            268   4.7e-13   49.8   0.0   1   1   4.5e-16   1.3e-12   48.4   0.0     1    88    64   145    64   153 0.90 Methyltransferase domain
+Methyltransf_31      PF13847.10   150 BGC0001173.1_ORF1:gid::pid:WP_034619896.1:loc:0:807:strand:- -            268   1.7e-12   47.6   0.0   1   1   7.9e-16   2.3e-12   47.1   0.0     3   114    60   165    58   212 0.82 Methyltransferase domain
+Methyltransf_12      PF08242.16    98 BGC0001173.1_ORF1:gid::pid:WP_034619896.1:loc:0:807:strand:- -            268   2.1e-11   44.6   0.0   1   1   1.5e-14   4.5e-11   43.5   0.0     1    95    65   153    65   156 0.85 Methyltransferase domain
+Methyltransf_11      PF08241.16    95 BGC0001173.1_ORF1:gid::pid:WP_034619896.1:loc:0:807:strand:- -            268   6.8e-11   42.9   0.0   1   1   3.9e-14   1.2e-10   42.1   0.0     1    89    65   152    65   158 0.91 Methyltransferase domain
+MetW                 PF07021.16   193 BGC0001173.1_ORF1:gid::pid:WP_034619896.1:loc:0:807:strand:- -            268   9.3e-06   25.6   0.0   1   1   7.4e-09   2.2e-05   24.4   0.0    16    99    63   147    53   158 0.84 Methionine biosynthesis protein MetW
+Rce1-like            PF02517.20    93 BGC0001173.1_ORF2:gid::pid:WP_003211749.1:loc:832:1504:strand:- -            223   1.9e-09   37.8  15.8   1   1   9.6e-14     2e-09   37.8  10.2     8    93   113   199   106   199 0.91 Type II CAAX prenyl endopeptidase Rce1-like
+Nitroreductase       PF00881.28   168 BGC0001173.1_ORF3:gid::pid:WP_003211436.1:loc:1508:2318:strand:- -            269   1.6e-12   48.2   0.0   1   1   1.1e-16   2.4e-12   47.6   0.0     1   152    90   251    90   269 0.85 Nitroreductase family
+YcaO                 PF02624.20   320 BGC0001173.1_ORF4:gid::pid:WP_003211025.1:loc:2342:3689:strand:- -            448   1.4e-63  215.4   0.0   1   1   8.1e-68   1.7e-63  215.1   0.0     2   319    65   404    64   405 0.92 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Pentapeptide_4       PF13599.10    78 BGC0001173.1_ORF7:gid::pid:WP_003212115.1:loc:6277:6997:strand:- -            239   4.8e-21   75.0  10.1   1   2   1.2e-13   8.1e-10   39.0   1.8     2    73    95   166    94   171 0.93 Pentapeptide repeats (9 copies)
+Pentapeptide_4       PF13599.10    78 BGC0001173.1_ORF7:gid::pid:WP_003212115.1:loc:6277:6997:strand:- -            239   4.8e-21   75.0  10.1   2   2   1.8e-14   1.3e-10   41.6   1.1     1    69   164   232   164   238 0.89 Pentapeptide repeats (9 copies)
+Pentapeptide         PF00805.26    40 BGC0001173.1_ORF7:gid::pid:WP_003212115.1:loc:6277:6997:strand:- -            239   7.6e-13   48.0   0.1   1   1   3.5e-08   0.00024   20.8   0.1     3    34   176   207   174   213 0.87 Pentapeptide repeats (8 copies)
+ABC2_membrane        PF01061.28   211 BGC0001173.1_ORF8:gid::pid:WP_003212220.1:loc:7141:7888:strand:- -            248   4.6e-21   75.5  19.4   1   1   4.4e-25   4.6e-21   75.5  19.4     6   208     4   206     1   208 0.87 ABC-2 type transporter
+ABC2_membrane_3      PF12698.11   347 BGC0001173.1_ORF8:gid::pid:WP_003212220.1:loc:7141:7888:strand:- -            248     7e-19   68.3  21.7   1   1   6.7e-23     7e-19   68.3  21.7   160   346    49   236    43   237 0.88 ABC-2 family transporter protein
+ABC_tran             PF00005.31   137 BGC0001173.1_ORF9:gid::pid:WP_003211121.1:loc:8150:9044:strand:- -            297   2.3e-28   99.7   0.0   1   1   8.2e-32   8.5e-28   97.9   0.0     1   136    17   152    17   153 0.96 ABC transporter
+AAA_21               PF13304.10   304 BGC0001173.1_ORF9:gid::pid:WP_003211121.1:loc:8150:9044:strand:- -            297   3.3e-16   60.3   0.1   1   2   2.8e-10   2.9e-06   27.6   0.1     2    60    30    77    29   110 0.72 AAA domain, putative AbiEii toxin, Type IV TA system
+AAA_21               PF13304.10   304 BGC0001173.1_ORF9:gid::pid:WP_003211121.1:loc:8150:9044:strand:- -            297   3.3e-16   60.3   0.1   2   2   3.1e-11   3.3e-07   30.7   0.0   236   298   123   182    92   188 0.90 AAA domain, putative AbiEii toxin, Type IV TA system
+HTH_34               PF13601.10    80 BGC0001173.1_ORF10:gid::pid:WP_034619900.1:loc:9065:9359:strand:- -             97     9e-25   86.8   0.1   1   1     1e-28     1e-24   86.7   0.1     1    79    15    93    15    94 0.98 Winged helix DNA-binding domain
+HTH_5                PF01022.24    47 BGC0001173.1_ORF10:gid::pid:WP_034619900.1:loc:9065:9359:strand:- -             97   5.3e-05   23.2   0.0   1   1   1.1e-08   0.00011   22.1   0.0     3    45    15    58    13    59 0.93 Bacterial regulatory protein, arsR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001173.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001173.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001173.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:38:31 2024
+# [ok]

@@ -1,0 +1,28 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+EryCIII-like_N       PF21036.1    216 BGC0000586.1_ORF3:gid:mceC:pid:AAL08396.1:loc:1305:2418:strand:+ -            370     1e-55  189.0   0.5   1   1   6.5e-59   4.5e-55  186.9   0.5     1   216    22   211    22   211 0.97 Erythromycin biosynthesis protein CIII-like, N-terminal domain
+EryCIII-like_C       PF06722.16   145 BGC0000586.1_ORF3:gid:mceC:pid:AAL08396.1:loc:1305:2418:strand:+ -            370   3.8e-47  160.0   0.3   1   1   1.6e-50   1.1e-46  158.5   0.0     1   143   224   362   224   364 0.98 Erythromycin biosynthesis protein CIII-like, C-terminal domain
+UDPGT                PF00201.22   499 BGC0000586.1_ORF3:gid:mceC:pid:AAL08396.1:loc:1305:2418:strand:+ -            370   1.1e-06   27.9   0.0   1   1   2.6e-10   1.8e-06   27.3   0.0   319   395   251   325   209   333 0.90 UDP-glucoronosyl and UDP-glucosyl transferase
+Esterase             PF00756.24   249 BGC0000586.1_ORF4:gid:mceD:pid:AAL08397.1:loc:2596:3841:strand:- -            414   6.9e-33  114.6   0.0   1   1   8.6e-37   8.9e-33  114.2   0.0     5   248   192   413   188   414 0.93 Putative esterase
+Enterochelin_N       PF11806.12   121 BGC0000586.1_ORF4:gid:mceD:pid:AAL08397.1:loc:2596:3841:strand:- -            414   6.9e-26   91.5   0.0   1   1   1.2e-29   1.3e-25   90.7   0.0     1   121    59   172    59   172 0.93 Enterochelin esterase, N-terminal
+HlyC                 PF02794.20   127 BGC0000586.1_ORF12:gid:mceI:pid:AAL08402.1:loc:7768:8260:strand:+ -            163   1.3e-11   44.8   0.0   1   1   7.8e-16   1.6e-11   44.4   0.0     3   116    24   140    22   149 0.83 RTX toxin acyltransferase family
+HlyD_3               PF13437.10   106 BGC0000586.1_ORF13:gid:mceH:pid:AAL08401.1:loc:8418:9660:strand:+ -            413   3.8e-16   59.9   0.3   1   1     2e-16   8.2e-13   49.2   0.0     2    92   249   343   248   356 0.90 HlyD family secretion protein
+HlyD_D23             PF16576.9    214 BGC0000586.1_ORF13:gid:mceH:pid:AAL08401.1:loc:8418:9660:strand:+ -            413   4.5e-13   49.2   1.8   1   1   2.9e-12   1.2e-08   34.7   0.2    60   177   188   317   173   334 0.81 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+CusB_dom_1           PF00529.24    80 BGC0000586.1_ORF13:gid:mceH:pid:AAL08401.1:loc:8418:9660:strand:+ -            413   6.5e-13   48.6   0.0   1   1   1.9e-16   8.1e-13   48.3   0.0    12    79    36   386    22   387 0.79 Cation efflux system protein CusB domain 1
+Biotin_lipoyl_2      PF13533.10    50 BGC0000586.1_ORF13:gid:mceH:pid:AAL08401.1:loc:8418:9660:strand:+ -            413   5.5e-10   39.0   3.7   1   1   1.3e-09   5.3e-06   26.3   0.2     3    37    55    89    47    91 0.92 Biotin-lipoyl like
+ABC_membrane         PF00664.27   274 BGC0000586.1_ORF14:gid:mceG:pid:AAL08400.1:loc:9652:11749:strand:+ -            698     4e-53  181.0  16.3   1   1     1e-56   5.4e-53  180.6  16.3     4   272   179   444   176   446 0.99 ABC transporter transmembrane region
+Peptidase_C39        PF03412.19   133 BGC0000586.1_ORF14:gid:mceG:pid:AAL08400.1:loc:9652:11749:strand:+ -            698   2.6e-39  134.3   0.0   1   1   9.4e-43   4.9e-39  133.4   0.0     2   132    21   149    20   150 0.98 Peptidase C39 family
+ABC_tran             PF00005.31   137 BGC0000586.1_ORF14:gid:mceG:pid:AAL08400.1:loc:9652:11749:strand:+ -            698     5e-31  108.4   0.0   1   1   1.9e-34     1e-30  107.4   0.0     3   137   511   658   509   658 0.93 ABC transporter
+Peptidase_C70        PF12385.12   143 BGC0000586.1_ORF14:gid:mceG:pid:AAL08400.1:loc:9652:11749:strand:+ -            698   3.7e-05   23.8   0.0   1   1   1.6e-08   8.5e-05   22.6   0.0     5   139    19   135    15   139 0.78 Papain-like cysteine protease AvrRpt2
+Rce1-like            PF02517.20    93 BGC0000586.1_ORF16:gid:mceF:pid:AAL08399.2:loc:12399:13092:strand:- -            230   5.7e-18   65.2  10.2   1   1   2.7e-22   5.7e-18   65.2  10.2     4    93   123   215   120   215 0.93 Type II CAAX prenyl endopeptidase Rce1-like
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000586.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000586.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000586.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:21:09 2024
+# [ok]

@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+BGC0001352.1_ORF36:gid:tueJ:pid:CUI25713.1:loc:46352:47453:strand:-:279:353                      ........v-TALTAIRPRWCGTAPS-GPGTYTAQLRAHGGETEVTAELVD-GTLHVAFTEPVRGVAPGQAVVLY....DGTRVVGSATI
+#=GR BGC0001352.1_ORF36:gid:tueJ:pid:CUI25713.1:loc:46352:47453:strand:-:279:353              PP ........7.67999**********9.************************.***********************....*********99
+GCA_000085225.1_ASM8522v1_genomic_ORF1169:gid::pid::loc:1347579:1348659:strand:+:279:355         ........k-KELIAKDVNFISIDTLEEPLRVQAKIRYSAKPSPATIHRVGEDTIKIVFDEAQRAITKGQSVVMY....DGDIVVGGGII
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1169:gid::pid::loc:1347579:1348659:strand:+:279:355 PP ........6.799**********9999************************************************....**********9
+BGC0001354.1_ORF15:gid:stuJ:pid:CUI25747.1:loc:26343:27474:strand:-:291:365                      .......vs--ALTAIKPRWCGVAPT-GPGTYTAQLRAHGGETEVTAELVD-GHLEVSFAEPVRGVAPGQAIVLY....DGTRVVGSATI
+#=GR BGC0001354.1_ORF15:gid:stuJ:pid:CUI25747.1:loc:26343:27474:strand:-:291:365              PP .......75..79999*********9.************************.***********************....*********99
+BGC0001355.1_ORF15:gid:ssuJ:pid:CUI25730.1:loc:27216:28347:strand:-:291:365                      ........v-TALTAIKPRWCGAAPT-GPGTYTAQLRAHGGETEVTAELID-GSLEVTFTEPVRGVAPGQAIVLY....DGTRVVGSATI
+#=GR BGC0001355.1_ORF15:gid:ssuJ:pid:CUI25730.1:loc:27216:28347:strand:-:291:365              PP ........7.67999**********9.************************.***********************....*********99
+BGC0001353.1_ORF6:gid:tlmJ:pid:CUI25677.1:loc:14851:15916:strand:+:270:350                       klavtgisa------SSPVSHVELD--GPVECVAQVRAHGGTAPAVAELVD-GVLRVQLREPLKGVAPGQAVAIYredaAGDIVLASATI
+#=GR BGC0001353.1_ORF6:gid:tlmJ:pid:CUI25677.1:loc:14851:15916:strand:+:270:350               PP *99876554......4444444444..79**********************.***********************99999*******998
+BGC0000851.1_ORF1:gid::pid:AAN07906.1:loc:0:228:strand:+:18:65                                   .....ptag--------------------------------ETEVTAEVVG-EELRVSFTEPVRGVAPGQAVVLY....DGTRVVGSATI
+#=GR BGC0000851.1_ORF1:gid::pid:AAN07906.1:loc:0:228:strand:+:18:65                           PP .....9875................................6778889999.9**********************....*********99
+#=GC PP_cons                                                                                     ..........6799*9999999999999*************99********************************....*********99
+#=GC RF                                                                                          .........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxx
+//

@@ -1,0 +1,17 @@
+#                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.20   347 BGC0000688.1_ORF3:gid::pid::loc:1955:3975:strand:- -            459   5.1e-34  117.9  30.7   1   1   4.9e-38   5.1e-34  117.9  30.7     2   309    47   397    46   409 0.81 Major Facilitator Superfamily
+TRI12                PF06609.17   599 BGC0000688.1_ORF3:gid::pid::loc:1955:3975:strand:- -            459   1.1e-14   54.0   9.6   1   1   1.7e-18   1.7e-14   53.4   9.6    50   291    45   287    26   293 0.80 Fungal trichothecene efflux pump (TRI12)
+polyprenyl_synt      PF00348.21   251 BGC0000688.1_ORF4:gid::pid::loc:4518:6026:strand:+ -            325   1.2e-70  237.8   0.0   1   1   6.6e-75   1.4e-70  237.6   0.0     2   250    33   277    32   278 0.96 Polyprenyl synthetase
+p450                 PF00067.26   462 BGC0000688.1_ORF5:gid::pid::loc:6505:7216:strand:- -            236     2e-41  142.4   0.0   1   1   1.2e-45   2.4e-41  142.2   0.0   260   462    16   229     4   229 0.94 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000688.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000688.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000688.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:36:32 2024
+# [ok]

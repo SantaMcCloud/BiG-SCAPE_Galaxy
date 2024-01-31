@@ -1,0 +1,119 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="413.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="403.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="17,10 31,40 17,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HxlR (PF01638)
+"HxlR-like helix-turn-helix"</title>
+				<polygon class="PF01638" points="20,28 22,28 28,39 28,41 22,52 20,52" stroke-linejoin="round" width="8" height="24" fill="rgb(211,96,80)" stroke="rgb(168,76,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="70,25 65,25 65,10 35,40 65,70 65,55 70,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>urdGT1a
+glycosyl transferase</title>
+			<polygon class="urdGT1a
+glycosyl transferase" points="121,25 133,25 133,10 163,40 133,70 133,55 121,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EryCIII-like_N (PF21036)
+"Erythromycin biosynthesis protein CIII-like, N-terminal domain"</title>
+				<rect class="PF21036" x="123" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(205,88,112)" stroke="rgb(164,70,89)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EryCIII-like_C (PF06722)
+"Erythromycin biosynthesis protein CIII-like, C-terminal domain"</title>
+				<polygon class="PF06722" points="148,29 159,40 148,51" stroke-linejoin="round" width="14" height="24" fill="rgb(48,103,191)" stroke="rgb(38,82,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>urdGT1b
+glycosyl transferase</title>
+			<polygon class="urdGT1b
+glycosyl transferase" points="164,25 172,25 172,10 202,40 172,70 172,55 164,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EryCIII-like_N (PF21036)
+"Erythromycin biosynthesis protein CIII-like, N-terminal domain"</title>
+				<rect class="PF21036" x="166" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(205,88,112)" stroke="rgb(164,70,89)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EryCIII-like_C (PF06722)
+"Erythromycin biosynthesis protein CIII-like, C-terminal domain"</title>
+				<polygon class="PF06722" points="188,30 198,40 188,50" stroke-linejoin="round" width="14" height="24" fill="rgb(48,103,191)" stroke="rgb(38,82,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>urd-Int
+integrase</title>
+			<polygon class="urd-Int
+integrase" points="244,25 234,25 234,10 204,40 234,70 234,55 244,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transposase_20 (PF02371)
+"Transposase IS116/IS110/IS902 family"</title>
+				<polygon class="PF02371" points="208,40 216,32 216,48 208,40" stroke-linejoin="round" width="8" height="24" fill="rgb(141,56,189)" stroke="rgb(112,44,151)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DEDD_Tnp_IS110 (PF01548)
+"Transposase"</title>
+				<rect class="PF01548" x="227" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(79,117,190)" stroke="rgb(63,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>urdGT1c
+glycosyl transferase</title>
+			<polygon class="urdGT1c
+glycosyl transferase" points="252,25 261,25 261,10 291,40 261,70 261,55 252,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EryCIII-like_N (PF21036)
+"Erythromycin biosynthesis protein CIII-like, N-terminal domain"</title>
+				<rect class="PF21036" x="254" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(205,88,112)" stroke="rgb(164,70,89)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EryCIII-like_C (PF06722)
+"Erythromycin biosynthesis protein CIII-like, C-terminal domain"</title>
+				<polygon class="PF06722" points="276,30 286,40 276,50" stroke-linejoin="round" width="14" height="24" fill="rgb(48,103,191)" stroke="rgb(38,82,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>urdK
+regulatory protein</title>
+			<polygon class="urdK
+regulatory protein" points="295,40 313,10 313,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="308" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(148,50,185)" stroke="rgb(118,40,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>urdJ
+transporter</title>
+			<polygon class="urdJ
+transporter" points="318,25 340,25 340,10 370,40 340,70 340,55 318,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="320,28 354,28 359,33 359,47 354,52 320,52" stroke-linejoin="round" width="39" height="24" fill="rgb(228,207,98)" stroke="rgb(182,165,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>urdO
+UrdO</title>
+			<polygon class="urdO
+UrdO" points="372,10 391,40 372,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FMN_red (PF03358)
+"NADPH-dependent FMN reductase"</title>
+				<polygon class="PF03358" points="372,28 380,28 386,37 386,43 380,52 372,52" stroke-linejoin="round" width="14" height="24" fill="rgb(161,216,66)" stroke="rgb(128,172,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

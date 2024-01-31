@@ -1,0 +1,30 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Abhydrolase_3        PF07859.17   210 BGC0000030.1_ORF1:gid::pid:CCT69238.1:loc:0:1084:strand:- -            343   4.2e-43  147.8   0.0   1   1   4.9e-47   5.1e-43  147.5   0.0     2   208    85   312    84   314 0.89 alpha/beta hydrolase fold
+BD-FAE               PF20434.2    215 BGC0000030.1_ORF1:gid::pid:CCT69238.1:loc:0:1084:strand:- -            343   7.1e-10   39.0   0.0   1   1     1e-13     1e-09   38.4   0.0     9   107    77   175    67   192 0.83 BD-FAE
+ketoacyl-synt        PF00109.30   252 BGC0000030.1_ORF2:gid::pid:CCT67991.1:loc:1349:7620:strand:- -           2036   2.4e-81  273.2   0.0   1   1   1.6e-84   4.3e-81  272.4   0.0     2   252   371   619   370   619 0.96 Beta-ketoacyl synthase, N-terminal domain
+SAT                  PF16073.9    239 BGC0000030.1_ORF2:gid::pid:CCT67991.1:loc:1349:7620:strand:- -           2036   7.1e-71  238.8   0.2   1   1   4.6e-73   1.2e-69  234.7   0.0     1   239     8   242     8   242 0.98 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Acyl_transf_1        PF00698.25   319 BGC0000030.1_ORF2:gid::pid:CCT67991.1:loc:1349:7620:strand:- -           2036   8.5e-40  137.3   0.0   1   1   8.5e-43   2.2e-39  136.0   0.0     2   316   908  1224   907  1227 0.87 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0000030.1_ORF2:gid::pid:CCT67991.1:loc:1349:7620:strand:- -           2036   1.2e-32  112.6   0.1   1   1   1.1e-35   2.8e-32  111.4   0.1     2   118   628   746   627   747 0.95 Beta-ketoacyl synthase, C-terminal domain
+Thioesterase         PF00975.24   226 BGC0000030.1_ORF2:gid::pid:CCT67991.1:loc:1349:7620:strand:- -           2036   4.6e-21   76.2   0.0   1   1     2e-23   5.1e-20   72.8   0.0     2   106  1787  1889  1786  1903 0.94 Thioesterase domain
+PP-binding           PF00550.29    67 BGC0000030.1_ORF2:gid::pid:CCT67991.1:loc:1349:7620:strand:- -           2036   2.5e-13   50.3   1.6   1   1   2.1e-16   5.6e-13   49.1   1.6     4    66  1663  1725  1660  1726 0.92 Phosphopantetheine attachment site
+PS-DH                PF14765.10   164 BGC0000030.1_ORF2:gid::pid:CCT67991.1:loc:1349:7620:strand:- -           2036   1.7e-07   31.1   0.0   1   1   1.2e-10   3.2e-07   30.2   0.0    22   162  1461  1599  1444  1601 0.83 Polyketide synthase dehydratase N-terminal domain
+FAD_binding_3        PF01494.23   349 BGC0000030.1_ORF3:gid::pid:CCT67992.1:loc:8352:9930:strand:- -            489   4.4e-28   98.7   0.1   1   1   4.4e-32   9.2e-28   97.7   0.1     2   348     8   371     7   372 0.70 FAD binding domain
+Methyltransf_2       PF00891.22   210 BGC0000030.1_ORF4:gid::pid:CCT67993.1:loc:10331:11795:strand:+ -            453   1.6e-23   83.3   0.0   1   1   1.2e-27   2.6e-23   82.7   0.0    14   205   219   426   211   429 0.84 O-methyltransferase domain
+NmrA                 PF05368.17   236 BGC0000030.1_ORF5:gid::pid:CCT67994.1:loc:12566:13547:strand:+ -            326     6e-15   55.5   0.0   1   1   1.3e-18   8.9e-15   54.9   0.0     1   211     9   219     9   236 0.78 NmrA-like family
+NAD_binding_10       PF13460.10   184 BGC0000030.1_ORF5:gid::pid:CCT67994.1:loc:12566:13547:strand:+ -            326   5.1e-10   39.7   0.2   1   1   1.1e-13   7.3e-10   39.2   0.2     1   151    13   167    13   207 0.71 NAD(P)H-binding
+Epimerase            PF01370.25   240 BGC0000030.1_ORF5:gid::pid:CCT67994.1:loc:12566:13547:strand:+ -            326     2e-07   30.9   0.2   1   1   6.4e-10   4.5e-06   26.5   0.3     1    73     9    87     9   136 0.88 NAD dependent epimerase/dehydratase family
+Fungal_trans         PF04082.22   261 BGC0000030.1_ORF6:gid::pid:CCT67995.1:loc:13736:16100:strand:- -            743   5.8e-15   55.3   0.1   1   1     9e-19   9.4e-15   54.6   0.1     4   189   200   385   198   424 0.86 Fungal specific transcription factor domain
+Zn_clus              PF00172.22    39 BGC0000030.1_ORF6:gid::pid:CCT67995.1:loc:13736:16100:strand:- -            743   1.4e-10   41.3  10.1   1   1   2.4e-14   2.5e-10   40.5  10.1     2    35    22    55    21    59 0.91 Fungal Zn(2)-Cys(6) binuclear cluster domain
+MFS_1                PF07690.20   347 BGC0000030.1_ORF7:gid::pid:CCT67996.1:loc:16609:18435:strand:+ -            485   1.8e-33  116.1  34.4   1   1   8.5e-38   1.8e-33  116.1  34.4     8   347    55   433    47   433 0.73 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000030.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000030.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000030.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:21:27 2024
+# [ok]

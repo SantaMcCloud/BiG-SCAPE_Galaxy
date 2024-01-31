@@ -1,0 +1,157 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="420.1" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="410.1" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>flE
+putative DNA binding regulatory protein</title>
+			<polygon class="flE
+putative DNA binding regulatory protein" points="14,40 36,10 36,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="18,40 25,31 25,49" stroke-linejoin="round" width="9" height="24" fill="rgb(59,131,198)" stroke="rgb(47,104,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>flD
+putative dehalogenase/phosphatase</title>
+			<polygon class="flD
+putative dehalogenase/phosphatase" points="38,40 59,10 59,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydrolase (PF00702)
+"haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF00702" points="42,40 51,28 58,28 58,52 51,52" stroke-linejoin="round" width="17" height="24" fill="rgb(133,222,86)" stroke="rgb(106,177,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>flC
+putative MFS permease</title>
+			<polygon class="flC
+putative MFS permease" points="71,25 80,25 80,10 110,40 80,70 80,55 71,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="72,28 94,28 106,40 106,40 94,52 72,52" stroke-linejoin="round" width="34" height="24" fill="rgb(228,207,98)" stroke="rgb(182,165,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>flB
+5'-fluoro-5'-deoxy-adenosine phosphorylase</title>
+			<polygon class="flB
+5'-fluoro-5'-deoxy-adenosine phosphorylase" points="141,25 141,25 141,10 111,40 141,70 141,55 141,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PNP_UDP_1 (PF01048)
+"Phosphorylase superfamily"</title>
+				<polygon class="PF01048" points="115,40 127,28 139,28 139,52 127,52 115,40" stroke-linejoin="round" width="24" height="24" fill="rgb(81,138,182)" stroke="rgb(64,110,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>flA
+5'-fluoro-5'-deoxy-adenosine synthase</title>
+			<polygon class="flA
+5'-fluoro-5'-deoxy-adenosine synthase" points="149,25 149,25 149,10 179,40 149,70 149,55 149,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SAM_HAT_N (PF01887)
+"SAM hydroxide adenosyltransferase N-terminal domain"</title>
+				<rect class="PF01887" x="150" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(195,76,224)" stroke="rgb(156,60,179)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SAM_HAT_N (PF01887)
+"SAM hydroxide adenosyltransferase N-terminal domain"</title>
+				<polygon class="PF01887" points="159,28 162,28 166,32 166,48 162,52 159,52" stroke-linejoin="round" width="7" height="24" fill="rgb(195,76,224)" stroke="rgb(156,60,179)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SAM_HAT_C (PF20257)
+"SAM hydroxide adenosyltransferase C-terminal domain"</title>
+				<polygon class="PF20257" points="169,35 174,40 169,45" stroke-linejoin="round" width="9" height="24" fill="rgb(103,211,132)" stroke="rgb(82,168,105)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>flF
+putative DNA binding regulatory protein</title>
+			<polygon class="flF
+putative DNA binding regulatory protein" points="183,10 201,40 183,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_3 (PF01381)
+"Helix-turn-helix"</title>
+				<rect class="PF01381" x="184" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(168,185,81)" stroke="rgb(134,148,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cupin_2 (PF07883)
+"Cupin domain"</title>
+				<polygon class="PF07883" points="194,34 198,40 194,46" stroke-linejoin="round" width="6" height="24" fill="rgb(191,63,205)" stroke="rgb(152,50,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>flG
+putative DNA binding regulatory protein</title>
+			<polygon class="flG
+putative DNA binding regulatory protein" points="208,40 231,10 231,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="212,40 214,37 214,43" stroke-linejoin="round" width="5" height="24" fill="rgb(225,67,110)" stroke="rgb(180,53,88)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="218,32 221,28 229,28 229,52 221,52 218,48" stroke-linejoin="round" width="11" height="24" fill="rgb(59,131,198)" stroke="rgb(47,104,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>flH
+putative Na+/H+ antiporter</title>
+			<polygon class="flH
+putative Na+/H+ antiporter" points="277,25 261,25 261,10 231,40 261,70 261,55 277,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_H_Exchanger (PF00999)
+"Sodium/hydrogen exchanger family"</title>
+				<polygon class="PF00999" points="235,40 247,28 276,28 276,52 247,52" stroke-linejoin="round" width="42" height="24" fill="rgb(95,122,202)" stroke="rgb(76,97,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>flI
+adenosyl-homocysteine hydrolase</title>
+			<polygon class="flI
+adenosyl-homocysteine hydrolase" points="287,25 306,25 306,10 336,40 306,70 306,55 287,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AdoHcyase (PF05221)
+"S-adenosyl-L-homocysteine hydrolase"</title>
+				<polygon class="PF05221" points="288,28 319,28 331,40 319,52 288,52" stroke-linejoin="round" width="47" height="24" fill="rgb(185,78,202)" stroke="rgb(148,62,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>flJ
+putative regulatory protein</title>
+			<polygon class="flJ
+putative regulatory protein" points="336,10 349,40 336,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF190 (PF02641)
+"Uncharacterized ACR, COG1993"</title>
+				<polygon class="PF02641" points="337,28 340,28 345,40 340,52 337,52" stroke-linejoin="round" width="9" height="24" fill="rgb(220,100,147)" stroke="rgb(176,80,117)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>flK
+fluoroacetyl coenzyme A thioesterase</title>
+			<polygon class="flK
+fluoroacetyl coenzyme A thioesterase" points="349,40 363,10 363,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>flL
+putative DNA binding regulatory protein</title>
+			<polygon class="flL
+putative DNA binding regulatory protein" points="366,40 388,10 388,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="370,40 372,37 372,43" stroke-linejoin="round" width="5" height="24" fill="rgb(225,67,110)" stroke="rgb(180,53,88)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="376,32 379,28 387,28 387,52 379,52 376,48" stroke-linejoin="round" width="11" height="24" fill="rgb(59,131,198)" stroke="rgb(47,104,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

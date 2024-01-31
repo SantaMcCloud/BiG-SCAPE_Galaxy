@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+BGC0000806.1_ORF46:gid::pid:AHL24494.1:loc:60154:62494:strand:+:640:719                     ..AEHASIGLLPLIATCDRWDIGGLSTSA.HmDTELPTVFVYDGHPGGAGFaeqAFRKWRE-...--WLGATREAIGSCE...........CH-FGCPSCI
+#=GR BGC0000806.1_ORF46:gid::pid:AHL24494.1:loc:60154:62494:strand:+:640:719             PP ..69***********************55.4358*****************5555555555......*************...........*7.******7
+GCF_008000775.1_ORF292:gid::pid:WP_147661435.1:loc:329596:335005:strand:+:1546:1637         vk--EVILQSILTSFNLSERELGGFILPIpN.-SNEKHIVIYESEEGGMGV...LKSLIHKEdrwNRFLKNILELIH-IKqadpfeeypdsCN-KVCYNCL
+#=GR GCF_008000775.1_ORF292:gid::pid:WP_147661435.1:loc:329596:335005:strand:+:1546:1637 PP 86..567778888999***********4423..599***************...99999988999999*****9984.423458999*****7.******7
+GCF_000011105.1_ORF940:gid::pid:WP_010885090.1:loc:910728:913350:strand:+:767:844           ..IEHNLIKIAPVVTYVDSRELGGYSYDNfN.--GFPVIFIYDGNEGGSGIvksIYENIEK-...--LMVRSREHIAKCP...........CK-DGCPACI
+#=GR GCF_000011105.1_ORF940:gid::pid:WP_010885090.1:loc:910728:913350:strand:+:767:844   PP ..58***********************6644...*****************8888888888......*************...........*7.******7
+#=GC PP_cons                                                                                ..69899999999**************55.3.569****************...88877778...99********98*87...........*7.******7
+#=GC RF                                                                                     ..xxxxxxxxxxxxxxxxxxxxxxxxxxx.x.xxxxxxxxxxxxxxxxxxx...xxxxxxxx...xxxxxxxxxxxxxxx...........xxxxxxxxxx
+//

@@ -1,0 +1,31 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CMAS                 PF02353.24   273 BGC0000870.1_ORF1:gid:mmaA4:pid:CCP43385.1:loc:0:906:strand:- -            301  1.7e-120  401.6   0.0   1   1  4.8e-124    2e-120  401.4   0.0     2   271    13   290    12   292 0.99 Mycolic acid cyclopropane synthetase
+Methyltransf_25      PF13649.10    97 BGC0000870.1_ORF1:gid:mmaA4:pid:CCP43385.1:loc:0:906:strand:- -            301   6.1e-10   39.9   0.0   1   1   2.8e-13   1.2e-09   39.0   0.0     2    97    78   171    77   171 0.86 Methyltransferase domain
+Methyltransf_23      PF13489.10   163 BGC0000870.1_ORF1:gid:mmaA4:pid:CCP43385.1:loc:0:906:strand:- -            301   1.2e-09   38.3   0.0   1   1   4.1e-13   1.7e-09   37.8   0.0    13   142    66   202    54   231 0.83 Methyltransferase domain
+Methyltransf_12      PF08242.16    98 BGC0000870.1_ORF1:gid:mmaA4:pid:CCP43385.1:loc:0:906:strand:- -            301   1.5e-07   32.2   0.0   1   1   6.9e-11   2.9e-07   31.3   0.0     1    97    78   172    78   173 0.94 Methyltransferase domain
+Methyltransf_11      PF08241.16    95 BGC0000870.1_ORF1:gid:mmaA4:pid:CCP43385.1:loc:0:906:strand:- -            301   2.9e-07   31.2   0.0   1   1   1.4e-10   5.9e-07   30.2   0.0     1    93    78   173    78   175 0.86 Methyltransferase domain
+CMAS                 PF02353.24   273 BGC0000870.1_ORF2:gid:mmaA3:pid:CCP43386.1:loc:970:1852:strand:- -            293  1.3e-125  418.4   0.1   1   1  2.9e-129  1.5e-125  418.2   0.1     2   273    10   289     9   289 0.99 Mycolic acid cyclopropane synthetase
+Methyltransf_23      PF13489.10   163 BGC0000870.1_ORF2:gid:mmaA3:pid:CCP43386.1:loc:970:1852:strand:- -            293   5.5e-09   36.1   0.0   1   1   1.7e-12   8.8e-09   35.5   0.0    19   161    65   229    50   231 0.76 Methyltransferase domain
+Methyltransf_25      PF13649.10    97 BGC0000870.1_ORF2:gid:mmaA3:pid:CCP43386.1:loc:970:1852:strand:- -            293   1.8e-08   35.1   0.0   1   1   1.1e-11   5.7e-08   33.5   0.0     2    93    75   164    74   168 0.82 Methyltransferase domain
+Methyltransf_11      PF08241.16    95 BGC0000870.1_ORF2:gid:mmaA3:pid:CCP43386.1:loc:970:1852:strand:- -            293     1e-06   29.5   0.1   1   1   5.4e-10   2.8e-06   28.1   0.0     1    94    75   171    75   172 0.90 Methyltransferase domain
+CMAS                 PF02353.24   273 BGC0000870.1_ORF3:gid:mmaA2:pid:CCP43387.1:loc:1999:2863:strand:- -            287    2e-124  414.5   0.0   1   1  5.5e-128  2.3e-124  414.4   0.0     3   273     5   283     3   283 0.99 Mycolic acid cyclopropane synthetase
+Methyltransf_25      PF13649.10    97 BGC0000870.1_ORF3:gid:mmaA2:pid:CCP43387.1:loc:1999:2863:strand:- -            287   4.9e-11   43.4   0.0   1   1   2.7e-14   1.1e-10   42.2   0.0     2    97    69   162    68   162 0.89 Methyltransferase domain
+Methyltransf_23      PF13489.10   163 BGC0000870.1_ORF3:gid:mmaA2:pid:CCP43387.1:loc:1999:2863:strand:- -            287   7.2e-11   42.3   0.0   1   1   2.5e-14     1e-10   41.7   0.0    12   121    52   172    40   225 0.77 Methyltransferase domain
+Methyltransf_12      PF08242.16    98 BGC0000870.1_ORF3:gid:mmaA2:pid:CCP43387.1:loc:1999:2863:strand:- -            287   8.8e-10   39.4   0.0   1   1   4.9e-13     2e-09   38.2   0.0     1    98    69   164    69   164 0.92 Methyltransferase domain
+Methyltransf_11      PF08241.16    95 BGC0000870.1_ORF3:gid:mmaA2:pid:CCP43387.1:loc:1999:2863:strand:- -            287   3.4e-09   37.4   0.0   1   1   1.9e-12   8.1e-09   36.2   0.0     1    94    69   165    69   166 0.91 Methyltransferase domain
+CMAS                 PF02353.24   273 BGC0000870.1_ORF4:gid:mmaA1:pid:CCP43388.1:loc:3029:3890:strand:- -            286  2.4e-116  388.0   0.0   1   1  6.5e-120  2.7e-116  387.9   0.0     3   273     4   282     2   282 0.99 Mycolic acid cyclopropane synthetase
+Methyltransf_25      PF13649.10    97 BGC0000870.1_ORF4:gid:mmaA1:pid:CCP43388.1:loc:3029:3890:strand:- -            286   2.6e-09   37.9   0.1   1   1   4.1e-12   1.7e-08   35.2   0.0     2    97    68   161    67   161 0.91 Methyltransferase domain
+Methyltransf_23      PF13489.10   163 BGC0000870.1_ORF4:gid:mmaA1:pid:CCP43388.1:loc:3029:3890:strand:- -            286   3.6e-09   36.7   0.0   1   1   1.3e-12   5.6e-09   36.1   0.0    14   162    53   223    41   224 0.77 Methyltransferase domain
+Methyltransf_11      PF08241.16    95 BGC0000870.1_ORF4:gid:mmaA1:pid:CCP43388.1:loc:3029:3890:strand:- -            286   8.2e-06   26.6   0.0   1   1   1.2e-08   5.1e-05   24.0   0.0     1    94    68   164    68   165 0.81 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000870.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000870.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000870.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:16:22 2024
+# [ok]

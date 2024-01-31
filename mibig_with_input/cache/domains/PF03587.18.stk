@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_008000775.1_ORF3160:gid::pid:WP_147664264.1:loc:3540440:3541133:strand:+:9:224         IILTETALELIPKSLKkkpstmksiEKFG--RAGQILDTSLHHSNM-HTLENSQKRGRPDILHHFLLDTLGSPANIKGFLEIYFHCASG-FYKVNSEMKCPRDYIRFKGLMFQLIRKGHIPPNQQP-YLISRMDIDLKDWIKNnfnRKNTFIFSLNGKEASLETItskfFN..EANKCAVLIGGFQKNHFSDDileipsq
+#=GR GCF_008000775.1_ORF3160:gid::pid:WP_147664264.1:loc:3540440:3541133:strand:+:9:224 PP 89***********9999999998644444..589***********8.***************************************998.68*********************************9.***************99988899*************99754334..999****************99999999
+GCF_000011105.1_ORF1297:gid::pid:WP_010885468.1:loc:1244551:1245241:strand:+:9:220         LIIADAELETVPPEILdhpaivnyaKRRKKRPEKIILDSTYHHAA-LRQLEDGERRGRPDIVHICLLNALDSILNKEDRLRVYVHTRNDYVIYIKPETRLPRNYNRFIGLMENLFEKGAVPEDL---ELLRMEKKTLNELIEEi.nPDVVFIMHEEGELMIPKNF...gKLldKFKKPTVIVGGFPHGDFKSKvd...gv
+#=GR GCF_000011105.1_ORF1297:gid::pid:WP_010885468.1:loc:1244551:1245241:strand:+:9:220 PP 699************9*****************************.7**************************************************************************986...5***************9.889999*************9...73256999999*************999...9*
+#=GC PP_cons                                                                               79************99.........7777**799***********87****************************************99*89******************************98*9.7***************...8999*************99....33..99999**************9.......
+#=GC RF                                                                                    xxxxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxx....xx..xxxxxxxxxxxxxxxxxxxx.......
+
+GCF_008000775.1_ORF3160:gid::pid:WP_147664264.1:loc:3540440:3541133:strand:+:9:224         MFALADRGYDSWIVTNRLLAKFE
+#=GR GCF_008000775.1_ORF3160:gid::pid:WP_147664264.1:loc:3540440:3541133:strand:+:9:224 PP ********************998
+GCF_000011105.1_ORF1297:gid::pid:WP_010885468.1:loc:1244551:1245241:strand:+:9:220         KISLYREPLMAWTIVNEVIVSYE
+#=GR GCF_000011105.1_ORF1297:gid::pid:WP_010885468.1:loc:1244551:1245241:strand:+:9:220 PP *******************9998
+#=GC PP_cons                                                                               ********************998
+#=GC RF                                                                                    xxxxxxxxxxxxxxxxxxxxxxx
+//

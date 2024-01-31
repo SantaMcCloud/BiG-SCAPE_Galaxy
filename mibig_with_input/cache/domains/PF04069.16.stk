@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+BGC0001065.1_ORF36:gid::pid:AEZ64536.1:loc:82843:83884:strand:+:40:310                           .KHLTIGTAGFTESDLLAQMYALLLERA.GY.HTRILSV..TNRELYEPALESGRIDVVP-EYAATFadwlnakahgpgarpvgspdlattMKALRT-LASARGLTVLDPGRAVDQNAFAVSAGYAGKHRLRTLSDLGRSGL.PVRLAAGDECVRRPYCAP------GLRKTYGI-DITGI.--DPKGVGTtPAKQAVQR
+#=GR BGC0001065.1_ORF36:gid::pid:AEZ64536.1:loc:82843:83884:strand:+:40:310                   PP .679************************.**.*******..*******************.***************************999888888.889**************************************999.******************......********.46665...33444445789*****
+GCA_000085225.1_ASM8522v1_genomic_ORF872:gid::pid::loc:1016057:1017605:strand:+:247:511          .DTITIGSKDYTEQLILGNVYAELVEKNtNLkVKKNLNL..GGSSVAFNAIKSGELDMYV-DYTGTLlvnvmkha........pikdadeaYNVVKDTMEKENQLTLLDPLGFNNTYTLAMMPETAEKYGINTISDLTKYGK.EFTFSPTLEFENREDGLV------GLSRDYGL----KF.-KDVKAMNGsLRYTALDN
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF872:gid::pid::loc:1016057:1017605:strand:+:247:511  PP .69****************************999999**..*******************.**************........***********************************************************.******************......********....55..888*****9********
+GCA_000085225.1_ASM8522v1_genomic_ORF3144:gid::pid::loc:3589549:3591085:strand:-:243:507         q-TIHIATKPMTEQYILGEMLDILIEKNtGL.NVEITQGigGGTSNIQPAMENGEFDIYP-EYTGTGwnmvlkk.........nelytesmFSKLQSEYKTKLKMQWTGMYGFSNSYALAVRKEVADKYNLKNISDLKNVSS.KLTFGAEYDFYEREDGYT------PLCNTYGL----NF.-KDTVDLDIgLKYQAINE
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3144:gid::pid::loc:3589549:3591085:strand:-:243:507 PP 5.89***************************.88877742244566999***********.*************.........********999************************************************.******************......********....76..778888888********
+BGC0000289.1_ORF51:gid::pid:CAD91240.1:loc:84587:85538:strand:-:40:311                           a-PIRVTSKEFTEQLVLGKIAVLALTAA.GAdVADQTNV..QGSVNARASLTRGDADLMW-EYTGTGwitylgqa.......rpipdhtrqYEAVRDLDLRENGIVWLPPAPLNNSYTIGVTRATAERYGLTKISDLTKIPVaQRTFCVDHETFGRDDGFL------GMLRGYGLTYGEDVpRANVRRVSVgVLYDSVAG
+#=GR BGC0000289.1_ORF51:gid::pid:CAD91240.1:loc:84587:85538:strand:-:40:311                   PP 5.8*************************.**********..*******************.**************.......************************************************************999****************......********9889999******************
+#=GC PP_cons                                                                                     .689************************.**.9999998..99999**************.******........................999999*********************************************.******************......********967777.*87788888.99******
+#=GC RF                                                                                          .xxxxxxxxxxxxxxxxxxxxxxxxxxx.xx.xxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxx........................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx.xxxxxxxx
+
+BGC0001065.1_ORF36:gid::pid:AEZ64536.1:loc:82843:83884:strand:+:40:310                           GQDQMVLTTTTDATLGQFGLVLLADDRHLQNA-DNIVPVVNRARAGAK-GVTEALDRLNtvLTTADLAGMNERVDGWRRLPEDVARGYLE-s.
+#=GR BGC0001065.1_ORF36:gid::pid:AEZ64536.1:loc:82843:83884:strand:+:40:310                   PP ********************************.********9999997.5**************************************97.6.
+GCA_000085225.1_ASM8522v1_genomic_ORF872:gid::pid::loc:1016057:1017605:strand:+:247:511          NESQVIDAFLTDGLIKKFNLKILEDDKNFFVP-YYAAPLVREDTLKKYPELEKVMNMLSgkINEETMRELNYQVDELGKSPEEVAHSFL--vk
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF872:gid::pid::loc:1016057:1017605:strand:+:247:511  PP ********************************.*******************************************************9..57
+GCA_000085225.1_ASM8522v1_genomic_ORF3144:gid::pid::loc:3589549:3591085:strand:-:243:507         GKIDVMPIFTTDGQYSVSDVIVLKDDKNFYPS-YQCGNVVRLEVLEENPELSEVFKMVGdiLTDKEMAKMNYDVENNNLEPREVACEFLNK..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3144:gid::pid::loc:3589549:3591085:strand:-:243:507 PP ********************************.*******************************************************975..
+BGC0000289.1_ORF51:gid::pid:CAD91240.1:loc:84587:85538:strand:-:40:311                           GQCALGMVTTTDGRIKALDLVLLEDDRHFFPL-YNASVTLRRPVADAHPEIARIFAPISakLTDDVMRALNAQVDVDGDVPVLVARDWLR-s.
+#=GR BGC0000289.1_ORF51:gid::pid:CAD91240.1:loc:84587:85538:strand:-:40:311                   PP ********************************.*******************************************************97.6.
+#=GC PP_cons                                                                                     ********************************.**************9*9*********..***************************975..
+#=GC RF                                                                                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

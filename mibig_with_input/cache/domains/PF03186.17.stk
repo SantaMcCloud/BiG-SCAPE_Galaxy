@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF3329:gid::pid::loc:3807979:3808951:strand:-:6:296         i-YIGYVTDLIVGDPYSFPHPVRFIGKLINFTQGIIRKVskNDRQLKFGGFILWFITVGITYLTTYAIVKLF-SFNILLSIVVNSFIIYTTLATKCLKDEALKIYNVLKtEDIEKSRIQLSYIVGRDTTNLSEPEIIRATVETVAENTVDGIIAPMFYAFIGGAPLAMAYKAINTLDSTVGYKNKKYKDIGFASAKIDDI
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3329:gid::pid::loc:3807979:3808951:strand:-:6:296 PP 6.689*****************************99844457778899**********************76.33344889***************************779*****************************************************************************************
+GCF_000011105.1_ORF337:gid:cbiB:pid:WP_010884464.1:loc:337948:338800:strand:+:4:268            .LILALGWDLLLGEPPAVVHPVVWFGKLIAFIDSHYSRR..SPAIDFLAGLFATLVVLSFAFLLSILPLYA--PYP--LNYLLSVYLLKSSFAIRSLYEHVRRTMKD--.-DVEEMRKEVSMIVSRDTSKLGREHLISASIESLAENTNDSVVAPLFYYLLFGLPGALVYRAVNTLDAMVGYRTSRYEYFGKFSARLDDI
+#=GR GCF_000011105.1_ORF337:gid:cbiB:pid:WP_010884464.1:loc:337948:338800:strand:+:4:268    PP .689******************************99766..888999******999999999988888884..332..5789*******************987765....9****************************************************************************************
+#=GC PP_cons                                                                                   .6799*****************************99755..7888999*************99999999956.333446889********************99888*7.99****************************************************************************************
+#=GC RF                                                                                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF3329:gid::pid::loc:3807979:3808951:strand:-:6:296         ANYIPARISVILMTIGsfflnynyrNCFKISIRDRKNHKSPNCAFSEGAVSGALGIQLGGTNVY.FGEKVYKPTIGDKLREIDKEDIIKTNKIM....
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3329:gid::pid::loc:3807979:3808951:strand:-:6:296 PP ***************655666666788*************************************.***********************999986....
+GCF_000011105.1_ORF337:gid:cbiB:pid:WP_010884464.1:loc:337948:338800:strand:+:4:268            LNFLPARITVLLFLPL.........NPRRVIRYYKMARFKVNSDKPIAAMSAVLGIWLEKPNIYrFP--GRDPRME---------DIERALK--vyvi
+#=GR GCF_000011105.1_ORF337:gid:cbiB:pid:WP_010884464.1:loc:337948:338800:strand:+:4:268    PP ***************9.........99999999999999*************************443..3445544.........5555555..569*
+#=GC PP_cons                                                                                   ***************7.........889************************************.77**6777777*********777777786....
+#=GC RF                                                                                        xxxxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx....
+//

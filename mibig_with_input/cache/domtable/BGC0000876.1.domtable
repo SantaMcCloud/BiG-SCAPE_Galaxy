@@ -1,0 +1,27 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.32   382 BGC0000876.1_ORF1:gid:nikP1:pid:CAC11137.1:loc:71:2105:strand:+ -            677   8.7e-87  291.6   0.0   1   1   2.1e-90   1.1e-86  291.2   0.0     1   382    78   437    78   437 0.86 AMP-binding enzyme
+MbtH                 PF03621.17    53 BGC0000876.1_ORF1:gid:nikP1:pid:CAC11137.1:loc:71:2105:strand:+ -            677   3.3e-17   61.8   0.0   1   1   1.4e-20   7.1e-17   60.8   0.0     1    51     1    51     1    53 0.98 MbtH-like protein
+PP-binding           PF00550.29    67 BGC0000876.1_ORF1:gid:nikP1:pid:CAC11137.1:loc:71:2105:strand:+ -            677   9.3e-17   61.3   0.2   1   1   3.7e-20   1.9e-16   60.2   0.2     2    67   599   662   598   662 0.95 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.10    76 BGC0000876.1_ORF1:gid:nikP1:pid:CAC11137.1:loc:71:2105:strand:+ -            677   5.6e-12   46.6   0.0   1   1   2.2e-15   1.1e-11   45.6   0.0     1    76   496   570   496   570 0.92 AMP-binding enzyme C-terminal domain
+Thioesterase         PF00975.24   226 BGC0000876.1_ORF2:gid:nikP2:pid:CAC11138.1:loc:2111:2933:strand:+ -            273   1.7e-46  159.4   0.0   1   1   1.9e-50     2e-46  159.2   0.0     2   223    29   256    28   259 0.90 Thioesterase domain
+Abhydrolase_6        PF12697.11   217 BGC0000876.1_ORF2:gid:nikP2:pid:CAC11138.1:loc:2111:2933:strand:+ -            273   1.8e-08   35.5  17.5   1   1   1.7e-12   1.8e-08   35.5  17.5    11   214    40   251    30   255 0.60 Alpha/beta hydrolase family
+p450                 PF00067.26   462 BGC0000876.1_ORF3:gid:nikQ:pid:CAC11139.1:loc:2922:4113:strand:+ -            396   4.7e-30  104.9   0.0   1   1   5.9e-30   1.2e-25   90.4   0.0   209   436   174   369   152   391 0.84 Cytochrome P450
+UPRTase              PF14681.10   206 BGC0000876.1_ORF4:gid:nikR:pid:CAC11140.1:loc:4126:4807:strand:+ -            226   8.2e-74  247.7   0.0   1   1   4.7e-78   9.7e-74  247.5   0.0     2   206    21   224    20   224 0.99 Uracil phosphoribosyltransferase
+ATP-grasp            PF02222.26   171 BGC0000876.1_ORF5:gid:nikS:pid:CAC11141.1:loc:4875:6150:strand:+ -            424   4.3e-07   29.9   0.0   1   1   1.5e-10   1.6e-06   28.0   0.0     3   159   124   285   122   288 0.83 ATP-grasp domain
+CPSase_L_D2          PF02786.21   211 BGC0000876.1_ORF5:gid:nikS:pid:CAC11141.1:loc:4875:6150:strand:+ -            424   4.5e-05   23.2   0.0   1   1   7.6e-09   7.9e-05   22.5   0.0     1    73   114   184   114   194 0.94 Carbamoyl-phosphate synthase L chain, ATP binding domain
+Aminotran_1_2        PF00155.25   361 BGC0000876.1_ORF6:gid:nikT:pid:CAC11142.1:loc:6177:7500:strand:+ -            440   8.2e-55  186.6   0.0   1   1   1.1e-58   1.2e-54  186.1   0.0     5   359   119   433   116   434 0.95 Aminotransferase class I and II
+PP-binding           PF00550.29    67 BGC0000876.1_ORF6:gid:nikT:pid:CAC11142.1:loc:6177:7500:strand:+ -            440   4.6e-13   49.4   3.6   1   1   5.4e-17   5.6e-13   49.1   2.1     2    67     4    69     3    69 0.97 Phosphopantetheine attachment site
+B12-binding          PF02310.23   121 BGC0000876.1_ORF7:gid:nikU:pid:CAC11143.1:loc:7496:7964:strand:+ -            155   5.6e-08   32.9   0.1   1   1   3.2e-12   6.8e-08   32.6   0.1     2    90    11   101    10   128 0.92 B12 binding domain
+Met_asp_mut_E        PF06368.15   441 BGC0000876.1_ORF8:gid:nikV:pid:CAC11144.1:loc:7963:9235:strand:+ -            423     3e-96  322.8   0.0   1   1  1.8e-100   3.8e-96  322.5   0.0     6   380     9   367     5   404 0.94 Methylaspartate mutase E chain (MutE)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000876.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000876.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000876.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:27:06 2024
+# [ok]

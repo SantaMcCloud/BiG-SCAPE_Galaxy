@@ -1,0 +1,60 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="266.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="256.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>cpx7D
+Cpx7D</title>
+			<polygon class="cpx7D
+Cpx7D" points="10,40 30,10 30,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Poly_export (PF02563)
+"Polysaccharide biosynthesis/export protein"</title>
+				<polygon class="PF02563" points="14,40 22,28 22,28 22,52 22,52" stroke-linejoin="round" width="9" height="24" fill="rgb(219,92,156)" stroke="rgb(175,73,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cps7A
+Cps7A</title>
+			<polygon class="cps7A
+Cps7A" points="36,25 43,25 43,10 73,40 43,70 43,55 36,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyphos_transf (PF04464)
+"CDP-Glycerol:Poly(glycerophosphate) glycerophosphotransferase"</title>
+				<polygon class="PF04464" points="47,28 57,28 61,32 61,48 57,52 47,52" stroke-linejoin="round" width="14" height="24" fill="rgb(210,81,221)" stroke="rgb(168,64,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cps7B
+Cps7B</title>
+			<polygon class="cps7B
+Cps7B" points="76,10 90,40 76,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CTP_transf_like (PF01467)
+"Cytidylyltransferase-like"</title>
+				<polygon class="PF01467" points="76,28 81,28 86,40 81,52 76,52" stroke-linejoin="round" width="12" height="24" fill="rgb(182,79,133)" stroke="rgb(145,63,106)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cps7C
+Cps7C</title>
+			<polygon class="cps7C
+Cps7C" points="90,25 97,25 97,10 127,40 97,70 97,55 90,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>cps7D
+Cps7D</title>
+			<polygon class="cps7D
+Cps7D" points="129,25 222,25 222,10 252,40 222,70 222,55 129,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyphos_transf (PF04464)
+"CDP-Glycerol:Poly(glycerophosphate) glycerophosphotransferase"</title>
+				<rect class="PF04464" x="179" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(210,81,221)" stroke="rgb(168,64,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="239,31 248,40 239,49" stroke-linejoin="round" width="12" height="24" fill="rgb(66,178,218)" stroke="rgb(52,142,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

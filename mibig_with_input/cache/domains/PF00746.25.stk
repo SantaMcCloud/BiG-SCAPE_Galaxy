@@ -1,0 +1,9 @@
+# STOCKHOLM 1.0
+
+BGC0000536.1_ORF6:gid:niqP:pid:BAG71484.1:loc:7216:9304:strand:+:661:695         ei--------LPTTGDERGDFLPVLG..ALGIVSSGLL--KRKKSKN.
+#=GR BGC0000536.1_ORF6:gid:niqP:pid:BAG71484.1:loc:7216:9304:strand:+:661:695 PP *9........9***************..**********..8888775.
+BGC0000620.1_ORF1:gid::pid:BAM66971.1:loc:992:2873:strand:+:584:626              pi--TPKKPELPKTGEERNTFLPIVGvgLLMVGATLYVFFKRRK---m
+#=GR BGC0000620.1_ORF1:gid::pid:BAM66971.1:loc:992:2873:strand:+:584:626      PP 76..78********************744444444555999998...7
+#=GC PP_cons                                                                     ....78********************..7777777777998888775.
+#=GC RF                                                                          ..xxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxx.
+//

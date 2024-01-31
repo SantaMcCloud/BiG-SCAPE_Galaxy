@@ -1,0 +1,20 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.30   252 BGC0001275.1_ORF1:gid:pks2:pid:AAX35547.1:loc:1063:6614:strand:+ -           1791   2.9e-84  282.8   0.0   1   1   1.9e-87   5.6e-84  281.9   0.0     3   252    39   287    38   287 0.98 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.25   319 BGC0001275.1_ORF1:gid:pks2:pid:AAX35547.1:loc:1063:6614:strand:+ -           1791   4.8e-69  233.5   0.0   1   1   2.7e-72     8e-69  232.7   0.0     1   307   571   875   571   886 0.96 Acyl transferase domain
+KR                   PF08659.14   180 BGC0001275.1_ORF1:gid:pks2:pid:AAX35547.1:loc:1063:6614:strand:+ -           1791     2e-53  181.2   0.0   1   1   1.5e-56   4.5e-53  180.0   0.0     1   179  1426  1616  1426  1617 0.96 KR domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0001275.1_ORF1:gid:pks2:pid:AAX35547.1:loc:1063:6614:strand:+ -           1791   6.3e-39  132.8   1.3   1   1   1.3e-41     4e-38  130.3   0.9     1   118   295   410   295   411 0.97 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.29    67 BGC0001275.1_ORF1:gid:pks2:pid:AAX35547.1:loc:1063:6614:strand:+ -           1791   5.7e-13   49.1   0.0   1   1   4.1e-16   1.2e-12   48.1   0.0     2    66  1721  1786  1720  1787 0.95 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.9    111 BGC0001275.1_ORF1:gid:pks2:pid:AAX35547.1:loc:1063:6614:strand:+ -           1791   1.4e-09   38.5   0.0   1   1   1.1e-12   3.3e-09   37.3   0.0     2   107   414   529   414   534 0.84 Ketoacyl-synthetase C-terminal extension
+PKS_DH_N             PF21089.1    103 BGC0001275.1_ORF1:gid:pks2:pid:AAX35547.1:loc:1063:6614:strand:+ -           1791   3.8e-09   36.6   0.1   1   1   4.6e-12   1.4e-08   34.9   0.1     1    92   933  1016   933  1023 0.93 Polyketide synthase dehydratase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001275.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001275.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001275.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:37:18 2024
+# [ok]

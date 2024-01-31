@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000011.1_ORF9:gid::pid:ACH72910.1:loc:20558:21425:strand:-:27:225             t-QWHPAGPSDLRCGCPAMNSLANHGFINHNGSNITVGEVVPLMQEVFHLSEELASIVTGLALLaadnpasgTFSLAMLNRHNIFEHDASLTRKDFYLGGDgHTIDPPSLKSFLAHFEGKQWVDLNDAAAARYARVLLSRAKNPDFTYRDQQVITSYGETIKYFRTMVdpRSNRTSAEFVKILFSEERLPvkEGWQRPA-
+#=GR BGC0000011.1_ORF9:gid::pid:ACH72910.1:loc:20558:21425:strand:-:27:225     PP 6.8************************************************************9899999999*************************9999*************87899***********************************************6567778**********************986.
+BGC0000152.1_ORF3:gid:stcC:pid:AAC49193.1:loc:11398:12334:strand:-:30:235         e-QWHPAGLGDLRCGCPAMNSLANHGFINHNGSNITVNEVIPLMQEVFHLSEELATIVTGLAVLsaddpasgIFNLDMLNRHNIFEHDASLTRKDFYLGGDgHTIDQPTLDEFLSYFDGKEWIDLNDAAAARYARVLDSREKNPSFLYQDQQLITSYGETIKYFRTMVdpRSNKTSAEFVRILFTEERLP..--------
+#=GR BGC0000152.1_ORF3:gid:stcC:pid:AAC49193.1:loc:11398:12334:strand:-:30:235 PP 5.8************************************************************988888888999***********************9999*************77899***********************************************6567888***************9..........
+#=GC PP_cons                                                                      ..8************************************************************9........999***********************999.*************87899***********************************************6..7788****************..****986.
+#=GC RF                                                                           .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxx..xxxxxxxx
+
+BGC0000011.1_ORF9:gid::pid:ACH72910.1:loc:20558:21425:strand:-:27:225             e................
+#=GR BGC0000011.1_ORF9:gid::pid:ACH72910.1:loc:20558:21425:strand:-:27:225     PP 6................
+BGC0000152.1_ORF3:gid:stcC:pid:AAC49193.1:loc:11398:12334:strand:-:30:235         vrkggsarekrsvgsrw
+#=GR BGC0000152.1_ORF3:gid:stcC:pid:AAC49193.1:loc:11398:12334:strand:-:30:235 PP 45667777889999999
+#=GC PP_cons                                                                      .................
+#=GC RF                                                                           .................
+//

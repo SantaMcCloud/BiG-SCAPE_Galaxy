@@ -1,0 +1,31 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_S8         PF00082.26   283 BGC0000479.1_ORF3:gid:pagA:pid:AED99426.1:loc:521:2489:strand:- -            655     1e-38  133.5   0.0   1   1   2.3e-42   1.6e-38  132.9   0.0     3   270    19   260    17   277 0.84 Subtilase family
+PatG_C               PF18065.5    115 BGC0000479.1_ORF3:gid:pagA:pid:AED99426.1:loc:521:2489:strand:- -            655   1.5e-38  131.5   0.0   1   1   7.4e-42   5.1e-38  129.8   0.0     2   115   538   651   537   651 0.98 PatG C-terminal
+PatG_D               PF18047.5    111 BGC0000479.1_ORF3:gid:pagA:pid:AED99426.1:loc:521:2489:strand:- -            655   2.2e-18   67.0   0.0   1   1   5.7e-22     4e-18   66.1   0.0     2   110   380   492   379   493 0.96 PatG Domain
+DUF559               PF04480.16   109 BGC0000479.1_ORF4:gid::pid:AED99427.1:loc:2607:2997:strand:- -            129   1.6e-27   95.7   1.1   1   1   9.5e-32     2e-27   95.4   1.1     4   108    11   117     8   118 0.94 Protein of unknown function (DUF559)
+Uma2                 PF05685.16   172 BGC0000479.1_ORF5:gid::pid:AED99428.1:loc:3294:3873:strand:- -            192   4.2e-29  101.4   0.1   1   1   2.3e-33   4.9e-29  101.2   0.1     2   171    12   183    11   184 0.87 Putative restriction endonuclease
+DUF5838              PF19156.4    289 BGC0000479.1_ORF6:gid:pagF:pid:AED99429.1:loc:3872:4775:strand:- -            300  2.3e-138  460.6   6.0   1   1  1.3e-142  2.6e-138  460.4   6.0     1   289    13   293    13   293 0.98 Family of unknown function (DUF5838)
+Y1_Tnp               PF01797.20   121 BGC0000479.1_ORF7:gid::pid:AED99430.1:loc:4805:5621:strand:+ -            271   7.7e-20   71.4   0.2   1   1   6.6e-24   1.4e-19   70.6   0.2     4   120    11   125     8   126 0.88 Transposase IS200 like
+DUF5840              PF19158.4     49 BGC0000479.1_ORF8:gid:pagE7:pid:AED99431.1:loc:5654:5807:strand:- -             50   1.5e-24   86.2   0.1   1   1   8.9e-29   1.8e-24   86.0   0.1     1    49     1    50     1    50 0.91 Family of unknown function (DUF5840)
+DUF5840              PF19158.4     49 BGC0000479.1_ORF9:gid:pagE6:pid:AED99432.1:loc:6094:6241:strand:- -             48   2.7e-22   79.1   0.1   1   1   1.8e-26   3.7e-22   78.6   0.1     1    49     1    48     1    48 0.85 Family of unknown function (DUF5840)
+DUF5840              PF19158.4     49 BGC0000479.1_ORF10:gid:pagE5:pid:AED99433.1:loc:6404:6551:strand:- -             48   1.7e-24   86.1   0.7   1   1   1.2e-28   2.5e-24   85.6   0.7     1    49     1    48     1    48 0.95 Family of unknown function (DUF5840)
+DUF5840              PF19158.4     49 BGC0000479.1_ORF11:gid:pagE4:pid:AED99434.1:loc:6834:7032:strand:- -             65   4.4e-17   62.4   1.6   1   1   3.2e-21   6.6e-17   61.8   1.6     1    33     1    33     1    57 0.97 Family of unknown function (DUF5840)
+DUF5840              PF19158.4     49 BGC0000479.1_ORF16:gid:pagE3:pid:AED99439.1:loc:8602:8689:strand:- -             28   9.4e-15   54.9   0.9   1   1   4.7e-19   9.7e-15   54.9   0.9     1    28     1    28     1    28 0.96 Family of unknown function (DUF5840)
+BrnT_toxin           PF04365.17    77 BGC0000479.1_ORF18:gid::pid:AED99441.1:loc:9074:9362:strand:- -             95   1.5e-25   89.5   0.0   1   1   8.1e-30   1.7e-25   89.3   0.0     1    77     5    82     5    82 0.96 Ribonuclease toxin, BrnT, of type II toxin-antitoxin system
+Uma2                 PF05685.16   172 BGC0000479.1_ORF21:gid::pid:AED99444.1:loc:10030:10615:strand:+ -            194   1.4e-40  138.8   0.0   1   1   7.4e-45   1.5e-40  138.6   0.0     1   163    13   172    13   180 0.95 Putative restriction endonuclease
+DUF5840              PF19158.4     49 BGC0000479.1_ORF22:gid:pagE1:pid:AED99445.1:loc:11006:11162:strand:- -             51   1.1e-14   54.7   1.6   1   1   8.5e-19   1.8e-14   54.0   1.6     1    49     1    51     1    51 0.87 Family of unknown function (DUF5840)
+PatG_C               PF18065.5    115 BGC0000479.1_ORF23:gid:pagG:pid:AED99446.1:loc:11349:13422:strand:+ -            690   1.8e-33  115.1   0.0   1   1   5.1e-37   3.5e-33  114.2   0.0     4   115   575   686   572   686 0.97 PatG C-terminal
+Peptidase_S8         PF00082.26   283 BGC0000479.1_ORF23:gid:pagG:pid:AED99446.1:loc:11349:13422:strand:+ -            690   8.9e-22   77.9   0.0   1   1     2e-25   1.4e-21   77.3   0.0     3   269    22   315    20   340 0.81 Subtilase family
+PatG_D               PF18047.5    111 BGC0000479.1_ORF23:gid:pagG:pid:AED99446.1:loc:11349:13422:strand:+ -            690   6.2e-17   62.3   0.0   1   1   6.2e-20   4.3e-16   59.6   0.0     2   109   415   526   414   528 0.97 PatG Domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000479.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000479.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000479.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:37:06 2024
+# [ok]

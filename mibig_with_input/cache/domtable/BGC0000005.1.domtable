@@ -1,0 +1,15 @@
+#                                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                         accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                               -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Abhydrolase_3        PF07859.17   210 BGC0000005.1_ORF1:gid:estA2:pid:AAN76353.1:loc:9346:10346:strand:+ -            314   2.7e-43  148.4   0.1   1   1   3.3e-47   3.4e-43  148.1   0.1     2   209    82   288    81   289 0.89 alpha/beta hydrolase fold
+BD-FAE               PF20434.2    215 BGC0000005.1_ORF1:gid:estA2:pid:AAN76353.1:loc:9346:10346:strand:+ -            314   9.2e-13   48.4   0.0   1   1   1.2e-16   1.3e-12   47.9   0.0     3   110    68   167    66   188 0.87 BD-FAE
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000005.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000005.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000005.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:59:56 2024
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Terpene_syn_C_2      PF19086.4    199 BGC0000660.1_ORF1:gid:SCO5222:pid:CAB94607.1:loc:0:1086:strand:+ -            361   1.4e-42  145.9   0.1   1   1   9.6e-47     2e-42  145.4   0.1     1   198    90   285    90   286 0.93 Terpene synthase family 2, C-terminal metal binding
+p450                 PF00067.26   462 BGC0000660.1_ORF2:gid:SCO5223:pid:CAB94608.1:loc:1082:2468:strand:+ -            461     5e-69  233.4   0.0   1   1   2.9e-73   6.1e-69  233.2   0.0     6   436    30   435    24   452 0.91 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000660.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000660.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000660.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:23:24 2024
+# [ok]

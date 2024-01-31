@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+BGC0000803.1_ORF4:gid:glf:pid:ACN94849.1:loc:3014:4145:strand:+:145:350          .KLIRDYTAKQWGREPKELPSFIIRRLPVRFTYDNNYFNDLYQGIPEGGYTQIVEKMLDHANIKVHLNTDFLTHKEEYLTRYDQVVYTGMIDQFFDYQLGALEYRSLRFETEVLDVDNYQGNAVVNYTDSDTPFTRIIEHKHFEFGkgN..QGKTVITREFPAEWSKGDEPYYPVNDTKNNHLFTEYRDLATKKYpQVAF
+#=GR BGC0000803.1_ORF4:gid:glf:pid:ACN94849.1:loc:3014:4145:strand:+:145:350  PP .699********************************************************************************************************************************************99445..99************************************9976544****
+BGC0000766.1_ORF13:gid::pid:ABM21408.1:loc:12453:13572:strand:+:147:352          .KLIKGYTEKQWGRKATELPAFIIKRLPVRLTYDNNYFNDDYQGIPKGGYTQIVEKMLDDENIGVKLNTNFFDKKDEYLKDFDKIVYTGMIDKFFDYKLGELEYRSLRFETEEKDVDNYQGNAVINYTDADTPYTRVIEHKHFEFG..KgdKDKTIITREYPADWKRGDEPYYPVNNQRNNELYKQYRELAEKENdKVIF
+#=GR BGC0000766.1_ORF13:gid::pid:ABM21408.1:loc:12453:13572:strand:+:147:352  PP .69*********************************************************************************************************************************************99..5459***************************************998779***
+BGC0000765.1_ORF12:gid::pid:ABM21392.1:loc:9252:10359:strand:+:146:350           .KLIKGYTEKQWGRKATELPAFIIKRLPVRLTYDNNYFNDDYQGIPKGGYTQIVEKMLDNENIEVKLNTDFFDKKDEYLKNFDKIVYTGMIDKFFDYKLGELEYRSLRFETEEKDVDNYQGNAVINYTDAETPYTRVIEHKHFEFG..KgdKGKTIVTREYPANWKRGDEPYYPVNNERNNNLYKQYKGLAEKQN.KVIF
+#=GR BGC0000765.1_ORF12:gid::pid:ABM21392.1:loc:9252:10359:strand:+:146:350   PP .69*********************************************************************************************************************************************99..54599******************************************.****
+BGC0001410.1_ORF5:gid:wcfM:pid:AAK68915.1:loc:4948:6043:strand:+:149:349         i-LIKGYTEKQWGRKATELPAFIIKRLPVRFTFDNNYFNDKYQGIPVGGYNKLINGLL--DGIEVRTNTDFFQNKEYFKGLADKILFTGKIDEYYNYQFGRLEYRTVEFETQVLDCENYQGNAVVNYTEREVPYTRIIEHKHFEFG..T..QPKTVISKEYSSEWKDGSEPFYPVNDERNNSLYLEYKKLVDREK.NVLF
+#=GR BGC0001410.1_ORF5:gid:wcfM:pid:AAK68915.1:loc:4948:6043:strand:+:149:349 PP 8.79******************************************************..6*************************************************************************************..*..********************************************.****
+BGC0000767.1_ORF13:gid::pid:ABM21437.1:loc:11638:12757:strand:+:147:352          .KLIKGYTEKQWGRKATELPAFIIKRLPVRLTYDNNYFNDDYQGIPKGGYTQIVEKMLDNENIEVKLNTDFFDNKDEYLKTFDKIVYTGMIDKFFDYKLGELEYRSLHFETEEKDVDNYQGNAVINYTDAETPYTRVIEHKHFEFG..KgdKNKTIITREYPADWKRGDEPYYPVNNERNNELYKQYRELAEKENdKVIF
+#=GR BGC0000767.1_ORF13:gid::pid:ABM21437.1:loc:11638:12757:strand:+:147:352  PP .69*********************************************************************************************************************************************99..5459***************************************998779***
+#=GC PP_cons                                                                     .689********************************************************9***********************************************************************************99..6..99**************************************9988.****
+#=GC RF                                                                          .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..x..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxx
+
+BGC0000803.1_ORF4:gid:glf:pid:ACN94849.1:loc:3014:4145:strand:+:145:350          GGRLGLYRY
+#=GR BGC0000803.1_ORF4:gid:glf:pid:ACN94849.1:loc:3014:4145:strand:+:145:350  PP ********9
+BGC0000766.1_ORF13:gid::pid:ABM21408.1:loc:12453:13572:strand:+:147:352          GGRLGQYKY
+#=GR BGC0000766.1_ORF13:gid::pid:ABM21408.1:loc:12453:13572:strand:+:147:352  PP ********9
+BGC0000765.1_ORF12:gid::pid:ABM21392.1:loc:9252:10359:strand:+:146:350           GGRLGQYKY
+#=GR BGC0000765.1_ORF12:gid::pid:ABM21392.1:loc:9252:10359:strand:+:146:350   PP ********9
+BGC0001410.1_ORF5:gid:wcfM:pid:AAK68915.1:loc:4948:6043:strand:+:149:349         GGRLAEYKY
+#=GR BGC0001410.1_ORF5:gid:wcfM:pid:AAK68915.1:loc:4948:6043:strand:+:149:349 PP ********9
+BGC0000767.1_ORF13:gid::pid:ABM21437.1:loc:11638:12757:strand:+:147:352          GGRLGQYKY
+#=GR BGC0000767.1_ORF13:gid::pid:ABM21437.1:loc:11638:12757:strand:+:147:352  PP ********9
+#=GC PP_cons                                                                     ********9
+#=GC RF                                                                          xxxxxxxxx
+//

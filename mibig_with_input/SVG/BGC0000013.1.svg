@@ -1,0 +1,47 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="281.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="271.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ANIA_07071)
+polyketide synthase, putative (JCVI)</title>
+			<polygon class=" (ANIA_07071)
+polyketide synthase, putative (JCVI)" points="208,25 40,25 40,10 10,40 40,70 40,55 208,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="21,33 26,28 27,28 27,52 26,52 21,47" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="78" y="28" stroke-linejoin="round" width="35" height="24" fill="rgb(132,93,193)" stroke="rgb(105,74,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="130" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="143" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SAT (PF16073)
+"Starter unit:ACP transacylase in aflatoxin biosynthesis"</title>
+				<rect class="PF16073" x="180" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(77,185,114)" stroke="rgb(61,148,91)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ANIA_07070)
+conserved hypothetical protein</title>
+			<polygon class=" (ANIA_07070)
+conserved hypothetical protein" points="271,25 258,25 258,10 228,40 258,70 258,55 271,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B (PF00753)
+"Metallo-beta-lactamase superfamily"</title>
+				<rect class="PF00753" x="250" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(70,201,123)" stroke="rgb(56,160,98)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,35 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.26   462 BGC0001043.1_ORF1:gid::pid:BAG17639.1:loc:0:1152:strand:- -            383   8.7e-18   64.5   0.0   1   1   4.7e-17   9.8e-13   47.9   0.0   342   432   271   353   258   363 0.91 Cytochrome P450
+ADH_zinc_N           PF00107.30   129 BGC0001043.1_ORF2:gid::pid:BAG17640.1:loc:1239:2295:strand:- -            351   1.8e-13   50.7   0.0   1   1   3.6e-17   3.7e-13   49.7   0.0     1   120   170   300   170   307 0.79 Zinc-binding dehydrogenase
+ADH_N_2              PF16884.9    108 BGC0001043.1_ORF2:gid::pid:BAG17640.1:loc:1239:2295:strand:- -            351   2.1e-13   50.3   0.2   1   1   5.1e-17   5.3e-13   49.0   0.2     2   102     5   101     4   106 0.90 N-terminal domain of oxidoreductase
+Amino_oxidase        PF01593.28   443 BGC0001043.1_ORF3:gid::pid:BAG17641.1:loc:2291:4016:strand:- -            574     1e-16   61.5   0.0   1   1   4.3e-20   2.2e-16   60.4   0.0     1   337    27   396    27   414 0.74 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.10    68 BGC0001043.1_ORF3:gid::pid:BAG17641.1:loc:2291:4016:strand:- -            574   1.6e-13   50.9   0.1   1   1   9.2e-17   4.8e-13   49.4   0.1     1    65    22    86    22    89 0.96 NAD(P)-binding Rossmann-like domain
+NAD_binding_8        PF13450.10    68 BGC0001043.1_ORF4:gid::pid:BAG17642.1:loc:4012:5695:strand:- -            560     1e-12   48.3   0.2   1   1   5.7e-16   3.9e-12   46.5   0.2     1    68    24    91    24    91 0.97 NAD(P)-binding Rossmann-like domain
+Amino_oxidase        PF01593.28   443 BGC0001043.1_ORF4:gid::pid:BAG17642.1:loc:4012:5695:strand:- -            560     4e-12   46.3   0.4   1   1   1.5e-15   1.1e-11   45.0   0.4     1   350    29   412    29   520 0.69 Flavin containing amine oxidoreductase
+FAD_binding_2        PF00890.28   414 BGC0001043.1_ORF4:gid::pid:BAG17642.1:loc:4012:5695:strand:- -            560   6.2e-06   25.8   0.5   1   1   2.2e-08   0.00015   21.3   0.4     2    42    22    63    21    68 0.92 FAD binding domain
+Condensation         PF00668.24   456 BGC0001043.1_ORF5:gid::pid:BAG17643.1:loc:5684:15155:strand:- -           3156  1.6e-100  337.2   0.0   1   1  1.3e-103  2.2e-100  336.7   0.0     2   455  1860  2304  1859  2305 0.96 Condensation domain
+ketoacyl-synt        PF00109.30   252 BGC0001043.1_ORF5:gid::pid:BAG17643.1:loc:5684:15155:strand:- -           3156   1.2e-82  277.5   0.0   1   1   2.1e-85   3.7e-82  275.9   0.0     2   252    11   262    10   262 0.97 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.25   319 BGC0001043.1_ORF5:gid::pid:BAG17643.1:loc:5684:15155:strand:- -           3156   9.8e-82  275.1   0.3   1   1     1e-84   1.7e-81  274.3   0.3     1   317   550   867   550   869 0.97 Acyl transferase domain
+AMP-binding          PF00501.32   382 BGC0001043.1_ORF5:gid::pid:BAG17643.1:loc:5684:15155:strand:- -           3156   5.9e-80  269.1   0.3   1   1   5.2e-83   9.1e-80  268.5   0.3     3   381  2332  2688  2330  2689 0.87 AMP-binding enzyme
+KR                   PF08659.14   180 BGC0001043.1_ORF5:gid::pid:BAG17643.1:loc:5684:15155:strand:- -           3156   7.5e-56  189.1   0.0   1   1   7.2e-58   1.2e-54  185.1   0.0     1   179  1475  1667  1475  1668 0.97 KR domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0001043.1_ORF5:gid::pid:BAG17643.1:loc:5684:15155:strand:- -           3156   6.8e-42  142.4   1.3   1   1   9.2e-45   1.6e-41  141.2   1.3     1   119   270   388   270   388 0.98 Beta-ketoacyl synthase, C-terminal domain
+PS-DH                PF14765.10   164 BGC0001043.1_ORF5:gid::pid:BAG17643.1:loc:5684:15155:strand:- -           3156   1.2e-31  109.7   0.2   1   1   1.7e-34     3e-31  108.4   0.2     2   161  1031  1190  1030  1192 0.93 Polyketide synthase dehydratase N-terminal domain
+PP-binding           PF00550.29    67 BGC0001043.1_ORF5:gid::pid:BAG17643.1:loc:5684:15155:strand:- -           3156   4.6e-27   94.3   0.4   1   2   9.2e-14   1.6e-10   41.3   0.2     4    65  1771  1832  1768  1834 0.91 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0001043.1_ORF5:gid::pid:BAG17643.1:loc:5684:15155:strand:- -           3156   4.6e-27   94.3   0.4   2   2   6.9e-16   1.2e-12   48.1   0.0     3    66  2855  2916  2854  2917 0.93 Phosphopantetheine attachment site
+Thioesterase         PF00975.24   226 BGC0001043.1_ORF5:gid::pid:BAG17643.1:loc:5684:15155:strand:- -           3156   1.5e-23   84.3   1.7   1   1   2.2e-26   3.9e-23   83.0   0.1     2   216  2941  3138  2940  3148 0.63 Thioesterase domain
+PKS_DH_N             PF21089.1    103 BGC0001043.1_ORF5:gid::pid:BAG17643.1:loc:5684:15155:strand:- -           3156   3.4e-23   81.7   1.8   1   1   2.4e-26   4.1e-23   81.5   0.1     1   101   910  1004   910  1006 0.96 Polyketide synthase dehydratase domain
+KAsynt_C_assoc       PF16197.9    111 BGC0001043.1_ORF5:gid::pid:BAG17643.1:loc:5684:15155:strand:- -           3156   3.2e-15   56.7   0.0   1   1     6e-18     1e-14   55.1   0.0    11    85   399   483   391   509 0.76 Ketoacyl-synthetase C-terminal extension
+AMP-binding_C        PF13193.10    76 BGC0001043.1_ORF5:gid::pid:BAG17643.1:loc:5684:15155:strand:- -           3156   1.6e-10   41.9   0.0   1   1   1.4e-12   2.5e-09   38.1   0.0     1    76  2751  2826  2751  2826 0.94 AMP-binding enzyme C-terminal domain
+FA_hydroxylase       PF04116.17   132 BGC0001043.1_ORF6:gid::pid:BAG17644.1:loc:15241:16183:strand:- -            313   9.8e-25   87.7   4.0   1   1   4.7e-29   9.8e-25   87.7   4.0     4   132   138   268   135   268 0.92 Fatty acid hydroxylase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001043.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001043.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001043.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:17:07 2024
+# [ok]

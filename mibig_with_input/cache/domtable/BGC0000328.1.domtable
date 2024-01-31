@@ -1,0 +1,24 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PP-binding           PF00550.29    67 BGC0000328.1_ORF1:gid::pid:AAQ93482.1:loc:0:231:strand:+ -             76   3.1e-11   43.6   0.0   1   1   1.7e-15   3.5e-11   43.4   0.0     2    55     5    55     4    67 0.91 Phosphopantetheine attachment site
+Abhydrolase_1        PF00561.24   245 BGC0000328.1_ORF2:gid::pid:AAQ93483.1:loc:241:1090:strand:+ -            282   2.6e-09   37.3   0.0   1   1   1.6e-13   3.4e-09   36.9   0.0    74   244   102   261    64   262 0.68 alpha/beta hydrolase fold
+AMP-binding          PF00501.32   382 BGC0000328.1_ORF3:gid::pid:AAQ93484.1:loc:1086:2874:strand:+ -            595   6.6e-61  206.4   0.1   1   1   1.3e-64     9e-61  206.0   0.1     1   382    15   364    15   364 0.86 AMP-binding enzyme
+AMP-binding_C        PF13193.10    76 BGC0000328.1_ORF3:gid::pid:AAQ93484.1:loc:1086:2874:strand:+ -            595     2e-11   44.9   0.0   1   1   2.1e-14   1.4e-10   42.1   0.0     1    76   417   493   417   493 0.93 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.29    67 BGC0000328.1_ORF3:gid::pid:AAQ93484.1:loc:1086:2874:strand:+ -            595   6.9e-06   26.4   0.0   1   1   1.9e-09   1.3e-05   25.5   0.0     2    66   515   577   514   578 0.95 Phosphopantetheine attachment site
+PhyH                 PF05721.17   213 BGC0000328.1_ORF4:gid::pid:AAQ93485.1:loc:2860:3790:strand:+ -            309   3.1e-49  168.3   0.1   1   1   1.8e-53   3.6e-49  168.1   0.1     1   211    16   244    16   246 0.96 Phytanoyl-CoA dioxygenase (PhyH)
+Glyoxalase_4         PF13669.10   109 BGC0000328.1_ORF5:gid::pid:AAQ93486.1:loc:3799:4222:strand:+ -            140   5.5e-07   30.1   0.0   1   1   6.3e-11   6.5e-07   29.9   0.0     1    94    10   106    10   121 0.81 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+Glyoxalase           PF00903.29   121 BGC0000328.1_ORF5:gid::pid:AAQ93486.1:loc:3799:4222:strand:+ -            140   0.00014   22.4   0.0   1   1   2.1e-08   0.00021   21.8   0.0     2   104     9   114     8   125 0.75 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+Thioesterase         PF00975.24   226 BGC0000328.1_ORF6:gid::pid:AAQ93487.1:loc:4231:4993:strand:+ -            253   4.4e-27   95.9   0.0   1   1     5e-31   5.2e-27   95.7   0.0     3   211    26   234    24   240 0.91 Thioesterase domain
+Abhydrolase_6        PF12697.11   217 BGC0000328.1_ORF6:gid::pid:AAQ93487.1:loc:4231:4993:strand:+ -            253   3.4e-09   37.9   4.9   1   1   4.5e-13   4.6e-09   37.4   4.9     8   207    33   233    15   235 0.61 Alpha/beta hydrolase family
+LysE                 PF01810.22   193 BGC0000328.1_ORF8:gid::pid:AAQ93489.1:loc:5642:6254:strand:+ -            203   3.3e-06   26.9   4.2   1   1   2.6e-10   5.4e-06   26.2   4.2     3   191    11   190    10   192 0.78 LysE type translocator
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000328.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000328.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000328.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:36:02 2024
+# [ok]

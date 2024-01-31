@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF3330:gid::pid::loc:3808951:3810328:strand:-:253:446         s-IAIAYDKAFNFYYr.eNIELLEELGLEINYFSPL....EDASVPN-ADYIYIGGGFPEIFGKELEANESMRTSILEAHNNNIPIYAECGGLMYLGEKLLNQEEQ-----EFNMVGIFSGISKMTSsLKRFGYCIGVAKEnt...llSKKGESIKGHEFHHSIFESDEKCVYSMRKER..DGNIVeEWDGGYS--KGNT
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3330:gid::pid::loc:3808951:3810328:strand:-:253:446 PP 6.9*************.*******************....*****76.******************************************************9988.....*************9997799989998877799...989999***********7666555555555444..5554479999993..69**
+GCA_000085225.1_ASM8522v1_genomic_ORF3331:gid::pid::loc:3810366:3811881:strand:-:251:451         h-IEIIRTPHMSNFT...DFNIFETQEDVSIRYVD-....YGESLGN-PDILIIPGTKSTIDDLTYIRKSGLESQIKNLHSQGKLIFGICGGYQMLGKKLKDPYHVESEIEEVDGIGLLDTETTFEK.EKTTTQVEATIVEciseymnNLKGKKVKGYEIHMGITKRGNDVRSLDLITKklDKEVN.YTEGSV-NKEGNV
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3331:gid::pid::loc:3810366:3811881:strand:-:251:451 PP 6.899**********...*****************.....*****87.*******************************************************************************.**********7779****998899********************99888776555555.9*****.779***
+BGC0001199.1_ORF2:gid::pid::loc:1292:2021:strand:+:7:203                                         r-LVWVYPDLLSTYGdqgNVLVVERRAQQRGLRVERvdvrSDQPVPTSGDIYLIGGGEDRPQRLAAERL-LRDGGLSRAVQNGAIIFSVCAGYQIIGHEFINDLGE-----RQQGLGLLDVISERGPgERCVGDVLGDVDE.......QLHLPQLTGFENHQGITRVGPHARPFARVRL..GNGNG.TGDGTEGAWAGTV
+#=GR BGC0001199.1_ORF2:gid::pid::loc:1292:2021:strand:+:7:203                                 PP 6.57899*******************9998877664111145556689*********************.99**********************************.....**************999**********999.......9999*************************98..77777.66666666678**
+#=GC PP_cons                                                                                     ..789**********...***********9999997....88888779********************************************************99********************9.9***999999887.......9999***********9999888888888876..66666.88888846679**
+#=GC RF                                                                                          .xxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxx.xxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF3330:gid::pid::loc:3808951:3810328:strand:-:253:446         LATYLHTHFYN---nl.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3330:gid::pid::loc:3808951:3810328:strand:-:253:446 PP *********87...59.
+GCA_000085225.1_ASM8522v1_genomic_ORF3331:gid::pid::loc:3810366:3811881:strand:-:251:451         IGTYLHGIFDE---isf
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3331:gid::pid::loc:3810366:3811881:strand:-:251:451 PP *********97...678
+BGC0001199.1_ORF2:gid::pid::loc:1292:2021:strand:+:7:203                                         FGTYMHGPVLARN-p..
+#=GR BGC0001199.1_ORF2:gid::pid::loc:1292:2021:strand:+:7:203                                 PP ********99987.6..
+#=GC PP_cons                                                                                     *********9887....
+#=GC RF                                                                                          xxxxxxxxxxxxxx...
+//

@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF147:gid::pid::loc:175364:177584:strand:+:654:702         ..HSFCTTIHKSQGSEFPVVVL--PIAWAPP-MLLSRNLLYTAVTRAKKLVVLV.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF147:gid::pid::loc:175364:177584:strand:+:654:702 PP ..689*****************..******9.668******************8.
+GCA_000085225.1_ASM8522v1_genomic_ORF421:gid::pid::loc:477847:479962:strand:+:643:693         gv--SITSIKMSKGLEFDEVIVPSVNNKTYY-SDYDRSLLYIACTRAMHKLKL-t
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF421:gid::pid::loc:477847:479962:strand:+:643:693 PP 85..6899***********************.557***************965.7
+BGC0000148.1_ORF23:gid::pid:AAG23283.1:loc:77728:79984:strand:-:666:714                       ..HAYAVTIHRSQGSEYPCVVI--PLTTSAW-MMLQRNLLYTAVTRAKKVVVLV.
+#=GR BGC0000148.1_ORF23:gid::pid:AAG23283.1:loc:77728:79984:strand:-:666:714               PP ..89******************..9999999.88******************98.
+BGC0000133.1_ORF33:gid::pid:AFI57030.1:loc:77435:79640:strand:-:657:705                       ..HAYAVSIHRSQGSEYPCVVI--PLTTSAW-MMLQRNLLYTAVTRAKKLVVLV.
+#=GR BGC0000133.1_ORF33:gid::pid:AFI57030.1:loc:77435:79640:strand:-:657:705               PP ..89******************..9999999.88*******************8.
+#=GC PP_cons                                                                                  ..7999***********************99.779****************988.
+#=GC RF                                                                                       ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

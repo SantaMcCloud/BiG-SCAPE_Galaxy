@@ -1,0 +1,25 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_C39        PF03412.19   133 BGC0001311.1_ORF13:gid::pid:WP_009985592.1:loc:3560:5705:strand:- -            714   6.6e-34  116.8   0.2   1   1   2.2e-37   1.5e-33  115.6   0.0     2   132     7   136     6   137 0.98 Peptidase C39 family
+ABC_membrane         PF00664.27   274 BGC0001311.1_ORF13:gid::pid:WP_009985592.1:loc:3560:5705:strand:- -            714   5.7e-32  111.7  20.0   1   1   1.2e-35     8e-32  111.2  20.0     3   272   165   431   162   433 0.98 ABC transporter transmembrane region
+ABC_tran             PF00005.31   137 BGC0001311.1_ORF13:gid::pid:WP_009985592.1:loc:3560:5705:strand:- -            714   4.8e-32  111.7   0.0   1   1     2e-35   1.4e-31  110.2   0.0     1   137   494   643   494   643 0.90 ABC transporter
+DUF4135              PF13575.10   378 BGC0001311.1_ORF14:gid::pid:WP_009985593.1:loc:5723:8798:strand:- -           1024   1.2e-90  304.7   0.0   1   1   1.5e-94   1.6e-90  304.2   0.0     3   377   173   548   171   549 0.93 Domain of unknown function (DUF4135)
+LANC_like            PF05147.17   350 BGC0001311.1_ORF14:gid::pid:WP_009985593.1:loc:5723:8798:strand:- -           1024   1.5e-55  188.4   4.1   1   1   2.7e-59   2.8e-55  187.5   4.1     3   342   673  1017   671  1023 0.89 Lanthionine synthetase C-like protein
+DUF4135              PF13575.10   378 BGC0001311.1_ORF15:gid::pid:WP_009985594.1:loc:8745:11682:strand:- -            978   2.2e-78  264.3   0.0   1   1   2.9e-82     3e-78  263.8   0.0     1   376   124   495   124   497 0.93 Domain of unknown function (DUF4135)
+LANC_like            PF05147.17   350 BGC0001311.1_ORF15:gid::pid:WP_009985594.1:loc:8745:11682:strand:- -            978     1e-63  215.2   0.4   1   1   1.4e-67   1.5e-63  214.7   0.4     2   348   613   952   612   954 0.91 Lanthionine synthetase C-like protein
+ABC2_membrane_4      PF12730.11   179 BGC0001311.1_ORF17:gid::pid:WP_009985596.1:loc:11960:12716:strand:- -            251   2.7e-08   34.2  16.4   1   1   1.3e-12   2.7e-08   34.2  16.4     2   175     5   175     4   178 0.81 ABC-2 family transporter protein
+ABC_tran             PF00005.31   137 BGC0001311.1_ORF19:gid::pid:WP_009985599.1:loc:13451:14363:strand:- -            303   6.7e-30  104.7   0.0   1   1   1.1e-33   1.1e-29  104.0   0.0     1   137    20   161    20   161 0.96 ABC transporter
+AAA_21               PF13304.10   304 BGC0001311.1_ORF19:gid::pid:WP_009985599.1:loc:13451:14363:strand:- -            303   2.3e-14   54.2   3.3   1   1   1.5e-12   1.6e-08   35.0   0.1   196   301    96   194    63   197 0.76 AAA domain, putative AbiEii toxin, Type IV TA system
+Lactamase_B_3        PF13483.10   160 BGC0001311.1_ORF20:gid::pid:WP_009985601.1:loc:14665:15400:strand:- -            244   8.9e-21   74.7   0.0   1   1   1.1e-24   1.1e-20   74.4   0.0     2   160    10   184     9   184 0.90 Beta-lactamase superfamily domain
+Lactamase_B_2        PF12706.11   200 BGC0001311.1_ORF20:gid::pid:WP_009985601.1:loc:14665:15400:strand:- -            244     6e-17   62.1   0.0   1   1   8.2e-21   8.5e-17   61.6   0.0    21   200    30   185    19   185 0.82 Beta-lactamase superfamily domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001311.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001311.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001311.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:24:19 2024
+# [ok]

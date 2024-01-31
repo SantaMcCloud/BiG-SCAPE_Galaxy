@@ -1,0 +1,15 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Terpene_syn_C_2      PF19086.4    199 BGC0001181.1_ORF1:gid:SCO6073:pid:CAB41566.1:loc:0:2181:strand:+ -            726    4e-110  366.4   0.0   1   2   9.5e-54     2e-49  168.3   0.0     1   198    77   275    77   276 0.97 Terpene synthase family 2, C-terminal metal binding
+Terpene_syn_C_2      PF19086.4    199 BGC0001181.1_ORF1:gid:SCO6073:pid:CAB41566.1:loc:0:2181:strand:+ -            726    4e-110  366.4   0.0   2   2   2.7e-62   5.5e-58  196.2   0.0     2   199   447   645   446   645 0.99 Terpene synthase family 2, C-terminal metal binding
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001181.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001181.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001181.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:18:14 2024
+# [ok]

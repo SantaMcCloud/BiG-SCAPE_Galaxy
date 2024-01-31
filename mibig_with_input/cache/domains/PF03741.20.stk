@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000344.1_ORF21:gid::pid:CAK15828.1:loc:60542:62114:strand:-:14:204         .LTLIVLELVLGIDNLVFIAILADK..LPPHQRDRARVIGLSLALIMRLGLLASISWMVTLtaplidifgktfsgRDLIMLFGGVFLLFKATMELHERL........-EGHVAQSGGVTRHAA.................FWPIVAQIVVLDAVFSLDAVITAVGMVEQLSVMMIAVIFSIGIMIVASKPLTRFVNAHPT
+#=GR BGC0000344.1_ORF21:gid::pid:CAK15828.1:loc:60542:62114:strand:-:14:204 PP .589*********************..****************************************999885555*******************9855.........566677777788888.................************************************************************
+BGC0000229.1_ORF34:gid::pid:AGO50634.1:loc:40952:41909:strand:-:69:273         t-TAWLLEKSLSVDNLFVFALIFSYfqVPRAYQHRVLFLGVLGALVFRGLFLAAGVAVVSR..............FTAVLFVFAAILFWSTYKILKGEDesfdpgksLAVRLLRKVIPVRDEYagahffvkeagkrvatpLLAVVAAIEAADLVFAVDSVPAVLAVSSDVFIVYTSNAFAILGLRALYFMLAGLLDRFHY
+#=GR BGC0000229.1_ORF34:gid::pid:AGO50634.1:loc:40952:41909:strand:-:69:273 PP 7.789********************9***********************************..............********************998899999998667777777777777788899999999999999************************************************************
+#=GC PP_cons                                                                   .5799********************..**********************************..............7*******************9876........6567777777777888.................************************************************************
+#=GC RF                                                                        .xxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..............xxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxx.................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000344.1_ORF21:gid::pid:CAK15828.1:loc:60542:62114:strand:-:14:204         VIMLCLGFLMMIGFSLTAE-g
+#=GR BGC0000344.1_ORF21:gid::pid:CAK15828.1:loc:60542:62114:strand:-:14:204 PP ****************986.7
+BGC0000229.1_ORF34:gid::pid:AGO50634.1:loc:40952:41909:strand:-:69:273         LSVGLAVILGFIGVKLVLQ-a
+#=GR BGC0000229.1_ORF34:gid::pid:AGO50634.1:loc:40952:41909:strand:-:69:273 PP *****************97.7
+#=GC PP_cons                                                                   ****************986..
+#=GC RF                                                                        xxxxxxxxxxxxxxxxxxxx.
+//

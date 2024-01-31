@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0001070.1_ORF42:gid:kirHIV:pid:CAN89651.1:loc:99760:100543:strand:+:8:257         ..tqyltp-------LREGGSLPGLVEADNDGIYVVK..FRgaGQGTAALVAEIVVGELGRRLGIRVPELVTIDIDPEMARrDPDQEIQELlraSA...GENLGMDFLPGSVGY--DGVGW.ePPAEEAARIYWLDALTANVDRSW----SNPNLII....--WHRRLWAIDHGAAllFQHSwpavaawAERRYDLSQHV
+#=GR BGC0001070.1_ORF42:gid:kirHIV:pid:CAN89651.1:loc:99760:100543:strand:+:8:257 PP ..988765.......678888999999**********..7733667899*******************************9433344555522234...444555555554443..33332.3799999****************9....9****98......678999999998833344322221114567899****
+BGC0000229.1_ORF3:gid::pid:AGO50603.1:loc:2681:3605:strand:-:12:257                  ryvmplhs----------GGSVPGVFEADDLGTYVVKftGS..AQGRKALVAEVIVGELARALGLRFPELVLVHFDPAIADaEPHQEVRDL...HAssaGVNLGMDHLPGARDLTPEAAETftVDPLEAGRIVWLDALTANVDRTV----HSSNLLLwptlGVAPPRLWLIDHGAAlvFHHR.......WDAGDPTKAYD
+#=GR BGC0000229.1_ORF3:gid::pid:AGO50603.1:loc:2681:3605:strand:-:12:257          PP *9988765..........55566666889999*****5555..899***********************************7777889999...75222667******************9889999******************9....66676641211345678******877558999.......99999999999
+#=GC PP_cons                                                                         ...............6787777778889999******..66..78899*********************************.555667777...55...556788777777777**66666..899999****************9....7888876....346788******988..6666.......77888999***
+#=GC RF                                                                              ........xxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx...xx...xxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxx..xxxx.......xxxxxxxxxxx
+
+BGC0001070.1_ORF42:gid:kirHIV:pid:CAN89651.1:loc:99760:100543:strand:+:8:257         LADLVATLAPAVLAKLDAELAEAVTAETLTEITALVPDSFLLGMNSvpqDADPADLRRRYVDYLLTRCAGPRAW---wpe................
+#=GR BGC0001070.1_ORF42:gid:kirHIV:pid:CAN89651.1:loc:99760:100543:strand:+:8:257 PP **************99999988889999***********98755441116778888999999999999887766...689................
+BGC0000229.1_ORF3:gid::pid:AGO50603.1:loc:2681:3605:strand:-:12:257                  FRHHALGRYGPDVRAADAELAPRVTEELLRSIVDEVPDAWLDGEPG...FGSPEAV---------------------raayvdhlhararasgawl
+#=GR BGC0000229.1_ORF3:gid::pid:AGO50603.1:loc:2681:3605:strand:-:12:257          PP 999887777766666666666666667799**********988776...5555555.....................5555555666667778889
+#=GC PP_cons                                                                         **999988888888888777777778889***********976665...5666777999999999999887766......................
+#=GC RF                                                                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxx...................
+//

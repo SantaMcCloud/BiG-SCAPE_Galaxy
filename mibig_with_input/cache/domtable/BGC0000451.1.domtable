@@ -1,0 +1,35 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TonB_dep_Rec         PF00593.28   436 BGC0000451.1_ORF1:gid::pid:ACR11143.1:loc:0:1947:strand:+ -            648   2.7e-56  192.5  17.6   1   1   4.1e-60   4.2e-56  191.8  17.6    55   436   229   619   167   619 0.74 TonB dependent receptor
+Plug                 PF07715.19   107 BGC0000451.1_ORF1:gid::pid:ACR11143.1:loc:0:1947:strand:+ -            648   6.6e-24   84.7   0.8   1   1   1.8e-27   1.9e-23   83.2   0.8     3   107    48   155    46   155 0.98 TonB-dependent Receptor Plug Domain
+PepSY_TM             PF03929.20   294 BGC0000451.1_ORF4:gid::pid:ACR13425.1:loc:2710:4363:strand:+ -            550   1.1e-58  199.5   2.1   1   1   5.5e-63   1.1e-58  199.5   2.1     2   294    13   380    12   380 0.81 PepSY-associated TM region
+Chorismate_bind      PF00425.22   257 BGC0000451.1_ORF5:gid:dhbC:pid:ACR13729.1:loc:4787:5972:strand:+ -            394   2.7e-74  250.2   0.0   1   1   1.6e-78   3.3e-74  249.9   0.0     2   257   121   376   120   376 0.98 chorismate binding enzyme
+AMP-binding          PF00501.32   382 BGC0000451.1_ORF6:gid:entE:pid:ACR11042.1:loc:5968:7585:strand:+ -            538   1.3e-63  215.3   0.0   1   1   1.6e-67   1.7e-63  214.9   0.0     7   382    43   399    40   399 0.84 AMP-binding enzyme
+AMP-binding_C        PF13193.10    76 BGC0000451.1_ORF6:gid:entE:pid:ACR11042.1:loc:5968:7585:strand:+ -            538   1.3e-10   42.2   0.3   1   1   3.7e-14   3.9e-10   40.7   0.2     1    76   450   525   450   525 0.90 AMP-binding enzyme C-terminal domain
+Isochorismatase      PF00857.24   175 BGC0000451.1_ORF7:gid:dhbB:pid:ACR10711.1:loc:7610:8489:strand:+ -            292   1.4e-41  142.7   0.0   1   1   1.7e-45   1.8e-41  142.4   0.0     2   172    32   203    31   206 0.94 Isochorismatase family
+PP-binding           PF00550.29    67 BGC0000451.1_ORF7:gid:dhbB:pid:ACR10711.1:loc:7610:8489:strand:+ -            292   2.1e-08   34.5   0.0   1   1   3.4e-12   3.5e-08   33.8   0.0     3    63   223   282   221   286 0.87 Phosphopantetheine attachment site
+adh_short_C2         PF13561.10   236 BGC0000451.1_ORF8:gid:dhbA:pid:ACR12253.1:loc:8485:9253:strand:+ -            255   2.6e-54  184.5   0.0   1   1   7.1e-58   3.7e-54  184.0   0.0     1   236    19   252    19   252 0.93 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.29   195 BGC0000451.1_ORF8:gid:dhbA:pid:ACR12253.1:loc:8485:9253:strand:+ -            255   1.4e-49  168.5   0.1   1   1   7.1e-53   3.7e-49  167.1   0.1     1   192    13   194    13   197 0.94 short chain dehydrogenase
+KR                   PF08659.14   180 BGC0000451.1_ORF8:gid:dhbA:pid:ACR12253.1:loc:8485:9253:strand:+ -            255   3.7e-11   43.5   1.4   1   1   1.2e-13   6.4e-10   39.4   0.0    55   162    53   164    44   180 0.90 KR domain
+Epimerase            PF01370.25   240 BGC0000451.1_ORF8:gid:dhbA:pid:ACR12253.1:loc:8485:9253:strand:+ -            255   1.6e-06   27.9   0.0   1   1     7e-10   3.6e-06   26.8   0.0     2   227    16   235    15   245 0.78 NAD dependent epimerase/dehydratase family
+HlyD_D23             PF16576.9    214 BGC0000451.1_ORF9:gid::pid:ACR11867.1:loc:9265:10435:strand:+ -            389     2e-14   53.6   0.2   1   1   2.5e-16   1.7e-12   47.3   0.1    19   214    67   293    64   293 0.69 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+HlyD_3               PF13437.10   106 BGC0000451.1_ORF9:gid::pid:ACR11867.1:loc:9265:10435:strand:+ -            389   2.1e-09   38.2   0.1   1   1   7.7e-09   5.3e-05   24.0   0.1     1   106   177   290   177   290 0.86 HlyD family secretion protein
+ACR_tran             PF00873.23  1021 BGC0000451.1_ORF10:gid::pid:ACR11213.1:loc:10431:13575:strand:+ -           1047         0 1109.1   6.5   1   1         0         0 1108.9   6.5     1  1020     2  1023     2  1024 0.99 AcrB/AcrD/AcrF family
+MMPL                 PF03176.19   333 BGC0000451.1_ORF10:gid::pid:ACR11213.1:loc:10431:13575:strand:+ -           1047   3.6e-06   26.3  37.1   1   1   5.3e-09   5.5e-05   22.5  15.2   140   302   336   497   294   537 0.80 MMPL family
+Esterase             PF00756.24   249 BGC0000451.1_ORF11:gid::pid:ACR10707.1:loc:13571:14909:strand:+ -            445   9.9e-24   84.6   0.1   1   2   3.6e-09   3.7e-05   23.7   0.0    17   107   191   270   175   279 0.85 Putative esterase
+Esterase             PF00756.24   249 BGC0000451.1_ORF11:gid::pid:ACR10707.1:loc:13571:14909:strand:+ -            445   9.9e-24   84.6   0.1   2   2   8.4e-20   8.7e-16   58.6   0.1   112   247   311   425   299   426 0.91 Putative esterase
+Enterochelin_N       PF11806.12   121 BGC0000451.1_ORF11:gid::pid:ACR10707.1:loc:13571:14909:strand:+ -            445   1.8e-21   77.3   1.3   1   1   2.6e-25   2.8e-21   76.7   0.0     1   108    37   143    37   150 0.90 Enterochelin esterase, N-terminal
+MbtH                 PF03621.17    53 BGC0000451.1_ORF12:gid::pid:ACR12481.1:loc:14892:15150:strand:+ -             85   6.8e-23   80.1   0.2   1   1   4.7e-27   9.8e-23   79.6   0.2     3    52    10    59     8    60 0.98 MbtH-like protein
+MFS_1                PF07690.20   347 BGC0000451.1_ORF13:gid::pid:ACR13598.1:loc:22383:23637:strand:+ -            417   6.6e-32  111.0  57.0   1   1   5.1e-32   5.3e-28   98.1  33.1     1   336    20   352    20   353 0.87 Major Facilitator Superfamily
+MFS_3                PF05977.17   524 BGC0000451.1_ORF13:gid::pid:ACR13598.1:loc:22383:23637:strand:+ -            417   4.1e-27   95.0  24.7   1   1   5.1e-31   5.3e-27   94.6  24.7    10   393    15   398     8   411 0.91 Transmembrane secretion effector
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000451.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000451.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000451.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:40:58 2024
+# [ok]

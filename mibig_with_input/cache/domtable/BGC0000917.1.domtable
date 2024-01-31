@@ -1,0 +1,18 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Mob_synth_C          PF06463.17   128 BGC0000917.1_ORF1:gid:moaA:pid:AAD21201.1:loc:216:1203:strand:+ -            328   2.1e-38  131.4   0.0   1   1   2.9e-42     3e-38  130.8   0.0     2   127   181   307   180   308 0.97 Molybdenum Cofactor Synthesis C
+Radical_SAM          PF04055.25   167 BGC0000917.1_ORF1:gid:moaA:pid:AAD21201.1:loc:216:1203:strand:+ -            328   2.6e-26   93.0   0.0   1   1   4.4e-30   4.6e-26   92.2   0.0     1   166    19   174    19   175 0.92 Radical SAM superfamily
+ThiS                 PF02597.24    76 BGC0000917.1_ORF2:gid:moaD:pid:AAD21202.1:loc:1204:1453:strand:+ -             82   3.7e-15   56.4   0.0   1   1     2e-19   4.1e-15   56.3   0.0     1    76     4    82     4    82 0.98 ThiS family
+ThiF                 PF00899.25   219 BGC0000917.1_ORF3:gid:moaB:pid:AAD21203.1:loc:1454:2216:strand:+ -            253   6.6e-62  208.8   0.0   1   1   3.6e-66   7.6e-62  208.5   0.0     1   218    12   244    12   245 0.97 ThiF family
+MoaC                 PF01967.25   136 BGC0000917.1_ORF4:gid:moaC:pid:AAD21204.1:loc:2246:2477:strand:+ -             77   1.1e-19   71.0   1.0   1   1   6.3e-24   1.3e-19   70.7   1.0     1    57     1    57     1    58 0.98 MoaC family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000917.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000917.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000917.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:28:07 2024
+# [ok]

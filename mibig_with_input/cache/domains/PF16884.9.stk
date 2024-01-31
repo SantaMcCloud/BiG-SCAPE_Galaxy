@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+BGC0001234.1_ORF1:gid::pid:XP_002384041.1:loc:492:1608:strand:-:25:123           lvageqvtledvsyd----------------.--..-----ATE...PLAEDELMVQLLYATYDLFKRDLAS..SSAD-AT..ELRGRKPVETMSIAQVI.KS.N.NKQFQEGDMVIGRLPVQQYVLIKADDAT--el...
+#=GR BGC0001234.1_ORF1:gid::pid:XP_002384041.1:loc:492:1608:strand:-:25:123   PP *99988877766554..........................455...799********************99..9999.77..89999************.**.*.********************99998876..57...
+BGC0000155.1_ORF7:gid:RED1:pid:AAM88292.1:loc:62536:63658:strand:+:5:117         .............ks--LIFKNPPIGWPKPDvDF..GVECRPIDingDIPLGGVILKNCYVSLDPYQRGRMRapTVDSYSP..PFTIGDPMEGHVISRVI.RS.A.STKLQPGDFVSGVGPIQEFSVLSA------gvvdg
+#=GR BGC0000155.1_ORF7:gid:RED1:pid:AAM88292.1:loc:62536:63658:strand:+:5:117 PP .............65..66777777777766467..666666532237888********************966699****..*****************.**.*.******************998765......6789*
+BGC0001190.1_ORF10:gid::pid:EWG54272.1:loc:22410:23531:strand:+:8:117            ...............KTWVFKKSPSSLPEPGvHT..AFEDRPLS..lVAPPGGLVIKLLTAGLDPHQRDRMRgaGNVDYVP..GYELDEPITNFSIAKVI.RS.D.NDAFEEGSLIAGSLPIAEYGIIP-------kelid
+#=GR BGC0001190.1_ORF10:gid::pid:EWG54272.1:loc:22410:23531:strand:+:8:117    PP ...............79************97256..89999999..445689*******************9444678***..*****************.**.*.******************98876.......56889
+BGC0001043.1_ORF2:gid::pid:BAG17640.1:loc:1239:2295:strand:-:4:106               ..............a-KWVVREHVEGVPDVD.RVyeKIVENVDV...RLAPDEMLLRTLYVSVDPYLQGIAL..DTP----..---IGRHMGADSIMEVV.EA.GpRAAHRVGDLVQGFGGWRTHVVSTG------vpelw
+#=GR BGC0001043.1_ORF2:gid::pid:BAG17640.1:loc:1239:2295:strand:-:4:106       PP ..............8.69***********99.987778888888...**********************987..765.........5*************.87.6267899****************987......7899*
+BGC0001302.1_ORF4:gid::pid:AKC91606.1:loc:3659:4601:strand:-:1:92                ..............m----------------.--..--VETPVV...PPGEGEVLVRNLFFHVFATLRILIA..GATQDTPfpVLTAGDTLVGAAIGEVV.EApA.DSGFGPGDLVSHWLGWREYALVPVAEC---tll..
+#=GR BGC0001302.1_ORF4:gid::pid:AKC91606.1:loc:3659:4601:strand:-:1:92        PP ..............6.......................689999...************************9..7777666625689*************.8725.678*****************9987665...678..
+BGC0000666.1_ORF2:gid::pid:AFK78066.1:loc:1640:2696:strand:+:4:106               ..............e-KWIVSEHNEGVPDVD.RMyvKVVEELDT...DLAEDEMLLRTRYVSVDPYLHGIAL..DTPA---..----GDHMGADSIMEVL.AA.GpRAMFGVGDLVQGFGGWRTHLVSNGAE----alw..
+#=GR BGC0000666.1_ORF2:gid::pid:AFK78066.1:loc:1640:2696:strand:+:4:106       PP ..............8.699**********99.984466777778...************************9..9999.........************9.77.526789*******************986....689..
+BGC0000177.1_ORF9:gid::pid:ACY01394.1:loc:49854:50871:strand:+:8:115             .............te--VRLATRPEGWPTTE.NF..SVVQAEPP...AVRTGQVLIRNLVMSVDPYMRGRMN..KTRSYVP..PFAVGKALDGGAVGEVV.VS.K.SSQLAVGDLVLHGLGWREYAVVGAAGAV--ri...
+#=GR BGC0000177.1_ORF9:gid::pid:ACY01394.1:loc:49854:50871:strand:+:8:115     PP .............95..789***********.**..********...*************************..*******..*****************.**.*.*********************9888765..57...
+BGC0000999.1_ORF1:gid::pid:ACP19697.1:loc:772:1828:strand:-:4:106                ..............e-RWVVREHVEGVPDAA.RIyeKVETELNT...RLGEEQMLLKTLYVSVDPYLQGICL..DTP----..---IGDHMGADSIMQVLdAG.P.NAPFRPGDLVQGFGGWRTHLVSDGK-----pklw.
+#=GR BGC0000999.1_ORF1:gid::pid:ACP19697.1:loc:772:1828:strand:-:4:106        PP ..............7.7************99.876445555556...9*********************998..876.........5*************445.6.889********************97.....689*.
+BGC0000996.1_ORF6:gid::pid:EFL02197.1:loc:14252:15308:strand:+:4:105             ..............s-KWVVREHVKGTPDVS.RV.yERVDEDIA..vDLAPHQMLLRTRYVSVDPYLQGITL..DTP----..---IGAHMGADTIMEVL.EA.GpEAPFREGELVQGYGGWRSHLVSDGK-----pel..
+#=GR BGC0000996.1_ORF6:gid::pid:EFL02197.1:loc:14252:15308:strand:+:4:105     PP ..............8.69***********99.87.666666666..59*********************987..765.........5*************.98.72556********************97.....799..
+#=GC PP_cons                                                                     ...............7799999******998.88..77777777...9999*******************99..8889999..8998*************.88.8.889*****************99887766.......
+#=GC RF                                                                          ...............xxxxxxxxxxxxxxxx.xx..xxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxx..xxxxxxxxxxxxxxxxx.xx.x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....
+//

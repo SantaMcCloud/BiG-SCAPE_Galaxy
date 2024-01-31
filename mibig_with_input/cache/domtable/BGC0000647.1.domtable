@@ -1,0 +1,17 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Amino_oxidase        PF01593.28   443 BGC0000647.1_ORF1:gid:crtI:pid:AAB31138.1:loc:251:1808:strand:+ -            518     5e-29  102.0   0.7   1   1   3.3e-32   1.4e-28  100.6   0.7     1   436    20   493    20   498 0.82 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.10    68 BGC0000647.1_ORF1:gid:crtI:pid:AAB31138.1:loc:251:1808:strand:+ -            518   3.3e-15   56.3   0.2   1   1   4.2e-18   1.7e-14   54.0   0.1     1    66    15    77    15    79 0.92 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.28   414 BGC0000647.1_ORF1:gid:crtI:pid:AAB31138.1:loc:251:1808:strand:+ -            518   6.3e-07   29.1   5.5   1   1     1e-08   4.4e-05   23.1   1.0     2    36    13    47    12    54 0.91 FAD binding domain
+SQS_PSY              PF00494.23   263 BGC0000647.1_ORF2:gid:crtB:pid:AAB31139.1:loc:1804:2872:strand:+ -            355   7.2e-70  235.9   9.9   1   1   5.5e-74   1.1e-69  235.2   9.9     1   262    14   276    14   277 0.95 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000647.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000647.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000647.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:30:56 2024
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+IucA_IucC            PF04183.16   238 BGC0000946.1_ORF2:gid:pvsB:pid:BAC16545.1:loc:1490:3323:strand:+ -            610     3e-31  109.0   0.0   1   1   6.9e-35   7.2e-31  107.8   0.0     9   237   166   372   158   373 0.86 IucA / IucC family
+FhuF                 PF06276.16   161 BGC0000946.1_ORF2:gid:pvsB:pid:BAC16545.1:loc:1490:3323:strand:+ -            610   1.9e-14   54.6   2.5   1   1   2.2e-18   2.3e-14   54.4   0.4     2   144   396   557   395   570 0.82 Ferric iron reductase FhuF-like transporter
+MFS_1                PF07690.20   347 BGC0000946.1_ORF3:gid:pvsC:pid:BAC16546.1:loc:3329:4535:strand:+ -            401   1.9e-32  112.7  32.0   1   1     5e-29   3.5e-25   88.9  20.6     2   286     9   293     8   294 0.79 Major Facilitator Superfamily
+MFS_1_like           PF12832.11   373 BGC0000946.1_ORF3:gid:pvsC:pid:BAC16546.1:loc:3329:4535:strand:+ -            401   1.8e-06   27.5   8.1   1   1   2.5e-10   1.8e-06   27.5   8.1    21   341    25   344     6   356 0.69 MFS_1 like family
+Sugar_tr             PF00083.28   452 BGC0000946.1_ORF3:gid:pvsC:pid:BAC16546.1:loc:3329:4535:strand:+ -            401   1.8e-05   24.0   4.7   1   1   2.7e-09   1.8e-05   24.0   4.7    47   187    41   176     8   185 0.87 Sugar (and other) transporter
+IucA_IucC            PF04183.16   238 BGC0000946.1_ORF4:gid:pvsD:pid:BAC16547.1:loc:4506:6336:strand:+ -            609   3.2e-56  190.8   0.3   1   1   2.2e-59   2.3e-55  188.0   0.0     2   237   163   399   162   400 0.88 IucA / IucC family
+FhuF                 PF06276.16   161 BGC0000946.1_ORF4:gid:pvsD:pid:BAC16547.1:loc:4506:6336:strand:+ -            609   2.8e-31  109.4   0.3   1   1   8.9e-35   9.2e-31  107.7   0.1     2   159   430   588   429   590 0.93 Ferric iron reductase FhuF-like transporter
+Orn_Arg_deC_N        PF02784.20   247 BGC0000946.1_ORF5:gid:pvsE:pid:BAC16548.1:loc:6328:7531:strand:+ -            400     3e-31  108.9   0.0   1   1   5.4e-35   3.8e-31  108.5   0.0     3   247    35   282    33   282 0.96 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+Orn_DAP_Arg_deC      PF00278.26    95 BGC0000946.1_ORF5:gid:pvsE:pid:BAC16548.1:loc:6328:7531:strand:+ -            400     2e-16   60.2   0.0   1   1     3e-20   2.1e-16   60.1   0.0     5    95    74   378    28   378 0.68 Pyridoxal-dependent decarboxylase, C-terminal sheet domain
+Ala_racemase_N       PF01168.24   220 BGC0000946.1_ORF5:gid:pvsE:pid:BAC16548.1:loc:6328:7531:strand:+ -            400   1.6e-11   44.5   0.0   1   1   4.1e-15   2.9e-11   43.7   0.0     2   178    32   222    31   252 0.85 Alanine racemase, N-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000946.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000946.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000946.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:16:20 2024
+# [ok]

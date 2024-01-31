@@ -1,0 +1,19 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.30   252 BGC0001244.1_ORF1:gid:mlnS:pid:AIW00670.1:loc:0:5358:strand:+ -           1785   1.1e-80  271.1   0.0   1   1   7.9e-84   2.3e-80  270.0   0.0     2   252    40   289    39   289 0.94 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.25   319 BGC0001244.1_ORF1:gid:mlnS:pid:AIW00670.1:loc:0:5358:strand:+ -           1785   5.8e-66  223.3   0.1   1   1   3.1e-69   9.2e-66  222.7   0.1     1   317   575   888   575   890 0.96 Acyl transferase domain
+KR                   PF08659.14   180 BGC0001244.1_ORF1:gid:mlnS:pid:AIW00670.1:loc:0:5358:strand:+ -           1785   9.7e-57  192.0   0.1   1   1   4.7e-58   1.4e-54  184.9   0.0     1   179  1418  1608  1418  1609 0.93 KR domain
+Ketoacyl-synt_C      PF02801.26   119 BGC0001244.1_ORF1:gid:mlnS:pid:AIW00670.1:loc:0:5358:strand:+ -           1785   9.2e-40  135.6   2.1   1   1     2e-42   5.9e-39  133.0   1.8     1   117   297   413   297   415 0.98 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.29    67 BGC0001244.1_ORF1:gid:mlnS:pid:AIW00670.1:loc:0:5358:strand:+ -           1785   8.7e-14   51.7   0.0   1   1   6.9e-17     2e-13   50.5   0.0     2    66  1711  1776  1710  1777 0.97 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.9    111 BGC0001244.1_ORF1:gid:mlnS:pid:AIW00670.1:loc:0:5358:strand:+ -           1785   1.1e-09   38.9   0.0   1   1     1e-12     3e-09   37.5   0.0     2   110   418   536   418   537 0.86 Ketoacyl-synthetase C-terminal extension
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001244.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001244.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001244.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:21:24 2024
+# [ok]

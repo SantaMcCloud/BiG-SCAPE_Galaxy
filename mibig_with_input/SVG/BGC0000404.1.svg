@@ -1,0 +1,206 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1914.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1904.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="75,40 104,10 104,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="166,25 156,25 156,10 126,40 156,70 156,55 166,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_transf_54 (PF04666)
+"N-Acetylglucosaminyltransferase-IV (GnT-IV) conserved region"</title>
+				<polygon class="PF04666" points="142,28 142,28 161,28 161,52 142,52 142,52" stroke-linejoin="round" width="19" height="24" fill="rgb(188,58,226)" stroke="rgb(150,46,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="182,25 192,25 192,10 222,40 192,70 192,55 182,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="261,25 309,25 309,10 339,40 309,70 309,55 261,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="425,10 454,40 425,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="531,25 499,25 499,10 469,40 499,70 499,55 531,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_32 (PF13679)
+"Methyltransferase domain"</title>
+				<rect class="PF13679" x="492" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(96,130,197)" stroke="rgb(76,104,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="616,25 583,25 583,10 553,40 583,70 583,55 616,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>pcbAB
+alpha-aminoadypil-cysteinyl-valine synthetase</title>
+			<polygon class="pcbAB
+alpha-aminoadypil-cysteinyl-valine synthetase" points="1164,25 817,25 817,10 787,40 817,70 817,55 1164,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="791,40 803,28 808,28 808,52 803,52" stroke-linejoin="round" width="21" height="24" fill="rgb(69,76,223)" stroke="rgb(55,60,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="810" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="855" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="864" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="879" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="916" y="28" stroke-linejoin="round" width="45" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="964" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="973" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="987" y="28" stroke-linejoin="round" width="35" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="1024" y="28" stroke-linejoin="round" width="45" height="24" fill="rgb(172,217,60)" stroke="rgb(137,173,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="1072" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="1096" y="28" stroke-linejoin="round" width="35" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pcbC
+isopenicillin N synthetase</title>
+			<polygon class="pcbC
+isopenicillin N synthetase" points="1198,25 1201,25 1201,10 1231,40 1201,70 1201,55 1198,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DIOX_N (PF14226)
+"non-haem dioxygenase in morphine synthesis N-terminal"</title>
+				<rect class="PF14226" x="1198" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(193,95,155)" stroke="rgb(154,76,124)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>2OG-FeII_Oxy (PF03171)
+"2OG-Fe(II) oxygenase superfamily"</title>
+				<polygon class="PF03171" points="1216,30 1226,40 1226,40 1216,50" stroke-linejoin="round" width="10" height="24" fill="rgb(182,163,77)" stroke="rgb(145,130,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>penDE
+acyl-coenzyme A:Isopenicillin N acyltransferase</title>
+			<polygon class="penDE
+acyl-coenzyme A:Isopenicillin N acyltransferase" points="1282,25 1294,25 1294,10 1324,40 1294,70 1294,55 1282,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAT (PF03417)
+"Acyl-coenzyme A:6-aminopenicillanic acid acyl-transferase"</title>
+				<polygon class="PF03417" points="1292,28 1308,28 1314,34 1314,46 1308,52 1292,52" stroke-linejoin="round" width="22" height="24" fill="rgb(106,220,172)" stroke="rgb(84,176,137)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1410,25 1388,25 1388,10 1358,40 1388,70 1388,55 1410,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DAO (PF01266)
+"FAD dependent oxidoreductase"</title>
+				<polygon class="PF01266" points="1372,30 1374,28 1399,28 1399,52 1374,52 1372,50" stroke-linejoin="round" width="27" height="24" fill="rgb(175,183,81)" stroke="rgb(139,146,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1428,25 1443,25 1443,10 1473,40 1443,70 1443,55 1428,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sacchrp_dh_NADP (PF03435)
+"Saccharopine dehydrogenase NADP binding domain"</title>
+				<rect class="PF03435" x="1429" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(184,160,56)" stroke="rgb(147,128,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1574,10 1589,40 1574,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1751,40 1769,10 1769,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyoxalase (PF00903)
+"Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"</title>
+				<polygon class="PF00903" points="1757,37 1762,28 1768,28 1768,52 1762,52 1757,43" stroke-linejoin="round" width="11" height="24" fill="rgb(139,76,222)" stroke="rgb(111,60,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1820,25 1822,25 1822,10 1852,40 1822,70 1822,55 1820,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1860,25 1868,25 1868,10 1898,40 1868,70 1868,55 1860,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FA_hydroxylase (PF04116)
+"Fatty acid hydroxylase"</title>
+				<polygon class="PF04116" points="1877,28 1882,28 1890,36 1890,44 1882,52 1877,52" stroke-linejoin="round" width="13" height="24" fill="rgb(54,190,140)" stroke="rgb(43,152,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

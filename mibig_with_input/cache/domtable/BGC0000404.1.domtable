@@ -1,0 +1,34 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glyco_transf_54      PF04666.17   278 BGC0000404.1_ORF2:gid::pid:ABA70576.1:loc:3498:4725:strand:- -            408     3e-10   39.6   0.0   1   1     1e-12   2.1e-08   33.6   0.0    12   187    63   235    53   245 0.77 N-Acetylglucosaminyltransferase-IV (GnT-IV) conserved region
+Methyltransf_32      PF13679.10   142 BGC0000404.1_ORF6:gid::pid:ABA70580.1:loc:13795:15676:strand:- -            626   3.4e-19   69.4   0.0   1   1     3e-23   6.2e-19   68.6   0.0     1   141   146   392   146   393 0.94 Methyltransferase domain
+Condensation         PF00668.24   456 BGC0000404.1_ORF8:gid:pcbAB:pid:ABA70582.1:loc:23317:34654:strand:- -           3778  1.2e-266  884.8   2.7   1   3   3.1e-97   1.3e-93  314.4   0.9     3   455   950  1404   948  1405 0.92 Condensation domain
+Condensation         PF00668.24   456 BGC0000404.1_ORF8:gid:pcbAB:pid:ABA70582.1:loc:23317:34654:strand:- -           3778  1.2e-266  884.8   2.7   2   3  6.6e-104  2.7e-100  336.4   0.2     3   443  2026  2466  2024  2481 0.92 Condensation domain
+Condensation         PF00668.24   456 BGC0000404.1_ORF8:gid:pcbAB:pid:ABA70582.1:loc:23317:34654:strand:- -           3778  1.2e-266  884.8   2.7   3   3   1.9e-66   7.7e-63  213.0   0.0     3   440  3116  3532  3114  3542 0.91 Condensation domain
+AMP-binding          PF00501.32   382 BGC0000404.1_ORF8:gid:pcbAB:pid:ABA70582.1:loc:23317:34654:strand:- -           3778  5.2e-220  730.1   0.0   1   3   3.7e-77   1.5e-73  248.0   0.0     2   382   329   684   328   684 0.88 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0000404.1_ORF8:gid:pcbAB:pid:ABA70582.1:loc:23317:34654:strand:- -           3778  5.2e-220  730.1   0.0   2   3   2.2e-80   9.1e-77  258.6   0.0     1   382  1423  1774  1423  1774 0.85 AMP-binding enzyme
+AMP-binding          PF00501.32   382 BGC0000404.1_ORF8:gid:pcbAB:pid:ABA70582.1:loc:23317:34654:strand:- -           3778  5.2e-220  730.1   0.0   3   3   1.3e-68   5.4e-65  219.9   0.1     2   382  2507  2854  2506  2854 0.84 AMP-binding enzyme
+PP-binding           PF00550.29    67 BGC0000404.1_ORF8:gid:pcbAB:pid:ABA70582.1:loc:23317:34654:strand:- -           3778   1.7e-41  140.5   0.1   1   3   2.9e-15   1.2e-11   44.9   0.0     3    67   857   923   856   923 0.92 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0000404.1_ORF8:gid:pcbAB:pid:ABA70582.1:loc:23317:34654:strand:- -           3778   1.7e-41  140.5   0.1   2   3   2.5e-14     1e-10   41.9   0.0     2    65  1942  2005  1941  2007 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.29    67 BGC0000404.1_ORF8:gid:pcbAB:pid:ABA70582.1:loc:23317:34654:strand:- -           3778   1.7e-41  140.5   0.1   3   3   1.3e-16   5.3e-13   49.2   0.0     3    67  3032  3094  3030  3094 0.93 Phosphopantetheine attachment site
+Thioesterase         PF00975.24   226 BGC0000404.1_ORF8:gid:pcbAB:pid:ABA70582.1:loc:23317:34654:strand:- -           3778   1.1e-33  117.5   0.0   1   1   7.5e-37   3.1e-33  116.0   0.0     2   217  3562  3769  3561  3777 0.91 Thioesterase domain
+AMP-binding_C        PF13193.10    76 BGC0000404.1_ORF8:gid:pcbAB:pid:ABA70582.1:loc:23317:34654:strand:- -           3778   1.3e-21   77.5   0.0   1   2   1.8e-10   7.6e-07   30.2   0.0     1    76  1841  1915  1841  1915 0.91 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.10    76 BGC0000404.1_ORF8:gid:pcbAB:pid:ABA70582.1:loc:23317:34654:strand:- -           3778   1.3e-21   77.5   0.0   2   2   5.8e-09   2.4e-05   25.4   0.0     1    76  2923  3003  2923  3003 0.86 AMP-binding enzyme C-terminal domain
+2OG-FeII_Oxy         PF03171.24   101 BGC0000404.1_ORF9:gid:pcbC:pid:ABA70583.1:loc:35669:36665:strand:+ -            331   3.4e-20   72.4   0.1   1   1   1.4e-23   1.4e-19   70.4   0.0     3   100   183   287   181   288 0.91 2OG-Fe(II) oxygenase superfamily
+DIOX_N               PF14226.10   118 BGC0000404.1_ORF9:gid:pcbC:pid:ABA70583.1:loc:35669:36665:strand:+ -            331   6.3e-16   59.3   0.1   1   1   9.1e-20   9.4e-16   58.7   0.1     1   118     9   132     9   132 0.91 non-haem dioxygenase in morphine synthesis N-terminal
+AAT                  PF03417.20   226 BGC0000404.1_ORF10:gid:penDE:pid:ABA70584.1:loc:38162:39437:strand:+ -            357   5.3e-51  173.6   0.0   1   1   3.1e-55   6.5e-51  173.3   0.0     4   225   111   334   108   335 0.94 Acyl-coenzyme A:6-aminopenicillanic acid acyl-transferase
+DAO                  PF01266.28   353 BGC0000404.1_ORF11:gid::pid:ABA70585.1:loc:40455:42020:strand:- -            419   9.4e-17   61.7   1.5   1   1   3.9e-17   8.1e-13   48.8   0.0   134   351   124   378   109   380 0.75 FAD dependent oxidoreductase
+Sacchrp_dh_NADP      PF03435.22   130 BGC0000404.1_ORF12:gid::pid:ABA70586.1:loc:42559:43915:strand:+ -            451   1.2e-11   45.2   0.1   1   1   1.4e-15   2.8e-11   44.0   0.1     1   127    11   131    11   133 0.90 Saccharopine dehydrogenase NADP binding domain
+Glyoxalase           PF00903.29   121 BGC0000404.1_ORF14:gid::pid:ABA70588.1:loc:52259:52819:strand:- -            158   1.6e-05   25.5   0.1   1   1     2e-09   4.2e-05   24.1   0.1     2   121     6   121     5   121 0.73 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+FA_hydroxylase       PF04116.17   132 BGC0000404.1_ORF16:gid::pid:ABA70590.1:loc:55513:56662:strand:+ -            328   7.4e-23   81.6  18.9   1   1   3.6e-27   7.4e-23   81.6  18.9     2   132   171   307   170   307 0.86 Fatty acid hydroxylase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000404.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000404.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000404.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:39:07 2024
+# [ok]

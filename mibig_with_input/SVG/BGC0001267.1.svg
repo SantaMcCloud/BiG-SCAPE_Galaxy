@@ -1,0 +1,158 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1248.5333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1238.5333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="45,25 40,25 40,10 10,40 40,70 40,55 45,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L23 (PF00276)
+"Ribosomal protein L23"</title>
+				<polygon class="PF00276" points="23,31 26,28 29,28 29,52 26,52 23,49" stroke-linejoin="round" width="6" height="24" fill="rgb(99,162,200)" stroke="rgb(79,129,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ribosomal_L23eN (PF03939)
+"Ribosomal protein L23, N-terminal domain"</title>
+				<rect class="PF03939" x="31" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(188,220,73)" stroke="rgb(150,176,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="226,25 207,25 207,10 177,40 207,70 207,55 226,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cupin_5 (PF06172)
+"Cupin superfamily (DUF985)"</title>
+				<polygon class="PF06172" points="191,30 193,28 204,28 204,52 193,52 191,50" stroke-linejoin="round" width="13" height="24" fill="rgb(184,79,49)" stroke="rgb(147,63,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="253,25 260,25 260,10 290,40 260,70 260,55 253,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="298,40 327,10 327,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cupin_5 (PF06172)
+"Cupin superfamily (DUF985)"</title>
+				<polygon class="PF06172" points="306,36 314,28 319,28 319,52 314,52 306,44" stroke-linejoin="round" width="13" height="24" fill="rgb(184,79,49)" stroke="rgb(147,63,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="524,25 462,25 462,10 432,40 462,70 462,55 524,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APH (PF01636)
+"Phosphotransferase enzyme family"</title>
+				<rect class="PF01636" x="469" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(113,205,78)" stroke="rgb(90,164,62)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_M24 (PF00557)
+"Metallopeptidase family M24"</title>
+				<rect class="PF00557" x="504" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(51,195,145)" stroke="rgb(40,156,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>easA
+putative oxidase</title>
+			<polygon class="easA
+putative oxidase" points="665,25 673,25 673,10 703,40 673,70 673,55 665,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Oxidored_FMN (PF00724)
+"NADH:flavin oxidoreductase / NADH oxidase family"</title>
+				<polygon class="PF00724" points="665,28 687,28 698,39 698,41 687,52 665,52" stroke-linejoin="round" width="33" height="24" fill="rgb(77,132,194)" stroke="rgb(61,105,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloA
+cytochrome P450 monooxygenase</title>
+			<polygon class="cloA
+cytochrome P450 monooxygenase" points="810,25 765,25 765,10 735,40 765,70 765,55 810,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<rect class="PF00067" x="762" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(195,210,54)" stroke="rgb(155,168,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>easC
+putative catalase</title>
+			<polygon class="easC
+putative catalase" points="879,25 858,25 858,10 828,40 858,70 858,55 879,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Catalase (PF00199)
+"Catalase"</title>
+				<polygon class="PF00199" points="840,32 844,28 878,28 878,52 844,52 840,48" stroke-linejoin="round" width="38" height="24" fill="rgb(224,57,145)" stroke="rgb(179,45,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>easD
+oxidoreductase</title>
+			<polygon class="easD
+oxidoreductase" points="907,40 936,10 936,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="911,40 923,28 934,28 934,52 923,52" stroke-linejoin="round" width="24" height="24" fill="rgb(79,221,209)" stroke="rgb(63,176,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>easE
+oxidoreductase</title>
+			<polygon class="easE
+oxidoreductase" points="955,25 992,25 992,10 1022,40 992,70 992,55 955,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_4 (PF01565)
+"FAD binding domain"</title>
+				<rect class="PF01565" x="967" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(194,197,94)" stroke="rgb(155,157,75)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BBE (PF08031)
+"Berberine and berberine like"</title>
+				<polygon class="PF08031" points="1005,28 1006,28 1009,31 1009,49 1006,52 1005,52" stroke-linejoin="round" width="4" height="24" fill="rgb(56,179,213)" stroke="rgb(44,143,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>easF
+ergot alkaloid biosynthetic protein B</title>
+			<polygon class="easF
+ergot alkaloid biosynthetic protein B" points="1034,25 1043,25 1043,10 1073,40 1043,70 1043,55 1034,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_33 (PF10017)
+"Histidine-specific methyltransferase, SAM-dependent"</title>
+				<polygon class="PF10017" points="1035,28 1057,28 1067,38 1067,42 1057,52 1035,52" stroke-linejoin="round" width="32" height="24" fill="rgb(77,219,196)" stroke="rgb(61,175,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>easG
+ergot alkaloid biosynthetic protein A</title>
+			<polygon class="easG
+ergot alkaloid biosynthetic protein A" points="1108,25 1104,25 1104,10 1074,40 1104,70 1104,55 1108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NmrA (PF05368)
+"NmrA-like family"</title>
+				<polygon class="PF05368" points="1085,33 1090,28 1106,28 1106,52 1090,52 1085,47" stroke-linejoin="round" width="21" height="24" fill="rgb(102,214,88)" stroke="rgb(81,171,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dmaW
+dimethylallyltryptophan synthase</title>
+			<polygon class="dmaW
+dimethylallyltryptophan synthase" points="1141,25 1161,25 1161,10 1191,40 1161,70 1161,55 1141,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_DMAT (PF11991)
+"Tryptophan dimethylallyltransferase"</title>
+				<polygon class="PF11991" points="1143,28 1174,28 1179,33 1179,47 1174,52 1143,52" stroke-linejoin="round" width="36" height="24" fill="rgb(65,157,207)" stroke="rgb(51,125,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

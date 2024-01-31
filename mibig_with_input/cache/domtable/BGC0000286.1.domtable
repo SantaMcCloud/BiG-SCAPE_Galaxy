@@ -1,0 +1,35 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.26   462 BGC0000286.1_ORF1:gid:p450:pid:BAD86796.1:loc:17:1406:strand:+ -            462   2.6e-68  231.1   0.0   1   1   1.5e-72   3.1e-68  230.8   0.0     4   446    11   429     9   443 0.89 Cytochrome P450
+SQHop_cyclase_C      PF13243.10   319 BGC0000286.1_ORF2:gid:ent-cdps:pid:BAD86797.1:loc:1413:2949:strand:+ -            511   1.5e-13   50.7   0.4   1   1   2.2e-14   2.3e-10   40.2   0.4   137   231   332   429   329   457 0.85 Squalene-hopene cyclase C-terminal domain
+Prenyltrans          PF00432.25    44 BGC0000286.1_ORF2:gid:ent-cdps:pid:BAD86797.1:loc:1413:2949:strand:+ -            511   2.2e-07   30.7   5.6   1   2   3.7e-05      0.39   10.8   0.0     7    22    52    67    52    67 0.95 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.25    44 BGC0000286.1_ORF2:gid:ent-cdps:pid:BAD86797.1:loc:1413:2949:strand:+ -            511   2.2e-07   30.7   5.6   2   2   1.5e-06     0.016   15.2   0.0     5    21   409   425   406   439 0.89 Prenyltransferase and squalene oxidase repeat
+polyprenyl_synt      PF00348.21   251 BGC0000286.1_ORF4:gid:ggdps:pid:BAD86799.1:loc:4010:5177:strand:+ -            388     3e-55  187.3   0.0   1   1     2e-59   4.1e-55  186.9   0.0     6   238    77   326    73   338 0.91 Polyprenyl synthetase
+GHMP_kinases_N       PF00288.30    65 BGC0000286.1_ORF5:gid:mevk:pid:BAD86800.1:loc:5354:6386:strand:+ -            343   3.3e-16   59.7   0.5   1   1   9.8e-20     1e-15   58.1   0.5     1    60   118   180   118   183 0.93 GHMP kinases N terminal domain
+GHMP_kinases_C       PF08544.17    85 BGC0000286.1_ORF5:gid:mevk:pid:BAD86800.1:loc:5354:6386:strand:+ -            343   8.2e-14   52.0   3.2   1   1   2.7e-17   2.8e-13   50.2   0.8     3    83   250   327   249   329 0.95 GHMP kinases C terminal
+MDD_C                PF18376.5    186 BGC0000286.1_ORF6:gid:mdpd:pid:BAD86801.1:loc:6378:7431:strand:+ -            350   1.7e-20   73.9   0.0   1   1   2.3e-24   2.3e-20   73.4   0.0     2   133   199   327   198   338 0.92 Mevalonate 5-diphosphate decarboxylase C-terminal domain
+GHMP_kinases_N       PF00288.30    65 BGC0000286.1_ORF6:gid:mdpd:pid:BAD86801.1:loc:6378:7431:strand:+ -            350   2.5e-09   37.6   4.9   1   1   6.2e-13   6.4e-09   36.3   4.9     4    65   109   164   107   164 0.95 GHMP kinases N terminal domain
+GHMP_kinases_N       PF00288.30    65 BGC0000286.1_ORF7:gid:pmk:pid:BAD86802.1:loc:7427:8555:strand:+ -            375   5.5e-09   36.5   2.1   1   1   1.4e-12   1.5e-08   35.2   2.1    11    65   128   185   115   185 0.86 GHMP kinases N terminal domain
+GHMP_kinases_C       PF08544.17    85 BGC0000286.1_ORF7:gid:pmk:pid:BAD86802.1:loc:7427:8555:strand:+ -            375   2.5e-07   31.1   0.2   1   1   5.6e-11   5.9e-07   30.0   0.2     2    72   274   345   273   358 0.83 GHMP kinases C terminal
+FMN_dh               PF01070.22   350 BGC0000286.1_ORF8:gid:fni:pid:BAD86803.1:loc:8551:9643:strand:+ -            363     5e-12   45.7   7.9   1   1   4.3e-11   8.9e-07   28.4   6.0   204   346   162   323   102   327 0.79 FMN-dependent dehydrogenase
+HMG-CoA_red          PF00368.22   368 BGC0000286.1_ORF9:gid:hmgr:pid:BAD86804.1:loc:9639:10701:strand:+ -            353   5.2e-82  276.0   1.5   1   1     3e-86   6.2e-82  275.8   1.5    41   368     8   344     4   344 0.97 Hydroxymethylglutaryl-coenzyme A reductase
+HMG_CoA_synt_C       PF08540.14   280 BGC0000286.1_ORF10:gid:hmgs:pid:BAD86805.1:loc:10703:11879:strand:+ -            391   4.1e-20   72.8   1.1   1   2   5.5e-11   2.9e-07   30.6   0.1     8    95   179   257   173   273 0.81 Hydroxymethylglutaryl-coenzyme A synthase C terminal
+HMG_CoA_synt_C       PF08540.14   280 BGC0000286.1_ORF10:gid:hmgs:pid:BAD86805.1:loc:10703:11879:strand:+ -            391   4.1e-20   72.8   1.1   2   2   2.8e-14   1.5e-10   41.4   0.1   144   200   268   322   257   341 0.88 Hydroxymethylglutaryl-coenzyme A synthase C terminal
+HMG_CoA_synt_N       PF01154.21   174 BGC0000286.1_ORF10:gid:hmgs:pid:BAD86805.1:loc:10703:11879:strand:+ -            391   6.6e-14   52.4   0.0   1   1   2.2e-17   1.1e-13   51.6   0.0    15   172    17   169     6   171 0.85 Hydroxymethylglutaryl-coenzyme A synthase N terminal
+Chal_sti_synt_N      PF00195.23   225 BGC0000286.1_ORF10:gid:hmgs:pid:BAD86805.1:loc:10703:11879:strand:+ -            391   5.3e-07   29.5   0.0   1   1   1.7e-10   8.9e-07   28.8   0.0    68   201    20   155     5   170 0.77 Chalcone and stilbene synthases, N-terminal domain
+ACP_syn_III          PF08545.14    80 BGC0000286.1_ORF10:gid:hmgs:pid:BAD86805.1:loc:10703:11879:strand:+ -            391   2.1e-06   27.7   1.1   1   1   4.8e-09   2.5e-05   24.2   0.1     2    64   110   169   109   177 0.87 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+ACP_syn_III_C        PF08541.14    90 BGC0000286.1_ORF11:gid::pid:BAD86806.1:loc:11990:12971:strand:+ -            326   1.3e-29  102.4   0.3   1   1   4.8e-33     5e-29  100.5   0.0     1    90   237   326   237   326 0.99 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ACP_syn_III          PF08545.14    80 BGC0000286.1_ORF11:gid::pid:BAD86806.1:loc:11990:12971:strand:+ -            326   4.4e-22   77.9   0.2   1   1   9.1e-26   9.5e-22   76.9   0.2     1    78   107   183   107   185 0.94 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+GH3                  PF03321.17   532 BGC0000286.1_ORF13:gid::pid:BAD86808.1:loc:13868:15569:strand:+ -            566   3.2e-82  277.3   0.0   1   1     2e-86   4.2e-82  276.9   0.0     8   524    33   541    26   548 0.91 GH3 auxin-responsive promoter
+LCM                  PF04072.18   187 BGC0000286.1_ORF14:gid::pid:BAD86809.1:loc:15565:16432:strand:+ -            288   2.1e-51  174.6   0.1   1   1   1.3e-55   2.6e-51  174.3   0.1     1   186    15   193    15   194 0.95 Leucine carboxyl methyltransferase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000286.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000286.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000286.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:27:18 2024
+# [ok]

@@ -1,0 +1,118 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="384.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="374.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (G11MC16DRAFT_3399)
+conserved hypothetical protein</title>
+			<polygon class=" (G11MC16DRAFT_3399)
+conserved hypothetical protein" points="49,25 40,25 40,10 10,40 40,70 40,55 49,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Erythro_esteras (PF05139)
+"Erythromycin esterase"</title>
+				<polygon class="PF05139" points="14,40 26,28 42,28 42,52 26,52" stroke-linejoin="round" width="31" height="24" fill="rgb(183,67,146)" stroke="rgb(146,53,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G11MC16DRAFT_3400)
+ABC transporter-related protein</title>
+			<polygon class=" (G11MC16DRAFT_3400)
+ABC transporter-related protein" points="121,25 79,25 79,10 49,40 79,70 79,55 121,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="57,36 65,28 71,28 71,52 65,52 57,44" stroke-linejoin="round" width="14" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="78" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(62,71,183)" stroke="rgb(49,56,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="107" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(93,118,202)" stroke="rgb(74,94,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G11MC16DRAFT_3401)
+Lanthionine synthetase C family protein</title>
+			<polygon class=" (G11MC16DRAFT_3401)
+Lanthionine synthetase C family protein" points="224,25 152,25 152,10 122,40 152,70 152,55 224,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="126,40 138,28 156,28 156,52 138,52" stroke-linejoin="round" width="34" height="24" fill="rgb(91,189,96)" stroke="rgb(72,151,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4135 (PF13575)
+"Domain of unknown function (DUF4135)"</title>
+				<rect class="PF13575" x="169" y="28" stroke-linejoin="round" width="37" height="24" fill="rgb(170,90,215)" stroke="rgb(135,72,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G11MC16DRAFT_3402)
+hypothetical protein</title>
+			<polygon class=" (G11MC16DRAFT_3402)
+hypothetical protein" points="227,40 232,10 232,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (G11MC16DRAFT_3403)
+two component transcriptional regulator, LuxR family</title>
+			<polygon class=" (G11MC16DRAFT_3403)
+two component transcriptional regulator, LuxR family" points="238,40 260,10 260,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="242,40 245,36 245,44" stroke-linejoin="round" width="5" height="24" fill="rgb(225,67,110)" stroke="rgb(180,53,88)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="248,32 251,28 259,28 259,52 251,52 248,48" stroke-linejoin="round" width="11" height="24" fill="rgb(59,131,198)" stroke="rgb(47,104,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G11MC16DRAFT_3404)
+integral membrane sensor signal transduction histidine kinase</title>
+			<polygon class=" (G11MC16DRAFT_3404)
+integral membrane sensor signal transduction histidine kinase" points="336,25 291,25 291,10 261,40 291,70 291,55 336,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="265,40 270,35 270,45" stroke-linejoin="round" width="9" height="24" fill="rgb(94,146,210)" stroke="rgb(75,116,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA_3 (PF07730)
+"Histidine kinase"</title>
+				<polygon class="PF07730" points="274,31 277,28 280,28 280,52 277,52 274,49" stroke-linejoin="round" width="6" height="24" fill="rgb(197,134,53)" stroke="rgb(157,107,42)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PDZ (PF00595)
+"PDZ domain"</title>
+				<rect class="PF00595" x="327" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(194,92,104)" stroke="rgb(155,73,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G11MC16DRAFT_3405)
+hypothetical protein</title>
+			<polygon class=" (G11MC16DRAFT_3405)
+hypothetical protein" points="337,40 342,10 342,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ComX (PF05952)
+"Bacillus competence pheromone ComX"</title>
+				<polygon class="PF05952" points="340,40 341,34 341,46" stroke-linejoin="round" width="4" height="24" fill="rgb(99,212,157)" stroke="rgb(79,169,125)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (G11MC16DRAFT_3406)
+Polyprenyl synthetase</title>
+			<polygon class=" (G11MC16DRAFT_3406)
+Polyprenyl synthetase" points="373,25 372,25 372,10 342,40 372,70 372,55 373,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="346,40 358,28 369,28 369,52 358,52 346,40" stroke-linejoin="round" width="23" height="24" fill="rgb(216,200,102)" stroke="rgb(172,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

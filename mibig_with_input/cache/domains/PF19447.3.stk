@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+BGC0000014.1_ORF27:gid::pid:ABK32272.1:loc:83167:83422:strand:-:1:75         m---------TLGYATIALFFLRFWKKTGDRLFAKFSAAFWLMMLGRIAVALN----RVEEDAIHYLYLFRLLAYVLILYAIVHK--nrg
+#=GR BGC0000014.1_ORF27:gid::pid:ABK32272.1:loc:83167:83422:strand:-:1:75 PP 6.........799****************************************....9************************955..569
+BGC0000014.1_ORF28:gid::pid:ABK32273.1:loc:83472:83733:strand:-:1:85         .MAAAVYMLCSLTSIACAVLLLRGYAQRKVRLLLWSGLCFAGLAANNILLFVDLVVI-RSIDLSSLRHLTALIGLTLLLYGLIWD--lr.
+#=GR BGC0000014.1_ORF28:gid::pid:ABK32273.1:loc:83472:83733:strand:-:1:85 PP .899*****************************************************.**************************7..68.
+BGC0000080.1_ORF18:gid::pid:ABK32297.1:loc:61033:61288:strand:-:1:75         m---------TFGYATVALFFLRFWKKTGDRLFAKFSAAFWLMMLGRIAVALN----RVEEDAIHYLYLFRLFAYMLILYAIVHK--nrg
+#=GR BGC0000080.1_ORF18:gid::pid:ABK32297.1:loc:61033:61288:strand:-:1:75 PP 7.........6799***************************************....9************************955..569
+BGC0000080.1_ORF19:gid::pid:ABK32298.1:loc:61338:61599:strand:-:1:85         .MAAAVYILCALTSIACAVLLLRGYAQRKVRLLLWSGLCFAALAANNILLFVDLVVI-RSVDLSSLRHLTALIGLALLLYGLIWD--lr.
+#=GR BGC0000080.1_ORF19:gid::pid:ABK32298.1:loc:61338:61599:strand:-:1:85 PP .899*****************************************************.**************************7..68.
+#=GC PP_cons                                                                 .899******899********************************************9************************976.....
+#=GC RF                                                                      .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

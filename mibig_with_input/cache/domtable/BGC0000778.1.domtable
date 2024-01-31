@@ -1,0 +1,25 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Epimerase            PF01370.25   240 BGC0000778.1_ORF1:gid:hldD:pid:ACA14473.1:loc:590:1550:strand:+ -            319   9.7e-44  149.8   0.0   1   1   3.6e-47   1.3e-43  149.4   0.0     1   240     2   246     2   246 0.88 NAD dependent epimerase/dehydratase family
+GDP_Man_Dehyd        PF16363.9    332 BGC0000778.1_ORF1:gid:hldD:pid:ACA14473.1:loc:590:1550:strand:+ -            319   1.9e-19   70.5   0.2   1   1   3.2e-16   1.1e-12   48.3   0.0   119   268   110   266    92   295 0.86 GDP-mannose 4,6 dehydratase
+3Beta_HSD            PF01073.23   280 BGC0000778.1_ORF1:gid:hldD:pid:ACA14473.1:loc:590:1550:strand:+ -            319   5.5e-14   52.0   0.0   1   1   2.1e-17   7.2e-14   51.7   0.0     1   196     3   189     3   230 0.79 3-beta hydroxysteroid dehydrogenase/isomerase family
+RmlD_sub_bind        PF04321.21   287 BGC0000778.1_ORF1:gid:hldD:pid:ACA14473.1:loc:590:1550:strand:+ -            319   2.7e-10   40.0   0.1   1   1   2.1e-13   7.4e-10   38.6   0.1     3   142     2   161     1   191 0.84 RmlD substrate binding domain
+Polysacc_deac_1      PF01522.25   124 BGC0000778.1_ORF2:gid:wahA:pid:ACA14474.1:loc:1600:3361:strand:+ -            586   1.4e-27   96.2   0.0   1   1   5.5e-31   2.3e-27   95.6   0.0     4   123   405   542   402   543 0.96 Polysaccharide deacetylase
+Glyco_transf_4       PF13439.10   170 BGC0000778.1_ORF2:gid:wahA:pid:ACA14474.1:loc:1600:3361:strand:+ -            586   2.1e-25   89.9   5.4   1   1   1.3e-28   5.6e-25   88.5   2.9     2   170    13   159    12   159 0.94 Glycosyltransferase Family 4
+Glyco_trans_4_4      PF13579.10   158 BGC0000778.1_ORF2:gid:wahA:pid:ACA14474.1:loc:1600:3361:strand:+ -            586   6.9e-11   42.9   9.2   1   1   3.3e-14   1.4e-10   41.9   2.3     1   158    13   154    13   154 0.87 Glycosyl transferase 4-like domain
+Glyco_trans_4_2      PF13477.10   139 BGC0000778.1_ORF2:gid:wahA:pid:ACA14474.1:loc:1600:3361:strand:+ -            586   3.3e-06   27.6   0.0   1   1   2.6e-09   1.1e-05   25.9   0.1     8   109    14   109    10   128 0.82 Glycosyl transferase 4-like
+Wzy_C                PF04932.19   149 BGC0000778.1_ORF3:gid:waaL:pid:ACA14475.1:loc:3367:4579:strand:+ -            403   2.5e-19   69.7   3.9   1   1   1.2e-23   2.5e-19   69.7   3.9     2   148   182   336   181   337 0.77 O-Antigen ligase
+Glyco_transf_25      PF01755.21   199 BGC0000778.1_ORF4:gid:wahB:pid:ACA14476.1:loc:4575:5241:strand:+ -            221   1.4e-41  142.8   0.0   1   1   8.5e-46   1.8e-41  142.4   0.0     1   199     1   184     1   184 0.96 Glycosyltransferase family 25 (LPS biosynthesis protein)
+Glyco_transf_9       PF01075.21   247 BGC0000778.1_ORF6:gid:wahD:pid:ACA14478.1:loc:6409:7522:strand:+ -            370   4.7e-06   26.3   0.0   1   1   2.9e-10   6.1e-06   25.9   0.0   104   211   198   306   131   342 0.68 Glycosyltransferase family 9 (heptosyltransferase)
+Glyco_transf_9       PF01075.21   247 BGC0000778.1_ORF7:gid:wahE:pid:ACA14479.1:loc:7457:8525:strand:- -            355     6e-20   71.8   0.0   1   1   3.9e-24   8.1e-20   71.4   0.0     7   211    74   288    68   312 0.78 Glycosyltransferase family 9 (heptosyltransferase)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000778.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000778.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000778.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:55:40 2024
+# [ok]

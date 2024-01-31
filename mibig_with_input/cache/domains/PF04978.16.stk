@@ -1,0 +1,19 @@
+# STOCKHOLM 1.0
+
+BGC0000015.1_ORF8:gid:amphORF1:pid:AAK73505.1:loc:58138:58648:strand:+:18:165         m-LRAFLDYHRATLAMKCEGLTDEELRQRSMPPST.lSLLGLVRHMAEVERAWFRRVFEDNDAPMVWSDKIDFQAAYD-ASGSTRQEAFTAWEAEVADSRRIEReSESLDRVGHQ--PRWREE..VSLRMVMVHVLLEYGRHNGHADLLREGIDG
+#=GR BGC0000015.1_ORF8:gid:amphORF1:pid:AAK73505.1:loc:58138:58648:strand:+:18:165 PP 5.99*******************************.***************************988777666666655.99***********************9999******7..467788..*****************************8
+BGC0000697.1_ORF22:gid::pid:AAR98559.1:loc:30220:30733:strand:-:22:166                v-LAGWLDYHRDTLLLKCSGLTEAQLKTNSVPVTN.lTLLGLVRHMTELER-WLRTLFTGETAEDPYSTEERPDAAFDDVASADVQADFDLFRQEAELTRKAFT.LRDLGETYED----EGEV..RNLRTTVVHILEEYARHNGHADLIRQSIDG
+#=GR BGC0000697.1_ORF22:gid::pid:AAR98559.1:loc:30220:30733:strand:-:22:166        PP 6.899******************************.**************8.8***************************************************.********94....6777..9****************************9
+BGC0000187.1_ORF8:gid::pid:ADI58666.1:loc:7369:7933:strand:+:35:182                   .QLVGWLDTQRATARWKCEELSEADAHRPVLPSSPlmTMAGVMSHLRWAEHLWFEVVLLGRPAVGPMFD-EPEDADMR-VEGVPLAELLDDYDRQVAVSNEIFA.AQSLDDVGRHPD---FDAsgASLRWIMFHMIEETARHAGHLDAIRELLDG
+#=GR BGC0000187.1_ORF8:gid::pid:ADI58666.1:loc:7369:7933:strand:+:35:182           PP .589******************************99************************999976555.89999999.67899********************.*********764...333349****************************8
+BGC0001070.1_ORF20:gid::pid:CAN89629.1:loc:22892:23399:strand:+:16:164                .QLTTFLDYARDTARAKCEGVSAENARKALLPGSPlmTMSGVINHLRWVEYHWFQVVFLGEEDRG-PWTDEDPDREMRIAVEFPLAQLLEEYAEQSARYRELVA.GNDLDKRAEGTIRN-GLH..VDLRWILLHLTEETARHNGHLDILRELLDG
+#=GR BGC0001070.1_ORF20:gid::pid:CAN89629.1:loc:22892:23399:strand:+:16:164        PP .5899***************************99999************************9985.5556**********************************.*********85444.444..*****************************8
+BGC0000696.1_ORF31:gid:genX:pid:CAF31442.1:loc:42464:42977:strand:-:22:166            v-LAGWLDYHRDTLLLKCSGLTEAQLKTNSVPVTN.lTLLGLVRHMTELER-WLRTLFTGETAEDPYSTEERPDAAFDDVASADVQADFDLFRQEAELTRKAFT.LRDLGETYED----EGEV..RNLRTTVVHILEEYARHNGHADLIRQSIDG
+#=GR BGC0000696.1_ORF31:gid:genX:pid:CAF31442.1:loc:42464:42977:strand:-:22:166    PP 6.899******************************.**************8.8***************************************************.********94....6777..9****************************9
+BGC0000689.1_ORF5:gid:gacF:pid:CAF34035.1:loc:5759:6272:strand:+:22:166               v-LAGWLDYHRDTLLLKCSGLTEAQLKTNSVPVTN.lTLLGLVRHMTELER-WLRTLFTGETAEDPYSTEERPDAAFDDVASADVQADFDLFRQEAELTRKAFT.LRDLGETYED----EGEV..RNLRTTVVHILEEYARHNGHADLIRQSIDG
+#=GR BGC0000689.1_ORF5:gid:gacF:pid:CAF34035.1:loc:5759:6272:strand:+:22:166       PP 6.899******************************.**************8.8***************************************************.********94....6777..9****************************9
+BGC0000714.1_ORF19:gid:sis19:pid:ACN38353.1:loc:23238:23751:strand:-:22:166           v-LAGWLDYHRDTLLFKCSGLTDAQLKTNSIPVTN.lTLLGLVRHMTELER-WLRTLFTGETAEDPYSTEERPDAAFDDVATADVVADFDLFRQEVELTRKAFS.LRDLGDTYED----EGEV..LNLRTTVVHILEEYARHNGHADLIRQTIDG
+#=GR BGC0000714.1_ORF19:gid:sis19:pid:ACN38353.1:loc:23238:23751:strand:-:22:166   PP 6.899******************************.**************8.8****************9********9999999999****************.********94....6888..*****************************8
+#=GC PP_cons                                                                          .5899******************************..*************9*9**********989888899999999*99***********************.*********554456666..9****************************8
+#=GC RF                                                                               .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

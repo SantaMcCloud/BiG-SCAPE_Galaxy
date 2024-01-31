@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000394.1_ORF19:gid::pid:AGD80633.1:loc:39550:40276:strand:+:27:226            pvpdlsdgpra-----------------NEPAMLGFGGFLLGSISLAFYLKDVS-VPANSLVasLPIMVFASTIMLLMASVWAMRLGDGVFAAVYGLFGTFWLSFSILSLAlNNNWMGQF--ENIEQRQATANFVLVWAIVIILLTLTTLRLPSVFTLLFVVVSATLLVLFG--------.......-------------
+#=GR BGC0000394.1_ORF19:gid::pid:AGD80633.1:loc:39550:40276:strand:+:27:226    PP **999998765.................46999***********9999876665.4444444125678999999**************988999**************998778888888..4567799999**********************************999853............................
+BGC0000120.1_ORF8:gid:patA:pid:AIG62139.1:loc:14649:15690:strand:-:29:233         ...rnskeqdf-----------QPTQQIGSPTALGMGAFAIAFTTLSMSLMEWRSAAITNAY..IGNCFFTAGMGLVLVAQWELVRGNSFGHTVFGGFGLFNLAFGAINAP.AFGVADAFKDDPAALNNAIGYFLLVWGIFVLFFTVAAMPMNLVYTGMLGTSQITYTLLAASYFSFADDhasaglaLKKAAGAFGFVSG
+#=GR BGC0000120.1_ORF8:gid:patA:pid:AIG62139.1:loc:14649:15690:strand:-:29:233 PP ...*9988776...........57899***********************************..***********************************************.***************************************************************554444689999*************
+#=GC PP_cons                                                                      ......................57899*78*****************9998887*7777777..788999******************99999*****************9.99999999**788899****************************************9977***55444.......*************
+#=GC RF                                                                           ...........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxx
+
+BGC0000394.1_ORF19:gid::pid:AGD80633.1:loc:39550:40276:strand:+:27:226            ----------------------------sieqaidqtvnnplkpsdpwliyvgittmflfiavgmyifasfmhrat
+#=GR BGC0000394.1_ORF19:gid::pid:AGD80633.1:loc:39550:40276:strand:+:27:226    PP ............................4455556666677777777777777777777777788888899999**
+BGC0000120.1_ORF8:gid:patA:pid:AIG62139.1:loc:14649:15690:strand:-:29:233         LFAWYTVGHLM-----------------cqdallfsfpl.....................................
+#=GR BGC0000120.1_ORF8:gid:patA:pid:AIG62139.1:loc:14649:15690:strand:-:29:233 PP *****976555.................5567778899*.....................................
+#=GC PP_cons                                                                      *****976555.................................................................
+#=GC RF                                                                           xxxxxxxxxxxxxxxxxxxxxxxxxxxx................................................
+//

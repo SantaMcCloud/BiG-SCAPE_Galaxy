@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0001041.1_ORF16:gid::pid:ABP53502.1:loc:24149:24929:strand:+:4:258            LFIGDIVGDEGTRYLVDRLPELRARHTVDLVVANAENSAaDGLGMGRVQVEQLLSGGVDVITGGNHSWDSPESVGMLNLP-QVVRPANVDPEVPGRGFVHVPVG-EEMVTVLNLADGCAMAS-TKATAGRVGPAYSAWEAadRRGITIVDYHGDHVLEKQIFAHTVDGTAAAVVGTHTHEATDLPRLLPNGTAFVTEVGM
+#=GR BGC0001041.1_ORF16:gid::pid:ABP53502.1:loc:24149:24929:strand:+:4:258    PP 8************************************7527************************************987.9*********************9.78*************88.5555555555555553322459*******************************************************
+BGC0000145.1_ORF8:gid:salN:pid:ABP73641.1:loc:10133:10913:strand:-:4:258         LFIGDIVGDEGTRYLVDRLPELRARHTVDLVVANAENSAaDGLGMGRVQVEQLLSGGVDVITGGNHSWDSPESVGMLNLP-QVVRPANVDPEVPGRGFVHVPVG-EEMVTVLNLADGCAMAS-TKATAGRVGPAYSAWEAadRRGITIVDYHGDHVLEKQIFAHTVDGTAAAVVGTHTHEATDLPRLLPNGTAFVTEVGM
+#=GR BGC0000145.1_ORF8:gid:salN:pid:ABP73641.1:loc:10133:10913:strand:-:4:258 PP 8************************************7527************************************987.9*********************9.78*************88.5555555555555553322459*******************************************************
+#=GC PP_cons                                                                     8************************************75.7************************************987.9*********************9.78*************88.55555555555555533..459*******************************************************
+#=GC RF                                                                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0001041.1_ORF16:gid::pid:ABP53502.1:loc:24149:24929:strand:+:4:258            TGPDGGVQGFAPANLVNNLRTtGNPfdGPMPTvHRAPMVLGAVLIEIVG--GLAAGIQR-v
+#=GR BGC0001041.1_ORF16:gid::pid:ABP53502.1:loc:24149:24929:strand:+:4:258    PP ******************9983444434444425677779999999865..66666666.6
+BGC0000145.1_ORF8:gid:salN:pid:ABP73641.1:loc:10133:10913:strand:-:4:258         TGPDGGVQGFAPANLVNNLRTtGNPfdGPMPTvHRAPMVLGAVLIEIVG--GLAAGIQR-v
+#=GR BGC0000145.1_ORF8:gid:salN:pid:ABP73641.1:loc:10133:10913:strand:-:4:258 PP ******************9983444434444425677779999999865..66666666.6
+#=GC PP_cons                                                                     ******************998.444..44444.5677779999999865..66666666..
+#=GC RF                                                                          xxxxxxxxxxxxxxxxxxxxx.xxx..xxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1357:gid::pid::loc:1549852:1550320:strand:-:13:152         .t-KEDTVEVLKNGEFGTFSTISeNGYPYGVAVNYVYF..NDSIYFHCARNGHKLDNISkNNK.VSFLVVANESVIPDKF--STT.YSSAIVFGKACTV-ENEEKKNALVEIIKKYSKGF.FEEGMKYIEKDMNLTTVVKIEIDHISGK-a
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1357:gid::pid::loc:1549852:1550320:strand:-:13:152 PP .7.678899************996788***********..**********8888888884666.****999999999999..999.*************.889999999999****9999.998888999******************9.5
+GCF_008000775.1_ORF1356:gid::pid:WP_147662463.1:loc:1471385:1471874:strand:-:15:157             de--KIITKILNENPYLTIALCN.DNKPYLVTLNYVYDqkNESFYIHCANSGKKNEYIT.NNShVWGQIME-DGGYLKGE-CDYK.YRTLHFKGNFQFIEDLKEKQRALELMIEKFEEEPePVRVKFINEKALKNVNIGKIHIDNITGKQ.
+#=GR GCF_008000775.1_ORF1356:gid::pid:WP_147662463.1:loc:1471385:1471874:strand:-:15:157     PP 65..56789**************.**************77777****************.44448888888.77454444.5889.******************************6666444566**********************95.
+BGC0001370.1_ORF31:gid::pid:ALV82352.1:loc:68239:68770:strand:-:26:147                          .n-RQESLSRLATAVVGRIVHTR.EALPAVLPVNFLLE.eSGAVLLRTSASSELVRAID.---.GAVVAFEADEVDAAAH----SgW-SVVVTGPASVVTDPDEHQHLVRIGPRSWVP--.WP-----------VEVFVRIEPELVTGR-e
+#=GR BGC0001370.1_ORF31:gid::pid:ALV82352.1:loc:68239:68770:strand:-:26:147                  PP .6.799*****************.**************.5677****************.....****************....99*.****************************99...99...........4689**********9.5
+#=GC PP_cons                                                                                    ...778899**************.999***********..888*******999999999.555.9999999999888888.5899.**************999*************8877.77777999*****899***********95.
+#=GC RF                                                                                         ..xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxx.xxx.xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

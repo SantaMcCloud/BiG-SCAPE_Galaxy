@@ -1,0 +1,23 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.31   137 BGC0001210.1_ORF1:gid::pid:EEM14533.1:loc:0:849:strand:+ -            282   1.4e-30  107.0   0.1   1   1     4e-34   4.2e-30  105.4   0.0     6   137     1   137     1   137 0.96 ABC transporter
+AAA_21               PF13304.10   304 BGC0001210.1_ORF1:gid::pid:EEM14533.1:loc:0:849:strand:+ -            282   4.3e-14   53.3   0.5   1   1   1.9e-13   1.9e-09   38.0   0.0   237   301   108   170    70   173 0.75 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_4      PF12730.11   179 BGC0001210.1_ORF2:gid::pid:EEM14532.1:loc:848:1625:strand:+ -            258   2.9e-11   43.9  12.5   1   1   1.4e-15   2.9e-11   43.9  12.5     6   174     9   183     4   190 0.72 ABC-2 family transporter protein
+ABC2_membrane_4      PF12730.11   179 BGC0001210.1_ORF3:gid::pid:EEM14531.1:loc:1635:2379:strand:+ -            247   2.8e-19   70.0  12.4   1   1   2.1e-23   4.3e-19   69.4  12.4     2   179     6   186     5   186 0.72 ABC-2 family transporter protein
+Peptidase_C39        PF03412.19   133 BGC0001210.1_ORF4:gid::pid:EEM14530.1:loc:3308:5498:strand:- -            729   2.2e-36  124.8   0.1   1   1   9.8e-40   5.1e-36  123.6   0.1     2   132    16   145    15   146 0.98 Peptidase C39 family
+ABC_tran             PF00005.31   137 BGC0001210.1_ORF4:gid::pid:EEM14530.1:loc:3308:5498:strand:- -            729   3.9e-35  121.7   0.0   1   1   1.2e-38   6.4e-35  121.0   0.0     1   137   506   654   506   654 0.91 ABC transporter
+ABC_membrane         PF00664.27   274 BGC0001210.1_ORF4:gid::pid:EEM14530.1:loc:3308:5498:strand:- -            729   2.5e-34  119.4  29.3   1   1   7.3e-38   3.8e-34  118.8  29.3     2   273   173   441   172   442 0.98 ABC transporter transmembrane region
+Peptidase_C70        PF12385.12   143 BGC0001210.1_ORF4:gid::pid:EEM14530.1:loc:3308:5498:strand:- -            729   0.00011   22.3   0.0   1   1   4.3e-08   0.00022   21.3   0.0     3   131    12   124    10   134 0.83 Papain-like cysteine protease AvrRpt2
+DUF4135              PF13575.10   378 BGC0001210.1_ORF5:gid::pid:EEM14529.1:loc:5566:8788:strand:- -           1073  1.7e-121  406.2   0.2   1   1  2.1e-125  2.2e-121  405.8   0.2     1   377   217   593   217   594 0.96 Domain of unknown function (DUF4135)
+LANC_like            PF05147.17   350 BGC0001210.1_ORF5:gid::pid:EEM14529.1:loc:5566:8788:strand:- -           1073     5e-65  219.6   0.6   1   1   9.3e-69   9.6e-65  218.6   0.6     2   340   716  1057   715  1064 0.95 Lanthionine synthetase C-like protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001210.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0001210.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0001210.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:31:23 2024
+# [ok]

@@ -1,0 +1,211 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="674.8666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="664.8666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>sleX
+exopolysaccharide production repressor protein</title>
+			<polygon class="sleX
+exopolysaccharide production repressor protein" points="18,10 27,40 18,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SyrA (PF11089)
+"Exopolysaccharide production repressor"</title>
+				<polygon class="PF11089" points="19,28 20,28 22,34 22,46 20,52 19,52" stroke-linejoin="round" width="3" height="24" fill="rgb(214,144,81)" stroke="rgb(171,115,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sleU
+glycosyltransferase</title>
+			<polygon class="sleU
+glycosyltransferase" points="31,25 34,25 34,10 64,40 34,70 34,55 31,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<rect class="PF00535" x="31" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(197,62,212)" stroke="rgb(157,49,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sleV
+putative ketal pyruvate transferase</title>
+			<polygon class="sleV
+putative ketal pyruvate transferase" points="102,25 100,25 100,10 70,40 100,70 100,55 102,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PS_pyruv_trans (PF04230)
+"Polysaccharide pyruvyl transferase"</title>
+				<polygon class="PF04230" points="83,31 86,28 94,28 94,52 86,52 83,49" stroke-linejoin="round" width="11" height="24" fill="rgb(190,122,54)" stroke="rgb(152,97,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sleW
+glycosyltransferase</title>
+			<polygon class="sleW
+glycosyltransferase" points="137,25 134,25 134,10 104,40 134,70 134,55 137,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="117,31 120,28 135,28 135,52 120,52 117,49" stroke-linejoin="round" width="18" height="24" fill="rgb(197,62,212)" stroke="rgb(157,49,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sleT
+exopolysaccharide biosynthesis transport protein</title>
+			<polygon class="sleT
+exopolysaccharide biosynthesis transport protein" points="144,25 157,25 157,10 187,40 157,70 157,55 144,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polysacc_synt_3 (PF13440)
+"Polysaccharide biosynthesis protein"</title>
+				<rect class="PF13440" x="144" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(215,91,58)" stroke="rgb(172,72,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Polysacc_synt_C (PF14667)
+"Polysaccharide biosynthesis C-terminal domain"</title>
+				<polygon class="PF14667" points="170,28 171,28 183,40 171,52 170,52" stroke-linejoin="round" width="14" height="24" fill="rgb(183,62,83)" stroke="rgb(146,49,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="188,10 192,40 188,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sleA
+succinoglycan biosynthesis protein</title>
+			<polygon class="sleA
+succinoglycan biosynthesis protein" points="202,25 209,25 209,10 239,40 209,70 209,55 202,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl_transf_3 (PF01757)
+"Acyltransferase family"</title>
+				<polygon class="PF01757" points="202,28 222,28 233,39 233,41 222,52 202,52" stroke-linejoin="round" width="31" height="24" fill="rgb(131,179,78)" stroke="rgb(104,143,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sleB
+endo-1,3-1,4-beta-glycanase</title>
+			<polygon class="sleB
+endo-1,3-1,4-beta-glycanase" points="239,10 265,40 239,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_hydro_16 (PF00722)
+"Glycosyl hydrolases family 16"</title>
+				<polygon class="PF00722" points="244,28 251,28 261,40 261,40 251,52 244,52" stroke-linejoin="round" width="17" height="24" fill="rgb(188,49,137)" stroke="rgb(150,39,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sleC
+glycosyltransferase</title>
+			<polygon class="sleC
+glycosyltransferase" points="267,25 276,25 276,10 306,40 276,70 276,55 267,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sleD
+glycosyltransferase</title>
+			<polygon class="sleD
+glycosyltransferase" points="307,25 310,25 310,10 340,40 310,70 310,55 307,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<rect class="PF00535" x="308" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(197,62,212)" stroke="rgb(157,49,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sleE
+UDP-hexose transferase</title>
+			<polygon class="sleE
+UDP-hexose transferase" points="340,25 341,25 341,10 371,40 341,70 341,55 340,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="341,28 355,28 357,30 357,50 355,52 341,52" stroke-linejoin="round" width="16" height="24" fill="rgb(197,62,212)" stroke="rgb(157,49,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sleF
+glycosyltransferase</title>
+			<polygon class="sleF
+glycosyltransferase" points="372,25 375,25 375,10 405,40 375,70 375,55 372,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="373,28 388,28 389,29 389,51 388,52 373,52" stroke-linejoin="round" width="16" height="24" fill="rgb(197,62,212)" stroke="rgb(157,49,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sleG
+UTP-glucose-1-phosphate uridylyltransferase</title>
+			<polygon class="sleG
+UTP-glucose-1-phosphate uridylyltransferase" points="407,25 407,25 407,10 437,40 407,70 407,55 407,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="408,28 421,28 433,40 421,52 408,52" stroke-linejoin="round" width="26" height="24" fill="rgb(211,145,90)" stroke="rgb(168,116,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sleH
+chain-length determining protein</title>
+			<polygon class="sleH
+chain-length determining protein" points="441,25 489,25 489,10 519,40 489,70 489,55 441,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Wzz (PF02706)
+"Chain length determinant protein"</title>
+				<rect class="PF02706" x="443" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(216,77,57)" stroke="rgb(172,61,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GNVR (PF13807)
+"G-rich domain on putative tyrosine kinase"</title>
+				<rect class="PF13807" x="480" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(214,163,91)" stroke="rgb(171,130,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ParA (PF10609)
+"NUBPL iron-transfer P-loop NTPase"</title>
+				<polygon class="PF10609" points="498,28 503,28 515,40 503,52 498,52" stroke-linejoin="round" width="18" height="24" fill="rgb(171,83,212)" stroke="rgb(136,66,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+2-hydroxyacid dehydrogenase</title>
+			<polygon class="
+2-hydroxyacid dehydrogenase" points="526,25 529,25 529,10 559,40 529,70 529,55 526,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2-Hacid_dh_C (PF02826)
+"D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02826" points="538,28 542,28 554,40 542,52 538,52" stroke-linejoin="round" width="17" height="24" fill="rgb(93,92,222)" stroke="rgb(74,73,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+transcriptional regulator</title>
+			<polygon class="
+transcriptional regulator" points="658,25 590,25 590,10 560,40 590,70 590,55 658,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="564,40 571,33 571,47" stroke-linejoin="round" width="10" height="24" fill="rgb(59,131,198)" stroke="rgb(47,104,158)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="575,29 576,28 586,28 586,52 576,52 575,51" stroke-linejoin="round" width="11" height="24" fill="rgb(59,131,198)" stroke="rgb(47,104,158)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<rect class="PF02518" x="588" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(94,146,210)" stroke="rgb(75,116,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="605" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(57,81,199)" stroke="rgb(45,64,159)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PAS_3 (PF08447)
+"PAS fold"</title>
+				<rect class="PF08447" x="618" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(84,184,80)" stroke="rgb(67,147,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PAS_4 (PF08448)
+"PAS fold"</title>
+				<rect class="PF08448" x="630" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(133,67,228)" stroke="rgb(106,53,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

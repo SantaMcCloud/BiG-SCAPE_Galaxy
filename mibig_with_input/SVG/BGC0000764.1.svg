@@ -1,0 +1,197 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="585.4333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="575.4333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="66,40 81,10 81,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_28 (PF13518)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF13518" points="69,40 74,30 74,50 69,40" stroke-linejoin="round" width="5" height="24" fill="rgb(193,76,169)" stroke="rgb(154,60,135)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_28 (PF13518)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF13518" points="75,28 75,28 80,28 80,52 75,52 75,52" stroke-linejoin="round" width="5" height="24" fill="rgb(193,76,169)" stroke="rgb(154,60,135)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epsR
+EpsR</title>
+			<polygon class="epsR
+EpsR" points="96,10 106,40 96,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_3 (PF01381)
+"Helix-turn-helix"</title>
+				<polygon class="PF01381" points="96,28 98,28 101,34 101,46 98,52 96,52" stroke-linejoin="round" width="5" height="24" fill="rgb(168,185,81)" stroke="rgb(134,148,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epsX
+EpsX</title>
+			<polygon class="epsX
+EpsX" points="108,10 133,40 108,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>epsA
+EpsA</title>
+			<polygon class="epsA
+EpsA" points="134,10 160,40 134,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Wzz (PF02706)
+"Chain length determinant protein"</title>
+				<rect class="PF02706" x="134" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(216,77,57)" stroke="rgb(172,61,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GNVR (PF13807)
+"G-rich domain on putative tyrosine kinase"</title>
+				<polygon class="PF13807" points="148,31 153,37 153,43 148,49" stroke-linejoin="round" width="5" height="24" fill="rgb(214,163,91)" stroke="rgb(171,130,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epsB
+EpsB</title>
+			<polygon class="epsB
+EpsB" points="161,10 184,40 161,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_31 (PF13614)
+"AAA domain"</title>
+				<polygon class="PF13614" points="165,28 171,28 180,40 171,52 165,52" stroke-linejoin="round" width="16" height="24" fill="rgb(103,181,56)" stroke="rgb(82,144,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epsC
+EpsC</title>
+			<polygon class="epsC
+EpsC" points="186,10 211,40 186,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CpsB_CapC (PF19567)
+"Capsular polysaccharide synthesis, CpsB/CapC"</title>
+				<polygon class="PF19567" points="186,28 197,28 207,40 197,52 186,52" stroke-linejoin="round" width="23" height="24" fill="rgb(63,98,189)" stroke="rgb(50,78,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epsD
+EpsD</title>
+			<polygon class="epsD
+EpsD" points="212,10 234,40 212,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_transf (PF02397)
+"Bacterial sugar transferase"</title>
+				<polygon class="PF02397" points="215,28 222,28 231,40 222,52 215,52" stroke-linejoin="round" width="19" height="24" fill="rgb(100,199,213)" stroke="rgb(80,159,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epsE
+EpsE</title>
+			<polygon class="epsE
+EpsE" points="235,10 250,40 235,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Alg14 (PF08660)
+"Oligosaccharide biosynthesis protein Alg14 like"</title>
+				<polygon class="PF08660" points="235,28 240,28 246,40 240,52 235,52" stroke-linejoin="round" width="14" height="24" fill="rgb(68,151,206)" stroke="rgb(54,120,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epsF
+EpsF</title>
+			<polygon class="epsF
+EpsF" points="250,10 266,40 250,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_tran_28_C (PF04101)
+"Glycosyltransferase family 28 C-terminal domain"</title>
+				<polygon class="PF04101" points="250,28 256,28 262,40 256,52 250,52" stroke-linejoin="round" width="15" height="24" fill="rgb(77,119,200)" stroke="rgb(61,95,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epsG
+EpsG</title>
+			<polygon class="epsG
+EpsG" points="266,10 284,40 266,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="266,28 273,28 281,40 281,40 273,52 266,52" stroke-linejoin="round" width="15" height="24" fill="rgb(197,62,212)" stroke="rgb(157,49,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epsH
+EpsH</title>
+			<polygon class="epsH
+EpsH" points="290,25 299,25 299,10 329,40 299,70 299,55 290,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>epsI
+EpsI</title>
+			<polygon class="epsI
+EpsI" points="334,10 362,40 334,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<rect class="PF00535" x="334" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(197,62,212)" stroke="rgb(157,49,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epsJ
+EpsJ</title>
+			<polygon class="epsJ
+EpsJ" points="363,25 369,25 369,10 399,40 369,70 369,55 363,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PS_pyruv_trans (PF04230)
+"Polysaccharide pyruvyl transferase"</title>
+				<polygon class="PF04230" points="364,28 382,28 391,37 391,43 382,52 364,52" stroke-linejoin="round" width="27" height="24" fill="rgb(190,122,54)" stroke="rgb(152,97,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epsK
+EpsK</title>
+			<polygon class="epsK
+EpsK" points="399,25 400,25 400,10 430,40 400,70 400,55 399,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="400,28 414,28 416,30 416,50 414,52 400,52" stroke-linejoin="round" width="16" height="24" fill="rgb(197,62,212)" stroke="rgb(157,49,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epsM
+EpsM</title>
+			<polygon class="epsM
+EpsM" points="435,25 453,25 453,10 483,40 453,70 453,55 435,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polysacc_synt (PF01943)
+"Polysaccharide biosynthesis protein"</title>
+				<rect class="PF01943" x="435" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(87,191,113)" stroke="rgb(69,152,90)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Polysacc_synt_C (PF14667)
+"Polysaccharide biosynthesis C-terminal domain"</title>
+				<polygon class="PF14667" points="467,28 467,28 479,40 467,52 467,52" stroke-linejoin="round" width="13" height="24" fill="rgb(183,62,83)" stroke="rgb(146,49,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epsL
+EpsL</title>
+			<polygon class="epsL
+EpsL" points="504,25 504,25 504,10 534,40 504,70 504,55 504,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAGPA (PF09992)
+"Phosphodiester glycosidase"</title>
+				<polygon class="PF09992" points="517,28 517,28 529,40 517,52 517,52" stroke-linejoin="round" width="16" height="24" fill="rgb(70,92,196)" stroke="rgb(56,73,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="565,25 565,25 565,10 535,40 565,70 565,55 565,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytR_cpsA_psr (PF03816)
+"LytR_cpsA_psr family"</title>
+				<polygon class="PF03816" points="542,37 551,28 557,28 557,52 551,52 542,43" stroke-linejoin="round" width="15" height="24" fill="rgb(100,48,191)" stroke="rgb(79,38,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

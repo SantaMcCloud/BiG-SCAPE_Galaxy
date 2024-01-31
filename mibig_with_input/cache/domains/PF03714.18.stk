@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+
+BGC0000691.1_ORF2:gid:acbZ:pid:CAJ81018.1:loc:1727:5039:strand:+:755:851            r-MVVHYQRPAGDYGAWRLYAFG.DIDASAQttYPDGQPFAGQDE.YGAFAWVRL-KPGAKNAGFVVVDGNGVKDVQQDRFVDPGR-QPEIWLKAGDATVY-p...
+#=GR BGC0000691.1_ORF2:gid:acbZ:pid:CAJ81018.1:loc:1727:5039:strand:+:755:851    PP 6.79******************7.666666668************.*********.7999********88878**********999.*************9.6...
+BGC0000691.1_ORF2:gid:acbZ:pid:CAJ81018.1:loc:1727:5039:strand:+:868:960            .TAVLHYRRADGDYTGWGLHVWD.-GAAQPT.eWTAPLAPSGRDA.YGVTFRVPL-ADGATGVSY-VLHAGDTKDQPTDQRIDFAA-GREVWLLDGVA----erl.
+#=GR BGC0000691.1_ORF2:gid:acbZ:pid:CAJ81018.1:loc:1727:5039:strand:+:868:960    PP .689******************5..555555.5************.*********.78899****.899*****************.*******9986....589.
+BGC0000691.1_ORF22:gid:acbE:pid:CAJ81030.1:loc:28301:31418:strand:-:816:910         .TAILHYRRPAGDYTGWGLHLWD.-GAATPTadWGAPLLPESFDS.FGAVFRIPL-AAGATGLSY-IMHAGEAKDLPTDQRLEFADAGREVWVQAGVQE---rl..
+#=GR BGC0000691.1_ORF22:gid:acbE:pid:CAJ81030.1:loc:28301:31418:strand:-:816:910 PP .5799*****************5..55545558************.*********.67789****.7779989**********************9875...89..
+BGC0000691.1_ORF22:gid:acbE:pid:CAJ81030.1:loc:28301:31418:strand:-:709:805         .YAVVHYQRPAGDYDGWRLHATGeRSKRPRS..NPQGEPFTGNGTpNGPFAWVKL-RPGATKVTFTVSDANGVKDVDADRSLNPQQ-TPGIWLHQGDPAISY....
+#=GR BGC0000691.1_ORF22:gid:acbE:pid:CAJ81030.1:loc:28301:31418:strand:-:709:805 PP .689******************724444444..8999*******88*********.89999****99998888***********99.**********99876....
+BGC0000804.1_ORF1:gid:scatZ2:pid:EHN79423.1:loc:0:4860:strand:-:819:912             k-AVIHVHRSDGDYDGWGLHTWT.GSAKETD..WTKPLQPVGKDA.YGVTFEVPL-SDGATSLSY-ILHKGDEKDIPSDRSLDLAVYGNEVWLNAGES----gyl.
+#=GR BGC0000804.1_ORF1:gid:scatZ2:pid:EHN79423.1:loc:0:4860:strand:-:819:912     PP 6.79******************7.5666666..************.*********.78899****.888**************************986....679.
+BGC0000804.1_ORF1:gid:scatZ2:pid:EHN79423.1:loc:0:4860:strand:-:722:805             .HAVVHYKRANGDYDNVLLKSG-.--DT-E-..----ARFVGRDA.YGAFAWVRVP-EGSDSVTYTIEDSG--TAEGGERTIDLAQ-TGEVWVEQGKE----gqat
+#=GR BGC0000804.1_ORF1:gid:scatZ2:pid:EHN79423.1:loc:0:4860:strand:-:722:805     PP .689*************99754....23.3.......379*****.*********6.5566****888666..34589********.*********97....6889
+BGC0000804.1_ORF2:gid:scatZ1:pid:EHN79424.1:loc:4856:7985:strand:-:810:904          k-AVLHYHRPDGDYAGWGLHTWT.GAANPSE..WNEPIQPVRRDA.YGLVFEVPL-KAGAPSLSY-VFHKKEEKDVPADEALVFSLYGHEVWRVAGEA----pylt
+#=GR BGC0000804.1_ORF2:gid:scatZ1:pid:EHN79424.1:loc:4856:7985:strand:-:810:904  PP 6.799*****************7.6777788..************.*********.56677****.5557779*********************9987....5678
+BGC0000804.1_ORF2:gid:scatZ1:pid:EHN79424.1:loc:4856:7985:strand:-:712:795          .HVVVHYHRADGDYTGLTLHTAN.-GTT---..----ADFSGRDA.YGAFAWLSPA-EGTGKIRFTVE--RDGKPEGAERVVDVAA-AGEVWTKENAD----lvd.
+#=GR BGC0000804.1_ORF2:gid:scatZ1:pid:EHN79424.1:loc:4856:7985:strand:-:712:795  PP .699****************984..333.........589*****.*********5.5567****666..4457778********9.******99875....679.
+#=GC PP_cons                                                                        .689****************996.5555555..****89******.*********577788****88878888999*******************9878986....
+#=GC RF                                                                             .xxxxxxxxxxxxxxxxxxxxxx.xxxxxxx..xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....
+//

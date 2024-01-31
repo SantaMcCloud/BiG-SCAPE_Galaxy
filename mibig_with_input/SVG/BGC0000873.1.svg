@@ -1,0 +1,372 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1142.5333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1132.5333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>dsgB
+putative thioredoxin</title>
+			<polygon class="dsgB
+putative thioredoxin" points="25,40 35,10 35,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioredoxin (PF00085)
+"Thioredoxin"</title>
+				<polygon class="PF00085" points="28,40 32,28 35,28 35,52 32,52" stroke-linejoin="round" width="10" height="24" fill="rgb(202,129,58)" stroke="rgb(161,103,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dsgA
+dsgA protein</title>
+			<polygon class="dsgA
+dsgA protein" points="39,40 68,10 68,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LTD (PF00932)
+"Lamin Tail Domain"</title>
+				<polygon class="PF00932" points="43,40 50,33 50,47" stroke-linejoin="round" width="11" height="24" fill="rgb(179,81,46)" stroke="rgb(143,64,36)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ard1
+Ard1 protein</title>
+			<polygon class="ard1
+Ard1 protein" points="148,25 123,25 123,10 93,40 123,70 123,55 148,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="98,39 109,28 110,28 110,52 109,52 98,41" stroke-linejoin="round" width="12" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="129" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(46,186,108)" stroke="rgb(36,148,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ataP3
+AtaP3 protein</title>
+			<polygon class="ataP3
+AtaP3 protein" points="153,40 179,10 179,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Inositol_P (PF00459)
+"Inositol monophosphatase family"</title>
+				<polygon class="PF00459" points="157,40 168,28 178,28 178,52 168,52" stroke-linejoin="round" width="25" height="24" fill="rgb(213,222,107)" stroke="rgb(170,177,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ataP5
+AtaP5 protein</title>
+			<polygon class="ataP5
+AtaP5 protein" points="179,40 201,10 201,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MTS (PF05175)
+"Methyltransferase small domain"</title>
+				<polygon class="PF05175" points="183,40 192,28 197,28 197,52 192,52" stroke-linejoin="round" width="16" height="24" fill="rgb(70,94,185)" stroke="rgb(56,75,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ataP4
+AtaP4 protein</title>
+			<polygon class="ataP4
+AtaP4 protein" points="245,25 233,25 233,10 203,40 233,70 233,55 245,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="207,40 219,28 242,28 242,52 219,52" stroke-linejoin="round" width="37" height="24" fill="rgb(228,110,183)" stroke="rgb(182,88,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ataP10
+AtaP10 protein</title>
+			<polygon class="ataP10
+AtaP10 protein" points="281,25 275,25 275,10 245,40 275,70 275,55 281,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA_C (PF02894)
+"Oxidoreductase family, C-terminal alpha/beta domain"</title>
+				<polygon class="PF02894" points="251,38 261,28 266,28 266,52 261,52 251,42" stroke-linejoin="round" width="15" height="24" fill="rgb(89,185,176)" stroke="rgb(71,148,140)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="268" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(53,193,178)" stroke="rgb(42,154,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ataP7
+AtaP7 protein</title>
+			<polygon class="ataP7
+AtaP7 protein" points="282,40 299,10 299,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NUDIX (PF00293)
+"NUDIX domain"</title>
+				<polygon class="PF00293" points="285,40 292,28 298,28 298,52 292,52 285,40" stroke-linejoin="round" width="13" height="24" fill="rgb(185,54,57)" stroke="rgb(148,43,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ata12
+Ata12 protein</title>
+			<polygon class="ata12
+Ata12 protein" points="333,25 329,25 329,10 299,40 329,70 329,55 333,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDP_Man_Dehyd (PF16363)
+"GDP-mannose 4,6 dehydratase"</title>
+				<polygon class="PF16363" points="303,40 315,28 331,28 331,52 315,52" stroke-linejoin="round" width="31" height="24" fill="rgb(50,144,195)" stroke="rgb(40,115,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ataPKS1
+AtaPKS1 protein</title>
+			<polygon class="ataPKS1
+AtaPKS1 protein" points="336,25 349,25 349,10 379,40 349,70 349,55 336,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<polygon class="PF00698" points="346,28 363,28 375,40 363,52 346,52" stroke-linejoin="round" width="30" height="24" fill="rgb(132,93,193)" stroke="rgb(105,74,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ata13
+Ata13 protein</title>
+			<polygon class="ata13
+Ata13 protein" points="416,25 409,25 409,10 379,40 409,70 409,55 416,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_trans_1_4 (PF13692)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF13692" points="385,38 395,28 398,28 398,52 395,52 385,42" stroke-linejoin="round" width="13" height="24" fill="rgb(154,183,67)" stroke="rgb(123,146,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ata14
+Ata14 protein</title>
+			<polygon class="ata14
+Ata14 protein" points="449,25 446,25 446,10 416,40 446,70 446,55 449,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ata15
+Ata15 protein</title>
+			<polygon class="ata15
+Ata15 protein" points="495,25 480,25 480,10 450,40 480,70 480,55 495,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glucokinase (PF02685)
+"Glucokinase"</title>
+				<polygon class="PF02685" points="464,30 466,28 489,28 489,52 466,52 464,50" stroke-linejoin="round" width="25" height="24" fill="rgb(70,182,66)" stroke="rgb(56,145,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ata16
+Ata16 protein</title>
+			<polygon class="ata16
+Ata16 protein" points="534,25 525,25 525,10 495,40 525,70 525,55 534,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RGP (PF03214)
+"Reversibly glycosylated polypeptide"</title>
+				<polygon class="PF03214" points="499,40 511,28 531,28 531,52 511,52" stroke-linejoin="round" width="36" height="24" fill="rgb(89,190,158)" stroke="rgb(71,152,126)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ata17
+Ata17 protein</title>
+			<polygon class="ata17
+Ata17 protein" points="572,25 564,25 564,10 534,40 564,70 564,55 572,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="543,35 550,28 567,28 567,52 550,52 543,45" stroke-linejoin="round" width="24" height="24" fill="rgb(215,89,157)" stroke="rgb(172,71,125)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ataPKS2
+AtaPKS2 protein</title>
+			<polygon class="ataPKS2
+AtaPKS2 protein" points="582,10 592,40 582,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="584,28 585,28 589,40 585,52 584,52" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ataPKS3
+AtaPKS3 protein</title>
+			<polygon class="ataPKS3
+AtaPKS3 protein" points="593,25 601,25 601,10 631,40 601,70 601,55 593,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="593" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="615,28 615,28 626,39 626,41 615,52 615,52" stroke-linejoin="round" width="11" height="24" fill="rgb(212,79,72)" stroke="rgb(169,63,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ataPKS4
+AtaPKS4 protein</title>
+			<polygon class="ataPKS4
+AtaPKS4 protein" points="631,10 657,40 631,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<polygon class="PF00109" points="635,28 642,28 648,34 648,46 642,52 635,52" stroke-linejoin="round" width="13" height="24" fill="rgb(74,179,82)" stroke="rgb(59,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ata18
+Ata18 protein</title>
+			<polygon class="ata18
+Ata18 protein" points="657,25 675,25 675,10 705,40 675,70 675,55 657,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="658" y="28" stroke-linejoin="round" width="30" height="24" fill="rgb(189,78,204)" stroke="rgb(151,62,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="694,33 701,40 701,40 694,47" stroke-linejoin="round" width="7" height="24" fill="rgb(195,82,106)" stroke="rgb(156,65,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ata19
+Ata19 protein</title>
+			<polygon class="ata19
+Ata19 protein" points="706,10 715,40 706,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="707,28 708,28 712,40 708,52 707,52" stroke-linejoin="round" width="6" height="24" fill="rgb(181,58,166)" stroke="rgb(144,46,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ata2
+Ata2 protein</title>
+			<polygon class="ata2
+Ata2 protein" points="716,25 720,25 720,10 750,40 720,70 720,55 716,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BtrH_N (PF14399)
+"Butirosin biosynthesis protein H, N-terminal"</title>
+				<rect class="PF14399" x="720" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(197,87,89)" stroke="rgb(157,69,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ard2
+Ard2 protein</title>
+			<polygon class="ard2
+Ard2 protein" points="750,10 769,40 750,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_18 (PF13238)
+"AAA domain"</title>
+				<polygon class="PF13238" points="751,28 758,28 764,37 764,43 758,52 751,52" stroke-linejoin="round" width="13" height="24" fill="rgb(186,78,190)" stroke="rgb(148,62,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ata4
+Ata4 protein</title>
+			<polygon class="ata4
+Ata4 protein" points="770,10 795,40 770,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="772,28 781,28 791,40 781,52 772,52" stroke-linejoin="round" width="23" height="24" fill="rgb(79,221,209)" stroke="rgb(63,176,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ata5
+Ata5 protein</title>
+			<polygon class="ata5
+Ata5 protein" points="796,25 808,25 808,10 838,40 808,70 808,55 796,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EryCIII-like_C (PF06722)
+"Erythromycin biosynthesis protein CIII-like, C-terminal domain"</title>
+				<polygon class="PF06722" points="821,28 822,28 831,37 831,43 822,52 821,52" stroke-linejoin="round" width="10" height="24" fill="rgb(48,103,191)" stroke="rgb(38,82,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ata6
+Ata6 protein</title>
+			<polygon class="ata6
+Ata6 protein" points="839,25 844,25 844,10 874,40 844,70 844,55 839,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_23 (PF13489)
+"Methyltransferase domain"</title>
+				<rect class="PF13489" x="841" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(62,214,70)" stroke="rgb(49,171,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ata7
+Ata7 protein</title>
+			<polygon class="ata7
+Ata7 protein" points="873,10 895,40 873,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ata8
+Ata8 protein</title>
+			<polygon class="ata8
+Ata8 protein" points="895,10 922,40 895,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_21 (PF05050)
+"Methyltransferase FkbM domain"</title>
+				<polygon class="PF05050" points="901,28 907,28 917,39 917,41 907,52 901,52" stroke-linejoin="round" width="16" height="24" fill="rgb(141,93,211)" stroke="rgb(112,74,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ata9
+Ata9 protein</title>
+			<polygon class="ata9
+Ata9 protein" points="966,25 952,25 952,10 922,40 952,70 952,55 966,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="929,37 938,28 964,28 964,52 938,52 929,43" stroke-linejoin="round" width="35" height="24" fill="rgb(228,207,98)" stroke="rgb(182,165,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ata10
+Ata10 protein</title>
+			<polygon class="ata10
+Ata10 protein" points="971,25 990,25 990,10 1020,40 990,70 990,55 971,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GMC_oxred_N (PF00732)
+"GMC oxidoreductase"</title>
+				<rect class="PF00732" x="971" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(102,94,198)" stroke="rgb(81,75,158)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GMC_oxred_C (PF05199)
+"GMC oxidoreductase"</title>
+				<polygon class="PF05199" points="1006,30 1016,40 1006,50" stroke-linejoin="round" width="13" height="24" fill="rgb(206,67,222)" stroke="rgb(164,53,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ata11
+Ata11 protein</title>
+			<polygon class="ata11
+Ata11 protein" points="1020,10 1043,40 1020,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_21 (PF05050)
+"Methyltransferase FkbM domain"</title>
+				<polygon class="PF05050" points="1023,28 1030,28 1039,39 1039,41 1030,52 1023,52" stroke-linejoin="round" width="16" height="24" fill="rgb(141,93,211)" stroke="rgb(112,74,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1069,40 1081,10 1081,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MerR_1 (PF13411)
+"MerR HTH family regulatory protein"</title>
+				<polygon class="PF13411" points="1074,35 1077,28 1080,28 1080,52 1077,52 1074,45" stroke-linejoin="round" width="6" height="24" fill="rgb(186,92,57)" stroke="rgb(148,73,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1082,25 1095,25 1095,10 1125,40 1095,70 1095,55 1082,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="1086,28 1109,28 1117,36 1117,44 1109,52 1086,52" stroke-linejoin="round" width="31" height="24" fill="rgb(228,207,98)" stroke="rgb(182,165,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

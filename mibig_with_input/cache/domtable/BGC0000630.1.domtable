@@ -1,0 +1,22 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FA_desaturase        PF00487.28   253 BGC0000630.1_ORF1:gid:crtW:pid:AAY28417.1:loc:389:1118:strand:+ -            242   8.3e-25   88.2  34.9   1   2   9.3e-16   1.9e-11   44.4   8.4     6   103    45   135    39   141 0.72 Fatty acid desaturase
+FA_desaturase        PF00487.28   253 BGC0000630.1_ORF1:gid:crtW:pid:AAY28417.1:loc:389:1118:strand:+ -            242   8.3e-25   88.2  34.9   2   2   4.5e-19   9.3e-15   55.3  12.0   139   235   140   236   134   239 0.85 Fatty acid desaturase
+FA_hydroxylase       PF04116.17   132 BGC0000630.1_ORF2:gid:crtZ:pid:AAY28418.1:loc:1114:1603:strand:+ -            162   1.7e-13   51.3  12.5   1   1   9.5e-18     2e-13   51.1  12.5     2   122     8   136     7   146 0.82 Fatty acid hydroxylase
+Lycopene_cycl        PF05834.16   380 BGC0000630.1_ORF3:gid:crtY:pid:AAY28419.1:loc:1599:2760:strand:+ -            386   1.2e-78  265.0   0.0   1   1   6.8e-83   1.4e-78  264.8   0.0     1   376     4   370     4   374 0.95 Lycopene cyclase protein
+Amino_oxidase        PF01593.28   443 BGC0000630.1_ORF4:gid:crtI:pid:AAY28420.1:loc:2756:4262:strand:+ -            501   2.9e-59  201.7   0.4   1   1   1.1e-62   3.2e-59  201.5   0.4     2   443    19   495    18   495 0.91 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.10    68 BGC0000630.1_ORF4:gid:crtI:pid:AAY28420.1:loc:2756:4262:strand:+ -            501   1.2e-14   54.5   0.1   1   1   1.4e-17   4.2e-14   52.8   0.1     1    64    13    76    13    79 0.95 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.28   414 BGC0000630.1_ORF4:gid:crtI:pid:AAY28420.1:loc:2756:4262:strand:+ -            501   3.5e-05   23.4   1.0   1   1   5.6e-08   0.00017   21.1   0.3     2    39    11    49    10    71 0.87 FAD binding domain
+SQS_PSY              PF00494.23   263 BGC0000630.1_ORF5:gid:crtB:pid:AAY28421.1:loc:4258:5173:strand:+ -            304   6.4e-70  236.0   2.7   1   1   3.6e-74   7.4e-70  235.8   2.7     2   261    13   268    12   270 0.92 Squalene/phytoene synthase
+polyprenyl_synt      PF00348.21   251 BGC0000630.1_ORF6:gid:crtE:pid:AAY28422.1:loc:5169:6051:strand:- -            293   2.3e-41  141.9   0.0   1   1   1.3e-45   2.6e-41  141.7   0.0     4   245    31   280    28   286 0.85 Polyprenyl synthetase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000630.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000630.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000630.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:27:25 2024
+# [ok]

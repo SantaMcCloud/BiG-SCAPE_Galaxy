@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+BGC0000786.1_ORF4:gid:wbeiB:pid:AAL25629.2:loc:6028:6814:strand:+:1:196         m--KTFIISLKDEVARRNSISDRLH--HHDFEFFDAVDLRVASDDVLSavKCKNINYKHPAIREHMTKGEIGCALSHMQLYKKIVDDNLAFARVIEDDAVILNHDEKIL--------.-NDFILALEMKNIDWDIMLLGYSKLKACDSFGFYLK-EPIKNIVKSgayslGIPFRNWTCGTVGYLVSQSGAKKMINNAA--
+#=GR BGC0000786.1_ORF4:gid:wbeiB:pid:AAL25629.2:loc:6028:6814:strand:+:1:196 PP 5..89*******************9..99***********99997666114567778888899***********************************88777734444..........5899999*******************999997665.5577777777777888999********************9875..
+BGC0000780.1_ORF24:gid::pid:BAG50472.1:loc:20133:20856:strand:-:1:176           m--KVFVVSLARSLDRRERIEEKLKQQGIEFDFFDAVDGSIDGF-LHS..EKSRPAITQRRKGYQLKTSEVACFSSHYELWVRCTELD-EPIIILEDNVDPVEGLKQVLAHTLPLTS.TYDYIKLSA--------TQKRVFTPIIPIDDSHM------------.....LGGYSAGTCGTTAYIVTPKAASKFVKHAQEF
+#=GR BGC0000780.1_ORF24:gid::pid:BAG50472.1:loc:20133:20856:strand:-:1:176   PP 5..89************************************999.999..99999999999***************************.*********************9999999.999999933........33334444444444444.................445678*************************
+BGC0000778.1_ORF4:gid:wahB:pid:ACA14476.1:loc:4575:5241:strand:+:1:184          .MIPVFVISLARSVERRAMVVQQMAHLGINFEFVDATDGKALSS-AEL..AKVDLELAKEVCGHELSFGEIGCAMSHIRVYERIVAEGIDRCVALEDDIYLHMHSKAIIETIVRSCHsEIVFLHHGKAKRWPILSSLPGGYRLARYLAPSRTSRR---------.....------GILSTAGYVLTLAGAKKLLQCAYPL
+#=GR BGC0000778.1_ORF4:gid:wahB:pid:ACA14476.1:loc:4575:5241:strand:+:1:184  PP .789****************************************.888..89999999*****************************************************9999888********************************55544....................579**********************
+#=GC PP_cons                                                                    .7889************************************9997887..77888999999*************************************99999978888*9999998.989999977********88888888888888855644557777777.....66788989******************998**
+#=GC RF                                                                         .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000786.1_ORF4:gid:wbeiB:pid:AAL25629.2:loc:6028:6814:strand:+:1:196         --------fgkvctvaddwlf
+#=GR BGC0000786.1_ORF4:gid:wbeiB:pid:AAL25629.2:loc:6028:6814:strand:+:1:196 PP ........4555666667889
+BGC0000780.1_ORF24:gid::pid:BAG50472.1:loc:20133:20856:strand:-:1:176           IEPVDDYM.............
+#=GR BGC0000780.1_ORF24:gid::pid:BAG50472.1:loc:20133:20856:strand:-:1:176   PP *****998.............
+BGC0000778.1_ORF4:gid:wahB:pid:ACA14476.1:loc:4575:5241:strand:+:1:184          RMPSDYLT.............
+#=GR BGC0000778.1_ORF4:gid:wahB:pid:ACA14476.1:loc:4575:5241:strand:+:1:184  PP *****985.............
+#=GC PP_cons                                                                    *****986.............
+#=GC RF                                                                         xxxxxxxx.............
+//

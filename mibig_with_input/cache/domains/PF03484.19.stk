@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF667:gid::pid::loc:776705:779099:strand:+:412:478            lv--VNPQRINHLLGVDVPMEQFVGILESLEFKC.NLVANDKLEIDVPSFRTDMEQEADVWEEIARIYGF
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF667:gid::pid::loc:776705:779099:strand:+:412:478    PP 86..799***************************.**********************************8
+GCF_008000775.1_ORF3639:gid:pheT:pid:WP_147664730.1:loc:4110614:4112309:strand:+:284:351         ..MEVHIDYINSYLGLKLSAIDIIKCLKKVRLDAsKTKDKNKLNVKIPPYRVDFMHEVDIVEDVAIGYGY
+#=GR GCF_008000775.1_ORF3639:gid:pheT:pid:WP_147664730.1:loc:4110614:4112309:strand:+:284:351 PP ..5899***************************98999*******************************9
+BGC0000717.1_ORF10:gid::pid:CAH94299.1:loc:7747:10261:strand:+:419:483                           ..IAMPANHPDRVAGVEYGRETVVRRLQEVGCDV.--YGQDELIVTVPSWRPDLNEPNDLAEEVIRLEGY
+#=GR BGC0000717.1_ORF10:gid::pid:CAH94299.1:loc:7747:10261:strand:+:419:483                   PP ..56788999**********************99...9*******************************9
+GCF_000011105.1_ORF612:gid:pheT:pid:WP_010884752.1:loc:588830:590501:strand:-:283:348            .f-EVELDYIRKLSGLELNDGEIKELLEKMMYEV.-EISRGRAKLKYPAFRDDIMHARDILEDVLIAYGY
+#=GR GCF_000011105.1_ORF612:gid:pheT:pid:WP_010884752.1:loc:588830:590501:strand:-:283:348    PP .6.789****************************..*********************************9
+#=GC PP_cons                                                                                     ..57899**************************9.9*********************************9
+#=GC RF                                                                                          ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

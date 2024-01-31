@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2418:gid::pid::loc:2698939:2699998:strand:+:39:320         LGTVNEVTIFNvkEsk....sdkILNECDSILRYIDNKMSTHIPGSDVSKINdNAgK.KFVRVSDDTFFVVKEAIQYSKLSDGYFDITIGPLSNLWAIGTD-KAKVPSDSEIQKLLPLIDYKNIILDE.kNKs.....ikLTKEN-MKIDLGAIAKGYAADKIVAYLKSEDVKKGLVNLGGNIFTLEDgKNDKPFKIGIQ
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2418:gid::pid::loc:2698939:2699998:strand:+:39:320 PP 5899999997434145....667668999***********************66666.99****************************************8.789*********************99.7447.....7788877.*****************************************447779*******
+BGC0001010.1_ORF2:gid::pid:CAD89765.1:loc:441:1488:strand:-:34:320                              MGTYVTVTLV-..GgtrgearegFAAAF-SAFSRVNEVMNEWRPDSALSAVNrQAgDgAFVTVPEDLCAALRRGVLGAKQTEGLFDPTWAALRGLWRFGTDLSPTLPDPDELKQRCALISSRDVEFAPapKAgaagcgvrLKRAG-MQLGLGGLAKGWAVDRAVEKLRALGFKHFFVQAGGDFYAAGS.KAGRPWKVGIR
+#=GR BGC0001010.1_ORF2:gid::pid:CAD89765.1:loc:441:1488:strand:-:34:320                      PP 9********8...223456666676777.***********************656744779***************************************9999**********************66653367899*7777777.*****************************************8.899********
+BGC0001009.1_ORF2:gid::pid:CAD89765.1:loc:441:1488:strand:-:34:320                              MGTYVTVTLV-..GgtrgearegFAAAF-SAFSRVNEVMNEWRPDSALSAVNrQAgDgAFVTVPEDLCAALRRGVLGAKQTEGLFDPTWAALRGLWRFGTDLSPTLPDPDELKQRCALISSRDVEFAPapKAgaagcgvrLKRAG-MQLGLGGLAKGWAVDRAVEKLRALGFKHFFVQAGGDFYAAGS.KAGRPWKVGIR
+#=GR BGC0001009.1_ORF2:gid::pid:CAD89765.1:loc:441:1488:strand:-:34:320                      PP 9********8...223456666676777.***********************656744779***************************************9999**********************66653367899*7777777.*****************************************8.899********
+#=GC PP_cons                                                                                    89******984..2.........668889***********************.66.5.889***************************************99899*********************77..44........77777.*****************************************7.8899*******
+#=GC RF                                                                                         xxxxxxxxxxx..x.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx.x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xx........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2418:gid::pid::loc:2698939:2699998:strand:+:39:320         DPTskngESIGNIETTNKSVVTSGIYERFIE.KdGKIYHHMLNPFTGYPFENNLSSVTIISdKSINCDALSTSTFGLGLEKGMDLINEID-NVDAIF.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2418:gid::pid::loc:2698939:2699998:strand:+:39:320 PP *******9999***9988************9.66**************************9568***********************875.599997.
+BGC0001010.1_ORF2:gid::pid:CAD89765.1:loc:441:1488:strand:-:34:320                              DPRgepdSVLAVLEVSNAAFSTSGDYENFFLlD.GKRYHHIIDPRTCYPA-TASRSATLLApSAVDAEVLTKAVFIRGGREGLALAEKH--GAAAV-l
+#=GR BGC0001010.1_ORF2:gid::pid:CAD89765.1:loc:441:1488:strand:-:34:320                      PP *******99*******88************546.****************.8********9567***********************87..56665.6
+BGC0001009.1_ORF2:gid::pid:CAD89765.1:loc:441:1488:strand:-:34:320                              DPRgepdSVLAVLEVSNAAFSTSGDYENFFLlD.GKRYHHIIDPRTCYPA-TASRSATLLApSAVDAEVLTKAVFIRGGREGLALAEKH--GAAAV-l
+#=GR BGC0001009.1_ORF2:gid::pid:CAD89765.1:loc:441:1488:strand:-:34:320                      PP *******99*******88************546.****************.8********9567***********************87..56665.6
+#=GC PP_cons                                                                                    ***....99*******88************6.6.*****************9********9.68***********************875.577767.
+#=GC RF                                                                                         xxx....xxxxxxxxxxxxxxxxxxxxxxxx.x.xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

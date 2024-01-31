@@ -1,0 +1,29 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF5962              PF19387.3     99 BGC0000561.1_ORF2:gid::pid:BAJ10683.1:loc:1119:1419:strand:+ -             99   9.4e-46  154.3   4.4   1   1     5e-50     1e-45  154.2   4.4     1    98     1    98     1    99 0.99 Family of unknown function (DUF5962)
+DUF5966              PF19391.3     95 BGC0000561.1_ORF3:gid::pid:BAJ10684.1:loc:1431:1722:strand:+ -             96   2.5e-45  153.4  14.8   1   1   1.4e-49   2.8e-45  153.3  14.8     1    95     2    96     2    96 0.99 Family of unknown function (DUF5966)
+L_biotic_typeA       PF04604.17    50 BGC0000561.1_ORF4:gid:tepA:pid:BAJ10685.1:loc:1860:2037:strand:+ -             58     2e-17   63.0   0.7   1   1   1.1e-21   2.4e-17   62.7   0.7     1    50     1    51     1    51 0.97 Type-A lantibiotic
+DUF4135              PF13575.10   378 BGC0000561.1_ORF5:gid:tepM:pid:BAJ10686.1:loc:2117:4631:strand:+ -            837   2.9e-61  207.9   0.1   1   1   4.3e-65   4.4e-61  207.3   0.1     3   377   103   460   101   461 0.91 Domain of unknown function (DUF4135)
+LANC_like            PF05147.17   350 BGC0000561.1_ORF5:gid:tepM:pid:BAJ10686.1:loc:2117:4631:strand:+ -            837   8.5e-28   97.1   5.8   1   1   8.2e-32   8.5e-28   97.1   5.8    99   343   613   831   537   836 0.82 Lanthionine synthetase C-like protein
+Peptidase_C39        PF03412.19   133 BGC0000561.1_ORF6:gid:tepT:pid:BAJ10687.1:loc:4644:6687:strand:+ -            680   9.4e-32  109.8   0.2   1   1   3.7e-35   2.5e-31  108.4   0.2     5   131     7   130     3   132 0.95 Peptidase C39 family
+ABC_tran             PF00005.31   137 BGC0000561.1_ORF6:gid:tepT:pid:BAJ10687.1:loc:4644:6687:strand:+ -            680   7.1e-23   82.0   0.0   1   1   2.2e-26   1.5e-22   80.9   0.0     2   137   482   629   481   629 0.87 ABC transporter
+ABC_membrane         PF00664.27   274 BGC0000561.1_ORF6:gid:tepT:pid:BAJ10687.1:loc:4644:6687:strand:+ -            680   2.5e-12   47.2  18.1   1   1   5.5e-16   3.8e-12   46.6  18.1     5   273   162   422   160   423 0.89 ABC transporter transmembrane region
+ABC_tran             PF00005.31   137 BGC0000561.1_ORF7:gid:tepF:pid:BAJ10688.1:loc:6661:7570:strand:+ -            302   1.3e-30  107.0   0.1   1   1   1.2e-32   1.3e-28  100.6   0.0     1   137    18   157    18   157 0.97 ABC transporter
+AAA_21               PF13304.10   304 BGC0000561.1_ORF7:gid:tepF:pid:BAJ10688.1:loc:6661:7570:strand:+ -            302   1.5e-18   68.0   0.6   1   1   5.1e-16   5.3e-12   46.5   0.0   236   302   127   191   121   193 0.94 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_4      PF12730.11   179 BGC0000561.1_ORF8:gid::pid:BAJ10689.1:loc:7553:8276:strand:+ -            240     1e-07   32.3  24.4   1   1     5e-12     1e-07   32.3  24.4     1   174     4   183     4   188 0.74 ABC-2 family transporter protein
+GerE                 PF00196.23    57 BGC0000561.1_ORF11:gid:tepR:pid:BAJ10692.1:loc:10720:11074:strand:+ -            117     2e-15   56.3   0.1   1   1   1.8e-19   3.8e-15   55.4   0.1     2    56    55   109    54   110 0.95 Bacterial regulatory proteins, luxR family
+DUF5945              PF19370.3    130 BGC0000561.1_ORF17:gid::pid:BAJ10698.1:loc:14074:14470:strand:+ -            131   2.5e-56  189.9  12.7   1   1   1.4e-60   2.8e-56  189.8  12.7     1   130     1   131     1   131 0.96 Family of unknown function (DUF5945)
+DUF5960              PF19385.3     83 BGC0000561.1_ORF18:gid::pid:BAJ10699.1:loc:14830:15130:strand:- -             99   7.3e-34  116.1  10.0   1   1   4.3e-38   8.9e-34  115.8  10.0     1    82    11    92    11    93 0.98 Family of unknown function (DUF5960)
+IMS_C                PF11799.12   109 BGC0000561.1_ORF20:gid::pid:BAJ10701.1:loc:15481:16402:strand:- -            306     4e-18   66.0   0.1   1   1   6.8e-22   7.1e-18   65.2   0.1     3   105   137   242   135   246 0.92 impB/mucB/samB family C-terminal domain
+IMS_HHH              PF11798.12    32 BGC0000561.1_ORF20:gid::pid:BAJ10701.1:loc:15481:16402:strand:- -            306   6.5e-09   35.7   0.0   1   1   1.5e-12   1.6e-08   34.5   0.0     1    32    58    90    58    90 0.98 IMS family HHH motif
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000561.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000561.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000561.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:59:38 2024
+# [ok]

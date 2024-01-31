@@ -1,0 +1,19 @@
+# STOCKHOLM 1.0
+
+BGC0000081.1_ORF33:gid::pid:AFV52131.1:loc:29456:30257:strand:-:183:235                          .....PAVEFRFEVTGPS--GAL----------WAFGPEDSPERISGPANDFCLLVTRRRHhaDLSLTA-t..
+#=GR BGC0000081.1_ORF33:gid::pid:AFV52131.1:loc:29456:30257:strand:-:183:235                  PP .....57899*******9..*98..........****************************88888877.5..
+BGC0000965.1_ORF44:gid::pid:AAL06691.1:loc:56921:57725:strand:-:183:235                          .....PAAPFRFELTAPS--GEV----------WTVGPEDATETVSGPAHDFCLLVTRRRHrdDLALTA-s..
+#=GR BGC0000965.1_ORF44:gid::pid:AAL06691.1:loc:56921:57725:strand:-:183:235                  PP .....689*********9..***..........****************************88888887.6..
+BGC0001008.1_ORF35:gid:mdpE11:pid:ABY66001.1:loc:54863:55667:strand:-:183:235                    ..pdv---EFRFEITAPS--GEL----------WAFGPEDSPERITGSALDFCMLVTRRRHraDLDV---vat
+#=GR BGC0001008.1_ORF35:gid:mdpE11:pid:ABY66001.1:loc:54863:55667:strand:-:183:235            PP ..876...799******9..*99..........****************************555555...557
+GCF_000011105.1_ORF1590:gid:twy1:pid:WP_173026584.1:loc:1498463:1499483:strand:+:260:322         .....KARPMFVEAKAYMFVGYSRNRLTINNMPSHQDIREFAEALVKHLPGYHIEDEYEPS..RVVLIMR...
+#=GR GCF_000011105.1_ORF1590:gid:twy1:pid:WP_173026584.1:loc:1498463:1499483:strand:+:260:322 PP .....699*****************************************************..****975...
+BGC0001397.1_ORF42:gid::pid:ALU98453.1:loc:50781:51585:strand:-:183:235                          .....PAAPFRFELTAPS--GEV----------WTVGPEDATETVSGPAHDFCLLVTRRRHrdDLALTA-s..
+#=GR BGC0001397.1_ORF42:gid::pid:ALU98453.1:loc:50781:51585:strand:-:183:235                  PP .....689*********9..***..........****************************88888887.6..
+BGC0000150.1_ORF16:gid::pid:ABP55150.1:loc:20844:21765:strand:+:221:273                          pettl-----RFELTAPS--GQV----------WTFGPEDSTELVTGSAWDFCLLVCRRRHrnDLALR--as.
+#=GR BGC0000150.1_ORF16:gid::pid:ABP55150.1:loc:20844:21765:strand:+:221:273                  PP 98765.....89*****9..***..........****************************5556655..68.
+BGC0000112.1_ORF25:gid::pid:AAM78004.1:loc:34678:35482:strand:-:183:235                          .....PADPFHFMLTAPS--GEV----------WTEGPEDATQTVSGPAHDLCLLVTRRRHrdDLELTA-t..
+#=GR BGC0000112.1_ORF25:gid::pid:AAM78004.1:loc:34678:35482:strand:-:183:235                  PP .....79**********9..***..........****************************77777766.6..
+#=GC PP_cons                                                                                     .....6899*9******9****9**************************************..7777775...
+#=GC RF                                                                                          .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxx...
+//

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_008000775.1_ORF564:gid::pid:WP_147665174.1:loc:627629:628457:strand:-:3:271         KLIITAAISGAEVTKNQNPNVPYTIEEIAREAESAYKAGASVIHLHVRE-DDGTPTQSIDRFKECIEAIKNRCPDVIIQPSTG.........GAV.GMSNEERLQPIEL.I-P..EMATLDCGTCNFG-..............G.......DEVFVNTENTIIEFAQKMKELGIKPECEVFDKGMIDTAIRQNKKGNILS
+#=GR GCF_008000775.1_ORF564:gid::pid:WP_147665174.1:loc:627629:628457:strand:-:3:271 PP 89***********************************************.88*******************************.........***.************9.6.*..************7...............8.......*************************************************
+BGC0001070.1_ORF6:gid::pid:CAN89615.1:loc:6792:7845:strand:+:15:318                     KLVIQAAPYGPEWLPGDAEDLPLTMDEHVQAAVDCHNAGATVLHIHVRE-LDGKGSKRMSMFNELLGRLREAVPDMVLQIGGSisfapegegGDAkWLAYDTRHLLAELtPAPdqVTIAINTSQMNIVEimndddlagtsmakPdyyrayrDMVVEAGPDFYLEHLKRLRASGIQPHFQLAHLAQLETVERLIRAGVHTG
+#=GR BGC0001070.1_ORF6:gid::pid:CAN89615.1:loc:6792:7845:strand:+:15:318             PP 79***********************************************.78*****************************9988888877532224455667666665556643566778888999778888777766666505555666*************************************************
+#=GC PP_cons                                                                            79***********************************************.88*******************************.........666.7788888888887.568..78889999999977..............4.......*************************************************
+#=GC RF                                                                                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........xxx.xxxxxxxxxxxxx.xxx..xxxxxxxxxxxxxx..............x.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_008000775.1_ORF564:gid::pid:WP_147665174.1:loc:627629:628457:strand:-:3:271         PMHFNIVMGVNGG.ISASPRDLTF---MVESLPQGsTFTVSGMGRHQMSMAAVSIIMGGHVRVGFEDNLYLEKGVLAKSNGELVQKAVRIAKDLGRPIATPNEAREILN-i
+#=GR GCF_008000775.1_ORF564:gid::pid:WP_147665174.1:loc:627629:628457:strand:-:3:271 PP *************.**********...99******88**********************************************************************98.5
+BGC0001070.1_ORF6:gid::pid:CAN89615.1:loc:6792:7845:strand:+:15:318                     PLVLNYVA-IGGGfAGRHPADLVE---FIRRVPDGaVLTVESSMRAVAPMNAVAIALGQHVRVGNEDNLWRAKGEPM-SSVAQVEQMVQISEALGRDIATGTDAKRIYR-i
+#=GR BGC0001070.1_ORF6:gid::pid:CAN89615.1:loc:6792:7845:strand:+:15:318             PP *******9.666658899*****4...7899999955***************************************9.9**************************9985.7
+#=GC PP_cons                                                                            *********8888.999******7...89999***.7*********************************************************************997..
+#=GC RF                                                                                 xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

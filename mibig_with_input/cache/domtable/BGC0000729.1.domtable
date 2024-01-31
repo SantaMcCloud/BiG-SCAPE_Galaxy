@@ -1,0 +1,36 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NTP_transferase      PF00483.27   245 BGC0000729.1_ORF1:gid:galF:pid:BAF46993.1:loc:151:1048:strand:+ -            298   1.8e-23   83.6   0.0   1   1   1.1e-27   2.3e-23   83.2   0.0     1   240     7   276     7   280 0.89 Nucleotidyl transferase
+PAP2                 PF01569.25   130 BGC0000729.1_ORF2:gid:acidPPc:pid:BAF46994.1:loc:1440:2070:strand:+ -            209   2.3e-11   43.8   8.9   1   1   1.1e-15   2.3e-11   43.8   8.9    52   127    72   148    57   151 0.88 PAP2 superfamily
+Caps_assemb_Wzi      PF14052.10   393 BGC0000729.1_ORF3:gid:wzi:pid:BAF46995.1:loc:3027:4461:strand:+ -            477  1.1e-114  383.7  18.1   1   1  6.3e-119  1.3e-114  383.4  18.1     5   386    89   464    85   469 0.98 Capsule assembly protein Wzi
+Poly_export          PF02563.20    77 BGC0000729.1_ORF4:gid:wza:pid:BAF46996.1:loc:4583:5717:strand:+ -            377   1.7e-27   95.6   0.6   1   1   2.2e-30   1.5e-26   92.5   0.1     3    76    81   165    80   166 0.97 Polysaccharide biosynthesis/export protein
+Wza_C                PF18412.5     30 BGC0000729.1_ORF4:gid:wza:pid:BAF46996.1:loc:4583:5717:strand:+ -            377   2.7e-17   62.4   0.1   1   1   9.5e-21   6.6e-17   61.2   0.1     1    30   345   374   345   374 0.95 Outer-membrane lipoprotein Wza C-terminal domain
+SLBB                 PF10531.13    56 BGC0000729.1_ORF4:gid:wza:pid:BAF46996.1:loc:4583:5717:strand:+ -            377   4.8e-14   52.1   0.2   1   2   1.6e-11   1.1e-07   31.7   0.0     2    53   173   222   172   233 0.92 SLBB domain
+SLBB                 PF10531.13    56 BGC0000729.1_ORF4:gid:wza:pid:BAF46996.1:loc:4583:5717:strand:+ -            377   4.8e-14   52.1   0.2   2   2   3.7e-07    0.0026   17.8   0.0     1    52   256   309   256   314 0.92 SLBB domain
+LMWPc                PF01451.25   142 BGC0000729.1_ORF5:gid:wzb:pid:BAF46997.1:loc:5722:6157:strand:+ -            144   2.7e-41  141.4   0.0   1   1   1.5e-45     3e-41  141.3   0.0     1   141     5   138     5   139 0.98 Low molecular weight phosphotyrosine protein phosphatase
+GNVR                 PF13807.10    82 BGC0000729.1_ORF6:gid:wzc:pid:BAF46998.1:loc:6173:8342:strand:+ -            722   1.9e-33  114.4   1.5   1   1   4.6e-37   1.9e-33  114.4   1.5     1    81   367   447   367   448 0.98 G-rich domain on putative tyrosine kinase
+Wzz                  PF02706.19    91 BGC0000729.1_ORF6:gid:wzc:pid:BAF46998.1:loc:6173:8342:strand:+ -            722   6.3e-25   87.5   1.1   1   1   1.5e-28   6.3e-25   87.5   1.1     2    91    15   105    14   105 0.92 Chain length determinant protein
+AAA_31               PF13614.10   177 BGC0000729.1_ORF6:gid:wzc:pid:BAF46998.1:loc:6173:8342:strand:+ -            722   5.4e-12   46.2   3.3   1   1   2.1e-15   8.9e-12   45.5   0.0    13   133   539   652   528   667 0.84 AAA domain
+CbiA                 PF01656.27   125 BGC0000729.1_ORF6:gid:wzc:pid:BAF46998.1:loc:6173:8342:strand:+ -            722   3.7e-07   30.3   2.0   1   1   1.3e-09   5.3e-06   26.6   0.0     3    83   532   699   530   709 0.67 CobQ/CobB/MinD/ParA nucleotide binding domain
+DUF6369              PF19896.3    412 BGC0000729.1_ORF7:gid:wzy_K5:pid:BAF46999.1:loc:8515:9727:strand:+ -            403   2.3e-37  129.7  47.4   1   1   1.8e-41   3.8e-37  129.0  47.4     7   401    27   397    23   402 0.79 Family of unknown function (DUF6369)
+Polysacc_synt        PF01943.21   274 BGC0000729.1_ORF8:gid:wzx:pid:BAF47000.1:loc:9732:11175:strand:+ -            480   1.1e-14   54.7  31.3   1   1   5.5e-19   1.1e-14   54.7  31.3     1   271    12   291    12   294 0.81 Polysaccharide biosynthesis protein
+PS_pyruv_trans       PF04230.17   281 BGC0000729.1_ORF9:gid::pid:BAF47001.1:loc:11182:12325:strand:+ -            380     5e-34  118.7   1.4   1   1   6.7e-38   1.4e-33  117.2   1.4     1   279    16   310    16   312 0.86 Polysaccharide pyruvyl transferase
+Polysacc_lyase_14    PF21294.1    215 BGC0000729.1_ORF10:gid::pid:BAF47002.1:loc:12281:13136:strand:+ -            284   2.8e-53  181.0   0.6   1   1   1.9e-57     4e-53  180.5   0.6     4   215    65   266    63   266 0.91 Polysaccharide lyase 14
+Hexapep              PF00132.28    36 BGC0000729.1_ORF11:gid::pid:BAF47003.1:loc:13119:13668:strand:+ -            182   2.6e-11   42.9   7.0   1   1   5.3e-12   1.1e-07   31.4   0.1     2    36   113   147   112   147 0.96 Bacterial transferase hexapeptide (six repeats)
+Alg14                PF08660.15   171 BGC0000729.1_ORF13:gid::pid:BAF47005.1:loc:14680:15127:strand:+ -            148   1.3e-09   38.5   0.1   1   1     1e-11   2.2e-07   31.3   0.0    76   170    59   146    45   147 0.78 Oligosaccharide biosynthesis protein Alg14 like
+Glyco_tran_28_C      PF04101.20   166 BGC0000729.1_ORF14:gid::pid:BAF47006.1:loc:15126:15621:strand:+ -            164   9.5e-08   32.4   0.0   1   1     6e-12   1.2e-07   32.1   0.0     3   117     3   112     1   120 0.77 Glycosyltransferase family 28 C-terminal domain
+Bac_transf           PF02397.20   180 BGC0000729.1_ORF15:gid:rfbp:pid:BAF47007.1:loc:15897:17301:strand:+ -            467   7.9e-69  231.0   0.3   1   1   1.5e-72   1.6e-68  230.0   0.3     1   178   277   460   277   462 0.95 Bacterial sugar transferase
+CoA_binding_3        PF13727.10   175 BGC0000729.1_ORF15:gid:rfbp:pid:BAF47007.1:loc:15897:17301:strand:+ -            467   4.4e-30  105.2   0.0   1   1   7.2e-34   7.5e-30  104.4   0.0     2   175    65   241    64   241 0.89 CoA-binding domain
+6PGD                 PF00393.23   290 BGC0000729.1_ORF16:gid:gnd:pid:BAF47008.1:loc:17464:18871:strand:+ -            468  4.7e-135  449.8   0.1   1   1  6.8e-139  7.1e-135  449.2   0.1     1   290   179   466   179   466 0.99 6-phosphogluconate dehydrogenase, C-terminal domain
+NAD_binding_2        PF03446.19   161 BGC0000729.1_ORF16:gid:gnd:pid:BAF47008.1:loc:17464:18871:strand:+ -            468   1.4e-50  171.6   0.0   1   1   2.7e-54   2.8e-50  170.7   0.0     1   161     5   174     5   174 0.97 NAD binding domain of 6-phosphogluconate dehydrogenase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000729.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000729.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000729.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:38:15 2024
+# [ok]

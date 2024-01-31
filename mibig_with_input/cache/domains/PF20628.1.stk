@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000966.1_ORF1:gid::pid:AFD30968.1:loc:0:3301:strand:+:2:160              tlet-----------------------H..TIV...GNEDPAYAGSSFVLAQRFAFNWEHILNMGPDQIEDLVGRTAEDIIVP---..............-TRDERSHIKCARAQdAQGDTMRILRLGLPYGRsdattnndlrfkgaSLRDEQGVYFAGYARRAGILETIMDRQVGSHEGhMADRLLSTVHSNLGGVYFV
+#=GR BGC0000966.1_ORF1:gid::pid:AFD30968.1:loc:0:3301:strand:+:2:160      PP 8754.......................4..788...999************************************98876554..................4569*********96777999**********************98766789***********************99666168*****************
+BGC0001178.1_ORF5:gid::pid:AGS77304.1:loc:4916:6011:strand:+:178:355         ...g-QRNLFGFAEGAGNPDSTNTELMDrcVWVqpdDDEPAWCAGGTYQVVRLIRLALPIWEAQPTHVQERVVGRHKDTGAALGQStkealpefladpdgAVIPLDSHIRRAYPR.-TGRERPILRRGHSYRR..............-AKTDVGQIFVCFQRDVELGFATVQRRL-----.AGEALEKYLRPFGGGYYFV
+#=GR BGC0001178.1_ORF5:gid::pid:AGS77304.1:loc:4916:6011:strand:+:178:355 PP ...8.69******************9998999999999**********************************************99****************************6..69*************9...............789************************......9******************
+#=GC PP_cons                                                                 .....69******************997..889...99**************************************9998877*99..............*788**********8.77899***********9..............6789************************99666.89*****************
+#=GC RF                                                                      ....xxxxxxxxxxxxxxxxxxxxxxxx..xxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..............xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx..............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx
+
+BGC0000966.1_ORF1:gid::pid:AFD30968.1:loc:0:3301:strand:+:2:160              PSA--tv
+#=GR BGC0000966.1_ORF1:gid::pid:AFD30968.1:loc:0:3301:strand:+:2:160      PP *97..68
+BGC0001178.1_ORF5:gid::pid:AGS77304.1:loc:4916:6011:strand:+:178:355         LPG--gg
+#=GR BGC0001178.1_ORF5:gid::pid:AGS77304.1:loc:4916:6011:strand:+:178:355 PP 986..79
+#=GC PP_cons                                                                 996....
+#=GC RF                                                                      xxxxx..
+//

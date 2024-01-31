@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000223.1_ORF30:gid::pid:AEE65486.1:loc:33135:34338:strand:+:45:400         ppg---SLAEEAIAFLRVCAVELGWDGASWKRRRSEVLAEIKSTGTYRHTEAELRIGAKLAWRNHTRCIGQLHWRTLVVRDRREVHTVDALADELELHQRQAYIDGDVRPVITIFAPDTPDRPGPRIANAQLVRYAGYRQPDGGVYGDPANADLTDLLIAAGWTPG.LGAFDRLPVLVEGSD-GRGWRELDPVTCPDVPI
+#=GR BGC0000223.1_ORF30:gid::pid:AEE65486.1:loc:33135:34338:strand:+:45:400 PP 987...6889************************************************************************************************************************************************************.**********99877.679**************
+BGC0000444.1_ORF1:gid:nos:pid:AAW49313.1:loc:0:1203:strand:-:46:400            .dp------DEAEEFLRQFHAEQSDQAVPLTRRLDQVRAAIDATGTYRHTTAELVFGARVAWRNSSRCIGRLYWNSLRVLDRRDTTAPEVIHRHLCTHLRQATNGGRIRPVISVFAPDAPSRPGPRVWNEQLVRYAGHRRDDGTVLGDPRSADLTEAIRGLGWQGGrQGPFDVLPLVIDAHDDKPRFFELPREVVLEVPI
+#=GR BGC0000444.1_ORF1:gid:nos:pid:AAW49313.1:loc:0:1203:strand:-:46:400    PP .*8......589********************************************************************************************************************************************************98699*******************************
+#=GC PP_cons                                                                   ......68879*********************************************************************************************************************************************************99.9**********9998*899**************
+#=GC RF                                                                        ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000223.1_ORF30:gid::pid:AEE65486.1:loc:33135:34338:strand:+:45:400         THPRYDWFAGLGLRWYAYPTVADMRLEIGGVSYPAAPFTGWYVGAEVGARNFGDVGRYNMLPAVAKALGLDTGDDRTLWKDRALIELNTAVLTSFGAAGVRMTDHHTMTDHFHRYAQARRRSGEVVRAEWSWMIPPIAASATPVYQETYDSTVVRPNFFRQ-----..
+#=GR BGC0000223.1_ORF30:gid::pid:AEE65486.1:loc:33135:34338:strand:+:45:400 PP **************************************************************************************************************************************************************986.......
+BGC0000444.1_ORF1:gid:nos:pid:AAW49313.1:loc:0:1203:strand:-:46:400            THPDVPRLAELCLRWHAVPVISNMRLRIGGVDYPLAPFNGWYMGTEIGVRNLVDEARYNLLPAVAACLQLDTTSESTLWRDRALVELNVAVLHSFAAAGVRISDHHEESRRFLAHLTKEERQGRTVPADWSWIVPPLSSGITPVFHRYYDNADQRPNFYP------hq
+#=GR BGC0000444.1_ORF1:gid:nos:pid:AAW49313.1:loc:0:1203:strand:-:46:400    PP *************************************************************************************************************************************************************975......67
+#=GC PP_cons                                                                   **************************************************************************************************************************************************************866.......
+#=GC RF                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

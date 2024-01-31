@@ -1,0 +1,21 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF6001              PF19464.3    359 BGC0000919.1_ORF1:gid::pid:AAC25606.1:loc:746:1508:strand:+ -            253   4.7e-32  111.6   0.1   1   1   2.5e-36   5.2e-32  111.5   0.1    63   218     4   159     1   213 0.95 Family of unknown function (DUF6001)
+Aminotran_3          PF00202.25   403 BGC0000919.1_ORF3:gid::pid:AAC25608.1:loc:2296:3481:strand:+ -            394   1.3e-77  261.3   0.0   1   1   8.7e-82   1.8e-77  260.9   0.0    14   401    12   375     5   377 0.92 Aminotransferase class-III
+Polyketide_cyc       PF03364.24   126 BGC0000919.1_ORF4:gid::pid:AAC25609.1:loc:3468:3933:strand:+ -            154     2e-24   86.4   0.1   1   1   2.3e-28   2.4e-24   86.2   0.1     4   125    14   134    12   135 0.96 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc2      PF10604.13   143 BGC0000919.1_ORF4:gid::pid:AAC25609.1:loc:3468:3933:strand:+ -            154   1.8e-07   31.7   0.0   1   1   2.4e-11   2.5e-07   31.3   0.0    14   141    15   141    12   142 0.82 Polyketide cyclase / dehydrase and lipid transport
+NAD_binding_4        PF07993.16   258 BGC0000919.1_ORF5:gid::pid:AAC25610.1:loc:3936:5073:strand:+ -            378   3.1e-26   92.3   0.0   1   2   7.7e-17   5.4e-13   48.9   0.1     1   143    11   139    11   142 0.87 Male sterility protein
+NAD_binding_4        PF07993.16   258 BGC0000919.1_ORF5:gid::pid:AAC25610.1:loc:3936:5073:strand:+ -            378   3.1e-26   92.3   0.0   2   2   1.8e-14   1.2e-10   41.1   0.0   172   255   142   223   137   226 0.94 Male sterility protein
+Epimerase            PF01370.25   240 BGC0000919.1_ORF5:gid::pid:AAC25610.1:loc:3936:5073:strand:+ -            378   1.1e-07   31.8   0.0   1   1   2.4e-11   1.6e-07   31.2   0.0     2   176    10   180     9   200 0.77 NAD dependent epimerase/dehydratase family
+FA_desaturase        PF00487.28   253 BGC0000919.1_ORF6:gid::pid:AAC25611.1:loc:5078:6062:strand:+ -            327   3.3e-44  151.8  16.9   1   1   2.5e-48   5.2e-44  151.1  16.9     1   251    60   302    60   304 0.92 Fatty acid desaturase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000919.1.fasta
+# Target file:     ../../BiG-SCAPE/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/domtable/BGC0000919.1.domtable --cut_tc --cpu 0 ../../BiG-SCAPE/pfam/Pfam-A.hmm ../../BiG-SCAPE_Galaxy/mibig_with_input/cache/fasta/BGC0000919.1.fasta 
+# Current dir:     /home/sf373/sf373/Project/BiG-SCAPE_working
+# Date:            Wed Jan 31 14:52:04 2024
+# [ok]

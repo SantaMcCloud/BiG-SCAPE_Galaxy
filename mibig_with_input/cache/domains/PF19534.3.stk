@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+BGC0000222.1_ORF23:gid:pnxM:pid:BAJ52689.1:loc:19099:19348:strand:+:19:73            slc---DGLRVLGSL.....YVVQPPWPPYDDRTLA--.EPPPGSPERLDPGAPASPVERQLFDQL
+#=GR BGC0000222.1_ORF23:gid:pnxM:pid:BAJ52689.1:loc:19099:19348:strand:+:19:73    PP 865...799******.....9999998888877776...************************998
+BGC0001204.1_ORF32:gid:vstQ:pid:BAQ21963.1:loc:105370:105631:strand:+:15:66          .fl--ITMMVPLGKI.....WCYIPDPPQEL------ImGPAPRHPERVRSDVPLSPLERELARQL
+#=GR BGC0001204.1_ORF32:gid:vstQ:pid:BAQ21963.1:loc:105370:105631:strand:+:15:66  PP .85..667899****.....******99973......24**************************9
+BGC0000952.1_ORF86:gid:cpp10:pid:CBW45721.1:loc:183619:183853:strand:+:17:73         ..p-VWQGLVACGGV.....YLAGESTRTAAQRPPLLL.RPPVGHPERLRPDVPLTALERALLEEW
+#=GR BGC0000952.1_ORF86:gid:cpp10:pid:CBW45721.1:loc:183619:183853:strand:+:17:73 PP ..5.9**********.....**********99999888.***********************9985
+BGC0000162.1_ORF7:gid::pid:ACB37725.1:loc:9841:10171:strand:-:31:92                  ..l-LIRYLAELGYAcwtmsGVPLPPLERSQFRDEVIEvGPPPGHPERLST-APPTRVERRLWRQL
+#=GR BGC0000162.1_ORF7:gid::pid:ACB37725.1:loc:9841:10171:strand:-:31:92          PP ..8.6899******987777777777777777777766*************.*************9
+#=GC PP_cons                                                                         ....7889999****.....999999999878888776.************************998
+#=GC RF                                                                              ...xxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

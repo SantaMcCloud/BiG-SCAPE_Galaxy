@@ -1,0 +1,19 @@
+# STOCKHOLM 1.0
+
+GCF_008000775.1_ORF2010:gid::pid:WP_147663095.1:loc:2214722:2216051:strand:+:198:283         .GTDLRTLRKYVEGDQYRHIDWKASMRVQK....LIVREFETERNVSTVILIDSSESMSGGAVDYTKFEMSVKSAMFLAKIAMEQQDKVG-i.
+#=GR GCF_008000775.1_ORF2010:gid::pid:WP_147663095.1:loc:2214722:2216051:strand:+:198:283 PP .67999************************....*******************************************************8.6.
+BGC0000380.1_ORF33:gid::pid:ADZ25013.1:loc:71432:72665:strand:-:256:341                      g-DETFGLRPMREGDDPRDIYWRKSTMRDQ....MVLRERTRETRPDVQIVVDAVRPAGEGDGFAQLFERRIREAASRAVAHIKRGDAV--vv
+#=GR BGC0000380.1_ORF33:gid::pid:ADZ25013.1:loc:71432:72665:strand:-:256:341              PP 5.67889***********************....*************************99999**********************998..67
+BGC0000928.1_ORF1:gid::pid:ABI75088.1:loc:0:1320:strand:+:190:279                            .GTEFAELRNYCMGDDLRLIDWKATARRAYgnlsPLVRVLEPQQEQTLLILLDRGRLMTANVQGLKRYDWGLNTTLSLALAGLHRGDRVGV..
+#=GR BGC0000928.1_ORF1:gid::pid:ABI75088.1:loc:0:1320:strand:+:190:279                    PP .68************************74333559******************************************************97..
+GCF_000011105.1_ORF298:gid::pid:WP_010884424.1:loc:300387:301608:strand:+:189:274            t-LEFKEIREYKPGDPFKVINWKATARTGK....LLVNEYEKEGQDTIILFLDARMGEEVGSIVENPLEYGIELAYALSIYLLGRGSNVGL..
+#=GR GCF_000011105.1_ORF298:gid::pid:WP_010884424.1:loc:300387:301608:strand:+:189:274    PP 6.79**************************....*******************************************************97..
+GCF_000011105.1_ORF351:gid::pid:WP_010884478.1:loc:349111:350380:strand:+:176:260            s-TELYGLREYLPGDDVRRIDWKATTRLRK....LIVKEFMRESEGDVYIVLDATREMRKRIR-RSKIDYASSLVLYIATILIRSNKRVGL..
+#=GR GCF_000011105.1_ORF351:gid::pid:WP_010884478.1:loc:349111:350380:strand:+:176:260    PP 6.799*************************....************************98775.6************************97..
+GCF_000011105.1_ORF718:gid::pid:WP_010884867.1:loc:682842:684075:strand:-:187:266            .GLEFHAVREYRPGDPMKVINWKATAKTGK....IMANEFESERKVDVVLIVDATYKG------KEVFDYLIRVAASLLMDALENGTSFGL..
+#=GR GCF_000011105.1_ORF718:gid::pid:WP_010884867.1:loc:682842:684075:strand:-:187:266    PP .68***************************....***********************4......69**********************997..
+BGC0000188.1_ORF1:gid::pid:ABI75088.1:loc:0:1320:strand:+:190:279                            .GTEFAELRNYCMGDDLRLIDWKATARRAYgnlsPLVRVLEPQQEQTLLILLDRGRLMTANVQGLKRYDWGLNTTLSLALAGLHRGDRVGV..
+#=GR BGC0000188.1_ORF1:gid::pid:ABI75088.1:loc:0:1320:strand:+:190:279                    PP .68************************74333559******************************************************97..
+#=GC PP_cons                                                                                 .6799**********************988....***********************9*9999*9***********************997..
+#=GC RF                                                                                      .xxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//
