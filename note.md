@@ -1,17 +1,8 @@
 Fragen die noch offen sind:
-- Option --verbose lässt das programm mehr details printen das in eine log datei und als output geben? -> Datei ausgeben
-- Option im wrapper einfügen das nur die MIBiG files als input genommen werden? ->machen 
 
 TODO:
-- Update des recipe wenn release da ist
-    - mergen nicht wegen import error bei der lokalen version
-        - => selber releasen dann!
 - letzen test des wrapper machen!
 - NOCHMAL ALLE PARAMETER DURCH SCHAUEN OB ALLES PASST!!!!!!!!!!!!!!!
-    - schauen auch dass das richtige recipe drinnne ist!!!!!
-- obrige Punkte machen
-- .tsv als dataset ausgeben
-- .hmtl als einelnen output machen so das man diese auch in galaxy nutzen kann
 
 ERRORS COMMING FROM OPTIONS:
 - domain_overlap_cutoff -> Wird nicht zum float gecastet wenn man diese Option nutzt!
@@ -109,3 +100,8 @@ DONE:
 - did a first check and update some labels and help text of some parameters. Right now evreything should be added and should be correct!
 - wrote the help section with, i think, all infos you need
 - throw out [--qury_bgc] because it cause errors and throw out [--skip_ma] beacuse it galaxy never reuse the output in a run so this option does nothing!
+- Added the option for a log file and also add it as output if set
+- added the option to only let a mibig dataset to be run alone without input
+- added a html output and a tabular datacollection
+- added a new test which also pass the test. The first is only to test if the run finish, the secnc for testing all the outputs.
+- added the package since it is updated, it works since it didtn work local, stange but when it works it work.
