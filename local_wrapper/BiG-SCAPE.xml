@@ -26,8 +26,8 @@
                      ln -s $anchorfile $anchorfile.element_identifier &&
               #end if
               #if $list.is_select == "yes":
-                     cat domain_includelist.txt > save.txt &&
-                     cat $domain_includelist > $__tool_directory__/domain_includelist.txt &&
+                     cat $__tool_directory__/BiG-SCAPE/domain_includelist.txt > save.txt &&
+                     cat $domain_includelist > $__tool_directory__/BiG-SCAPE/domain_includelist.txt &&
               #end if
 
               bigscape
@@ -84,7 +84,7 @@
               cp -r result/html_content $path_to_html
 
               #if $list.is_select == "yes":
-                   &&  cat save.txt >  domain_includelist.txt
+                     && cat save.txt > $__tool_directory__/BiG-SCAPE/domain_includelist.txt
               #end if
 
               #if $log:
@@ -94,7 +94,7 @@
        </command>
        <inputs>
               <conditional name="input" label="Select if you want to use your won data or only MiBIG" >
-                     <param name="is_select" type="select" labe="Input"
+                     <param name="is_select" type="select" label="Input"
                             help="Choose if you want to use your own data. It is also possible to include the given MiBIG datasets with your data or just run a MiBIG dataset on his own." >
                                    <option value="data"> Own input </option>
                                    <option value="no_data"> MiBIG only </option>
@@ -277,7 +277,7 @@
               </inputs>
        <outputs>
               <data name="html" label="${tool.name}: HTML " format="html"/> 
-              <collection name="tsv_collection" type="list" label="${tool.name}: TABULAR COLLECTION" >
+              <collection name="tsv_collection" type="list" label="${tool.name}: TABULAR COLLECTION" format="tabular">
                      <discover_datasets pattern="(?P&lt;designation&gt;.+)\.tsv" directory="result/network_files" recurse="true"/>
               </collection>
               <data name="logfile" label="${tool.name}: LOG FILE" format="log">
@@ -309,14 +309,26 @@
                             <param name="include_gbk_str" value="G"/>
                      </conditional>
                      <param name="log" value="true" />
-                     <discovered_dataset designation="Network_Annotations_Full" ftype="tabular">
+                     <output name="html" >
                             <assert_contents>
-                                   <has_line line="3BGC	Accession ID	Description	Product Prediction	BiG-SCAPE class	Organism	Taxonomy" />
+                                   <has_line line="&lt;!DOCTYPE html&gt;" />
                             </assert_contents>
-                     </discovered_dataset>
+                     </output>
+                     <output name="logfile">
+                            <assert_contents>
+                                          <has_line line="   - - Processing input files - -" />
+                            </assert_contents>
+                     </output>
+                     <output_collection name="tsv_collection" type="list">
+                            <element name="Network_Annotations_Full" >
+                                   <assert_contents>
+                                          <has_text text="Accession ID" n="1"/>
+                                   </assert_contents>
+                            </element>
+                     </output_collection>
               </test>
        </tests>
-       <help>
+       <help> 
        <![CDATA[
               .. class:: infomark
 

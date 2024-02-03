@@ -13,52 +13,52 @@
                     "include_gbk|is_select": "yes",
                     "input|inputdir": [
                         {
-                            "id": "8099c2cb2bc10a10",
+                            "id": "97b10d6abf30c1bd",
                             "src": "hda"
                         },
                         {
-                            "id": "2dfe866b44efb4e6",
+                            "id": "c2ac8fdc49b9a4e3",
                             "src": "hda"
                         }
                     ],
                     "input|is_select": "data",
                     "pfam_dir": {
-                        "id": "213d2a0890c86fa2",
+                        "id": "6d0f17ab10f298e2",
                         "src": "hda"
                     }
                 },
                 "job": {
-                    "command_line": "mkdir -p /tmp/tmpwu1qs4y3/job_working_directory/000/4/outputs/dataset_a038c035-420f-496b-8535-6e1458cea057_files && mkdir result &&  mkdir input && ln -s /tmp/tmpwu1qs4y3/files/d/e/6/dataset_de6e0228-fbc3-4f2a-a13d-4dfbe734eccd.dat input/GCF_000011105.1.gbk && ln -s /tmp/tmpwu1qs4y3/files/8/8/6/dataset_886fbed7-16e0-41d7-9987-4d9c3625dcd4.dat input/GCF_008000775.1.gbk &&  mkdir pfam && ln -s /tmp/tmpwu1qs4y3/files/c/5/e/dataset_c5e95d02-e726-44e3-8407-ce416cd9905f.dat pfam/Pfam-A.hmm && hmmpress pfam/Pfam-A.hmm &&   bigscape --inputdir input --outputdir result --include_gbk_str G --pfam_dir pfam --core ${GALAXY_SLOTS:-8}    --domain_overlap_cutoff 0.1 --min_bgc_size 0   --cutoffs 0.3   --mode glocal  &&  cp result/index.html /tmp/tmpwu1qs4y3/job_working_directory/000/4/outputs/dataset_a038c035-420f-496b-8535-6e1458cea057.dat && cp -r result/html_content /tmp/tmpwu1qs4y3/job_working_directory/000/4/outputs/dataset_a038c035-420f-496b-8535-6e1458cea057_files",
+                    "command_line": "mkdir -p /tmp/tmpmcnfqepi/job_working_directory/000/4/outputs/dataset_82b556c0-0571-4cf5-8072-fd6d753c7f6c_files && mkdir result &&  mkdir input && ln -s /tmp/tmpmcnfqepi/files/8/3/b/dataset_83bb29e7-e28f-4506-9421-c251f30823e2.dat input/GCF_000011105.1.gbk && ln -s /tmp/tmpmcnfqepi/files/0/0/1/dataset_001abfb0-9d40-46d4-94f4-527b4812e2ff.dat input/GCF_008000775.1.gbk &&  mkdir pfam && ln -s /tmp/tmpmcnfqepi/files/2/f/5/dataset_2f524ea9-d937-4910-82e1-864e9f6fcd31.dat pfam/Pfam-A.hmm && hmmpress pfam/Pfam-A.hmm &&   bigscape --inputdir input --outputdir result --include_gbk_str G --pfam_dir pfam --core ${GALAXY_SLOTS:-8}    --domain_overlap_cutoff 0.1 --min_bgc_size 0   --cutoffs 0.3   --mode glocal  &&  cp result/index.html /tmp/tmpmcnfqepi/job_working_directory/000/4/outputs/dataset_82b556c0-0571-4cf5-8072-fd6d753c7f6c.dat && cp -r result/html_content /tmp/tmpmcnfqepi/job_working_directory/000/4/outputs/dataset_82b556c0-0571-4cf5-8072-fd6d753c7f6c_files",
                     "command_version": "",
                     "copied_from_job_id": null,
-                    "create_time": "2024-02-02T22:26:26.733977",
+                    "create_time": "2024-02-03T17:06:04.103485",
                     "dependencies": [],
                     "exit_code": 0,
-                    "external_id": "10121",
+                    "external_id": "4976",
                     "galaxy_version": "23.3",
                     "handler": null,
-                    "history_id": "8099c2cb2bc10a10",
-                    "id": "4a37a17ade81c0ac",
+                    "history_id": "97b10d6abf30c1bd",
+                    "id": "d7eece4f14c0e8fc",
                     "inputs": {
                         "input|inputdir": {
-                            "id": "8099c2cb2bc10a10",
+                            "id": "97b10d6abf30c1bd",
                             "src": "hda",
-                            "uuid": "de6e0228-fbc3-4f2a-a13d-4dfbe734eccd"
+                            "uuid": "83bb29e7-e28f-4506-9421-c251f30823e2"
                         },
                         "input|inputdir1": {
-                            "id": "8099c2cb2bc10a10",
+                            "id": "97b10d6abf30c1bd",
                             "src": "hda",
-                            "uuid": "de6e0228-fbc3-4f2a-a13d-4dfbe734eccd"
+                            "uuid": "83bb29e7-e28f-4506-9421-c251f30823e2"
                         },
                         "input|inputdir2": {
-                            "id": "2dfe866b44efb4e6",
+                            "id": "c2ac8fdc49b9a4e3",
                             "src": "hda",
-                            "uuid": "886fbed7-16e0-41d7-9987-4d9c3625dcd4"
+                            "uuid": "001abfb0-9d40-46d4-94f4-527b4812e2ff"
                         },
                         "pfam_dir": {
-                            "id": "213d2a0890c86fa2",
+                            "id": "6d0f17ab10f298e2",
                             "src": "hda",
-                            "uuid": "c5e95d02-e726-44e3-8407-ce416cd9905f"
+                            "uuid": "2f524ea9-d937-4910-82e1-864e9f6fcd31"
                         }
                     },
                     "job_messages": [],
@@ -69,30 +69,30 @@
                     "model_class": "Job",
                     "output_collections": {
                         "tsv_collection": {
-                            "id": "8099c2cb2bc10a10",
+                            "id": "97b10d6abf30c1bd",
                             "src": "hdca"
                         }
                     },
                     "outputs": {
                         "__new_primary_file_tsv_collection|Network_Annotations_Full__": {
-                            "id": "080b1c3dde21effe",
+                            "id": "ba3152987ad26dfd",
                             "src": "hda",
-                            "uuid": "1af94bc2-7ed7-4018-8ece-d465e27006a7"
+                            "uuid": "23c07db6-77b8-4542-9b7c-24b457146d4b"
                         },
                         "__new_primary_file_tsv_collection|Network_Annotations_Others__": {
-                            "id": "6e4d78b521f1dd25",
+                            "id": "2d3d0ee7fdb0c1a5",
                             "src": "hda",
-                            "uuid": "9e8f8392-e83a-405e-be87-c883cefe3dd9"
+                            "uuid": "6959f3bd-e406-4034-863a-6d4474c1b5ec"
                         },
                         "__new_primary_file_tsv_collection|Network_Annotations_RiPPs__": {
-                            "id": "eab059868521ed2a",
+                            "id": "dd3eafab8bf615d4",
                             "src": "hda",
-                            "uuid": "ce34648c-a378-403f-babe-6fceda6b7149"
+                            "uuid": "790088cf-a166-4f4b-9795-377ad0760e8f"
                         },
                         "html": {
-                            "id": "4a37a17ade81c0ac",
+                            "id": "d7eece4f14c0e8fc",
                             "src": "hda",
-                            "uuid": "a038c035-420f-496b-8535-6e1458cea057"
+                            "uuid": "82b556c0-0571-4cf5-8072-fd6d753c7f6c"
                         }
                     },
                     "params": {
@@ -122,16 +122,16 @@
                     },
                     "state": "ok",
                     "stderr": "",
-                    "stdout": "Working...    done.\nPressed and indexed 20795 HMMs (20795 names and 20795 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n\n\n   - - Processing input files - -\n Output folder already exists\n Including files with one or more of the following strings in their filename: 'G'\n Skipping files with one or more of the following strings in their filename: 'final'\n\nImporting GenBank files\n  Warning: unknown product 'hydrogen-cyanide'\n\n Starting with 2 files\n Files that had its sequence extracted: 2\n\nCreating output directories\n\nTrying threading on 1 cores\n\nPredicting domains using hmmscan\n Predicting domains for 2 fasta files\n Finished generating domtable files.\n\nParsing hmmscan domtable files\n Processing 2 domtable files\n New domain sequences to be added; cleaning domains folder\n Finished generating pfs and pfd files.\n\nProcessing domains sequence files\n Adding sequences to corresponding domains file\n Reading the ordered list of domains from the pfs files\n Creating arrower-like figures for each BGC\n  Parsing hmm file for domain information\n    Done\n  Domains colors file was not found. An empty file will be created\n  Reading BGC information and writing SVG\n Finished creating figures\n\n\n   - - Calculating distance matrix - -\nPerforming multiple alignment of domain sequences\n\n Using hmmalign\nlaunch_hmmalign took 154.977 seconds\n Trying to read domain alignments (*.algn files)\n\nGenerating distance network files with ALL available input files\n   Writing the complete Annotations file for the complete set\n\n Working for each BGC class\n  Sorting the input BGCs\n\n  Warning: unknown product 'hydrogen-cyanide'\n\n  RiPPs (1 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.005 seconds\n\n  Others (1 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.005 seconds\n\n\n\tMain function took 1523.031 s\n",
+                    "stdout": "Working...    done.\nPressed and indexed 20795 HMMs (20795 names and 20795 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n\n\n   - - Processing input files - -\n Output folder already exists\n Including files with one or more of the following strings in their filename: 'G'\n Skipping files with one or more of the following strings in their filename: 'final'\n\nImporting GenBank files\n  Warning: unknown product 'hydrogen-cyanide'\n\n Starting with 2 files\n Files that had its sequence extracted: 2\n\nCreating output directories\n\nTrying threading on 1 cores\n\nPredicting domains using hmmscan\n Predicting domains for 2 fasta files\n Finished generating domtable files.\n\nParsing hmmscan domtable files\n Processing 2 domtable files\n New domain sequences to be added; cleaning domains folder\n Finished generating pfs and pfd files.\n\nProcessing domains sequence files\n Adding sequences to corresponding domains file\n Reading the ordered list of domains from the pfs files\n Creating arrower-like figures for each BGC\n  Parsing hmm file for domain information\n    Done\n  Domains colors file was not found. An empty file will be created\n  Reading BGC information and writing SVG\n Finished creating figures\n\n\n   - - Calculating distance matrix - -\nPerforming multiple alignment of domain sequences\n\n Using hmmalign\nlaunch_hmmalign took 220.209 seconds\n Trying to read domain alignments (*.algn files)\n\nGenerating distance network files with ALL available input files\n   Writing the complete Annotations file for the complete set\n\n Working for each BGC class\n  Sorting the input BGCs\n\n  Warning: unknown product 'hydrogen-cyanide'\n\n  RiPPs (1 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.006 seconds\n\n  Others (1 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.007 seconds\n\n\n\tMain function took 1711.856 s\n",
                     "tool_id": "big-scape",
                     "tool_stderr": "",
-                    "tool_stdout": "Working...    done.\nPressed and indexed 20795 HMMs (20795 names and 20795 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n\n\n   - - Processing input files - -\n Output folder already exists\n Including files with one or more of the following strings in their filename: 'G'\n Skipping files with one or more of the following strings in their filename: 'final'\n\nImporting GenBank files\n  Warning: unknown product 'hydrogen-cyanide'\n\n Starting with 2 files\n Files that had its sequence extracted: 2\n\nCreating output directories\n\nTrying threading on 1 cores\n\nPredicting domains using hmmscan\n Predicting domains for 2 fasta files\n Finished generating domtable files.\n\nParsing hmmscan domtable files\n Processing 2 domtable files\n New domain sequences to be added; cleaning domains folder\n Finished generating pfs and pfd files.\n\nProcessing domains sequence files\n Adding sequences to corresponding domains file\n Reading the ordered list of domains from the pfs files\n Creating arrower-like figures for each BGC\n  Parsing hmm file for domain information\n    Done\n  Domains colors file was not found. An empty file will be created\n  Reading BGC information and writing SVG\n Finished creating figures\n\n\n   - - Calculating distance matrix - -\nPerforming multiple alignment of domain sequences\n\n Using hmmalign\nlaunch_hmmalign took 154.977 seconds\n Trying to read domain alignments (*.algn files)\n\nGenerating distance network files with ALL available input files\n   Writing the complete Annotations file for the complete set\n\n Working for each BGC class\n  Sorting the input BGCs\n\n  Warning: unknown product 'hydrogen-cyanide'\n\n  RiPPs (1 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.005 seconds\n\n  Others (1 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.005 seconds\n\n\n\tMain function took 1523.031 s\n",
-                    "update_time": "2024-02-02T22:52:47.814923",
+                    "tool_stdout": "Working...    done.\nPressed and indexed 20795 HMMs (20795 names and 20795 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n\n\n   - - Processing input files - -\n Output folder already exists\n Including files with one or more of the following strings in their filename: 'G'\n Skipping files with one or more of the following strings in their filename: 'final'\n\nImporting GenBank files\n  Warning: unknown product 'hydrogen-cyanide'\n\n Starting with 2 files\n Files that had its sequence extracted: 2\n\nCreating output directories\n\nTrying threading on 1 cores\n\nPredicting domains using hmmscan\n Predicting domains for 2 fasta files\n Finished generating domtable files.\n\nParsing hmmscan domtable files\n Processing 2 domtable files\n New domain sequences to be added; cleaning domains folder\n Finished generating pfs and pfd files.\n\nProcessing domains sequence files\n Adding sequences to corresponding domains file\n Reading the ordered list of domains from the pfs files\n Creating arrower-like figures for each BGC\n  Parsing hmm file for domain information\n    Done\n  Domains colors file was not found. An empty file will be created\n  Reading BGC information and writing SVG\n Finished creating figures\n\n\n   - - Calculating distance matrix - -\nPerforming multiple alignment of domain sequences\n\n Using hmmalign\nlaunch_hmmalign took 220.209 seconds\n Trying to read domain alignments (*.algn files)\n\nGenerating distance network files with ALL available input files\n   Writing the complete Annotations file for the complete set\n\n Working for each BGC class\n  Sorting the input BGCs\n\n  Warning: unknown product 'hydrogen-cyanide'\n\n  RiPPs (1 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.006 seconds\n\n  Others (1 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.007 seconds\n\n\n\tMain function took 1711.856 s\n",
+                    "update_time": "2024-02-03T17:35:32.385385",
                     "user_email": "planemo@galaxyproject.org"
                 },
                 "status": "success",
                 "test_index": 0,
-                "time_seconds": 1725.6978952884674,
+                "time_seconds": 1866.946408033371,
                 "tool_id": "big-scape",
                 "tool_version": "1.1.8+galaxy0"
             },
@@ -145,26 +145,26 @@
                     "include_gbk|is_select": "yes",
                     "input|inputdir": [
                         {
-                            "id": "d6f0fc0114eb75ac",
+                            "id": "9e586587a84b9db4",
                             "src": "hda"
                         },
                         {
-                            "id": "de529a5a3ca4bf56",
+                            "id": "00b5bb9412309b46",
                             "src": "hda"
                         }
                     ],
                     "input|is_select": "data",
                     "log": true,
                     "pfam_dir": {
-                        "id": "f7a43eeb510c5a33",
+                        "id": "21af1847933d8c91",
                         "src": "hda"
                     }
                 },
                 "job": {
-                    "command_line": "mkdir -p /tmp/tmpwu1qs4y3/job_working_directory/000/8/outputs/dataset_0ac5291d-14b8-43c9-b490-2a38e2c53380_files && mkdir result &&  mkdir input && ln -s /tmp/tmpwu1qs4y3/files/1/5/3/dataset_153589e8-223d-4388-9660-f0aee6bf1b59.dat input/GCF_000011105.1.gbk && ln -s /tmp/tmpwu1qs4y3/files/8/5/1/dataset_8518ca53-95e9-4b63-8348-0219da51599f.dat input/GCF_008000775.1.gbk &&  mkdir pfam && ln -s /tmp/tmpwu1qs4y3/files/d/8/c/dataset_d8cb9ec9-64bb-4096-990f-95d124b3b673.dat pfam/Pfam-A.hmm && hmmpress pfam/Pfam-A.hmm &&   bigscape --inputdir input --outputdir result --include_gbk_str G --pfam_dir pfam --core ${GALAXY_SLOTS:-8}  > verbose.log  --domain_overlap_cutoff 0.1 --min_bgc_size 0   --cutoffs 0.3   --mode glocal  &&  cp result/index.html /tmp/tmpwu1qs4y3/job_working_directory/000/8/outputs/dataset_0ac5291d-14b8-43c9-b490-2a38e2c53380.dat && cp -r result/html_content /tmp/tmpwu1qs4y3/job_working_directory/000/8/outputs/dataset_0ac5291d-14b8-43c9-b490-2a38e2c53380_files  && cp verbose.log /tmp/tmpwu1qs4y3/job_working_directory/000/8/outputs/dataset_8d10fc13-0dcf-46d2-a6f7-5be9402da171.dat",
+                    "command_line": "mkdir -p /tmp/tmpmcnfqepi/job_working_directory/000/8/outputs/dataset_06014371-7146-46cd-9990-0614e25392b3_files && mkdir result &&  mkdir input && ln -s /tmp/tmpmcnfqepi/files/9/d/f/dataset_9df05733-4606-4af6-9ea6-b087105f93b1.dat input/GCF_000011105.1.gbk && ln -s /tmp/tmpmcnfqepi/files/8/4/d/dataset_84df0c74-ea24-482f-9b4d-2df5312c9240.dat input/GCF_008000775.1.gbk &&  mkdir pfam && ln -s /tmp/tmpmcnfqepi/files/3/b/c/dataset_3bcd794f-76a9-43cf-be8c-a6b979a42bd5.dat pfam/Pfam-A.hmm && hmmpress pfam/Pfam-A.hmm &&   bigscape --inputdir input --outputdir result --include_gbk_str G --pfam_dir pfam --core ${GALAXY_SLOTS:-8}  > verbose.log  --domain_overlap_cutoff 0.1 --min_bgc_size 0   --cutoffs 0.3   --mode glocal  &&  cp result/index.html /tmp/tmpmcnfqepi/job_working_directory/000/8/outputs/dataset_06014371-7146-46cd-9990-0614e25392b3.dat && cp -r result/html_content /tmp/tmpmcnfqepi/job_working_directory/000/8/outputs/dataset_06014371-7146-46cd-9990-0614e25392b3_files   && cp verbose.log /tmp/tmpmcnfqepi/job_working_directory/000/8/outputs/dataset_17c0785d-25ba-4690-b8be-802c9b914446.dat",
                     "command_version": "",
                     "copied_from_job_id": null,
-                    "create_time": "2024-02-02T22:54:17.324589",
+                    "create_time": "2024-02-03T17:39:26.445267",
                     "dependencies": [
                         {
                             "cacheable": false,
@@ -190,31 +190,31 @@
                         }
                     ],
                     "exit_code": 0,
-                    "external_id": "16220",
+                    "external_id": "9816",
                     "galaxy_version": "23.3",
                     "handler": null,
-                    "history_id": "2dfe866b44efb4e6",
-                    "id": "d6f0fc0114eb75ac",
+                    "history_id": "c2ac8fdc49b9a4e3",
+                    "id": "9e586587a84b9db4",
                     "inputs": {
                         "input|inputdir": {
-                            "id": "d6f0fc0114eb75ac",
+                            "id": "9e586587a84b9db4",
                             "src": "hda",
-                            "uuid": "153589e8-223d-4388-9660-f0aee6bf1b59"
+                            "uuid": "9df05733-4606-4af6-9ea6-b087105f93b1"
                         },
                         "input|inputdir1": {
-                            "id": "d6f0fc0114eb75ac",
+                            "id": "9e586587a84b9db4",
                             "src": "hda",
-                            "uuid": "153589e8-223d-4388-9660-f0aee6bf1b59"
+                            "uuid": "9df05733-4606-4af6-9ea6-b087105f93b1"
                         },
                         "input|inputdir2": {
-                            "id": "de529a5a3ca4bf56",
+                            "id": "00b5bb9412309b46",
                             "src": "hda",
-                            "uuid": "8518ca53-95e9-4b63-8348-0219da51599f"
+                            "uuid": "84df0c74-ea24-482f-9b4d-2df5312c9240"
                         },
                         "pfam_dir": {
-                            "id": "f7a43eeb510c5a33",
+                            "id": "21af1847933d8c91",
                             "src": "hda",
-                            "uuid": "d8cb9ec9-64bb-4096-990f-95d124b3b673"
+                            "uuid": "3bcd794f-76a9-43cf-be8c-a6b979a42bd5"
                         }
                     },
                     "job_messages": [],
@@ -225,35 +225,35 @@
                     "model_class": "Job",
                     "output_collections": {
                         "tsv_collection": {
-                            "id": "2dfe866b44efb4e6",
+                            "id": "c2ac8fdc49b9a4e3",
                             "src": "hdca"
                         }
                     },
                     "outputs": {
                         "__new_primary_file_tsv_collection|Network_Annotations_Full__": {
-                            "id": "9e664841b68cf387",
+                            "id": "aa20f222dafb9739",
                             "src": "hda",
-                            "uuid": "004c0b79-f857-4d45-9ad7-c1eab78330dc"
+                            "uuid": "61fa5c1a-2259-4800-a3a7-dcf3aa6c4810"
                         },
                         "__new_primary_file_tsv_collection|Network_Annotations_Others__": {
-                            "id": "ab3517bf9ec23617",
+                            "id": "622af6a68b118d27",
                             "src": "hda",
-                            "uuid": "ab9847d3-127e-4e89-b373-1b16b0c60a24"
+                            "uuid": "f8a5a19f-1124-45aa-b3bb-ac1cfcef7313"
                         },
                         "__new_primary_file_tsv_collection|Network_Annotations_RiPPs__": {
-                            "id": "53636dcb6559c4c0",
+                            "id": "9166b879f79d301e",
                             "src": "hda",
-                            "uuid": "3a67f51f-dae4-4dab-95b0-ec6ba03eb394"
+                            "uuid": "3456e36a-78b0-4093-840f-866e0ec79232"
                         },
                         "html": {
-                            "id": "a4bdf3df85b2e760",
+                            "id": "e5e152d3a710e035",
                             "src": "hda",
-                            "uuid": "0ac5291d-14b8-43c9-b490-2a38e2c53380"
+                            "uuid": "06014371-7146-46cd-9990-0614e25392b3"
                         },
                         "logfile": {
-                            "id": "7908d902d6a4df25",
+                            "id": "0170f8bb573a8ee0",
                             "src": "hda",
-                            "uuid": "8d10fc13-0dcf-46d2-a6f7-5be9402da171"
+                            "uuid": "17c0785d-25ba-4690-b8be-802c9b914446"
                         }
                     },
                     "params": {
@@ -287,12 +287,12 @@
                     "tool_id": "big-scape",
                     "tool_stderr": "",
                     "tool_stdout": "Working...    done.\nPressed and indexed 20795 HMMs (20795 names and 20795 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n",
-                    "update_time": "2024-02-02T23:18:26.514002",
+                    "update_time": "2024-02-03T18:10:34.516469",
                     "user_email": "planemo@galaxyproject.org"
                 },
                 "status": "success",
                 "test_index": 1,
-                "time_seconds": 1538.3785848617554,
+                "time_seconds": 2102.511244535446,
                 "tool_id": "big-scape",
                 "tool_version": "1.1.8+galaxy0"
             },
