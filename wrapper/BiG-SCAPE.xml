@@ -50,7 +50,7 @@
                      --exclude_gbk_str ${exclude_gbk_str}
               #end if
               --pfam_dir pfam
-              --core \${GALAXY_SLOTS:-8}
+              --cores \${GALAXY_SLOTS:-8}
               ${verbose}
               ${log}
               ${include_singletons}
@@ -201,7 +201,7 @@
                      label="Exluded classes from classification in BiG-SCAPE"
                      help="You can exclude any of this classes to not be classifed. Multipe banned classes are possible." >
                      <option value="PKSI" selected="False">PKSI</option>
-                     <option value="PKother" selected="False">PKother</option>
+                     <option value="PKSother" selected="False">PKSother</option>
                      <option value="NRPS" selected="False">NRPS</option>
                      <option value="RIPPs" selected="False">RIPPs</option>
                      <option value="Saccharides" selected="False">Saccharides</option>
@@ -229,7 +229,7 @@
                      </when>
                      <when value="no" />
               </conditional>
-              <param argument="--hybrids_off" type="boolean" truevalue="--hybrids-off" falsevalue="" checked="False"
+              <param argument="--hybrids-off" type="boolean" truevalue="--hybrids-off" falsevalue="" checked="False"
                      label="Exclude hybrid predicted products"
                      help="By default, BGCs with hybrid predicted products from the PKS/NRPS Hybrids and Others classes will be included into each subclass. Since it can happen that the same cluster may appear in different classes you can turn this off here." />
               <param argument="--mode" type="select"
@@ -301,7 +301,7 @@
                      <param name="pfam_dir" value="Pfam-A.hmm" ftype="hmm3"/>
                      <conditional name="input">
                             <param name="is_select" value="data"/>
-                            <param name="inputdir" value="GCF_000011105.1.gbk,GCF_008000775.1.gbk" ftype="genbank" />
+                            <param name="inputdir" value="GCF_000011105.1.gbk,GCF_008000775.1.gbk,GCF_026242195.1.gbk,GCF_900066015.1.gbk" ftype="genbank" />
                             <param name="mibig" value="no"/>
                      </conditional>
                      <conditional name="include_gbk">
