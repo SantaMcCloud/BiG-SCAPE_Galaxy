@@ -1,8 +1,8 @@
 Fragen die noch offen sind:
 
 TODO:
-- letzen test des wrapper machen!
-- NOCHMAL ALLE PARAMETER DURCH SCHAUEN OB ALLES PASST!!!!!!!!!!!!!!!
+- ABGEBEN!!!!!!
+    - klären noch wie man das mit der Pfam-A file macht da man die auch für den Test hochladen muss
 
 ERRORS COMMING FROM OPTIONS:
 - domain_overlap_cutoff -> Wird nicht zum float gecastet wenn man diese Option nutzt!

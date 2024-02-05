@@ -1,5 +1,5 @@
 <tool id="big-scape" name="BiG-SCAPE" version="1.1.8+galaxy0" profile="21.05">
-       <description> construct sequence similarity networks of BGCs and groups them into GCF</description>
+       <description> Construct sequence similarity networks of BGCs and groups them into GCF</description>
        <requirements>
               <requirement type="package" version="1.1.8">bigscape</requirement>
        </requirements>
@@ -188,7 +188,7 @@
               <param argument="--domain_overlap_cutoff" type="float" value="0.1" min="0.0" max="1.0"
                      label="Specify when domains are considered to overlap"
                      help="When using this option you can sprecify at which percentage domains are considered to overlap. Domain with the best score is kept. The default value is 0.1" />
-              <param argument="--min_big_size" type="integer" value="0" min="0" 
+              <param argument="--min_big_size" type="integer" value="0" 
                      label="Minimum size of a BGC (bp)"
                      help="Minimum size of a BGC to be included in the analysis. The Default value is 0 base pairs. This also inlcudes the sum of all loci in a multi-record GenBandk file." />
               <param argument="--mix" type="boolean" truevalue="--mix" falsevalue="" checked="False"
@@ -289,7 +289,7 @@
                      <param name="pfam_dir" value="Pfam-A.hmm" ftype="hmm3"/>
                      <conditional name="input">
                             <param name="is_select" value="data"/>
-                            <param name="inputdir" value="GCF_000011105.1.gbk,GCF_008000775.1.gbk" ftype="genbank" />
+                            <param name="inputdir" value="GCF_000011105.1.gbk,GCF_008000775.1.gbk,GCF_026242195.1.gbk,GCF_900066015.1.gbk" ftype="genbank" />
                             <param name="mibig" value="no"/>
                      </conditional>
                      <conditional name="include_gbk">
@@ -365,7 +365,7 @@
 
               .. class:: infomark
 
-              Note: You can download this file here: https://www.ebi.ac.uk/interpro/download/pfam/ download the Pfam-A models and gunzip it or you can use the command: *$ wget https://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz && gunzip Pfam-A.hmm.gz* in e.g. VSC.
+              Note: You can download `Pfam-A.hmm.gz <https://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz>`_ or you can use the command: *$ wget https://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz && gunzip Pfam-A.hmm.gz* in e.g. VSC.
 
               There are two additionally inputs which can be used:
 
