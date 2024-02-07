@@ -3,6 +3,8 @@ Fragen die noch offen sind:
 TODO:
 - ABGEBEN!!!!!!
     - klären noch wie man das mit der Pfam-A file macht da man die auch für den Test hochladen muss
+    - location nutzen mit test für die Pfamm
+    - vier einzelnen collection machen für jede file type jeweils => gemacht aber jetzt nuch mit clans-off, clans-cutoff und mit cutoffs teesten wie es dann mit dem Output ausssieht!
 
 ERRORS COMMING FROM OPTIONS:
 - domain_overlap_cutoff -> Wird nicht zum float gecastet wenn man diese Option nutzt!
@@ -105,3 +107,5 @@ DONE:
 - added a html output and a tabular datacollection
 - added a new test which also pass the test. The first is only to test if the run finish, the secnc for testing all the outputs.
 - added the package since it is updated, it works since it didtn work local, stange but when it works it work.
+- Change that you always need a input and can choose if you want to inlcude mibig as option
+- remove the options [--include_gbk_str] and [--exclude_gbk_str] since we always want to inlcude all files, when doing a systemlink we will add 'region.' in front of the file name to make sure they all will be inlcuded!
