@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF3629:gid::pid::loc:4107716:4108346:strand:-:147:206         .......ESLIRYANKVAREVAKTRKTKKLDYMNPYERRIIHSALQNDKyVITYSEGTDPYRRLVI--e
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3629:gid::pid::loc:4107716:4108346:strand:-:147:206 PP .......6799******************************************************9..6
+GCF_018304705.1_ORF509:gid::pid:WP_211422804.1:loc:624975:625467:strand:-:102:162                .....re--LVLMARTAAEQVKKYRQPFTFSALNAAERRIIHLTLATEPgVRTESIGHGDDRKVVVHP.
+#=GR GCF_018304705.1_ORF509:gid::pid:WP_211422804.1:loc:624975:625467:strand:-:102:162        PP .....85..6679*********************************9999****************86.
+GCF_900066015.1_ORF534:gid::pid:WP_095042051.1:loc:626810:628550:strand:-:515:574                etaiaet-------EQAIAQVRSGQPSMDLRPVGAAIRRYQHEMVRQAN.LVSHSYGREPFRHVRVF-n
+#=GR GCF_900066015.1_ORF534:gid::pid:WP_095042051.1:loc:626810:628550:strand:-:515:574        PP 9887775.......68899999999************************.**************997.6
+GCF_900066015.1_ORF3378:gid::pid:WP_095044694.1:loc:3893890:3894757:strand:+:226:286             ......q-ALTRLAERMAEKARQRGEPIGLEPMSAYERRIIHMTLRDSAdVYTESTGEGKQRRVRIIP.
+#=GR GCF_900066015.1_ORF3378:gid::pid:WP_095044694.1:loc:3893890:3894757:strand:+:226:286     PP ......6.799***********************************9999**************9975.
+#=GC PP_cons                                                                                     .......67889**99*********************************.***************976.
+#=GC RF                                                                                          .......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx.
+//

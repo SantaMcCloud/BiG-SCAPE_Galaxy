@@ -1,0 +1,19 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1569:gid::pid::loc:1767956:1768145:strand:+:5:61         .VNQDTCIGCGLCPSICPEVFDMKDDGK...SHVIVD-EVPSDAEESAAEARESCPVDAIDV..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1569:gid::pid::loc:1767956:1768145:strand:+:5:61 PP .89***********************87...776666.56666779**************75..
+GCA_000085225.1_ASM8522v1_genomic_ORF3528:gid::pid::loc:4010656:4010845:strand:-:5:61         .VDKDVCVACGACIGTCPDVFSMSDE-G...HSVAIEGEIPADLQDLCKEAEEGCPVSAITV..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3528:gid::pid::loc:4010656:4010845:strand:-:5:61 PP .9***********************9.6...78899************************85..
+GCF_018304705.1_ORF1225:gid::pid:WP_058867887.1:loc:1469789:1470026:strand:+:18:74            .VD-TQCIDCDVCRDTAPNNFTRNDDGG...YSYVFKQPENDEEMEQCQEAMDACPVEAIG-n.
+#=GR GCF_018304705.1_ORF1225:gid::pid:WP_058867887.1:loc:1469789:1470026:strand:+:18:74    PP .99.************************...*****************************8.5.
+GCF_018304705.1_ORF2098:gid::pid:WP_211421465.1:loc:2491379:2491616:strand:+:18:74            .VD-HQCIDCDVCRSIAPDIFVRHDRGA...HSYVLRQPENEEERELCREAMESCPVEAIG-d.
+#=GR GCF_018304705.1_ORF2098:gid::pid:WP_211421465.1:loc:2491379:2491616:strand:+:18:74    PP .99.************************...*****************************8.7.
+GCF_900696045.1_ORF1932:gid::pid:WP_134484761.1:loc:2019575:2020223:strand:+:146:204          .VEPSLCLAFGSCEVLAPKVFMVEKNRQfnpKAIVIS--ETAENFETIMDAAKTCPTKAI--ii
+#=GR GCF_900696045.1_ORF1932:gid::pid:WP_134484761.1:loc:2019575:2020223:strand:+:146:204  PP .78899***************9998843222333333..4467789*************9..58
+GCF_000011105.1_ORF1749:gid::pid:WP_048053501.1:loc:1628363:1628567:strand:-:7:64             .VDQDTCIGDAICASLCPDIFEMNDEGK...AQPKVEIIEDEELYNCAKEAMESCPVGAITV..
+#=GR GCF_000011105.1_ORF1749:gid::pid:WP_048053501.1:loc:1628363:1628567:strand:-:7:64     PP .9************************98...777777778899*****************85..
+GCF_008000775.1_ORF1900:gid::pid:WP_147662988.1:loc:2073629:2073794:strand:+:5:54             i-E-DGCMGCGICTFQCPDGLKMDNG--...VARIINDSS-----TCLVRAAEVCPRQIIH-q.
+#=GR GCF_008000775.1_ORF1900:gid::pid:WP_147662988.1:loc:2073629:2073794:strand:+:5:54     PP 6.5.99******************97.....777777544.....6999***********9.6.
+#=GC PP_cons                                                                                  .899*********************987...777777887899999**************85..
+#=GC RF                                                                                       .xxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

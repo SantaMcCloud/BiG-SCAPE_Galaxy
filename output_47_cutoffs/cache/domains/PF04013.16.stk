@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_000011105.1_ORF1316:gid:trmY:pid:WP_010885487.1:loc:1262202:1262814:strand:+:1:202         MRVFIVKANEAHTDYDFSLKDLPGTSGRIDLICRALNSAFHLSHSFRKNVRVYVTLLGPPSPPKTIRFEGPKLRPkiLNPDELSIAKVIIKALNAGKnLKGSSTKelEVLPGVYVSNMTFEDVIRKNIR-MNLYVLEEGGADIMKVKFPRnNVAFILGDHIGLSEEDLKTLEGI-AKKISIGPKAYLTSHVISYVNIHLD
+#=GR GCF_000011105.1_ORF1316:gid:trmY:pid:WP_010885487.1:loc:1262202:1262814:strand:+:1:202 PP 9**********************************************************************9986669********999999887764444444422799***************9999.9******************97888*****************987.69**********************9
+GCF_026242195.1_ORF83:gid:trmY:pid:WP_266085327.1:loc:84068:84638:strand:-:1:188               MRDFVFVAHEAPTDGGFSLDDLPG-AGRLDLVCRCINAALLVSHGVREDTTAHVVLRGG-ERDVTVRFEGDEVRG..LNPDERSIAGVLRAALAER-.--TYHEV..EARAGVYVAERGVAEVIDKTDG--DTIVLQENGEGVEDATVPD.EPTFVVSDHLELTDGDLEALGD--ARRLSLGSVALHADHATAVAQNVCD
+#=GR GCF_026242195.1_ORF83:gid:trmY:pid:WP_266085327.1:loc:84068:84638:strand:-:1:188       PP 9***********************.********************************76.5679***********..****************888....55667..889****************999..99*****************.****************999987..68********************999
+#=GC PP_cons                                                                                   9********************************************************98*789**********98..***********999998876.4445555..799***************9999.99******************.999*************9999987.68*********************99
+#=GC RF                                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxx.xxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_000011105.1_ORF1316:gid:trmY:pid:WP_010885487.1:loc:1262202:1262814:strand:+:1:202         RI--gv
+#=GR GCF_000011105.1_ORF1316:gid:trmY:pid:WP_010885487.1:loc:1262202:1262814:strand:+:1:202 PP 86..68
+GCF_026242195.1_ORF83:gid:trmY:pid:WP_266085327.1:loc:84068:84638:strand:-:1:188               T---ew
+#=GR GCF_026242195.1_ORF83:gid:trmY:pid:WP_266085327.1:loc:84068:84638:strand:-:1:188       PP 7...69
+#=GC PP_cons                                                                                   76....
+#=GC RF                                                                                        xxxx..
+//

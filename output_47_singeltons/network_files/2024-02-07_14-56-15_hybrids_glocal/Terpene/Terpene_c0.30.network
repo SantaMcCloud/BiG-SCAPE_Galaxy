@@ -1,0 +1,6 @@
+Clustername 1	Clustername 2	Raw distance	Squared similarity	Jaccard index	DSS index	Adjacency index	raw DSS non-anchor	raw DSS anchor	Non-anchor domains	Anchor domains	Combined group	Shared group
+GCF_018304705.1	NZ_CP072637.1.region001	4.163336342344337e-17	1.0	1.0	1.0	1.0	0.0	0.0	25	2	lassopeptide.ranthipeptide.T3PKS.terpene.RRE-containing.RiPP-like - terpene	
+GCF_018304705.1	NZ_CP072636.1.region005	4.163336342344337e-17	1.0	1.0	1.0	1.0	0.0	0.0	18	1	lassopeptide.ranthipeptide.T3PKS.terpene.RRE-containing.RiPP-like - terpene	
+GCF_018304705.1	NZ_CP072637.1.region003	4.163336342344337e-17	1.0	1.0	1.0	1.0	0.0	0.0	16	0	lassopeptide.ranthipeptide.T3PKS.terpene.RRE-containing.RiPP-like - terpene	
+GCF_900066015.1	GCF_900066015.1	0	1	1	1	1	0	0	1	1		
+GCF_026242195.1	GCF_026242195.1	0	1	1	1	1	0	0	1	1		

@@ -1,0 +1,27 @@
+var bigscape_results = [
+    {
+        "label":"2024-02-07_14-56-15_hybrids_glocal_c0.30",
+        "networks":[
+            {
+                "css":"Others",
+                "label":"Others",
+                "name":"Others"
+            },
+            {
+                "css":"RiPPs",
+                "label":"RiPPs",
+                "name":"RiPPs"
+            },
+            {
+                "css":"PKSother",
+                "label":"PKSother",
+                "name":"PKSother"
+            },
+            {
+                "css":"Terpene",
+                "label":"Terpene",
+                "name":"Terpene"
+            }
+        ]
+    }
+];

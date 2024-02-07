@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0002293_ORF16:gid::pid:QGA70161.1:loc:55966:56950:strand:+:1:320                        ..MPLTDLPLDELREYRPEVPAPADFDAFWTDTLATARAAAGGPAVytPVADAPLTAVDVFDVRFPGWGGQPVAGWLLLPRGARGPLPAVVQYIGYSGGRGLYTEHLLWSAAGYAHLVVDSRGQG.....HETPDPDPVPGPQYVRGFMTRGIQDPEHYYYRRIMTDCVRAVDALREHPAIDPSRIVVAGGSQGGGLALS
+#=GR BGC0002293_ORF16:gid::pid:QGA70161.1:loc:55966:56950:strand:+:1:320                PP ..899******************************9998876554411458**************************************************************************.....9999954455445579******************************************************
+GCF_900066015.1_ORF3963:gid::pid:WP_095045425.1:loc:4653478:4654456:strand:-:1:320         mh---FDLPLDQLQTYRPPREEPSDFDAFWAATLADARQFPLEATF..VPVEAGLRLIEAYDVTFNGYGGQAVKGWLLLPRDRSGPLPCVVEYIGYGGGRGRPIDWLLYSAAGYAHFVMDTRGQGsawrrGDTPDHEPDGGNPQLPGFMTRGVLDPATYYYRRVFTDAVRAVAAARAHPAVDGGRVAVSGGSQGGGIALA
+#=GR GCF_900066015.1_ORF3963:gid::pid:WP_095045425.1:loc:4653478:4654456:strand:-:1:320 PP 75...9****************************************..*******************************************************************************999999999999999**********************************************************
+#=GC PP_cons                                                                               ..8999*******************************999888777..789**************************************************************************.....9999977777777889******************************************************
+#=GC RF                                                                                    ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0002293_ORF16:gid::pid:QGA70161.1:loc:55966:56950:strand:+:1:320                        TAGLAgDAVAAALVDVPFLCHYRRSAEIASAGPYPEIAEYLGFHQRHDP-EAAFRTLNYFDGLHFAPRASAPALFSVALMDPVCPPSTVFAAYNRYAGEKDITVWPFGDHAGGRGSQPVEQLRWLA--ar.
+#=GR BGC0002293_ORF16:gid::pid:QGA70161.1:loc:55966:56950:strand:+:1:320                PP ****8356788999****************************8777665.579***********************************************************************96..69.
+GCF_900066015.1_ORF3963:gid::pid:WP_095045425.1:loc:4653478:4654456:strand:-:1:320         VGGLV.PDLAAVLPDVPFLCHFRRAVTLVDSLPYGEIAHFCK--VHRDRVETVFGTLSYFDGLNFAARANAPALFSVGLMDDICPPSTVYAAYNHYAGPKEIRVWPFNRHEGGESDQNVAKLAFL---geq
+#=GR GCF_900066015.1_ORF3963:gid::pid:WP_095045425.1:loc:4653478:4654456:strand:-:1:320 PP *****.************************************..9****************************************************************************9998...569
+#=GC PP_cons                                                                               ****9.789999******************************8788888*889**********************************************************************986.....
+#=GC RF                                                                                    xxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

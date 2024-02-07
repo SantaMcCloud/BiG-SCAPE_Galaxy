@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF1745:gid::pid:WP_266086924.1:loc:803591179:803591854:strand:+:5:222         ..........l-NAKIYvagDARERALDSARGVIGNRV.AELEFEH.EVQLRDDDRIEVSGVG...EDAEAAFALLVEEFGEYTTD...PEDGETYLGTLESWDNDGF..TVDIGVDVRVPREQLEDLGR..........GSPADIRERYGLVQHTPLEVVAGE------...--PARLSDVQVDELWSWQKGETGRLNV
+#=GR GCF_026242195.1_ORF1745:gid::pid:WP_266086924.1:loc:803591179:803591854:strand:+:5:222 PP ..........6.579***********************.*******.****************...********************...*******************..********************..........**********************55...........89***********************
+GCF_000011105.1_ORF577:gid::pid:WP_010884716.1:loc:553869:554616:strand:-:5:239                ..........i-PQKIY...-GDRSGFDKLNKKLKSLL.GDLDVKW.KISVTKKQWVKIQVEG...EDSEISTNLIREEFGEIPYSlskVNEGDVLVGRFIELGKVGYgaYVDIGILSPRPKDALLPLYWlkr...tfgeKPVRQMIREFGWVDYLPVEVFVNKVEKLAQ...EIEVYLTDRWVKKIKGWTSDNHDKLFI
+#=GR GCF_000011105.1_ORF577:gid::pid:WP_010884716.1:loc:553869:554616:strand:-:5:239        PP ..........5.69***....999**************.*******.****************...******************999999*******************************************...**9999****************************...***************************
+GCF_008000775.1_ORF544:gid::pid:WP_147661677.1:loc:598677:599511:strand:+:16:260               yyrwnaenpek------...-SREKFISTLKKVLEERIpEDLHLKIqSLHYKVDDRIFVQLIGntkDDLIFVSNILNEITGKTYDTq.nVPKNKPLHGILTSIGKIGFgvFVDVGIEN-PVKEVLIPLHRlrlqlvndkkLSLKEIIEFYGFMDFLPVEIEVVKIENEKGgkmRFEGKFSDEFLEQLEEWINSGLDFIFT
+#=GR GCF_008000775.1_ORF544:gid::pid:WP_147661677.1:loc:598677:599511:strand:+:16:260       PP *9999998875..........688999999999999996689999988888888888888888444577899********9998776.699999**************999******5.5577888899999999****99*********************9988876521256889**********************
+#=GC PP_cons                                                                                   ............689**...*8999*************.99*****.9999999999999999...8999*************999...99*****************..*******8*88999999***..........**********************88999888...7889***********************
+#=GC RF                                                                                        ...........xxxxxx...xxxxxxxxxxxxxxxxxx.xxxxxxx.xxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_026242195.1_ORF1745:gid::pid:WP_266086924.1:loc:803591179:803591854:strand:+:5:222         NSCTRAEVRATVNRAGHANDIVTVERLGLLEQSVVCAPGTDPPGLLASVGKYLEGEMKCV.....
+#=GR GCF_026242195.1_ORF1745:gid::pid:WP_266086924.1:loc:803591179:803591854:strand:+:5:222 PP ***********************************************************8.....
+GCF_000011105.1_ORF577:gid::pid:WP_010884716.1:loc:553869:554616:strand:-:5:239                VGTISENIERALVETGHSRDVKRIEELGLMETMLILKRGTHAPGIIKEIGPYIRSA----kigai
+#=GR GCF_000011105.1_ORF577:gid::pid:WP_010884716.1:loc:553869:554616:strand:-:5:239        PP *****************************************************986....45567
+GCF_008000775.1_ORF544:gid::pid:WP_147661677.1:loc:598677:599511:strand:+:16:260               TGISRQMIKRTIAKRGHSMDIVQIDRLGPLETVVICKEGTNAPGIISHIGPFLP------dck..
+#=GR GCF_008000775.1_ORF544:gid::pid:WP_147661677.1:loc:598677:599511:strand:+:16:260       PP ****************************************************97......79*..
+#=GC PP_cons                                                                                   *****************************************************998***8.....
+#=GC RF                                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....
+//

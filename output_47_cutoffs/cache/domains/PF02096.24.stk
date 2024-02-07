@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF3131:gid::pid::loc:3579154:3579805:strand:-:22:205         .FGISIVLITLIVKLVLMPLSLKQRFSVKKQQELAEKMEHIKEKYK.........NDT..KELE-KQIQV.SSVESMKSMLGCLIVLVQMPVVYALYHVCLD..............................-MtkefttiiipWIANLGTFDnlfiLPCIYTLIMLASNLVNYIPylkinsqvkfN.......KQMA-V
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3131:gid::pid::loc:3579154:3579805:strand:-:22:205 PP .69******************************************8.........886..6665.56678.899999999********************99...............................23555778999*******99*999888888888888777754455454433332.......5455.9
+GCA_000085225.1_ASM8522v1_genomic_ORF3630:gid::pid::loc:4108314:4109022:strand:-:22:210         .YGISIILFTILVKIILLPLTIKQTKSTKAMQDIQPRIKEIQEKYK.........NKP..EKQNEEIVKL.YGEAKINPLSGCLPLLIQFPILIGLFSVLREpvahg...................vfankaAFlaad..ngflWIKSLTSPDy..vLAVFSGASAYVMQKVMTPKdql....qgsM.......K-VMTY
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3630:gid::pid::loc:4108314:4109022:strand:-:22:210 PP .89*******************************************.........***..**********.*******************************99998...................888876115556..6678*********9..999********999988544555....4422.......4.777*
+GCF_018304705.1_ORF510:gid:yidC:pid:WP_211422803.1:loc:625538:627413:strand:-:394:589           .YGWAIVLLTFVVNMLLFPLRWKTAVSFRKAAVHAPRHKELAERLKqlqaqkvkmDDPrmVELQREQIQL.MKES--LPIMGCLPILLQLPIFVAIYVYLQL..............................SVdlrq.aafigWLTDLSMPDpwhvLPVVLCVTQIGQSYLMPQPpgpedpalamQ.......RKIIVW
+#=GR GCF_018304705.1_ORF510:gid:yidC:pid:WP_211422803.1:loc:625538:627413:strand:-:394:589   PP .8*******************************************9998887777554345577777777.7765..599*********************9..............................336666.6789******************************86677766665543.......44667*
+GCF_900066015.1_ORF3377:gid::pid:WP_095044693.1:loc:3892999:3893884:strand:+:25:233             f-ILAIAFFTVLIRLITLPLNMRQQRSMLRTQEIQPQIQAIQKKYR.........DNP..QKMQEEFRKIgY--NPADTLTGCLPTLLQFPILIGLYQAIVTilgttpqslfelvprvysfinltdlipvenKF..........LWLNLSQPDpffvLPIVVFASMFIQQKLLA-Paps...aqnqKdnpaasmTQSMQY
+#=GR GCF_900066015.1_ORF3377:gid::pid:WP_095044693.1:loc:3892999:3893884:strand:+:25:233     PP 5.79******************************************.........999..***999777622..3334478*********************9**99999999999999888877777776655..........5558************************95.4366...65550455554344777*
+#=GC PP_cons                                                                                    .89******************************************9.........887..7888988888.7987787899*********************..............................33..........999******....9999999999999999654..........2.......44667*
+#=GC RF                                                                                         .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........xxx..xxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..............................xx..........xxxxxxxxx....xxxxxxxxxxxxxxxxxxx..........x.......xxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF3131:gid::pid::loc:3579154:3579805:strand:-:22:205         VTTITSL.ILTVRTPVAIGLYFITSAIYSLIEDIC---frm
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3131:gid::pid::loc:3579154:3579805:strand:-:22:205 PP 9******.*********************998775...579
+GCA_000085225.1_ASM8522v1_genomic_ORF3630:gid::pid::loc:4108314:4109022:strand:-:22:210         VMAGMSF.YWGFIFPAGLTLYWTVSNLFSIAQYYLIM-n..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3630:gid::pid::loc:4108314:4109022:strand:-:22:210 PP *******.**************************997.5..
+GCF_018304705.1_ORF510:gid:yidC:pid:WP_211422803.1:loc:625538:627413:strand:-:394:589           VMPILFAaLFFWSAPSGLVVYWMAGNIIGITQQLIINR...
+#=GR GCF_018304705.1_ORF510:gid:yidC:pid:WP_211422803.1:loc:625538:627413:strand:-:394:589   PP ***9986267889***********************96...
+GCF_900066015.1_ORF3377:gid::pid:WP_095044693.1:loc:3892999:3893884:strand:+:25:233             TMPLMFG.FFSLQFPAGLSIYFILANIIGIFQGLYMRR...
+#=GR GCF_900066015.1_ORF3377:gid::pid:WP_095044693.1:loc:3892999:3893884:strand:+:25:233     PP *******.*************************99975...
+#=GC PP_cons                                                                                    *****99.999*********************998986...
+#=GC RF                                                                                         xxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

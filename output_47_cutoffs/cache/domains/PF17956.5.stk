@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCF_000011105.1_ORF1743:gid::pid:WP_048053499.1:loc:1623145:1624315:strand:+:328:389             enghyhvvpad---------------------------------------KKLERCPV.CNAKVEPLLKPIIENGEIVVEFPKARDIREYVLEQAKKFNLE----------------------i
+#=GR GCF_000011105.1_ORF1743:gid::pid:WP_048053499.1:loc:1623145:1624315:strand:+:328:389     PP 99887766655.......................................55678999.9*************************************9876......................6
+GCF_900696045.1_ORF1304:gid::pid:WP_134483914.1:loc:1347667:1348333:strand:-:156:214             .........sl-----------------------------------------------.------PLLEKIIENGSIVKSLPQLSVIQKYYKRQIQMMPFLIK-KDQEQRFPVSYSQKLVRL-a
+#=GR GCF_900696045.1_ORF1304:gid::pid:WP_134483914.1:loc:1347667:1348333:strand:-:156:214     PP .........98......................................................79****************************98877665.57889**********886.7
+GCA_000085225.1_ASM8522v1_genomic_ORF3461:gid::pid::loc:3935581:3937012:strand:+:357:466         ..........y-KKVIRIYNEDNKAEADLIMLHDE-VIDESKPLEIFHPTYTWKTKVF.TNYKVKELLKPLYIKGRCKYNKKAVLEIKNHVQYELSTIWEQYKRLSKPHIYKVDLSRNLWYLK.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3461:gid::pid::loc:3935581:3937012:strand:+:357:466 PP ..........5.9**********************.**********************.*************************************************************886.
+GCF_018304705.1_ORF2947:gid::pid:WP_211423977.1:loc:3500840:3502307:strand:-:370:476             .........hq----VRRYSVDGELLGDAIYDLPS-PPASGC--VIIDPLDPTRRKRIpAEATYEDLLVPVFRRGECVYGMPSLEAVRQRAQSGLARLAPGLKRFVNPHIYPVGLEQSLYDLK.
+#=GR GCF_018304705.1_ORF2947:gid::pid:WP_211423977.1:loc:3500840:3502307:strand:-:370:476     PP .........87....47799999999999987777.777766..899***********4468***********************************************************97.
+#=GC PP_cons                                                                                     ............9**789999********999998.898888**999***8899999*.889***9******************************9998898*8999***********9987.
+#=GC RF                                                                                          ...........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

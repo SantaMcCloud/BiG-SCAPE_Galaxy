@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCF_000011105.1_ORF1436:gid::pid:WP_010885612.1:loc:1366045:1366474:strand:+:4:142          .WEHYEHTADIGIRGYGDSLEEAFEAVAIALFDVM.VNVNKVEKKEVREIEVE..AEDLEALLYSFLEELLVIHDIEGLVFRDF..Ev..kIERVNGKYRLRAKAYGEKLDLKKHEPKEEVKAITYHDMKI..ERlPNGKWMAQLVPDI.
+#=GR GCF_000011105.1_ORF1436:gid::pid:WP_010885612.1:loc:1366045:1366474:strand:+:4:142  PP .89********************************.*****************..*****************************..65..69999************************************..7747889*******98.
+GCF_026242195.1_ORF610:gid::pid:WP_266088522.1:loc:3117195:3117603:strand:-:3:135           .YEVLGHTADAKLRATGATLAEALEYATRGFAEVV.GA-DGLEPTDEVRVEVEtpGEDVEALLFDYLARLIYVQDVEGVAVVDA..E....VESTAEPPRVEATLSVAPVRGG----LLDIKAPTYNEMVV..ET.DDGSWTVEAVLDI.
+#=GR GCF_026242195.1_ORF610:gid::pid:WP_266088522.1:loc:3117195:3117603:strand:-:3:135   PP .9*********************************.66.78999988866665449****************************..9....9999***************544....378***********..**.************9.
+GCF_900696045.1_ORF1626:gid::pid:WP_134484489.1:loc:1679731:1680175:strand:+:6:147          v-EYLDHMTDAYLRIHGTNLEEAFEYAGKGLVGTM.YELEGIQPKKQVPIVAE..GKDLENLLFDWLDKILLIVLIDRIIMSKFivEi..vRDEKSGKYIINGYGEGENIDPDRHELKVEIKGITYHEMKIieNK.DSNGVTIEYIVD-l
+#=GR GCF_900696045.1_ORF1626:gid::pid:WP_134484489.1:loc:1679731:1680175:strand:+:6:147  PP 9.89*******************************.*****************..*****************************8746..789999***********************************6444.677899999*99.5
+GCF_900066015.1_ORF2780:gid::pid:WP_095044135.1:loc:3235697:3236123:strand:+:11:141         r--VIEHTADWALRLRGGDLPELFRRAAEGLARLLvADAAAVPLDQARDIVLE..AYDTEDLLVDWLGELVYWAERDEMVFPVA..D....-LRQVTATRLEGTVRGGRVT----EMQKHIKAVTYHDLAI..RE.TESGLEVTVVFDV.
+#=GR GCF_900066015.1_ORF2780:gid::pid:WP_095044135.1:loc:3235697:3236123:strand:+:11:141 PP 5..79*****************************96789**************..**************************999..4.....556799************4....34567***********..**.************8.
+GCF_008000775.1_ORF530:gid::pid:WP_147661663.1:loc:588510:588960:strand:-:10:149            .YEFLNHPADVWVHAWGKTFEEAIENCVYSLMETM.FEGSIIESKITRDIVIE..EETKGSLLVAFLSEFLYIFDTDYLIFNHV..KidpiITNSAGKIELHAKCQGEVFDQLKHIPDIEVKAITYSYLEI..NE.EKNRTEIKIVYDI.
+#=GR GCF_008000775.1_ORF530:gid::pid:WP_147661663.1:loc:588510:588960:strand:-:10:149    PP .9*********************************.*****************..*****************************..666889999********************99**************..**.************8.
+#=GC PP_cons                                                                                .999*******************************.99*9*******999999..*****************************..6....988999*************899**88899***********..88.9999********8.
+#=GC RF                                                                                     .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxx..x....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xx.xxxxxxxxxxxxx.
+//

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2352:gid::pid::loc:2628595:2629711:strand:-:101:337         ....lt---ENGHvLFARNFD.FSHNMEDFVLCKTKVN-..GKYAHIGTTVMQFGRGEGMNECGLGVSQsscgipvgNSDGLRKPAIVGLQFWAV..IRYLLENCKDVDEALEYLKDMPIAYNINLLLAD.KSGNIALVETLDGKKEV..................NIINSLeskreYFLHSTNHTHIDKLHKLE.PQSM
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2352:gid::pid::loc:2628595:2629711:strand:-:101:337 PP ....74...566669******.**99999999999996...**************************9999999*********************..*********************************.***************88..................5543333457344556*************.****
+GCF_008000775.1_ORF3805:gid::pid:WP_162306851.1:loc:4288295:4289762:strand:+:231:440             attdgh------T.IMGRHWQfTSYVTHEEMILMEYCPDsgNQFLSTSCAGFV-GVTSAMNDQGLGIGN........DMVPAQDCNPANFGMGTLltARYVMQYTNQLSEAINFITTHTRGCSWIYGIGDgRNGETGGVALETSTNYYrvrdmtytrpwwaifsfnTIEKKS.....DLVTYTNHYIYYRMNDLAdSTAI
+#=GR GCF_008000775.1_ORF3805:gid::pid:WP_162306851.1:loc:4288295:4289762:strand:+:231:440     PP 976544......4.677777733345778888999999966667777778888.***************........****99887776665554228*****************************99856788888888888887789*************995455555.....9*************99875789*
+#=GC PP_cons                                                                                     .........5665.8888888.67778888899999989..888888889999****************........******998888888877..9*******************************9.89999999999999987..................554444.....77788***********99.99**
+#=GC RF                                                                                          ......xxxxxxx.xxxxxxx.xxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx..................xxxxxx.....xxxxxxxxxxxxxxxxxx.xxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2352:gid::pid::loc:2628595:2629711:strand:-:101:337         KNSIHRYKLIKEYINKAKKIgeKELMNLLSLKY----PNGLScNYYNDFFGTLKSIVMDLNIGKFNILWG----glen........
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2352:gid::pid::loc:2628595:2629711:strand:-:101:337 PP ***************999885444444444433....34444499****************999999887....5789........
+GCF_008000775.1_ORF3805:gid::pid:WP_162306851.1:loc:4288295:4289762:strand:+:231:440             DDSVDRYTWLTNLALDMYG-..--------------------.-------------------------------tldldsgsvlid
+#=GR GCF_008000775.1_ORF3805:gid::pid:WP_162306851.1:loc:4288295:4289762:strand:+:231:440     PP ******9999988877776.......................................................5778889999**
+#=GC PP_cons                                                                                     ********999999888878..44444444433....34444.99****************999999887................
+#=GC RF                                                                                          xxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx............
+//

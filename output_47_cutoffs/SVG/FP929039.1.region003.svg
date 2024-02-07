@@ -1,0 +1,154 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="837.4666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="827.4666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_2373)</title>
+			<polygon class=" (ctg1_2373)" points="22,25 41,25 41,10 71,40 41,70 41,55 22,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2374)</title>
+			<polygon class=" (ctg1_2374)" points="73,25 77,25 77,10 107,40 77,70 77,55 73,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2375)</title>
+			<polygon class=" (ctg1_2375)" points="109,25 131,25 131,10 161,40 131,70 131,55 109,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2376)</title>
+			<polygon class=" (ctg1_2376)" points="164,25 166,25 166,10 196,40 166,70 166,55 164,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2377)</title>
+			<polygon class=" (ctg1_2377)" points="195,10 209,40 195,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2378)</title>
+			<polygon class=" (ctg1_2378)" points="221,10 234,40 221,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2379)</title>
+			<polygon class=" (ctg1_2379)" points="235,40 241,10 241,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_26 (PF13443)
+"Cro/C1-type HTH DNA-binding domain"</title>
+				<polygon class="PF13443" points="238,40 240,31 240,49" stroke-linejoin="round" width="5" height="24" fill="rgb(93,220,217)" stroke="rgb(74,176,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2380)</title>
+			<polygon class=" (ctg1_2380)" points="250,10 262,40 250,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2381)</title>
+			<polygon class=" (ctg1_2381)" points="265,25 266,25 266,10 296,40 266,70 266,55 265,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2382)</title>
+			<polygon class=" (ctg1_2382)" points="297,25 309,25 309,10 339,40 309,70 309,55 297,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2383)</title>
+			<polygon class=" (ctg1_2383)" points="493,25 373,25 373,10 343,40 373,70 373,55 493,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2229 (PF09989)
+"CoA enzyme activase uncharacterised domain (DUF2229)"</title>
+				<rect class="PF09989" x="395" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(60,225,219)" stroke="rgb(48,180,175)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BcrAD_BadFG (PF01869)
+"BadF/BadG/BcrA/BcrD ATPase family"</title>
+				<rect class="PF01869" x="436" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(186,118,62)" stroke="rgb(148,94,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BcrAD_BadFG (PF01869)
+"BadF/BadG/BcrA/BcrD ATPase family"</title>
+				<rect class="PF01869" x="468" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(186,118,62)" stroke="rgb(148,94,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2384)</title>
+			<polygon class=" (ctg1_2384)" points="501,10 512,40 501,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysM (PF01476)
+"LysM domain"</title>
+				<polygon class="PF01476" points="502,28 504,28 506,32 506,48 504,52 502,52" stroke-linejoin="round" width="4" height="24" fill="rgb(217,205,108)" stroke="rgb(173,164,86)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysM (PF01476)
+"LysM domain"</title>
+				<polygon class="PF01476" points="507,35 508,40 507,45" stroke-linejoin="round" width="4" height="24" fill="rgb(217,205,108)" stroke="rgb(173,164,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2385)</title>
+			<polygon class=" (ctg1_2385)" points="516,40 529,10 529,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2386)</title>
+			<polygon class=" (ctg1_2386)" points="532,10 556,40 532,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2387)</title>
+			<polygon class=" (ctg1_2387)" points="558,25 575,25 575,10 605,40 575,70 575,55 558,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2388)</title>
+			<polygon class=" (ctg1_2388)" points="606,10 616,40 606,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2389)</title>
+			<polygon class=" (ctg1_2389)" points="618,10 647,40 618,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2953 (PF11167)
+"Protein of unknown function (DUF2953)"</title>
+				<polygon class="PF11167" points="639,36 643,40 643,40 639,44" stroke-linejoin="round" width="4" height="24" fill="rgb(212,107,83)" stroke="rgb(169,85,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2390)</title>
+			<polygon class=" (ctg1_2390)" points="648,10 661,40 648,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Spore_YtfJ (PF09579)
+"Sporulation protein YtfJ (Spore_YtfJ)"</title>
+				<polygon class="PF09579" points="651,28 652,28 658,39 658,41 652,52 651,52" stroke-linejoin="round" width="7" height="24" fill="rgb(86,218,92)" stroke="rgb(68,174,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2391)</title>
+			<polygon class=" (ctg1_2391)" points="673,40 679,10 679,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L28 (PF00830)
+"Ribosomal L28 family"</title>
+				<polygon class="PF00830" points="676,40 678,28 678,28 678,52 678,52" stroke-linejoin="round" width="5" height="24" fill="rgb(228,203,82)" stroke="rgb(182,162,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2392)</title>
+			<polygon class=" (ctg1_2392)" points="686,10 698,40 686,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asp23 (PF03780)
+"Asp23 family, cell envelope-related function"</title>
+				<polygon class="PF03780" points="686,28 689,28 694,40 689,52 686,52" stroke-linejoin="round" width="10" height="24" fill="rgb(228,164,108)" stroke="rgb(182,131,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2393)</title>
+			<polygon class=" (ctg1_2393)" points="699,25 725,25 725,10 755,40 725,70 725,55 699,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dak2 (PF02734)
+"DAK2 domain"</title>
+				<rect class="PF02734" x="702" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(55,190,53)" stroke="rgb(43,152,42)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FakA-like_M (PF21645)
+"Fatty acid kinase subunit A-like, middle domain"</title>
+				<rect class="PF21645" x="722" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(196,201,98)" stroke="rgb(156,160,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FakA-like_C (PF13684)
+"Fatty acid kinase subunit A-like, C-terminal"</title>
+				<polygon class="PF13684" points="733,28 739,28 751,40 739,52 733,52" stroke-linejoin="round" width="21" height="24" fill="rgb(206,218,102)" stroke="rgb(164,174,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

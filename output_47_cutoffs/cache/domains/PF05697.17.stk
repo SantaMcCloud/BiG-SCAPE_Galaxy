@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF3238:gid::pid::loc:3698957:3700244:strand:-:1:145         ...MKAELIKK..EGNKVTLKITVDNNKFEAAVNKAYNKSRNKYNIPGFRKGKAPRIVIETQYGKGiFYNDAIEILFPEVYPEAIKELDIDPIDNPDLDIEEISKDNGLVMVLNVEVKPEFELGNYKGIEIAKVENTVSDENVDAKLQEM.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3238:gid::pid::loc:3698957:3700244:strand:-:1:145 PP ...899999**..*************************************************************************************************************************************9986.
+GCF_018304705.1_ORF1174:gid:tig:pid:WP_211422241.1:loc:1414758:1416162:strand:-:1:144          ...MKFEVNHL..SSVRKELTIELPAERVTRSFNRFSNEFARQARIPGFRPGKAPVSLVRQRFQAD.IHERVLAQLGSEAIQEAIRASQLQVLGEPTIQDIRLTDQLPFVLKIAVDVFPEFTVGPLEGLEGTKQVVPVTEADVERVLEQL.
+#=GR GCF_018304705.1_ORF1174:gid:tig:pid:WP_211422241.1:loc:1414758:1416162:strand:-:1:144  PP ...99******..*****************************************************.*******************************656699999****************************************986.
+GCF_900066015.1_ORF2595:gid::pid:WP_162292492.1:loc:3044969:3046403:strand:+:1:144             mtl---TIQTAedELRQLTLTIEVGEERVRQAMQKKARELGREVNMPGFRPGKAPYDVLVRRIGEDtLRAEAVEDLVQPVFEEALEQEDIDPYARPTLEDM---ELKPLTLKFTVPLSPVVTLGDYRALRREVEAAEVTDEALTEALER-v
+#=GR GCF_900066015.1_ORF2595:gid::pid:WP_162292492.1:loc:3044969:3046403:strand:+:1:144     PP 665...55555213358899*****************************************************************************9544...3679**************************************997.6
+#=GC PP_cons                                                                                   ...99988888..88899************************************************.******************************977689*7899***************************************986.
+#=GC RF                                                                                        ...xxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

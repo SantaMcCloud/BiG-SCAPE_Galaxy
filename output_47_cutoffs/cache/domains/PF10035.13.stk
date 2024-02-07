@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1339:gid::pid::loc:1533570:1534437:strand:+:226:280         .RGVTFLDAEGAYTHQKKKIIYTIVSSNEIPKIKDIALKYDKKAFISVNDVTEVKG.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1339:gid::pid::loc:1533570:1534437:strand:+:226:280 PP .9****************************************************99.
+GCA_000085225.1_ASM8522v1_genomic_ORF1782:gid::pid::loc:1991290:1992145:strand:-:223:277         .RGATILKGEGAYTGENKNVLLVVVEKKEVVELKKLVKNVDPNAFIIITDIHEALG.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1782:gid::pid::loc:1991290:1992145:strand:-:223:277 PP .9***************************************************998.
+GCA_000085225.1_ASM8522v1_genomic_ORF1888:gid::pid::loc:2106348:2107209:strand:+:224:278         .RGLTILDGKGGYTRENKEVLLVVVSKKQELYLKRLVKRTDPTAFVIVTDVHEVLG.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1888:gid::pid::loc:2106348:2107209:strand:+:224:278 PP .9****************************************************99.
+GCA_000085225.1_ASM8522v1_genomic_ORF2545:gid::pid::loc:2851427:2852228:strand:-:204:258         .RGVTFLEAEGAYTQNKKKMIYCIISANEIGKFKDLIYDMDSEAFISVNNVEEVKG.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2545:gid::pid::loc:2851427:2852228:strand:-:204:258 PP .9****************************************************99.
+GCF_900066015.1_ORF329:gid::pid:WP_157912819.1:loc:387199:387754:strand:+:122:174                f-GATVGWGHGR-GG-TVGMIVAVVGRKDADRICAIAENVDANAFITIEDARSVR-r
+#=GR GCF_900066015.1_ORF329:gid::pid:WP_157912819.1:loc:387199:387754:strand:+:122:174        PP 5.8888888888.66.99**********************************996.9
+GCF_900066015.1_ORF1070:gid::pid:WP_095042551.1:loc:1276634:1277567:strand:-:235:289             v-GVTRWAGEGMYTQEERTILFCTVTRPDVEVLHGLVEEIDPAAFVVIGQGHQARG.
+#=GR GCF_900066015.1_ORF1070:gid::pid:WP_095042551.1:loc:1276634:1277567:strand:-:235:289     PP 7.9**********************************************9999887.
+GCF_900066015.1_ORF1896:gid::pid:WP_095043312.1:loc:2224805:2225909:strand:-:303:357             .RGATALHGRGMFLKQERDVLLVALTVTEIEQLKLIVGEEDPHAFITVIPAKEVVG.
+#=GR GCF_900066015.1_ORF1896:gid::pid:WP_095043312.1:loc:2224805:2225909:strand:-:303:357     PP .9****************************************************98.
+GCF_900066015.1_ORF3121:gid::pid:WP_162292501.1:loc:3652115:3653057:strand:+:249:303             .RGVTDWSGRGMYTGAERHVLLCAVSRADTVLLKHIIHEADPQAFVIIGQAQEVFG.
+#=GR GCF_900066015.1_ORF3121:gid::pid:WP_162292501.1:loc:3652115:3653057:strand:+:249:303     PP .9*****************************************************9.
+#=GC PP_cons                                                                                     .99**********99***************************************98.
+#=GC RF                                                                                          .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

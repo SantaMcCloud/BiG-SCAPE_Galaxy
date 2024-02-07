@@ -1,0 +1,208 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="718.6666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="708.6666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (J8C03_RS11245)
+carboxypeptidase regulatory-like domain-containing protein</title>
+			<polygon class=" (J8C03_RS11245)
+carboxypeptidase regulatory-like domain-containing protein" points="132,25 109,25 109,10 79,40 109,70 109,55 132,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CarboxypepD_reg (PF13620)
+"Carboxypeptidase regulatory-like domain"</title>
+				<rect class="PF13620" x="120" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(77,180,172)" stroke="rgb(61,144,137)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>glpX (J8C03_RS11250)
+class II fructose-bisphosphatase</title>
+			<polygon class="glpX (J8C03_RS11250)
+class II fructose-bisphosphatase" points="177,25 172,25 172,10 142,40 172,70 172,55 177,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FBPase_glpX (PF03320)
+"Bacterial fructose-1,6-bisphosphatase, glpX-encoded"</title>
+				<polygon class="PF03320" points="146,40 158,28 175,28 175,52 158,52" stroke-linejoin="round" width="32" height="24" fill="rgb(74,101,221)" stroke="rgb(59,80,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>coaBC (J8C03_RS11255)
+bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC</title>
+			<polygon class="coaBC (J8C03_RS11255)
+bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC" points="182,25 194,25 194,10 224,40 194,70 194,55 182,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavoprotein (PF02441)
+"Flavoprotein"</title>
+				<rect class="PF02441" x="182" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(92,195,127)" stroke="rgb(73,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DFP (PF04127)
+"DNA / pantothenate metabolism flavoprotein"</title>
+				<polygon class="PF04127" points="201,28 207,28 219,40 219,40 207,52 201,52" stroke-linejoin="round" width="18" height="24" fill="rgb(157,87,185)" stroke="rgb(125,69,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11260)
+hybrid sensor histidine kinase/response regulator</title>
+			<polygon class=" (J8C03_RS11260)
+hybrid sensor histidine kinase/response regulator" points="224,25 233,25 233,10 263,40 233,70 233,55 224,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<rect class="PF00072" x="225" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(224,109,96)" stroke="rgb(179,87,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="239" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(90,209,91)" stroke="rgb(72,167,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="250,31 259,40 250,49" stroke-linejoin="round" width="11" height="24" fill="rgb(145,182,60)" stroke="rgb(115,145,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11265)
+NAD(P)-dependent oxidoreductase</title>
+			<polygon class=" (J8C03_RS11265)
+NAD(P)-dependent oxidoreductase" points="264,10 292,40 264,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="264,28 276,28 285,37 285,43 276,52 264,52" stroke-linejoin="round" width="21" height="24" fill="rgb(118,94,201)" stroke="rgb(94,75,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11270)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS11270)
+hypothetical protein" points="294,40 300,10 300,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (J8C03_RS11275)
+UbiA family prenyltransferase</title>
+			<polygon class=" (J8C03_RS11275)
+UbiA family prenyltransferase" points="335,25 332,25 332,10 302,40 332,70 332,55 335,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UbiA (PF01040)
+"UbiA prenyltransferase family"</title>
+				<polygon class="PF01040" points="306,40 318,28 331,28 331,52 318,52 306,40" stroke-linejoin="round" width="25" height="24" fill="rgb(57,72,178)" stroke="rgb(45,57,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11280)
+squalene/phytoene synthase family protein</title>
+			<polygon class=" (J8C03_RS11280)
+squalene/phytoene synthase family protein" points="343,25 345,25 345,10 375,40 345,70 345,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="346,28 358,28 370,40 358,52 346,52" stroke-linejoin="round" width="26" height="24" fill="rgb(95,215,124)" stroke="rgb(76,172,99)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11285)
+ROK family protein</title>
+			<polygon class=" (J8C03_RS11285)
+ROK family protein" points="379,10 404,40 379,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ROK (PF00480)
+"ROK family"</title>
+				<polygon class="PF00480" points="379,28 391,28 395,34 395,46 391,52 379,52" stroke-linejoin="round" width="16" height="24" fill="rgb(120,100,228)" stroke="rgb(96,80,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>glk (J8C03_RS11290)
+glucokinase</title>
+			<polygon class="glk (J8C03_RS11290)
+glucokinase" points="406,25 409,25 409,10 439,40 409,70 409,55 406,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glucokinase (PF02685)
+"Glucokinase"</title>
+				<polygon class="PF02685" points="406,28 422,28 434,40 422,52 406,52" stroke-linejoin="round" width="31" height="24" fill="rgb(220,103,218)" stroke="rgb(176,82,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11295)
+FGGY family carbohydrate kinase</title>
+			<polygon class=" (J8C03_RS11295)
+FGGY family carbohydrate kinase" points="439,25 459,25 459,10 489,40 459,70 459,55 439,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FGGY_N (PF00370)
+"FGGY family of carbohydrate kinases, N-terminal domain"</title>
+				<rect class="PF00370" x="439" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(195,92,194)" stroke="rgb(156,73,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FGGY_C (PF02782)
+"FGGY family of carbohydrate kinases, C-terminal domain"</title>
+				<polygon class="PF02782" points="465,28 473,28 483,38 483,42 473,52 465,52" stroke-linejoin="round" width="18" height="24" fill="rgb(148,218,101)" stroke="rgb(118,174,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11300)
+1-acyl-sn-glycerol-3-phosphate acyltransferase</title>
+			<polygon class=" (J8C03_RS11300)
+1-acyl-sn-glycerol-3-phosphate acyltransferase" points="489,10 515,40 489,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyltransferase (PF01553)
+"Acyltransferase"</title>
+				<polygon class="PF01553" points="494,28 501,28 506,35 506,45 501,52 494,52" stroke-linejoin="round" width="12" height="24" fill="rgb(103,90,188)" stroke="rgb(82,72,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11305)
+CPBP family intramembrane metalloprotease</title>
+			<polygon class=" (J8C03_RS11305)
+CPBP family intramembrane metalloprotease" points="515,10 542,40 515,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rce1-like (PF02517)
+"Type II CAAX prenyl endopeptidase Rce1-like"</title>
+				<polygon class="PF02517" points="531,32 538,40 531,48" stroke-linejoin="round" width="9" height="24" fill="rgb(178,201,72)" stroke="rgb(142,160,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fabG (J8C03_RS11310)
+3-oxoacyl-[acyl-carrier-protein] reductase</title>
+			<polygon class="fabG (J8C03_RS11310)
+3-oxoacyl-[acyl-carrier-protein] reductase" points="543,10 567,40 543,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="544,28 554,28 564,40 554,52 544,52" stroke-linejoin="round" width="23" height="24" fill="rgb(207,187,59)" stroke="rgb(165,149,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11315)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS11315)
+hypothetical protein" points="568,10 577,40 568,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (J8C03_RS11320)
+molybdenum cofactor guanylyltransferase</title>
+			<polygon class=" (J8C03_RS11320)
+molybdenum cofactor guanylyltransferase" points="584,10 606,40 584,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transf_3 (PF12804)
+"MobA-like NTP transferase domain"</title>
+				<polygon class="PF12804" points="584,28 593,28 600,37 600,43 593,52 584,52" stroke-linejoin="round" width="16" height="24" fill="rgb(65,196,72)" stroke="rgb(52,156,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11325)
+TIGR00730 family Rossman fold protein</title>
+			<polygon class=" (J8C03_RS11325)
+TIGR00730 family Rossman fold protein" points="604,40 622,10 622,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (J8C03_RS11330)
+ABC transporter substrate-binding protein</title>
+			<polygon class=" (J8C03_RS11330)
+ABC transporter substrate-binding protein" points="679,25 657,25 657,10 627,40 657,70 657,55 679,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBP_bac_5 (PF00496)
+"Bacterial extracellular solute-binding proteins, family 5 Middle"</title>
+				<polygon class="PF00496" points="636,35 643,28 671,28 671,52 643,52 636,45" stroke-linejoin="round" width="35" height="24" fill="rgb(178,215,62)" stroke="rgb(142,172,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

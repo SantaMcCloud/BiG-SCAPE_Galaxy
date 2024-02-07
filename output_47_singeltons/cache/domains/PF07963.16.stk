@@ -1,0 +1,25 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF39:gid::pid::loc:57886:57976:strand:-:3:29                                 l-KKQKGFSLIELLIVVAIIGIIAAIAV..
+#=GR GCF_018304705.1_ORF39:gid::pid::loc:57886:57976:strand:-:3:29                         PP 6.8***********************95..
+GCF_018304705.1_ORF171:gid::pid:WP_211423087.1:loc:207051:207837:strand:+:14:40               c-RQERGYSLIEIIVVAALIGILAAI--sg
+#=GR GCF_018304705.1_ORF171:gid::pid:WP_211423087.1:loc:207051:207837:strand:+:14:40       PP 6.789*******************98..58
+GCF_018304705.1_ORF797:gid::pid:WP_246840724.1:loc:950709:951300:strand:-:41:67               r-AAQRGSSLLEMIITLAILAILTSAAL..
+#=GR GCF_018304705.1_ORF797:gid::pid:WP_246840724.1:loc:950709:951300:strand:-:41:67       PP 5.68*********************996..
+GCF_018304705.1_ORF1382:gid::pid:WP_211422063.1:loc:1666743:1667319:strand:+:15:41            y-RAQRGFTMIELIIVVAILGIITAIAV..
+#=GR GCF_018304705.1_ORF1382:gid::pid:WP_211422063.1:loc:1666743:1667319:strand:+:15:41    PP 7.78*********************995..
+GCA_000085225.1_ASM8522v1_genomic_ORF723:gid::pid::loc:849560:850364:strand:+:1:26            .-MNKKGFTLIELLVVISIIGILVIVA-v.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF723:gid::pid::loc:849560:850364:strand:+:1:26    PP ..589*******************998.5.
+GCA_000085225.1_ASM8522v1_genomic_ORF2229:gid::pid::loc:2497691:2498186:strand:+:1:27         .MKNKKGFTLVELLVVIAIIGILAIIAL..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2229:gid::pid::loc:2497691:2498186:strand:+:1:27 PP .89**********************996..
+GCA_000085225.1_ASM8522v1_genomic_ORF3226:gid::pid::loc:3685308:3685668:strand:-:6:32         .NKKRKGFTLVEMIVVVTILGVISSIAL..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3226:gid::pid::loc:3685308:3685668:strand:-:6:32 PP .58**********************996..
+GCA_000085225.1_ASM8522v1_genomic_ORF3426:gid::pid::loc:3898296:3898824:strand:-:4:30         .KNSERGFSLIEVLVAMAIMGIVLFA--ff
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3426:gid::pid::loc:3898296:3898824:strand:-:4:30 PP .5899******************976..67
+GCA_000085225.1_ASM8522v1_genomic_ORF3427:gid::pid::loc:3898860:3899421:strand:-:3:29         .KNNEKGLTLLEVIIAVFILTIVLSISY..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3427:gid::pid::loc:3898860:3899421:strand:-:3:29 PP .689********************9976..
+GCA_000085225.1_ASM8522v1_genomic_ORF3432:gid::pid::loc:3905128:3905650:strand:-:4:30         .KKNKKGFTLVELLVVIAIIGILAVVAV..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3432:gid::pid::loc:3905128:3905650:strand:-:4:30 PP .69**********************985..
+#=GC PP_cons                                                                                  .689********************9986..
+#=GC RF                                                                                       .xxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

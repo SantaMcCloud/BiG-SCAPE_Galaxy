@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+BGC0002452_ORF29:gid:lcmCV:pid:BBM96648.1:loc:64980:66411:strand:+:37:239          ..TAEVSGWLAAYGRAHHFRAEPIPFAGL..RRWYFEPGTgdLRHETGRFFSIEGLRTSSDADPVER-VQPIIVQPEVGLLGILAREFDGVLHFLMQAKPEPGNVNGLQLSPTVQATRSNFDEVHHGRATPFLGHFIQHPGRRVLVDAIQSEQADWFLHKRNRNMVVEIDADVP.-ADDSFRWLTLGQIRGLLRLDDLVN
+#=GR BGC0002452_ORF29:gid:lcmCV:pid:BBM96648.1:loc:64980:66411:strand:+:37:239  PP ..57999**********************..**********************************77.**********************************************************************************************************..************************
+BGC0002452_ORF29:gid:lcmCV:pid:BBM96648.1:loc:64980:66411:strand:+:271:472         lh--AVTSCLTDVQALRVLRQQSVPLERAyeDGWRRDEHA..IRHRGGQGFEIMAVEVTAERREVAAWTQPLLRPCSQGLAALAVRRIGGVLHALVAARSDVGTLNVAEFGPTVQHRS----AGSGATAVPYLDYVRACGPDRIRYDAVQSEEGGRFYHARTRYLVIEAGPELPvDCPPGFRWATFGQLTELLAHGHYLN
+#=GR BGC0002452_ORF29:gid:lcmCV:pid:BBM96648.1:loc:64980:66411:strand:+:271:472 PP 86..578999*****************987799*******..*************************************************************************843....4567789***********************************************************************
+BGC0000082_ORF11:gid::pid:ACB46472.1:loc:22539:23979:strand:+:35:238               .d-ERFAAWLAECERTNRMLVERVPLTEL..RGWRFTEGDgsLVHESGRFFSVDGVRVTRTGRDPRSWGQPLIDQPEVGILGLLAKEFDGVLHFLMQAKIEPGNRRRLQLSPTVQATKSNYTKVHGGAATPYLEHFLRPGRGRVITDVLQSEQGTWFLGKRNRNMVVETTGPVP.-VLDSFCWLTLGQIRRLLTVPNLIN
+#=GR BGC0000082_ORF11:gid::pid:ACB46472.1:loc:22539:23979:strand:+:35:238       PP .7.56889*********************..******99999************************************************************************************************************************************..************************
+BGC0000082_ORF11:gid::pid:ACB46472.1:loc:22539:23979:strand:+:273:475              dv--EILSWLNDVRTETGQSVERVPLSAL..EDWRVSRDD..IAHRDGRYFRVIGVSVESGHREVKAWSQPLLAPCGTGVVAFLTRRVDGVLQVLMRASVEPGFLDVVELGPTLQCDPANYADAPPERRPRFLDRVLGAT-GDVRYDVVLSEEGGRFHHAECRYMVVECDDAEAvEPHPDFRWMTVRQILSLQRHTNYLN
+#=GR BGC0000082_ORF11:gid::pid:ACB46472.1:loc:22539:23979:strand:+:273:475      PP 75..89***********************..*********..***********************************************************************************************997.8***************************5555558************************
+#=GC PP_cons                                                                       ..567899*********************..*********..***********************99*************************************************88****899999***********9*9***************************99999.9************************
+#=GC RF                                                                            ..xxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0002452_ORF29:gid:lcmCV:pid:BBM96648.1:loc:64980:66411:strand:+:37:239          MDTRSVLACL.
+#=GR BGC0002452_ORF29:gid:lcmCV:pid:BBM96648.1:loc:64980:66411:strand:+:37:239  PP *********8.
+BGC0002452_ORF29:gid:lcmCV:pid:BBM96648.1:loc:64980:66411:strand:+:271:472         VELRTLIAC-a
+#=GR BGC0002452_ORF29:gid:lcmCV:pid:BBM96648.1:loc:64980:66411:strand:+:271:472 PP ********9.8
+BGC0000082_ORF11:gid::pid:ACB46472.1:loc:22539:23979:strand:+:35:238               MDSRTVLACL.
+#=GR BGC0000082_ORF11:gid::pid:ACB46472.1:loc:22539:23979:strand:+:35:238       PP *********8.
+BGC0000082_ORF11:gid::pid:ACB46472.1:loc:22539:23979:strand:+:273:475              VQTRSLLACL.
+#=GR BGC0000082_ORF11:gid::pid:ACB46472.1:loc:22539:23979:strand:+:273:475      PP *********8.
+#=GC PP_cons                                                                       *********8.
+#=GC RF                                                                            xxxxxxxxxx.
+//

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF2132:gid::pid:WP_211421436.1:loc:2533264:2534005:strand:+:11:227         gr---WELFIQAVILLSLVDFALETLPSL-SPTQrRLLEWFEVFSVAVFTVEYVVRAVGSRP.AVKYLLSFYGIVDLVAILPFYLGLVVD----LRALRALRFLRLLRILKLTRYSQAWRRFHRALIISREELILFAATALILIYLAAVGIYYFE----H--------EAQPEVFASIFDGLWWAVATLTTVGYGDSYPV
+#=GR GCF_018304705.1_ORF2132:gid::pid:WP_211421436.1:loc:2533264:2534005:strand:+:11:227 PP 97...9********************999.55555***************************.************************995....9*****************************************************8877766....2........233456**************************
+GCF_900696045.1_ORF2070:gid::pid:WP_134484883.1:loc:2149761:2150502:strand:-:12:232         dp--KFNHFITIVILLQAASLALETFQELDTYK-.VLFESINIFVIVVFIVEASLKIFSTYPnVTLYFKDGWNLFDFSIIVLSLIPFS------GGYSTIARLVRLLRVTRLTSTSKEMSAVVMTIIKSIPSMINILLLLLLVFFIFGITGYHLF--------NDI----DPKHWDSLPRSFLTLFEILTLANWTDIMYI
+#=GR GCF_900696045.1_ORF2070:gid::pid:WP_134484883.1:loc:2149761:2150502:strand:-:12:232 PP 86..599**************************..************************9994455*******************664......68999********************************************************........334....44889*************************
+#=GC PP_cons                                                                                ....59********************999*7775.***************************.777*******************88695....899***************************************************9998888....2...334..234477**************************
+#=GC RF                                                                                     ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_018304705.1_ORF2132:gid::pid:WP_211421436.1:loc:2533264:2534005:strand:+:11:227         TAGGR-------FFTFVILVIGLGIVALPSGIVASALSKARAEE-d.
+#=GR GCF_018304705.1_ORF2132:gid::pid:WP_211421436.1:loc:2533264:2534005:strand:+:11:227 PP *****.......**************************998875.7.
+GCF_900696045.1_ORF2070:gid::pid:WP_134484883.1:loc:2149761:2150502:strand:-:12:232         AIDVN--HLYGIYFISFILISTFVVINIFIGVIVRKSEEAYKQ--ie
+#=GR GCF_900696045.1_ORF2070:gid::pid:WP_134484883.1:loc:2149761:2150502:strand:-:12:232 PP *****..***************************999988876..89
+#=GC PP_cons                                                                                *****..****************************999998765...
+#=GC RF                                                                                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF2316:gid::pid:WP_211423465.1:loc:2755249:2756197:strand:+:1:313           MLSRVADSIFWMSRYIERAENIARFVDATMTLTLDLpaddTAAWVELVASVGDPVDFAARYGTPT-PAAVLRYLTFDEQNPNSILTTLARARENARCVRDTISSEMWEQANRFYLDVKSaatQ--GrfgamphAFFTQVKMSSHLFVGVTDSTMSHGEAWHFNRIGRLLERADKTACILGVERFNAtTlAGssliDDLHW
+#=GR GCF_018304705.1_ORF2316:gid::pid:WP_211423465.1:loc:2755249:2756197:strand:+:1:313   PP 9**********************************4455699*******************9865.9***************************************************75541..23445667************************************************9888873344679999***
+NZ_CP072637.1.region001_ORF14:gid::pid:WP_211423465.1:loc:16906:17854:strand:+:1:313         MLSRVADSIFWMSRYIERAENIARFVDATMTLTLDLpaddTAAWVELVASVGDPVDFAARYGTPT-PAAVLRYLTFDEQNPNSILTTLARARENARCVRDTISSEMWEQANRFYLDVKSaatQ--GrfgamphAFFTQVKMSSHLFVGVTDSTMSHGEAWHFNRIGRLLERADKTACILGVERFNAtTlAGssliDDLHW
+#=GR NZ_CP072637.1.region001_ORF14:gid::pid:WP_211423465.1:loc:16906:17854:strand:+:1:313 PP 9**********************************4455699*******************9865.9***************************************************75541..23445667************************************************9888873344679999***
+#=GC PP_cons                                                                                 9**********************************4....99*******************9865.9***************************************************7...1..2.......************************************************98888.3.44....99***
+#=GC RF                                                                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x.xx....xxxxx
+
+GCF_018304705.1_ORF2316:gid::pid:WP_211423465.1:loc:2755249:2756197:strand:+:1:313           SGLLRAASALEMYRKR-FGRIEPRRVFEFLLLSREFPRAAHYCLLRCVESVHAISG-TLPGTYTNLPEQRLGRLAAQLDYAGVEDILppEsphDARPFLNRFRRDLYAAGDAIAATFF
+#=GR GCF_018304705.1_ORF2316:gid::pid:WP_211423465.1:loc:2755249:2756197:strand:+:1:313   PP ****************.89***********************************77.55789999**********************9835669***********************9
+NZ_CP072637.1.region001_ORF14:gid::pid:WP_211423465.1:loc:16906:17854:strand:+:1:313         SGLLRAASALEMYRKR-FGRIEPRRVFEFLLLSREFPRAAHYCLLRCVESVHAISG-TLPGTYTNLPEQRLGRLAAQLDYAGVEDILppEsphDARPFLNRFRRDLYAAGDAIAATFF
+#=GR NZ_CP072637.1.region001_ORF14:gid::pid:WP_211423465.1:loc:16906:17854:strand:+:1:313 PP ****************.89***********************************77.55789999**********************9835669***********************9
+#=GC PP_cons                                                                                 ****************.89***********************************77.55789999**********************..3...9***********************9
+#=GC RF                                                                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..x...xxxxxxxxxxxxxxxxxxxxxxxxx
+//

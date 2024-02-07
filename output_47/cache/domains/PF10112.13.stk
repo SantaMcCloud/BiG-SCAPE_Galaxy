@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2263:gid::pid::loc:2533874:2534795:strand:-:24:292         ......i-IGWGLVSLFTLSALVLSTIsiIIGWAVILPiqvcAV-FlLIGGVCIFKGKRlgdqisrykkyctiinnrniipveliaentskslnfiikdvqkmidknyfintyidkrnnqivltnedfippRYEDVAYEVKEEEKTDESNEVDTIINKGMNYLTQIKEANKNIKSESMGDKIVQVEDVTSKIFDVVKHDP
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2263:gid::pid::loc:2533874:2534795:strand:-:24:292 PP ......5.677777766665555554411457777777777344.35999999999999*****************************************************9999999999999999999899999999999999999***************************************************
+AP018533.1.region007_ORF21:gid::pid::loc:22746:23496:strand:-:6:223                             krsvipi--------YLIGGVWLVFAL..FFSLHTLAD....YALC.AVVSAAVFVVGKavfpdrvyqmpgeqv..........................................eqpekkaeqprreepKQEKKQEEKKQET-TGD-PELDKLIQERDRAVSEMRRLNDSIEDETISAQIDHLEEVTRKIIGEVVKQP
+#=GR AP018533.1.region007_ORF21:gid::pid::loc:22746:23496:strand:-:6:223                     PP *876654........445558999999..99*******....6666.5555555555555**************..........................................**********999954444444444444.444.2457788888888888888888899999***********************
+#=GC PP_cons                                                                                    ........6777777555557777776..778888988....5565.777777777777........................................................................666666666666696669678999999999999999999999***************************
+#=GC RF                                                                                         .......xxxxxxxxxxxxxxxxxxxx..xxxxxxxxx....xxxx.xxxxxxxxxxxx........................................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2263:gid::pid::loc:2533874:2534795:strand:-:24:292         SKLTQIQKFMDYYLPTTLKLLNSYHTLEEQGIDRENITTTMESIENTMNTIVVAFENQLDYLFEDEAIDISTDITV-l
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2263:gid::pid::loc:2533874:2534795:strand:-:24:292 PP ******************************************************************9999999887.6
+AP018533.1.region007_ORF21:gid::pid::loc:22746:23496:strand:-:6:223                             KKLPQIRRFLNYFLPTTLKILNAYDRMDSAGIAGDNISTTKAKVENMMGTIVQAFDKQLDALFGAEAMDISTDITV-m
+#=GR AP018533.1.region007_ORF21:gid::pid::loc:22746:23496:strand:-:6:223                     PP **********************************************************************999988.5
+#=GC PP_cons                                                                                    *********************************************************************9999987..
+#=GC RF                                                                                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

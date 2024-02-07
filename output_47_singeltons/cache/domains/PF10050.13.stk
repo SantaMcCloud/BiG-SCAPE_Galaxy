@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_000011105.1_ORF1240:gid::pid:WP_010885410.1:loc:1186008:1186470:strand:+:7:148         ............................r-EVQAKDVVISPRPVWKCR-TCIMYGKRPNCPPYVPSWKEARELLKHYRKILLIKFKIDVENFEEE....------KRKVLRWLLNKEKELFKKGNYYSLALFPGSCNLCDT.....CTFETEGKCKMPEMVRPSINAIGIELSSLVE----------------------i
+#=GR GCF_000011105.1_ORF1240:gid::pid:WP_010885410.1:loc:1186008:1186470:strand:+:7:148 PP ............................7.5899**************.**************************************99988876..........999*********************************.....*****99********************9997......................5
+GCF_008000775.1_ORF617:gid::pid:WP_147661747.1:loc:684465:685152:strand:+:23:198           ykiqfdqivfasdeaevqkncqtpyknhp-------------------NGCPNYKNNWSCPPYAPTVQKTQQSLENYRFFWMLVLKTPIPKINTKflkkWKIKRVNMRITKTLNNYLSYL-QSNHRDWKFYYCSECNLCSEknyskCTCPT-DPCRFPNKFRISPEAAGIDVFASLKKINILIEMDPITNLQ-------r
+#=GR GCF_008000775.1_ORF617:gid::pid:WP_147661747.1:loc:684465:685152:strand:+:23:198   PP 98777777666655544444444443333...................48***************************************9999988765566677777777777777655.5566699999*********555555*****.6***************************999988755555.......5
+#=GC PP_cons                                                                               ..............................5899**************49**************************************9999887....566677888888888888877*78888**************7.....*****98**********************99***999988755555........
+#=GC RF                                                                                    .............................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+GCF_000011105.1_ORF1240:gid::pid:WP_010885410.1:loc:1186008:1186470:strand:+:7:148         nfnepvlyg
+#=GR GCF_000011105.1_ORF1240:gid::pid:WP_010885410.1:loc:1186008:1186470:strand:+:7:148 PP 67889999*
+GCF_008000775.1_ORF617:gid::pid:WP_147661747.1:loc:684465:685152:strand:+:23:198           igmc.....
+#=GR GCF_008000775.1_ORF617:gid::pid:WP_147661747.1:loc:684465:685152:strand:+:23:198   PP 5569.....
+#=GC PP_cons                                                                               .........
+#=GC RF                                                                                    .........
+//

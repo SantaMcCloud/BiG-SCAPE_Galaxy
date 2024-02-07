@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_900066015.1_ORF2698:gid::pid:WP_095044059.1:loc:3150166:3150709:strand:+:23:173         ..ryrm-------------------RQKLVSFGDDFWIEDESGQRAFKVDG-KMLRVRDTLFFEDTQGQVMCKIQEKLVRIKDT-KTIEGPNG---ETLAVVKKA----------LITPLRDRWTVKIGDGPDLAVQGNVVNHQYTIG-....EEGRKVAEVS----.-KKWFRL.....ADTYGVQIE.PGQNDVVILA
+#=GR GCF_900066015.1_ORF2698:gid::pid:WP_095044059.1:loc:3150166:3150709:strand:+:23:173 PP ..*986...................55667779******************.89******************************.66666655...368888887..........333344556677788999***************.....*********6......89****.....*********.**********
+GCF_008000775.1_ORF2938:gid::pid:WP_147665276.1:loc:3279706:3280390:strand:+:62:219         dfgsgp-------------------------------IYDEGGNQIGKMKR-KLLSLRAKIELLEMNGHIGASIHRKIVAIKPSYDLKDENEV----LIARFQKT-------LLSVFRPKFE--LKDPNGNIIFTAFGKFMGFDFEIYKgsdnLKQNLIAEIH-KTDrWKDVFFGgiidfKDTYAIRVHdKSVDRRLLLG
+#=GR GCF_008000775.1_ORF2938:gid::pid:WP_147665276.1:loc:3279706:3280390:strand:+:62:219 PP **9986...............................8*************.8*******************************888777766....89999997.......7899999433..458889999***************8632235689****8.77779988887566668*****9962679*****99
+#=GC PP_cons                                                                                .........................55667779****9*************.89******************************877766666...378899987.......789666644456568889999***************8....6789*****7.777.9899998.....9*******8.89*******9
+#=GC RF                                                                                     ......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxx.xxxxxxx.....xxxxxxxxx.xxxxxxxxxx
+
+GCF_900066015.1_ORF2698:gid::pid:WP_095044059.1:loc:3150166:3150709:strand:+:23:173         ITV-a
+#=GR GCF_900066015.1_ORF2698:gid::pid:WP_095044059.1:loc:3150166:3150709:strand:+:23:173 PP 998.6
+GCF_008000775.1_ORF2938:gid::pid:WP_147665276.1:loc:3279706:3280390:strand:+:62:219         FVI-t
+#=GR GCF_008000775.1_ORF2938:gid::pid:WP_147665276.1:loc:3279706:3280390:strand:+:62:219 PP 987.7
+#=GC PP_cons                                                                                997..
+#=GC RF                                                                                     xxxx.
+//

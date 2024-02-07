@@ -1,0 +1,9 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2587:gid::pid::loc:2897125:2898091:strand:-:49:61         KNGTPTMGGIIMI
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2587:gid::pid::loc:2897125:2898091:strand:-:49:61 PP 9**********98
+GCF_018304705.1_ORF581:gid:mraY:pid:WP_058866580.1:loc:705506:706619:strand:+:72:84            KKGTPTMGGVLII
+#=GR GCF_018304705.1_ORF581:gid:mraY:pid:WP_058866580.1:loc:705506:706619:strand:+:72:84    PP 9***********9
+#=GC PP_cons                                                                                   9***********8
+#=GC RF                                                                                        xxxxxxxxxxxxx
+//

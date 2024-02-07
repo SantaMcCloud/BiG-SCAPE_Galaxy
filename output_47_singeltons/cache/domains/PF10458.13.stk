@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF1341:gid::pid:WP_211424099.1:loc:1607261:1609946:strand:-:829:894             DAQTERARLEKEIAKHEKALHQLLEVVNRPGFAERAAPEVVAEKQEQQLALENQLAALRETLAT--fg.
+#=GR GCF_018304705.1_ORF1341:gid::pid:WP_211424099.1:loc:1607261:1609946:strand:-:829:894     PP 6689*********************************************************986..68.
+GCF_900066015.1_ORF66:gid::pid:WP_095041621.1:loc:84826:87496:strand:-:825:888                   DLAAERARLEKEAAELAQQIERLTGLLNSP-FAQKAPAAVVQKERDKLADLEAGQREIRERL----gaw
+#=GR GCF_900066015.1_ORF66:gid::pid:WP_095041621.1:loc:84826:87496:strand:-:825:888           PP 9************************99887.******************************9....589
+GCA_000085225.1_ASM8522v1_genomic_ORF3184:gid::pid::loc:3636880:3639547:strand:-:819:884         DFEKEIERLSKEKKKLEGEIKRVNGKLANQGFLAKAPESLIEEEKVKKEKFEEMIKSVEERLTNL-e..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3184:gid::pid::loc:3636880:3639547:strand:-:819:884 PP 99*************************************************************98.6..
+GCF_008000775.1_ORF126:gid::pid:WP_147661274.1:loc:131099:133850:strand:+:852:916                DLEREKIRLNKQLEKIDKQISKINKKLKS-EFSKRAPKELIEQENEKLSGLELKKQQLYDQISIL-g..
+#=GR GCF_008000775.1_ORF126:gid::pid:WP_147661274.1:loc:131099:133850:strand:+:852:916        PP 9**************************76.6*****************************99876.6..
+#=GC PP_cons                                                                                     899************************9899******************************9977....
+#=GC RF                                                                                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

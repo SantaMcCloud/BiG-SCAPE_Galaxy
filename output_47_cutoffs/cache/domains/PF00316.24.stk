@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF394:gid::pid:WP_266088114.1:loc:379051:379921:strand:-:11:154              avvdevvktapriadgfadgrty--------------------------------------------------EGDENPSGHEVLGADLHANRLLKECITDLEGVGGFASEEEEGVVDC.GD----GVGVAVDPLDGSSNLVTNNPAGVILGVYD------APLPS-----PGEGLVGAGYVLFGPLTTAVVADGDGVVE
+#=GR GCF_026242195.1_ORF394:gid::pid:WP_266088114.1:loc:379051:379921:strand:-:11:154      PP ****9999999999988887765..................................................5889***************************************999.43....4579************************9......34445.....9999*************************
+GCF_900066015.1_ORF1078:gid:fbp:pid:WP_095042558.1:loc:1287844:1288849:strand:-:4:192         ......................t-TIERFILDNQPAYA--SGELTNLLYDLALAAKIIAHKTNRAGLIDILGEAGAINVQGESQQKLDIYANQIMRQLCDHTGRLCLMISEEQEDPIHIpERYRKGSYVLVFDPLDGSSNIDVNVSIGTIFGIYR-CLDEAQRGRLEDALQPPGDLVAAGYVLYGASTMMVYSAGNGVHG
+#=GR GCF_900066015.1_ORF1078:gid:fbp:pid:WP_095042558.1:loc:1287844:1288849:strand:-:4:192 PP ......................6.99********9998..9**************************************************************************999889**********************************.666899999***********************************
+#=GC PP_cons                                                                                  ........................99********9998..9********************************899***************************************9999.76****788*************************9.6668967777*****9****************************
+#=GC RF                                                                                       .......................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_026242195.1_ORF394:gid::pid:WP_266088114.1:loc:379051:379921:strand:-:11:154              YVVETERGE------e
+#=GR GCF_026242195.1_ORF394:gid::pid:WP_266088114.1:loc:379051:379921:strand:-:11:154      PP ***999886......9
+GCF_900066015.1_ORF1078:gid:fbp:pid:WP_095042558.1:loc:1287844:1288849:strand:-:4:192         FTLNPEYGEFLLSHP.
+#=GR GCF_900066015.1_ORF1078:gid:fbp:pid:WP_095042558.1:loc:1287844:1288849:strand:-:4:192 PP ************985.
+#=GC PP_cons                                                                                  *****9998***985.
+#=GC RF                                                                                       xxxxxxxxxxxxxxx.
+//

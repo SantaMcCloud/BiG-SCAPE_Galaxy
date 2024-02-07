@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF2082:gid::pid:WP_266087539.1:loc:3214378023:3214379391:strand:-:33:234         k-ESAVDEAVEYLEGadgVDEG-GTAVYSVVGDK--ADLMFLHIRPTVEELDAVERRFERTRLAEFTRETASHVSVTEVGGYtnedveDgDLSKYARSKLFPDIPDSRFVSFYPMSRKRDpeqnWYETTRQHRDEMMREHRESGEEYaGRIKQLISGSIGIDDWEWGVDLFTDDMKHAKGIVYDMRFDEASAVYSEFGPF
+#=GR GCF_026242195.1_ORF2082:gid::pid:WP_266087539.1:loc:3214378023:3214379391:strand:-:33:234 PP 6.77899999999986665566.8**********..**********************************************98876537999999********************************************************************************************************
+GCF_900696045.1_ORF1333:gid::pid:WP_134483966.1:loc:1377019:1377850:strand:-:80:266               k-DEASREFLELLQA...ASKRMKIRTYSTLGLRHESEFMIWTISQSLENIQVLSSKIYTTILGKYIEPVSTFLSLTRKSIY......-.-SNQVKRGFEMDQD-PLQYVVVYPFIKSRE....WYLLPFEERKEMMEEHIKVGRKY.PEIVLNTTYSFGIDDQDFMLAFETNSLSRFQDLIMELRETKVSRYIIKDTPM
+#=GR GCF_900696045.1_ORF1333:gid::pid:WP_134483966.1:loc:1377019:1377850:strand:-:80:266       PP 6.67899********...****************************************************************.........6666677888887.9**************....***********************.****************************************************
+#=GC PP_cons                                                                                      ..6789999999999...7888*9**********************************************************......3.97888899999999****************....***********************.****************************************************
+#=GC RF                                                                                           .xxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_026242195.1_ORF2082:gid::pid:WP_266087539.1:loc:3214378023:3214379391:strand:-:33:234         YTGIR-f
+#=GR GCF_026242195.1_ORF2082:gid::pid:WP_266087539.1:loc:3214378023:3214379391:strand:-:33:234 PP ***98.5
+GCF_900696045.1_ORF1333:gid::pid:WP_134483966.1:loc:1377019:1377850:strand:-:80:266               IPCVR-k
+#=GR GCF_900696045.1_ORF1333:gid::pid:WP_134483966.1:loc:1377019:1377850:strand:-:80:266       PP 99977.6
+#=GC PP_cons                                                                                      *9987..
+#=GC RF                                                                                           xxxxxx.
+//

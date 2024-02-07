@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF511:gid::pid::loc:582165:583833:strand:+:291:496         .VILIAAPSSSGKTSFAHRLSIHLRVNNLNPISISLDDYF----IDRKHTPLDEYG----NYDFESIYAIDLEKFNLDLKKLLAGEEIDDIRFNFKEGKREYtgKKIK.IDSNQPIILEGIHGLnpiLTSS.............IPDEDKFKI...YIsaltqinlDdhnriPTADLRMIRRIVRDYNFRGYSADNTILQ
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF511:gid::pid::loc:582165:583833:strand:+:291:496 PP .799*********************888887766665443....344555555554....68************************************9998889999.99***********972224566.............888889999...983333222213333356799***********************
+GCF_900066015.1_ORF80:gid:udk:pid:WP_197699825.1:loc:105391:106054:strand:-:9:195             .VFGVAGGTASGKTTVARAVLEAVGA-----SQIAYLPHDAYYSDRDDLPFEDR---A--NLNYDHPDSLETKLLVRHIKDLIVGAPVHVPVYDFTTHRRTT..DTIF.VEPAPIILVDGILIF...TKRK.............LRDLMDIKV...YV........D.....TDSDVRFIRRLQRDMHERGRSLDSVVHQ
+#=GR GCF_900066015.1_ORF80:gid:udk:pid:WP_197699825.1:loc:105391:106054:strand:-:9:195     PP .679****************999993.....33334444444455555555554...4..677999************************************..****.***************...****.............*********...**........*.....****************************
+GCF_900066015.1_ORF404:gid::pid:WP_095041932.1:loc:469500:471267:strand:-:306:510             l-VAVSGPTSAGKTTFAKRLALQLLAQGIY------PVIISLDDYFVDRENTPRDLTG--NFDFEALEAVDVNLFQADMRRLMDGAEVVMPRYNFKTGRREL..GPPLqIGKDHVIIVEGIHGL...NPRLtanlppsatyrvfISAFTQLNLdkhNR........V.....PTTDTRLLRRIVRDAAHRGYTATQTIGR
+#=GR GCF_900066015.1_ORF404:gid::pid:WP_095041932.1:loc:469500:471267:strand:-:306:510     PP 5.89****************9877755554......5788888888777777777777..8999999*******************************9998..7776155678*********9...8877667778888887766666665522245........8.....8999************************
+GCF_900066015.1_ORF3940:gid::pid:WP_095045406.1:loc:4623655:4624624:strand:+:7:188            m-LGVAGDSASGKTTISKGIAEALGAENVT------------VICCDHYHKYNRVQRRELGLSALHPDCNYIDIMEQHFRLLREGQPILKPTYNHNTGDFDG..-PTY.VQPTKYVIIEGLLPF...HSRL.............MRLCFDVKV...YL........D.....PPEELRRAWKIKRDTSKRGYTHEQVLTS
+#=GR GCF_900066015.1_ORF3940:gid::pid:WP_095045406.1:loc:4623655:4624624:strand:+:7:188    PP 6.79*********************77777............99999******************************************************9...***.***************...****.............*********...**........*.....****************************
+#=GC PP_cons                                                                                  .679*****************9999677777555555555667766677777777787**89999***********************************99..8999.89999*********9...8888.............999999998...88........7.....899*************************
+#=GC RF                                                                                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxx.xxxxxxxxxxxxxxx...xxxx.............xxxxxxxxx...xx........x.....xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF511:gid::pid::loc:582165:583833:strand:+:291:496         WA.SVRRGEKKNIFPYQEEADAIFNSA------cvyela.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF511:gid::pid::loc:582165:583833:strand:+:291:496 PP **.*999*****************876......567789.
+GCF_900066015.1_ORF80:gid:udk:pid:WP_197699825.1:loc:105391:106054:strand:-:9:195             YLeTVRPMHLKFVEPSKRYADVIIPGGGHNRV-a......
+#=GR GCF_900066015.1_ORF80:gid:udk:pid:WP_197699825.1:loc:105391:106054:strand:-:9:195     PP **9**********************9998877.6......
+GCF_900066015.1_ORF404:gid::pid:WP_095041932.1:loc:469500:471267:strand:-:306:510             WS.SVRRGEKNHIFPFQNSADVFFNS-------alvyels
+#=GR GCF_900066015.1_ORF404:gid::pid:WP_095041932.1:loc:469500:471267:strand:-:306:510     PP **.*******************9986.......5778889
+GCF_900066015.1_ORF3940:gid::pid:WP_095045406.1:loc:4623655:4624624:strand:+:7:188            LQ.GRGDVSPRFIHPQRAYADMIVRFYP-----pdaa...
+#=GR GCF_900066015.1_ORF3940:gid::pid:WP_095045406.1:loc:4623655:4624624:strand:+:7:188    PP **.********************98665.....7889...
+#=GC PP_cons                                                                                  **.********************987778877........
+#=GC RF                                                                                       xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......
+//

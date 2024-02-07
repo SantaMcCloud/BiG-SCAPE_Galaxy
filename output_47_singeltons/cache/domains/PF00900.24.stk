@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF1273:gid::pid:WP_266086402.1:loc:200858180:200858900:strand:+:89:163         r-DEYYRVFPGEGGRLSLVSVEADAADNKLARIDDVTHVPGGEVQLNLHNGANVIVE....DDgYSTDDSVVVDLETGEV
+#=GR GCF_026242195.1_ORF1273:gid::pid:WP_266086402.1:loc:200858180:200858900:strand:+:89:163 PP 6.8******************************************************....****************986
+GCF_000011105.1_ORF1647:gid::pid:WP_010885828.1:loc:1543068:1543800:strand:-:96:173             .TGEHYRVLPNRIGKLVLHPISEEEANIKPLRIRNKRMVKGAKVQLNFHDGTNHLIPltekDN.YFTSYTVLMKVPEREI
+#=GR GCF_000011105.1_ORF1647:gid::pid:WP_010885828.1:loc:1543068:1543800:strand:-:96:173     PP .79*********************************************************777.*************998
+GCF_900696045.1_ORF2698:gid::pid:WP_134485468.1:loc:2812358:2813081:strand:-:96:168             s-NKAYRLIPKGSELLVPVET--NEKKSKLLKITSKTTISGGKIQYGFHDGKSLIGD....DVdMKVGDVCLVTIPELKI
+#=GR GCF_900696045.1_ORF2698:gid::pid:WP_134485468.1:loc:2812358:2813081:strand:-:96:168     PP 5.899*****99999998866..99999*****************************....***************9887
+GCF_008000775.1_ORF1154:gid::pid:WP_147662266.1:loc:1264933:1265677:strand:-:99:175             .INKAYRILASKNHGLMVSEITKDESKFKLCRINNITTVKGGIQQLNLHDGRNILIKk.geKK.YKTRGTLKISIPSQEI
+#=GR GCF_008000775.1_ORF1154:gid::pid:WP_147662266.1:loc:1264933:1265677:strand:-:99:175     PP .589******************************************************.*555.**************98
+#=GC PP_cons                                                                                    .689*************9999************************************....88.*************997
+#=GC RF                                                                                         .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xx.xxxxxxxxxxxxxxxx
+//

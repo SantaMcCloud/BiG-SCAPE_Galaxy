@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF433:gid::pid:WP_266088196.1:loc:730011:730632:strand:-:150:202                  LTDKQRNVMETALYMGYYDTPRESSLSEVAEEIGIAKSTCSEILHRAEEKIVK..
+#=GR GCF_026242195.1_ORF433:gid::pid:WP_266088196.1:loc:730011:730632:strand:-:150:202          PP 9**************************************************85..
+GCF_026242195.1_ORF451:gid::pid:WP_266088232.1:loc:745928:746558:strand:+:152:204                  LTEKQREVVGKAHELGYYDTPREISLSEVANEMDIAKSTCSEILHRAEGKVV-s.
+#=GR GCF_026242195.1_ORF451:gid::pid:WP_266088232.1:loc:745928:746558:strand:+:152:204          PP 9*************************************************98.6.
+GCF_026242195.1_ORF572:gid::pid:WP_266088466.1:loc:1567562:1568312:strand:+:182:234                LSREQREALTAAIEHGYYETPREIDLGELAEKLDVPRSTLTYRVRRAEAQIA-k.
+#=GR GCF_026242195.1_ORF572:gid::pid:WP_266088466.1:loc:1567562:1568312:strand:+:182:234        PP 5678*********************************************997.5.
+GCF_026242195.1_ORF1579:gid::pid:WP_266086700.1:loc:803442267:803442933:strand:-:163:215           LTDRQREVIRAAVEVGYYDNPRRATHEDVAELLDCTASTAGEHLRKAEAKIM-p.
+#=GR GCF_026242195.1_ORF1579:gid::pid:WP_266086700.1:loc:803442267:803442933:strand:-:163:215   PP 9**************************************************8.8.
+GCF_026242195.1_ORF1850:gid::pid:WP_266087136.1:loc:1607111247:1607112879:strand:-:486:538         LTDRQEDALRAAYFGGYFDWPRGSTAEEIADSMDISSPTLHNHLRKGQREIL-s.
+#=GR GCF_026242195.1_ORF1850:gid::pid:WP_266087136.1:loc:1607111247:1607112879:strand:-:486:538 PP 9**********************************************99987.6.
+GCF_026242195.1_ORF2018:gid::pid:WP_266087440.1:loc:3214319887:3214320538:strand:+:160:212         LTDRQHEVLRVAARLGYYDVPRSATHDEVADALGCAPSTASEHLRKIESKIV-d.
+#=GR GCF_026242195.1_ORF2018:gid::pid:WP_266087440.1:loc:3214319887:3214320538:strand:+:160:212 PP 9**************************************************8.5.
+GCF_008000775.1_ORF2895:gid::pid:WP_147664017.1:loc:3232175:3232850:strand:-:154:206               LTPRQSEILTKALANGFFEIPRRISLSDFAKDFGISATALSGNIRRITQKL--ge
+#=GR GCF_008000775.1_ORF2895:gid::pid:WP_147664017.1:loc:3232175:3232850:strand:-:154:206       PP 9*************************************************8..78
+GCF_008000775.1_ORF2942:gid::pid:WP_147664061.1:loc:3283486:3284140:strand:+:155:207               LTPRQFEILNQSLNNGFFDIPRKKSLSVLAEEIGISPSALSENIRRINKKLAE..
+#=GR GCF_008000775.1_ORF2942:gid::pid:WP_147664061.1:loc:3283486:3284140:strand:+:155:207       PP 9*************************************************985..
+#=GC PP_cons                                                                                       89************************************************985..
+#=GC RF                                                                                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF195:gid::pid::loc:232491:233679:strand:-:104:373         ns--MRHQKKEIHAHYDIGNDFYSLWLDKTLSYSCAYFRNDNDTLYDAQVNKVHHILTKLNLEEGMSLLDIGCGWGFLLIEAAKKYKIHGVGITLSEEQFKEFNARIKEENLQDYLEVRLMDYRELKKsdlMFDRVVSVGMLEHVGRENYELFIKNVNAVLKDGGLFLLHYISGLQESYGD------PWIKKYIFPGGVI
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF195:gid::pid::loc:232491:233679:strand:-:104:373 PP 86..567889*********************************************************************************************************************99999******************************************9988777......8************
+BGC0001483_ORF2:gid::pid:ANA09433.1:loc:2626:3976:strand:-:155:427                            ..HSLRRDKKAISHHYDVGNDFYELVLGPSMVYSCAYWEKADGTLEEAQRAKLDLVCRKLALKPGQRLLDVGCGWGSMVLHAAREYGVSAVGVTLSEEQAAYARKRVADAGLTDQVEIRVQDYREVPD..gPYDAISSIGMAEHVGAVRYAEYAAILYRMLKPGGRLLNHQIARRPQPDEEAYHVD-EFIDRYVFPDGEL
+#=GR BGC0001483_ORF2:gid::pid:ANA09433.1:loc:2626:3976:strand:-:155:427                    PP ..577899**********************************************************************************************************************99..9******************************************9998888888888.*************
+#=GC PP_cons                                                                                  ..57678999********************************************************************************************************************99...9*****************************************9998888888888.9************
+#=GC RF                                                                                       ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF195:gid::pid::loc:232491:233679:strand:-:104:373         PSLREMIHICSDYKYHTIDVESLRLHYVKTLLYWQKSFSENLPKIKEMFDDKFIRMWDLYLCSCAAAFNTGIIDIHQI
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF195:gid::pid::loc:232491:233679:strand:-:104:373 PP ****************************************************************************97
+BGC0001483_ORF2:gid::pid:ANA09433.1:loc:2626:3976:strand:-:155:427                            APVGRTVTQLEEAGFEVRDVEAIREHYALTLRRWVANLERSWTRAVRLTSPGRARVWRLYMAASALSFERNRIGVNQI
+#=GR BGC0001483_ORF2:gid::pid:ANA09433.1:loc:2626:3976:strand:-:155:427                    PP ***************************************************************************997
+#=GC PP_cons                                                                                  ****************************************************************************97
+#=GC RF                                                                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

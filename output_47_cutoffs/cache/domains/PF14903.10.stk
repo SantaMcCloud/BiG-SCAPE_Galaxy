@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+
+NZ_CP072637.1.region001_ORF3:gid::pid:WP_211423456.1:loc:4114:4813:strand:-:165:197          YGYIDRTGKMVIPPQFSHTHRFMGGVAQVVVD---r
+#=GR NZ_CP072637.1.region001_ORF3:gid::pid:WP_211423456.1:loc:4114:4813:strand:-:165:197  PP 9**************************99876...8
+NZ_CP072637.1.region001_ORF3:gid::pid:WP_211423456.1:loc:4114:4813:strand:-:131:165          YGYIDKTGKMVIPPQFDDAEDFSEGLAAVKVGNLY.
+#=GR NZ_CP072637.1.region001_ORF3:gid::pid:WP_211423456.1:loc:4114:4813:strand:-:131:165  PP 9********************************99.
+NZ_CP072637.1.region001_ORF3:gid::pid:WP_211423456.1:loc:4114:4813:strand:-:98:131           -GYIDRTGRLVVPAVFDMTYAFREGMAWVKQDGKY.
+#=GR NZ_CP072637.1.region001_ORF3:gid::pid:WP_211423456.1:loc:4114:4813:strand:-:98:131   PP .9********************************9.
+NZ_CP072637.1.region001_ORF3:gid::pid:WP_211423456.1:loc:4114:4813:strand:-:63:96            FGYIDNTGKVVIPVQYENTFGFREGLAGVRINGK-.
+#=GR NZ_CP072637.1.region001_ORF3:gid::pid:WP_211423456.1:loc:4114:4813:strand:-:63:96    PP 7********************************9..
+GCF_018304705.1_ORF2305:gid::pid:WP_211423456.1:loc:2742457:2743156:strand:-:165:197         YGYIDRTGKMVIPPQFSHTHRFMGGVAQVVVD---r
+#=GR GCF_018304705.1_ORF2305:gid::pid:WP_211423456.1:loc:2742457:2743156:strand:-:165:197 PP 9**************************99876...8
+GCF_018304705.1_ORF2305:gid::pid:WP_211423456.1:loc:2742457:2743156:strand:-:131:165         YGYIDKTGKMVIPPQFDDAEDFSEGLAAVKVGNLY.
+#=GR GCF_018304705.1_ORF2305:gid::pid:WP_211423456.1:loc:2742457:2743156:strand:-:131:165 PP 9********************************99.
+GCF_018304705.1_ORF2305:gid::pid:WP_211423456.1:loc:2742457:2743156:strand:-:98:131          -GYIDRTGRLVVPAVFDMTYAFREGMAWVKQDGKY.
+#=GR GCF_018304705.1_ORF2305:gid::pid:WP_211423456.1:loc:2742457:2743156:strand:-:98:131  PP .9********************************9.
+GCF_018304705.1_ORF2305:gid::pid:WP_211423456.1:loc:2742457:2743156:strand:-:63:96           FGYIDNTGKVVIPVQYENTFGFREGLAGVRINGK-.
+#=GR GCF_018304705.1_ORF2305:gid::pid:WP_211423456.1:loc:2742457:2743156:strand:-:63:96   PP 7********************************9..
+#=GC PP_cons                                                                                 9*****************************99*99.
+#=GC RF                                                                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

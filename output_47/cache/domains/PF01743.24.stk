@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2401:gid::pid::loc:2681254:2682592:strand:-:24:144         .AYVVGGCVRDCLLERVPNDWDITTSARPEVVVELFEKTIP..T----.GIQHGTVTVMIEHEP...FEVTTYRIDGNYSDGRHPDSIEFTN..............................NIVKDLSRRDFTINSIAYN...SKTG-LVDPFNGYEDIQNKYIR
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2401:gid::pid::loc:2681254:2682592:strand:-:24:144 PP .6***************************************..*.....***************...*************************..............................*******************...7666.**************997
+GCF_018304705.1_ORF1966:gid::pid:WP_211421573.1:loc:2329134:2330487:strand:-:23:153             a-LLVGGCVRDRLLGYPVKDYDIEVYGLPSEQLREVLEKHG..RVNTV.GEHFAVYKLKPNAEPtyeVDVSLPRRESKHGSGHRGFII---Qgd.........................pwmTFQDAANRRDFTINAILQD...PLSETIIDPCQGLSDLGRRELR
+#=GR GCF_018304705.1_ORF1966:gid::pid:WP_211421573.1:loc:2329134:2330487:strand:-:23:153     PP 7.59**********************999888777888888..85666.999999888888755655777777887766665554333...233.........................677999****************...****************999876
+GCF_900066015.1_ORF792:gid::pid:WP_095042291.1:loc:958128:960813:strand:-:472:630               .IYFVGGLVRDLLLDKPPTDLDIVVEGDAIRLVRALSRRFG..GEVHS.HERFGTAKWAMTPET...YAAVIAAAREAYPDANRPDGAAADApaqppatidfvsarkefykrptalpdvepgSIKLDLHRRDFTINTLAIRldgDHLGQLLDFYGGRRDLRRGIIR
+#=GR GCF_900066015.1_ORF792:gid::pid:WP_095042291.1:loc:958128:960813:strand:-:472:630       PP .69**************************************..*****.***************...9888888888889999998877766999**********************************************66666788***************97
+GCF_900066015.1_ORF3167:gid::pid:WP_162292502.1:loc:3702576:3704073:strand:+:26:140             .VYVVGGTVRDALLRRPIHDIDLVVAVEAIPLAFRLADALGlpAYVLDaERDVGRVIVPGDDLT...LDVARFRGP----------------..............................TLEDDLRGRDFTINALALPa.tESSAAVIDRHGGLDDLRAGVIR
+#=GR GCF_900066015.1_ORF3167:gid::pid:WP_162292502.1:loc:3702576:3704073:strand:+:26:140     PP .6**********************9988888888888876521555666999999999999999...****99975..............................................499**************985.566778***************97
+#=GC PP_cons                                                                                    .68***********************999999999999988..87777.999999999999998...9999999888888888877779886..............................89****************9...77789**************997
+#=GC RF                                                                                         .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxx.xxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxx..............................xxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxx
+//

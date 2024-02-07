@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+GCF_000011105.1_ORF13:gid:nadC:pid:WP_048053010.1:loc:8475:9318:strand:-:15:102                       .s-PYGDVTSEAIIPEDMNAEAVIIAKQD.....GVIAGVEEARVLFEHF..GVKVNVLKKDGEYVKKGEVIAEVKGNARAILLVERTALNIIGRMS
+#=GR GCF_000011105.1_ORF13:gid:nadC:pid:WP_048053010.1:loc:8475:9318:strand:-:15:102               PP .8.79************************.....****************..********************************************9
+GCF_026242195.1_ORF1951:gid:nadC:pid:WP_266087307.1:loc:1607203113:1607203929:strand:-:16:100         ad--RRDVSS-AVVEGDREA--TVFTRDD.....GVAAGVEEACGVFEHL..GAEPKPCVDDGERIAEGDVLLEPSGDATALLRGERLALNLLGSMS
+#=GR GCF_026242195.1_ORF1951:gid:nadC:pid:WP_266087307.1:loc:1607203113:1607203929:strand:-:16:100 PP 85..689999.888888765..69*****.....****************..******************************************998
+GCF_900696045.1_ORF2003:gid:nadC:pid:WP_134484818.1:loc:2081005:2081929:strand:-:37:129               ..IGTGDITSNLLIPKEIESSGTIVCKTKdntksIVASGLKEAILVFEIC..GCKATPLVEDGSIISTGTEIMSVNGSARSILKAERTALNIIMRMS
+#=GR GCF_900696045.1_ORF2003:gid:nadC:pid:WP_134484818.1:loc:2081005:2081929:strand:-:37:129       PP ..689*********************964444449999************..********************************************9
+GCA_000085225.1_ASM8522v1_genomic_ORF2296:gid::pid::loc:2566153:2566990:strand:-:18:106               ..VPSEDITTNSIVDENSKSTVDLICKQD.....GIIAGLGVFKRVFEIL.gDVDVKLYKNDGDRVKNREKIAVLTGSTRNLLVGERVALNYLQRMS
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2296:gid::pid::loc:2566153:2566990:strand:-:18:106       PP ..5789***********************.....****************.*********************************************9
+GCF_018304705.1_ORF1105:gid:nadC:pid:WP_211422300.1:loc:1324932:1325790:strand:+:20:109               ..IGRGDVTTDAILTHEVKARGRFLAKQE.....LILAGLEVAEMVFQWFdpEIQIQTFYLDGDTVPTGKEIARVVGPAHMLLAGERVALNLLQRMS
+#=GR GCF_018304705.1_ORF1105:gid:nadC:pid:WP_211422300.1:loc:1324932:1325790:strand:+:20:109       PP ..689************************.....**************************************************************9
+GCF_008000775.1_ORF1487:gid:nadC:pid:WP_147662587.1:loc:1607369:1608218:strand:-:21:107               ..IGYGDLSS-SFIPEREIGAAKIIAKSS.....GIIAGAEEATLLFEDG..GIKVKQNFDDGDKIEQGDILMELNGNLQNILTIERTALNFLMKLS
+#=GR GCF_008000775.1_ORF1487:gid:nadC:pid:WP_147662587.1:loc:1607369:1608218:strand:-:21:107       PP ..699*****.******************.....****************..******************************************998
+#=GC PP_cons                                                                                          ..6899***********999**9****99.....****************..********************************************8
+#=GC RF                                                                                               ..xxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

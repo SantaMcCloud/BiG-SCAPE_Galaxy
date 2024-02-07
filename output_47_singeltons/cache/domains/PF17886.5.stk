@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF1278:gid::pid:WP_249355562.1:loc:1535503:1536691:strand:+:310:373         pdirr-----FVVRIPFLTENEhIEVQRVGMDLYMCVG.....RIARSVSLPRILSNSDMVGYVADGELLTVTF.
+#=GR GCF_018304705.1_ORF1278:gid::pid:WP_249355562.1:loc:1535503:1536691:strand:+:310:373 PP 97765.....5799****66555***************.....*****************************99.
+GCF_018304705.1_ORF1678:gid::pid:WP_211421813.1:loc:2004618:2005806:strand:-:326:388         .ehdc----RIRIRLPFLEPDR.LETWIAGDELVIQIG.....NQRRMVGLPTSMIGLEPSHAEYQNEWLSICF.
+#=GR GCF_018304705.1_ORF1678:gid::pid:WP_211421813.1:loc:2004618:2005806:strand:-:326:388 PP .8865....789**********.***************.....*****************************99.
+GCF_018304705.1_ORF1986:gid::pid:WP_211421555.1:loc:2355157:2356282:strand:+:311:373         ....e-GQHALKLRLPNLELER.LDLVTRAGELVLEIG.....HFKRNIPLPAEVRNKEAVGADYSGDTLTITF.
+#=GR GCF_018304705.1_ORF1986:gid::pid:WP_211421555.1:loc:2355157:2356282:strand:+:311:373 PP ....6.6678************.***************.....******************************9.
+GCF_900696045.1_ORF1795:gid::pid:WP_172602233.1:loc:1864220:1865399:strand:+:323:390         ..gpt---LILKIKAPFTNKDN.FDVNRYGDYLVIKILdttgnNIVNVIPLPIATITMKLYEVKIREGIIEVTF.
+#=GR GCF_900696045.1_ORF1795:gid::pid:WP_172602233.1:loc:1864220:1865399:strand:+:323:390 PP ..986...68************.**************96666677777*****99999999*********9999.
+GCF_900066015.1_ORF403:gid::pid:WP_095044784.1:loc:468284:469481:strand:-:324:386            .....NGSYLLRLPIPFIGRDD.VRLRKRGDELFITIG.....NFKREMILPAVLAKRRAGGGRLRDGMLEISF.
+#=GR GCF_900066015.1_ORF403:gid::pid:WP_095044784.1:loc:468284:469481:strand:-:324:386    PP .....689**************.***************.....******************************9.
+GCF_008000775.1_ORF1652:gid::pid:WP_147662750.1:loc:1791455:1792037:strand:-:116:177         ....d-EKLKIIIELPGVKKHN.IQLQAASREIEIKTP.....HHHKIIQLPVPVNNS-IAKARYSNGILDIE-l
+#=GR GCF_008000775.1_ORF1652:gid::pid:WP_147662750.1:loc:1791455:1792037:strand:-:116:177 PP ....6.567889**********.***************.....*************99.99**********97.6
+#=GC PP_cons                                                                                 .....6677899******9999.***************.....99***************************99.
+#=GC RF                                                                                      .....xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF765:gid::pid:WP_211422589.1:loc:920846:921776:strand:+:54:144             ...............VTAWVNDAgPFTFVLDTGAGLTLLSPRTAARASVRETGRT.LRLQGTGAGAG.HIHRLVTAQTLALGQ-RNNRLPrvgrLVVVE......tLPP..DVDGIL----.
+#=GR GCF_018304705.1_ORF765:gid::pid:WP_211422589.1:loc:920846:921776:strand:+:54:144     PP ...............7899***99*******************************.***********.**************9.655665444566666......4566..777776.....
+GCF_018304705.1_ORF1989:gid::pid:WP_211424193.1:loc:2358486:2360094:strand:+:246:342         ...............ISVRINGKgPFNFVLDTGASSCVLSNEAAAKLGIRPVAAG.GQARAVGGSGT.FPIVYGVLKSLELGPIKIETVP....VYLRDiqs.lnsHGA..KVDGFLGLS-t
+#=GR GCF_018304705.1_ORF1989:gid::pid:WP_211424193.1:loc:2358486:2360094:strand:+:246:342 PP ...............579*********************************9999.99*********.**********************....********.998899..*******97.6
+GCF_018304705.1_ORF1989:gid::pid:WP_211424193.1:loc:2358486:2360094:strand:+:394:493         .........vetqld-----DGH.ILNFILDSGASASVVDQSVVERHNWQSKILPdQCVRIVGAAGSsEKVPVLAIGAMRIYDLVRPDLR....LPVIDmrrlnesSGF..EQSGILGGDF.
+#=GR GCF_018304705.1_ORF1989:gid::pid:WP_211424193.1:loc:2358486:2360094:strand:+:394:493 PP .........776655.....367.78*********************6655544423699999999857789999***************....*****8877654445..677****998.
+GCF_900066015.1_ORF1193:gid::pid:WP_095042671.1:loc:1416313:1416697:strand:+:16:107          aavevrgsdresali--------.TISMLIDSGADVTLVPKSCVDNLGITVVADQ.-TYELMGFDGSrSFAPVVWVEMIFLKR--IFRGR....FLIID.......---..QEWGILGRD-v
+#=GR GCF_900066015.1_ORF1193:gid::pid:WP_095042671.1:loc:1416313:1416697:strand:+:16:107  PP 987777777666665.........899**************************86..9********94566666677677766..33448....99999............888888887.5
+GCF_900066015.1_ORF2038:gid::pid:WP_095043437.1:loc:2376933:2377332:strand:+:17:108          .....syagqateiy--------.--DVLIDTGSVSTVLAADVVATLGITPAPTD.ELRILRGVGGT.EAVFSRIVDFLRIGDFGIPNFE....IEIGG.......MDYgfAINGILGMDF.
+#=GR GCF_900066015.1_ORF2038:gid::pid:WP_095043437.1:loc:2376933:2377332:strand:+:17:108  PP .....*998888774...........78**************************9.99999******.**********************....*9999.......54434889******9.
+#=GC PP_cons                                                                                 ...............689**899.999********************99999988.8899******9.889999999999999*988888....99999.......666..8889999988.
+#=GC RF                                                                                      ...............xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx....xxxxx.......xxx..xxxxxxxxxx.
+//

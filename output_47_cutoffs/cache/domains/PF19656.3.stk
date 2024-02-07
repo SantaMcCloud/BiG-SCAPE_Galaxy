@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF1833:gid::pid:WP_266087106.1:loc:1607096700:1607097570:strand:-:60:261         aa--LYGALFTAYLVETFVASFFSAALVSETREVLNGGEPSVRRGARTAWSHKLPLLAWSVIAAVIGVVIQLIESQDNT.......VARLLASVFAVAWGVMTYFVVPVIVFRDPSVRGMFEESARTFKNTWGESV-GAMGaINIVTFVLALA--GVAVAGGVFFLIPTAG.GARLVLTV.LIGGSAVVFGvLVGKTLTG
+#=GR GCF_026242195.1_ORF1833:gid::pid:WP_266087106.1:loc:1607096700:1607097570:strand:-:60:261 PP 76..56789**********************************************************************.......***************************99999999*************96.6665144443344444..6789999977887778.88899999.999887777747899****
+GCF_008000775.1_ORF2510:gid::pid:WP_147663653.1:loc:2782365:2783253:strand:-:66:277               .l-IEYLIVFVTYLGLALIATFFNVCVVYTVKTRFEGGNATLGSSLAFAFKKFHLIFAWSLLSATVGLLLYVLEQFAQNlgnvgevLVRFLRGIIGMVWNIVTIFVVPGMVYYGLGPKAAIKKSINTLSKTWGESIVRHYG.MGLIQFLLLIP--GAAIATALGFLLYPTMdFWSIVLAVgVFIVYLIVLS.LIFNVANS
+#=GR GCF_008000775.1_ORF2510:gid::pid:WP_147663653.1:loc:2782365:2783253:strand:-:66:277       PP .7.6799***************************************************************99877554311222337899999************************************************.**986655554..25677777887776642445666652557789999*.********
+#=GC PP_cons                                                                                      ...668899*************************************************************999988777.......8999************************999999**************98*8888.77665555444..4678888878877776.66777777.7788888888.899*****
+#=GC RF                                                                                           ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx.xxxxxxxxxx.xxxxxxxx
+
+GCF_026242195.1_ORF1833:gid::pid:WP_266087106.1:loc:1607096700:1607097570:strand:-:60:261         VAKTALYIYATE-----nepp
+#=GR GCF_026242195.1_ORF1833:gid::pid:WP_266087106.1:loc:1607096700:1607097570:strand:-:60:261 PP *********986.....5799
+GCF_008000775.1_ORF2510:gid::pid:WP_147663653.1:loc:2782365:2783253:strand:-:66:277               VYNTALFVYADTGK---iptg
+#=GR GCF_008000775.1_ORF2510:gid::pid:WP_147663653.1:loc:2782365:2783253:strand:-:66:277       PP ************98...6899
+#=GC PP_cons                                                                                      **********9898.......
+#=GC RF                                                                                           xxxxxxxxxxxxxxxxx....
+//

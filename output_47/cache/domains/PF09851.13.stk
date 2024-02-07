@@ -1,0 +1,19 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1517:gid::pid::loc:1713173:1713941:strand:+:226:253         .DEILKYKNLLDMEAITQDEFNTKKKELL.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1517:gid::pid::loc:1713173:1713941:strand:+:226:253 PP .7999***********************8.
+GCF_026242195.1_ORF291:gid::pid:WP_266085639.1:loc:280248:280578:strand:-:80:106                 .EAMEILRGRYARGDIDEEELRERRRKL-.
+#=GR GCF_026242195.1_ORF291:gid::pid:WP_266085639.1:loc:280248:280578:strand:-:80:106         PP .69************************8..
+GCF_026242195.1_ORF552:gid::pid:WP_266088424.1:loc:1546487:1546802:strand:-:71:97                s-ALAVLQERYARGEIDDEEFDHRRARL-.
+#=GR GCF_026242195.1_ORF552:gid::pid:WP_266088424.1:loc:1546487:1546802:strand:-:71:97        PP 5.9***********************98..
+GCF_026242195.1_ORF560:gid::pid:WP_266088442.1:loc:1551741:1552077:strand:+:80:106               k-AIEELRVAYARGDISEEEFEKRRENL-.
+#=GR GCF_026242195.1_ORF560:gid::pid:WP_266088442.1:loc:1551741:1552077:strand:+:80:106       PP 8.89*********************866..
+GCF_900696045.1_ORF468:gid::pid:WP_134482899.1:loc:507941:508652:strand:+:193:220                .DELEKLANLRDRGIISDKEFEKMKDRI-i
+#=GR GCF_900696045.1_ORF468:gid::pid:WP_134482899.1:loc:507941:508652:strand:+:193:220        PP .89***********************98.7
+GCF_900066015.1_ORF2653:gid::pid:WP_095044906.1:loc:3102950:3103592:strand:-:183:210             .QALSKLKQLMEAGLITPAEFEEKKKEIL.
+#=GR GCF_900066015.1_ORF2653:gid::pid:WP_095044906.1:loc:3102950:3103592:strand:-:183:210     PP .59*************************8.
+GCF_900066015.1_ORF3044:gid::pid:WP_197699804.1:loc:3554555:3555011:strand:-:122:149             .TELKQLAELRDMGIITADDFEAKKRQLL.
+#=GR GCF_900066015.1_ORF3044:gid::pid:WP_197699804.1:loc:3554555:3555011:strand:-:122:149     PP .58*************************8.
+#=GC PP_cons                                                                                     .69***********************998.
+#=GC RF                                                                                          .xxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

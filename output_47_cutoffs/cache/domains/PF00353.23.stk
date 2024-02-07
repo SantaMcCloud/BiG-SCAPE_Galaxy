@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+GCF_900696045.1_ORF260:gid::pid:WP_134482727.1:loc:294560:295316:strand:-:131:166         .IGFSGSDTITGMNGSDVIQGNEGQDKLYGDEGNDIL.
+#=GR GCF_900696045.1_ORF260:gid::pid:WP_134482727.1:loc:294560:295316:strand:-:131:166 PP .599*******************************97.
+GCF_900696045.1_ORF261:gid::pid:WP_134482728.1:loc:295902:296484:strand:+:128:163         .YGGPDGDFIVGGKGNDELYGGPGEDILEGGPGSNY-f
+#=GR GCF_900696045.1_ORF261:gid::pid:WP_134482728.1:loc:295902:296484:strand:+:128:163 PP .8*******************************986.7
+GCF_900696045.1_ORF262:gid::pid:WP_134482729.1:loc:296937:297480:strand:+:96:131          l-GNLGADILFGNDGDDVLFGGAEEDYMNGGKGNDRL.
+#=GR GCF_900696045.1_ORF262:gid::pid:WP_134482729.1:loc:296937:297480:strand:+:96:131  PP 7.99*******************************97.
+GCF_018304705.1_ORF12:gid::pid:WP_211421355.1:loc:15355:16885:strand:-:192:227            .YGGDGNDTLQGGDGNDTIYGGRGNDLIYGNAGNDYL.
+#=GR GCF_018304705.1_ORF12:gid::pid:WP_211421355.1:loc:15355:16885:strand:-:192:227    PP .8*********************************97.
+GCF_018304705.1_ORF2226:gid::pid:WP_249356134.1:loc:2656359:2656623:strand:-:1:28         m---------EGGEGNDTIYGGEGNDVISGGLGDDRL.
+#=GR GCF_018304705.1_ORF2226:gid::pid:WP_249356134.1:loc:2656359:2656623:strand:-:1:28 PP 5.........799999999999999999999999987.
+GCF_018304705.1_ORF2227:gid::pid::loc:2656703:2656856:strand:-:17:51                      .TGGSGHDRIDGGAGNDRINGGAGNDYIYGGDGNDT-.
+#=GR GCF_018304705.1_ORF2227:gid::pid::loc:2656703:2656856:strand:-:17:51              PP .6*********************************8..
+#=GC PP_cons                                                                              .79*******************************987.
+#=GC RF                                                                                   .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

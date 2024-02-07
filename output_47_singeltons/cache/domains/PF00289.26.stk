@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF76:gid::pid:WP_266085318.1:loc:77758:79531:strand:+:1:110                    .MFDKVLIANRGEIAVRVMRACEELGIGTVAVYSEADKNAGHVRYADEAYNVGPAK.ASESYLDHEAVIEAGEKAGAEAVHPGYGFLAENAEFASKVEDSEMKWIGPPSDAM.
+#=GR GCF_026242195.1_ORF76:gid::pid:WP_266085318.1:loc:77758:79531:strand:+:1:110            PP .789****************************************************.****************************************************998.
+GCF_018304705.1_ORF1965:gid:accC:pid:WP_211421574.1:loc:2327822:2329169:strand:+:3:112          l-FRKVLVANRGEIACRIIWACKELGLKTVAVYSQADADSLHVRFADEAVCIGPPP.SKQSYLNIPALISAAEVTDADAIHPGYGFLSENAHFAEVCEACNITFIGPSPSAI.
+#=GR GCF_018304705.1_ORF1965:gid:accC:pid:WP_211421574.1:loc:2327822:2329169:strand:+:3:112  PP 8.79****************************************************.***************************************************9986.
+GCF_900696045.1_ORF2325:gid::pid:WP_134485096.1:loc:2433860:2435372:strand:+:4:113              q-ISSILIANRGEIALRIIRACKELDIKSVSIYSDEDVRSIHVKRADAAYHIGPAA.PSQSYLNMNKIIDVAISAGVDAIHPGYGFLSENETFAELCEKNNIIFIGPKSVSM.
+#=GR GCF_900696045.1_ORF2325:gid::pid:WP_134485096.1:loc:2433860:2435372:strand:+:4:113      PP 6.789***************************************************.**************************************************98765.
+GCF_900066015.1_ORF2062:gid::pid:WP_095043461.1:loc:2399401:2400922:strand:+:5:114              t-FRKVLIANRGEIARRVIRACHELGIAAVAVYSDVDERALWVREADEAYPLHGST.AAETYLDHEKILTIAVNCGAEAIHPGYGFLSENAEFAAACARRGLVFVGPPPEAM.
+#=GR GCF_900066015.1_ORF2062:gid::pid:WP_095043461.1:loc:2399401:2400922:strand:+:5:114      PP 6.79****************************************************.*****************************************************98.
+GCF_900066015.1_ORF2335:gid::pid:WP_269459453.1:loc:2721932:2723894:strand:+:5:114              h-FETILVANRGEIARRVIRACRRLGIRAVAVYSDADARSIHVTEADAAFRLGPAP.AAESYLNIPAILEAARLAGAEAIHPGYGFLAENAGFARACAAAGLVFIGPSPEAI.
+#=GR GCF_900066015.1_ORF2335:gid::pid:WP_269459453.1:loc:2721932:2723894:strand:+:5:114      PP 7.789***************************************************.****************************************************987.
+GCF_900066015.1_ORF2338:gid::pid:WP_095043721.1:loc:2726786:2728271:strand:-:1:107              .MFTKILIANRGEIAVRIIRTCREMGILTVAVYEISDRQSLHVRLADEAVRLP---.SHHSFMEPEWMLDVARQVGADAVHPGYGFLAEDADFIRACEAAGITFIGPPAEV-v
+#=GR GCF_900066015.1_ORF2338:gid::pid:WP_095043721.1:loc:2726786:2728271:strand:-:1:107      PP .799************************************************7....7889***********************************************997.6
+GCF_900066015.1_ORF3056:gid:accC:pid:WP_095044395.1:loc:3568532:3570056:strand:+:11:120         k-FDKLLIANRGEIAMRILRAARELGIATVAVYSDADRNAPHVRFADEAYHIGPAP.ARESYLVVEKLLDVARRSGAEAIHPGYGFLAERETFAQACADAGIVFIGPPARAI.
+#=GR GCF_900066015.1_ORF3056:gid:accC:pid:WP_095044395.1:loc:3568532:3570056:strand:+:11:120 PP 6.79****************************************************.***************************************************9986.
+GCA_000085225.1_ASM8522v1_genomic_ORF24:gid::pid::loc:34749:38181:strand:+:4:114                k-FNKILVANRGEIAIRIFRACSELGIKSVGIYSKEDKYGLFRTKADESYLIGEGKgPIDAYLDMDGIIDLAKRKKVDAIHPGYGFLAENAEFARKCEENGITFIGPSSKVM.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF24:gid::pid::loc:34749:38181:strand:+:4:114        PP 5.89*************************************************655388**************************************************998.
+GCA_000085225.1_ASM8522v1_genomic_ORF1875:gid::pid::loc:2093208:2094570:strand:-:1:110          l-IKKILVANRGDIAVRIIRTCKELGIKTVAIYSEIDKDCFHRYIADESICIGPNN.ISKSYNNIENIIYLALKLKCDAIHPGFGFLSENPEFAKQCEDNNIIFIGPTREQM.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1875:gid::pid::loc:2093208:2094570:strand:-:1:110  PP 8.89****************************************************.***************************************************9987.
+#=GC PP_cons                                                                                    .789*************************************************999.9**************************************************9987.
+#=GC RF                                                                                         .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

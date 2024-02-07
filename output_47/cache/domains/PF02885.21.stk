@@ -1,0 +1,25 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1106:gid::pid::loc:1281026:1282352:strand:+:4:66           ......y-DIIKKKRDNLELSKKEINYFIENYSKGDIPDYQASALLMSIYLNKMNKQETVHLTEAMMNSG..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1106:gid::pid::loc:1281026:1282352:strand:+:4:66   PP ......5.8**********************************************************997..
+GCF_018304705.1_ORF154:gid::pid:WP_211424279.1:loc:187416:188688:strand:-:5:67                  .....ve--RIRHKRDGGELSADDIAALVAGYTQGNIPDYQMAAFLMAAFLRGMTIAETRALTEAMLHSG..
+#=GR GCF_018304705.1_ORF154:gid::pid:WP_211424279.1:loc:187416:188688:strand:-:5:67          PP .....75..59********************************************************997..
+GCF_026242195.1_ORF337:gid:trpD:pid:WP_266088009.1:loc:325308:326310:strand:+:3:64              .......QEYLDKTLDGEDLTLDEARSAADAVFE-DATDAQIGALLASLRVKGETEEEIAGFAQGMKDAA..
+#=GR GCF_026242195.1_ORF337:gid:trpD:pid:WP_266088009.1:loc:325308:326310:strand:+:3:64      PP .......699***********************9.8******************************9976..
+GCF_026242195.1_ORF1003:gid::pid:WP_266086051.1:loc:100407753:100409232:strand:-:84:146         .....vg--CIRNKLEDKELEDDEIRRIVRDIDRNALNDIELGAYVSAIYANGLSMSETLSLTEHMTEV-g.
+#=GR GCF_026242195.1_ORF1003:gid::pid:WP_266086051.1:loc:100407753:100409232:strand:-:84:146 PP .....97..5999*****************************************************875.6.
+GCF_026242195.1_ORF1711:gid::pid:WP_266086984.1:loc:803559321:803560341:strand:+:5:64           gtgpksa----------GDMTYDEAEGAARAILDGEPDETTLGAFLLANRWKTNTPEELAGFTDEIAA--rs
+#=GR GCF_026242195.1_ORF1711:gid::pid:WP_266086984.1:loc:803559321:803560341:strand:+:5:64   PP *999876..........689*******************************************98876..57
+GCF_900696045.1_ORF616:gid:trpD:pid:WP_134483024.1:loc:667254:668397:strand:-:26:88             .....kl--ILGKLSRREHLSQPEINKVIKNIINGDCSDIFTSAFLMGLQIKGETDDEFSGVIEAIRT--as
+#=GR GCF_900696045.1_ORF616:gid:trpD:pid:WP_134483024.1:loc:667254:668397:strand:-:26:88     PP .....76..899*****************************************************996..57
+GCF_000011105.1_ORF1494:gid::pid:WP_010885672.1:loc:1416496:1418008:strand:+:88:150             ......v-KYIKKKMKGEKLRKVEIETIIRDIVDRKLRNTEISAFITAIEINGLSMDEIAALTIAMAETG..
+#=GR GCF_000011105.1_ORF1494:gid::pid:WP_010885672.1:loc:1416496:1418008:strand:+:88:150     PP ......6.79*********************************************************986..
+GCF_900066015.1_ORF1602:gid:trpD:pid:WP_095043039.1:loc:1920205:1921237:strand:+:4:66           ......r-AAIAKVINGQDLSRQEAGAAMDAIMDGAATPAQIGSYLTALRMKGETAEEIAGSAQSMRRH-v.
+#=GR GCF_900066015.1_ORF1602:gid:trpD:pid:WP_095043039.1:loc:1920205:1921237:strand:+:4:66   PP ......7.589********************************************************98.7.
+GCF_900066015.1_ORF2459:gid::pid:WP_095043840.1:loc:2880207:2881536:strand:+:8:70               ......v-DLIARKRDGGELTTAEIDGFIHDYTAGDIPDYQAAALLMAIYLRGMNRRETVDLTLAMAHSG..
+#=GR GCF_900066015.1_ORF2459:gid::pid:WP_095043840.1:loc:2880207:2881536:strand:+:8:70       PP ......5.89*********************************************************997..
+GCF_008000775.1_ORF2208:gid::pid:WP_147663294.1:loc:2431624:2433166:strand:-:103:163            ......s---IKEKVKGKKLTTTQIQEIIQDCTHDNLLAIEKAAFIVGLETMGAKNDEIVDLTEAMTHSG..
+#=GR GCF_008000775.1_ORF2208:gid::pid:WP_147663294.1:loc:2431624:2433166:strand:-:103:163    PP ......8...89******************************************************9987..
+#=GC PP_cons                                                                                    .......6789*******************************************************9887..
+#=GC RF                                                                                         .......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

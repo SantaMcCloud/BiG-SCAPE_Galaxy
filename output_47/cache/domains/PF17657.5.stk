@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1194:gid::pid::loc:1372090:1376389:strand:+:1091:1244         g-PTIIRMLEDMT------.....GINITEIPLD..........D...KETMSLFTSTEALgvtpeeincpigclAVPEFGTKFVRQMLLDTKPTTFAELVRISGLSHGTDVWVNNAQDLVRE--.....DIV-------GLKDVISTRDDIMNY--------LIFKGLPPKMSFTIMESVRKGK-----GLKPEHIEEM
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1194:gid::pid::loc:1372090:1376389:strand:+:1091:1244 PP 8.79*********...........9*********..........*...*************************************************************************99.......344.......8**************........********************54.....4444444444
+GCA_000085225.1_ASM8522v1_genomic_ORF3292:gid::pid::loc:3756602:3760172:strand:-:556:724           .TLTVIRDTLDLIEKNRVIknyteKIDFSKMDYD..........D...PKVYEMLSSGNTL..............GVFQLESAGMRSFMKQLKPDNFEDIVAGISLFRPGPMD--SIPAYIKNKS.....NPKDVTYLHEKLKPIMEVTYGCLVYQEQVMQVVRDLGGYSYGRSDLVRRAMSKKKMDVMEEERQYFIHG-
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3292:gid::pid::loc:3756602:3760172:strand:-:556:724   PP .79**********999844444448*********..........*...*************..............**************************************..**********.....******************************************************************998.
+GCF_018304705.1_ORF289:gid:dnaE:pid:WP_211422991.1:loc:349320:352044:strand:-:577:742              a-LTIIEDCLTSIERETGQ.....RPDLTQIPTN..........D...PAALRLFGEGETD..............AVFQFEGDGISEIARRLKPSGLDDIVALNALYRPGPLDSGMVDDYIERRH.....GRRRVTYDFKELKDVLENTYGVPVFQEQIMAIFQRLAGYSLGEADLVRRAMGKKKREELDAHKAKFIAQA
+#=GR GCF_018304705.1_ORF289:gid:dnaE:pid:WP_211422991.1:loc:349320:352044:strand:-:577:742      PP 6.9****************.....**********..........*...*************..............**************************************************.....********************************************************************99
+GCF_900066015.1_ORF1863:gid:dnaE:pid:WP_095043278.1:loc:2189152:2193331:strand:-:586:767           .TLTVMRLAAQLIEQRHGV.....RYTMDNIPYDigqcgpdkdsDkgmDKAFAMLGRGDVL..............GVFQVEGSGMRKLMMDMKPRRFDHIIAAISLFRPGPME--NIPEYIRRMHaalndGKDVAVYHTPELKPILQDTYGILVYQEQIIRIAAELAGYEPGEADMIRKAVSKKKRDLMDEHKAQFTAGA
+#=GR GCF_900066015.1_ORF1863:gid:dnaE:pid:WP_095043278.1:loc:2189152:2193331:strand:-:586:767   PP .79****************.....******775444444422223222479**********..............**************************************..**********999988888899999**********************************************************99
+GCF_900066015.1_ORF3665:gid:dnaE:pid:WP_157913320.1:loc:4275672:4278816:strand:-:568:732           a-LTVLADAAELVRLRRAP.....DFRLEDIPPD..........N...PTTAAMLRAGDTI..............GVFQCESDGARRTLRQLRAANVADLAVAGAFFKPGPATGGMARAFIRRYR.....GEERVTYLHPALEPILGRTKGVLLFQEQVLRVATEIAGLDWAQADRLRRGMSKFQAAEMDALAAAFADGC
+#=GR GCF_900066015.1_ORF3665:gid:dnaE:pid:WP_157913320.1:loc:4275672:4278816:strand:-:568:732   PP 6.9****************.....**********..........*...*************..............**************************************************.....*****************************************************99***********9997
+#=GC PP_cons                                                                                       .79*************998.....9*****9999..........8...99***********..............**************************************************.....888**************************************************99*****9999999887
+#=GC RF                                                                                            .xxxxxxxxxxxxxxxxxx.....xxxxxxxxxx..........x...xxxxxxxxxxxxx..............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1194:gid::pid::loc:1372090:1376389:strand:+:1091:1244         KKN-nvp..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1194:gid::pid::loc:1372090:1376389:strand:+:1091:1244 PP 444.59*..
+GCA_000085225.1_ASM8522v1_genomic_ORF3292:gid::pid::loc:3756602:3760172:strand:-:556:724           ----kfded
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3292:gid::pid::loc:3756602:3760172:strand:-:556:724   PP ....57789
+GCF_018304705.1_ORF289:gid:dnaE:pid:WP_211422991.1:loc:349320:352044:strand:-:577:742              VAR-g....
+#=GR GCF_018304705.1_ORF289:gid:dnaE:pid:WP_211422991.1:loc:349320:352044:strand:-:577:742      PP 986.5....
+GCF_900066015.1_ORF1863:gid:dnaE:pid:WP_095043278.1:loc:2189152:2193331:strand:-:586:767           MAR-g....
+#=GR GCF_900066015.1_ORF1863:gid:dnaE:pid:WP_095043278.1:loc:2189152:2193331:strand:-:586:767   PP 876.6....
+GCF_900066015.1_ORF3665:gid:dnaE:pid:WP_157913320.1:loc:4275672:4278816:strand:-:568:732           ----crp..
+#=GR GCF_900066015.1_ORF3665:gid:dnaE:pid:WP_157913320.1:loc:4275672:4278816:strand:-:568:732   PP ....679..
+#=GC PP_cons                                                                                       765......
+#=GC RF                                                                                            xxxx.....
+//

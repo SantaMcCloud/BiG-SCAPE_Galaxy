@@ -1,0 +1,36 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1036:gid::pid::loc:1213779:1214973:strand:-:34:225         tt--YNSYLIKD-EKTVLF....DTVKANFKDEFLSNLSEV.TDIAKIDYVVIHHTEPDHAGSLKYLLDIN.PNIEVYCTKAAKLYLD.G-QI..NRPF..NCHVIK.DGEILNIGKR-NLRFITAPFLHWVDTMFTYIEEDKTLLTCDAFGCHFA.SVDA-EVV.NS-EDY.......LKSAKHYYDC..IV.KpF..A
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1036:gid::pid::loc:1213779:1214973:strand:-:34:225 PP 96..69999976.5789**....******************.*****************************.****************.9.77..5555..667777.8999999988.**********************************997.4444.454.55.89*.......*******998..88.525..7
+GCA_000085225.1_ASM8522v1_genomic_ORF1598:gid::pid::loc:1795562:1798094:strand:+:35:230         tt--YNSYVLKGTEKTVLF....ETVKDKHFDNYIERLNDLnIDFEKIDYIVVSHTEPDHAGSVEKLLDLA.KNAKVVASETAIKYLK.EIVN..KDFE..YVAVTD.-GDTLSIGDK-TLEFFSVPMLHWPDTIYTYIKEDKTLVTCDSFGSHYSnDKIVNTLDeNEEKDY.......LDALRYYYDC..IM.G.P.fK
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1598:gid::pid::loc:1795562:1798094:strand:+:35:230 PP 96..699************....******************9*****************************.99**************.9665..6666..677666..899***999.**********************************9984444443333445678.......99********..**.6.5.26
+GCF_900696045.1_ORF949:gid::pid:WP_134483356.1:loc:996731:997517:strand:-:37:223                .i-TFNQFLIDD-ARPALI....HTGPMGMYPKIENKVKEV.IPLDKLEYVAFLHFESDEWGGMQFLQSP-.-KARLICSDLSSKLN-.LTGW..YNIP..VDHISFwDGEVLKTGKK-SLRFIMTPHVHHWDSMMIFEENTKSLFTSDLFIQ--P.GMNK-PVI.SD--DL.......SEAMISLYRAvgIF.A.S..E
+#=GR GCF_900696045.1_ORF949:gid::pid:WP_134483356.1:loc:996731:997517:strand:-:37:223        PP .5.6899*9966.56789*....******************.**********************999885...79*****9998764..4466..6778..88888866788888887.********************************99..5.4544.455.44..45.......66666666542379.*.*..*
+GCF_000011105.1_ORF1012:gid::pid:WP_048053299.1:loc:985310:986540:strand:-:38:238               .i-TYNAYLMKVGDAVVLF....DTWKGEYTEKFLESLSTL.VDPKEITHIIVHHTEPDHSGALPKLLELNeYRAKLIGTTFAKNLLQ.GFYGdkVVEN..FHTIKD.-GEEVKIGNR-TFRFITVPWLHWPDTMITYDVEDKLIFSCDAGGGYGIpEAID----.DSDEDV.......VKKYLPYVTK..YI.V.TviG
+#=GR GCF_000011105.1_ORF1012:gid::pid:WP_048053299.1:loc:985310:986540:strand:-:38:238       PP .5.689*************....******************.****************************9777*************9.7666455678..888877..999***999.*********************************975423322.....222344.......4444444444..44.4.3112
+GCF_000011105.1_ORF1845:gid::pid:WP_048053528.1:loc:1712669:1713437:strand:-:38:229             ..VDVNSYLIVSKGKGILI....DPGGYKIFTKVLANVSKY.IDPKDIEYIYMCHQDPDVAGSIPLWREI-.SNAKIIIHWLWVRFLP.HFGF..ENIRgyAHELQD.EGETLNFGAT-TLEFIPAHFLHSPGHFTVYDRRSKFLFSGDIGIA-FP.-DERYLVV.ENMERH.......IQYMRPLHER..LM.A.S..N
+#=GR GCF_000011105.1_ORF1845:gid::pid:WP_048053528.1:loc:1712669:1713437:strand:-:38:229     PP ..689**************....******************.***************************9..79**************.****..6555337899**.*******999.**********************************.66..5689***.******.......**********..**.*.*..*
+GCF_008000775.1_ORF1104:gid::pid:WP_147662218.1:loc:1218385:1219612:strand:-:33:232             vt--INSYVVR-GDKIAIIdlvrDWGGAQ--SNLIDELNSIgISIKDVDYFIVNHLEPDHTGDLRGFNELS.GKAEIITSTKGKPLVEaFYGI..-TEN..VKAVS-.SGDTLDLGQGKVLTFYDIPNVHWPETMATFESSTETLFPCDAFGSFGA.-LKGSLFD.DENS-EedhlfyeNESLRYYANI..VG.P.F..S
+#=GR GCF_008000775.1_ORF1104:gid::pid:WP_147662218.1:loc:1218385:1219612:strand:-:33:232     PP 65..5666554.44444440111445544..78999****99****************************9.99*************835566...777..77776..599******************************************764..5566775.3322.224566656778888888..88.8.8..9
+GCF_008000775.1_ORF3406:gid::pid:WP_147664502.1:loc:3815183:3816386:strand:-:33:227             tt--YNSYLIKE-EKNVLI....DTVWMPFSKEFVKNLSEE.IDLSEIDYVIANHGEIDHSGGLPELMDLI.PDIPIYCTKNAVDSLK.GQYH..KDWN..FKT-VK.TGDSLDIGNGKSLVFVEMRMLHWPDSMATYLTQDNILFSNDAFGQHYLnDFMYNDLV.DQ-DLL.......WQECIKYYAN..ILtP.F..S
+#=GR GCF_008000775.1_ORF3406:gid::pid:WP_147664502.1:loc:3815183:3816386:strand:-:33:227     PP 96..69999965.679***....******************.*****************************.**********999999.8444..4555..555.56.799*****************************************9775222222333.33.456.......7776666655..5516.7..8
+#=GC PP_cons                                                                                    ..67799999888788999....999999**9*********.***************************9*.89**********9999.7666..5666..777877.79999**999***********************************875.34445555.445676.......7888888877..78.7.7..7
+#=GC RF                                                                                         ..xxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx.xxxx..xxxx..xxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx.xxxxxx.......xxxxxxxxxx..xx.x.x..x
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1036:gid::pid::loc:1213779:1214973:strand:-:34:225         KHVLSAVDKVVGL.......NIEfdTILTSHG
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1036:gid::pid::loc:1213779:1214973:strand:-:34:225 PP 7788888998888.......664227888888
+GCA_000085225.1_ASM8522v1_genomic_ORF1598:gid::pid::loc:1795562:1798094:strand:+:35:230         PSMVTAIEKIKDL.......DID..TVCPGHG
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1598:gid::pid::loc:1795562:1798094:strand:+:35:230 PP 78999********.......***..******9
+GCF_900696045.1_ORF949:gid::pid:WP_134483356.1:loc:996731:997517:strand:-:37:223                DPVRKTTKRLVEL.......DPN..MVYPMHG
+#=GR GCF_900696045.1_ORF949:gid::pid:WP_134483356.1:loc:996731:997517:strand:-:37:223        PP *************.......***..******9
+GCF_000011105.1_ORF1012:gid::pid:WP_048053299.1:loc:985310:986540:strand:-:38:238               HYHKYIVQNIKKLkelgiieNAN..MILPGHG
+#=GR GCF_000011105.1_ORF1012:gid::pid:WP_048053299.1:loc:985310:986540:strand:-:38:238       PP 44455555555554447666789..9***999
+GCF_000011105.1_ORF1845:gid::pid:WP_048053528.1:loc:1712669:1713437:strand:-:38:229             KALRLWVNKVRGL.......DIE..AILPQHG
+#=GR GCF_000011105.1_ORF1845:gid::pid:WP_048053528.1:loc:1712669:1713437:strand:-:38:229     PP *************.......***..******9
+GCF_008000775.1_ORF1104:gid::pid:WP_147662218.1:loc:1218385:1219612:strand:-:33:232             NFVLKAIDALGPL.......DIK..IIAPSHG
+#=GR GCF_008000775.1_ORF1104:gid::pid:WP_147662218.1:loc:1218385:1219612:strand:-:33:232     PP 999999*******.......***..******9
+GCF_008000775.1_ORF3406:gid::pid:WP_147664502.1:loc:3815183:3816386:strand:-:33:227             GLVEKKINEVLELk.....iPID..IIATSHG
+#=GR GCF_008000775.1_ORF3406:gid::pid:WP_147664502.1:loc:3815183:3816386:strand:-:33:227     PP 89999999998875.....5789..9***999
+#=GC PP_cons                                                                                    8888999999998.......999..9*****9
+#=GC RF                                                                                         xxxxxxxxxxxxx.......xxx..xxxxxxx
+//

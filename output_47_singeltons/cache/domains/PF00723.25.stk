@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+NZ_CP072637.1.region003_ORF8:gid::pid:WP_249356142.1:loc:12968:13976:strand:-:3:310         qnadg---------------------------------------------------------------------------------------------------------SFPQNSWLDGRPYWPSVQLDEVAYPIILAWQL---ERFDRETYTQHVRPAAEYILRHGPYTPQERWEEEEGYSPSTIAAEIAGLICAADI
+#=GR NZ_CP072637.1.region003_ORF8:gid::pid:WP_249356142.1:loc:12968:13976:strand:-:3:310 PP *8765.........................................................................................................56677888999*********************...55566777788********************************************
+GCF_018304705.1_ORF3077:gid::pid:WP_249356142.1:loc:3677231:3678239:strand:-:3:310          qnadg---------------------------------------------------------------------------------------------------------SFPQNSWLDGRPYWPSVQLDEVAYPIILAWQL---ERFDRETYTQHVRPAAEYILRHGPYTPQERWEEEEGYSPSTIAAEIAGLICAADI
+#=GR GCF_018304705.1_ORF3077:gid::pid:WP_249356142.1:loc:3677231:3678239:strand:-:3:310  PP *8765.........................................................................................................56677888999*********************...55566777788********************************************
+#=GC PP_cons                                                                                ..............................................................................................................56677888999*********************...55566777788********************************************
+#=GC RF                                                                                     .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+NZ_CP072637.1.region003_ORF8:gid::pid:WP_249356142.1:loc:12968:13976:strand:-:3:310         ARRLGRAEDAERYERTADRWAEGVqqwcyTTTGPWDegeaERGYYLRINNNrdpndgfkldinngggqHDERAIVDAGFLELVRLGIVPPDD---------PKIVRSLRMVDRVIRVETPMGPG-----WRRYNYDGYG--ERADGSGW----------------QDKGIGRiWPLLTGERGEYVIASGG----------
+#=GR NZ_CP072637.1.region003_ORF8:gid::pid:WP_249356142.1:loc:12968:13976:strand:-:3:310 PP ************************77765555777622225799****9999***************999**********************.........********************999.....9********5..55666666................9999*************55555555..........
+GCF_018304705.1_ORF3077:gid::pid:WP_249356142.1:loc:3677231:3678239:strand:-:3:310          ARRLGRAEDAERYERTADRWAEGVqqwcyTTTGPWDegeaERGYYLRINNNrdpndgfkldinngggqHDERAIVDAGFLELVRLGIVPPDD---------PKIVRSLRMVDRVIRVETPMGPG-----WRRYNYDGYG--ERADGSGW----------------QDKGIGRiWPLLTGERGEYVIASGG----------
+#=GR GCF_018304705.1_ORF3077:gid::pid:WP_249356142.1:loc:3677231:3678239:strand:-:3:310  PP ************************77765555777622225799****9999***************999**********************.........********************999.....9********5..55666666................9999*************55555555..........
+#=GC PP_cons                                                                                ************************.....5557776....5799****999.................99**********************.........********************999.....9********5..55666666................9999***.*********55555555..........
+#=GC RF                                                                                     xxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxx....xxxxxxxxxxx.................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+NZ_CP072637.1.region003_ORF8:gid::pid:WP_249356142.1:loc:12968:13976:strand:-:3:310         -----------DANPYAKTMLAFAGPTGMIPEQVWDqayppdaryRIGQgTGSATPLAWSMAQFVRL--vm
+#=GR NZ_CP072637.1.region003_ORF8:gid::pid:WP_249356142.1:loc:12968:13976:strand:-:3:310 PP ...........899******************************988887999***********997..68
+GCF_018304705.1_ORF3077:gid::pid:WP_249356142.1:loc:3677231:3678239:strand:-:3:310          -----------DANPYAKTMLAFAGPTGMIPEQVWDqayppdaryRIGQgTGSATPLAWSMAQFVRL--vm
+#=GR GCF_018304705.1_ORF3077:gid::pid:WP_249356142.1:loc:3677231:3678239:strand:-:3:310  PP ...........899******************************988887999***********997..68
+#=GC PP_cons                                                                                ...........899**********************.........8888.999***********997....
+#=GC RF                                                                                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........xxxx.xxxxxxxxxxxxxxxxxxx..
+//

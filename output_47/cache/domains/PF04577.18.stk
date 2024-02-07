@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF1329:gid::pid:WP_266086457.1:loc:200908127:200909387:strand:-:174:369         .YYHWMVEYLPKLrllehyiektgkeptvlvesdprgfvrgtletigypsssyeewrggkaridslILTP...............................................HRIHSFNYRN...PPLSNY.NPSRDDIRWLRQRVRSSTNR.DRGGDvrkekskSRRIYISRqevdsDHTSSRKVLNYDEVKGV
+#=GR GCF_026242195.1_ORF1329:gid::pid:WP_266086457.1:loc:200908127:200909387:strand:-:174:369 PP .9***********666666666666666555555555555555555555555555555555555444444...............................................8999998888...888888.99999999999999999988.8776699999**************888888************
+GCF_026242195.1_ORF1338:gid::pid:WP_266086469.1:loc:401614010:401615267:strand:-:181:357         .FGHWLLEDLPRL.....................................................---Racqhyydktgrkplillkkdpps.waidtlrllgfsssdwiewdkrsATVSRLVVPKl.nYVHSHEkQYQPSDRKWVGEQMKSRIDL.DKNEF.......CRRVFVSR.....QGQERRKIINFDEVSDT
+#=GR GCF_026242195.1_ORF1338:gid::pid:WP_266086469.1:loc:401614010:401615267:strand:-:181:357 PP .9***********........................................................333477777777777777888889.9999999999999999999****77777777664.422333348899999*************.*****.......********.....99***************
+GCF_900066015.1_ORF955:gid::pid:WP_157912905.1:loc:1145932:1147111:strand:-:150:323              v-FHWFIESLPRLhslss..........................................ypepitL--Lmpdglpadrrqqlaa................clppdvtvrfipanrrVRVERFVLPSfltTQWDFA.YPPHNHLAHVRDRLIGAAGLpPRLVP.......GERIYILR.....DRARVRRVINEAAVVEL
+#=GR GCF_900066015.1_ORF955:gid::pid:WP_157912905.1:loc:1145932:1147111:strand:-:150:323      PP 7.7**********66655..........................................5555552..0557777777777778................888999999999**************996555555.88888999999998888876257899.......********.....88888************
+GCF_900066015.1_ORF1461:gid::pid:WP_095042918.1:loc:1752521:1753682:strand:-:132:311             .FGHYIMETLSNW.....................................................---WaltenlgdidrycfhvydpsllqrpyikacldamgitadnlvtfdrpTRLSRVIVPQ...TSFQLQ.SHTHDAYREFMNKLAVALGV.ADARP......tDQPLYLSRt...aHKSGVRQYIGEEKVESF
+#=GR GCF_900066015.1_ORF1461:gid::pid:WP_095042918.1:loc:1752521:1753682:strand:-:132:311     PP .9***********........................................................445588888888888888999999999999999999999999999999**********...******.********999999999999.99999......5689*****9...888888************
+#=GC PP_cons                                                                                     .99**********.....................................................3443...............................................9999999988...667777.99999999999999999998.88899.......99******.....88999************
+#=GC RF                                                                                          .xxxxxxxxxxxx.....................................................xxxx...............................................xxxxxxxxxx...xxxxxx.xxxxxxxxxxxxxxxxxxxx.xxxxx.......xxxxxxxx.....xxxxxxxxxxxxxxxxx
+
+GCF_026242195.1_ORF1329:gid::pid:WP_266086457.1:loc:200908127:200909387:strand:-:174:369         LDEF-G---FEPYIMENLPFRRQAELFADADVVMGPHGAGLVNIIF.SDN-----plvv
+#=GR GCF_026242195.1_ORF1329:gid::pid:WP_266086457.1:loc:200908127:200909387:strand:-:174:369 PP ***9.*...*************************************.876.....5677
+GCF_026242195.1_ORF1338:gid::pid:WP_266086469.1:loc:401614010:401615267:strand:-:181:357         VRNF-G---FEIFRPEELTTEDQIRLFDQAEVVLGPTGSAFANVIF.ADSATI--i...
+#=GR GCF_026242195.1_ORF1338:gid::pid:WP_266086469.1:loc:401614010:401615267:strand:-:181:357 PP ***9.*...*************************************.998775..6...
+GCF_900066015.1_ORF955:gid::pid:WP_157912905.1:loc:1145932:1147111:strand:-:150:323              LQTR-G---FRPYRLEELPFADQVRLFRDAEMVIAPHGAGLANLLF.APP-----vpv.
+#=GR GCF_900066015.1_ORF955:gid::pid:WP_157912905.1:loc:1145932:1147111:strand:-:150:323      PP ****.*...*************************************.*98.....899.
+GCF_900066015.1_ORF1461:gid::pid:WP_095042918.1:loc:1752521:1753682:strand:-:132:311             LAER-G---ARIVHPQQLPFAEQLRVVNEHTNILGFQGSQLANIVGaLEPK----tvty
+#=GR GCF_900066015.1_ORF1461:gid::pid:WP_095042918.1:loc:1752521:1753682:strand:-:132:311     PP ****.9...**********************************99634444....5689
+#=GC PP_cons                                                                                     ***9.*...************************************9.877675......
+#=GC RF                                                                                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx....
+//

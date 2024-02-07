@@ -1,0 +1,35 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF541:gid::pid::loc:618499:621067:strand:+:777:849                  ..s-FQPGSVLVAVTTTPAWTPLFS..SASAIVTDIGGPLSHSSIVAREYGIPAVMATHIATR.............TIKSGQMITVDGLAG
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF541:gid::pid::loc:618499:621067:strand:+:777:849          PP ..6.799******************..************************************.............************887
+GCA_000085225.1_ASM8522v1_genomic_ORF2342:gid::pid::loc:2616673:2619301:strand:-:419:504               ekg---EKVVLVRLETSPEDIEGMV..KAEGILTARGGMTSHAAVVARGMGKCCVAGCGEIKVdefnkeiralddvVIKEGEYISIDGSTG
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2342:gid::pid::loc:2616673:2619301:strand:-:419:504       PP 976...569****************..***********************************9***************************9
+GCA_000085225.1_ASM8522v1_genomic_ORF2688:gid::pid::loc:3030576:3032289:strand:-:150:224               ..a-LSEEVVLIAHDLTPSDTATMNkkMVLGFLTDIGGRTSHTAIMSRTLEIAAIVGLNDITS.............KVKDGDFVVFNGDTG
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2688:gid::pid::loc:3030576:3032289:strand:-:150:224       PP ..7.5789******************9***********************************9.............99999********99
+GCA_000085225.1_ASM8522v1_genomic_ORF3290:gid::pid::loc:3753622:3755383:strand:-:504:576               ...DFNEGDILVSTATDAEMNNYIE..KAGAVVTENGGMTSHTAIVGINLDIPVIVSATDITN.............LVKDGEVVTVDASRG
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3290:gid::pid::loc:3753622:3755383:strand:-:504:576       PP ...589*******************..***********************************8.............88888********99
+GCF_018304705.1_ORF1025:gid:ptsP:pid:WP_211422369.1:loc:1224515:1226258:strand:-:161:235               ..q-LDTPSILFADDILPTMLAEVNptNLNGLVTDTGGVMTHTAIIARSLGIPAVFGVQEALN.............QATEGSACIVDGSHG
+#=GR GCF_018304705.1_ORF1025:gid:ptsP:pid:WP_211422369.1:loc:1224515:1226258:strand:-:161:235       PP ..6.67889*****************************************************9.............99999********98
+GCF_018304705.1_ORF1799:gid:ppdK:pid::loc:2145094:2147865:strand:-:427:508                             .sg---ERVILVRTETSPEDFHGMV..AAQGILTARGGLTSHAAVVARGMGKPCIAGCSDLRLdaegm...hlggrTLKEGDFITLDGTTG
+#=GR GCF_018304705.1_ORF1799:gid:ppdK:pid::loc:2145094:2147865:strand:-:427:508                     PP .97...579****************..**********************************99*****...*******************9
+GCF_018304705.1_ORF2518:gid::pid:WP_211423631.1:loc:3009601:3011866:strand:+:662:733                   .st---EPLILVAPAVDAGWVPVFA..GVAGVVVEIGGDLSHGSIVLRELGLPAVTNVRHVTR.............VIRTGDRIRVQAALG
+#=GR GCF_018304705.1_ORF2518:gid::pid:WP_211423631.1:loc:3009601:3011866:strand:+:662:733           PP .86...678****************..************************************.............**********98755
+GCF_026242195.1_ORF2011:gid:ppsA:pid:WP_266087426.1:loc:3214311065:3214313312:strand:-:351:423         ..r-IEEGDVMVTEQTMPDMVPAMK..RSAAIVTDEGGLTSHAAIVSRELGKTAVVGTGNATT.............ALEDGDTVTVDGDRG
+#=GR GCF_026242195.1_ORF2011:gid:ppsA:pid:WP_266087426.1:loc:3214311065:3214313312:strand:-:351:423 PP ..6.79*******************..***********************************9.............99999********99
+GCF_000011105.1_ORF87:gid:ppsA:pid:WP_048053027.1:loc:75255:77712:strand:+:405:477                     ...KVKEGDVLVTTMTNPDMVPAMK..RASAIITDEGGRTSHAAIVSRELGIPAVVGTKEATK.............KLKTGDYVTVDGTRG
+#=GR GCF_000011105.1_ORF87:gid:ppsA:pid:WP_048053027.1:loc:75255:77712:strand:+:405:477             PP ...589*******************..************************************.............*************99
+GCF_900066015.1_ORF435:gid:ppdK:pid:WP_095041959.1:loc:500808:503604:strand:+:454:538                  dgr----KVIMVRPETKPDDVHGML..AAQGILTSRGGRTSHAALVARQFGKPAVVGVMELDIdldlrhmsigediNVKEGDWISLDGTQG
+#=GR GCF_900066015.1_ORF435:gid:ppdK:pid:WP_095041959.1:loc:500808:503604:strand:+:454:538          PP 975....59****************..************************************************999999********99
+GCF_900066015.1_ORF1782:gid:ptsP:pid:WP_095043203.1:loc:2108259:2109972:strand:+:152:226               .lp--PEPSIIIADDLTPSDTVQFDpaNVLGLATVRGGPTSHTAILARSLGIPAVVSAPVELG.............SLANDTPAILDGLSG
+#=GR GCF_900066015.1_ORF1782:gid:ptsP:pid:WP_095043203.1:loc:2108259:2109972:strand:+:152:226       PP .97..689******************************************************9.............99999*******988
+GCF_900066015.1_ORF1795:gid:ptsP:pid:WP_095043216.1:loc:2121155:2123696:strand:+:421:495               ..n-FAAPSVLIAADLSPSDTARLDraQVLAICTELGAATAHSAILARALGIPAVVGLGPNVW.............QVADGQRVAVDGDAG
+#=GR GCF_900066015.1_ORF1795:gid:ptsP:pid:WP_095043216.1:loc:2121155:2123696:strand:+:421:495       PP ..6.56789*****************************************************9.............99999********98
+GCF_008000775.1_ORF135:gid::pid::loc:143930:144458:strand:+:102:174                                    ...KFEEGEILVAKSTNIGWTLIFP..KAAGIITDIGAPLSHASIVARELGIPAVVGTINATM.............ILKTGDLVKVNGTKG
+#=GR GCF_008000775.1_ORF135:gid::pid::loc:143930:144458:strand:+:102:174                            PP ...689*******************..************************************.............*************99
+GCF_008000775.1_ORF3756:gid:ppdK:pid:WP_147664841.1:loc:4241017:4243696:strand:-:420:505               ran---QRIILVRKETKPEDFPGMI..ASIGILTSRGGKTCHAAVVARGIGLPAIVGAGELEIdeekrtasvggevKFKEGDLISIDGITG
+#=GR GCF_008000775.1_ORF3756:gid:ppdK:pid:WP_147664841.1:loc:4241017:4243696:strand:-:420:505       PP 875...668****************..*************************************************************998
+GCF_008000775.1_ORF3767:gid::pid::loc:4252329:4252755:strand:-:68:140                                  ...KLQEGEILVATSTNIGWTLLFP..RAKAIITDIGAPLSHAAIVARELGIPAVVGTNNATM.............VLKTGDKVLVDGTQG
+#=GR GCF_008000775.1_ORF3767:gid::pid::loc:4252329:4252755:strand:-:68:140                          PP ...589*******************..************************************.............*************99
+#=GC PP_cons                                                                                           ...578889****************..***********************************9.............99999*******998
+#=GC RF                                                                                                ...xxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.............xxxxxxxxxxxxxxx
+//

@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1465:gid::pid::loc:1670333:1671323:strand:+:184:327         FKEETETDLFGEQSVLCGGISELIKLGYKTLVDAGYQKEVAYFECLHEMKLIVDLIYEGGFERMRYSISDTAEYGDYVSGKRVI.TDAAKQGMQNVLEDIQNGKFAKAWIKENEE.GRENFLKTREEEYNTEIAEVGRNLRSMMS-f
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1465:gid::pid::loc:1670333:1671323:strand:+:184:327 PP 9***********************************************************************************.******************************.***************************97.7
+GCF_026242195.1_ORF350:gid:ilvC:pid:WP_266088152.1:loc:337548:338541:strand:+:183:326            FREETETDLFGEQAILCGGTSALIKASFETLVDAGYSPEMAYFECANELKLIVDLIFEGGLSGMRDNISDTAEYGDLTRGPRVI.DDDVRDNLDEVLEEVQNGEFAREWINENQA.GRPSYNQLKERDEEHLIEDVGGELRSLMT-s
+#=GR GCF_026242195.1_ORF350:gid:ilvC:pid:WP_266088152.1:loc:337548:338541:strand:+:183:326    PP 99**********************************************************************************.******************************.**************************995.8
+GCF_900696045.1_ORF93:gid:ilvC:pid:WP_134482574.1:loc:102230:103235:strand:-:185:328             FKEEVETDWFGEQVDLCGGVHQMILKSFETLVEAGYQPEIAYFECLHELKLIVDLIQKYGITGMYNRVSETARYGGLTRGKRVI.DQSSKSKMKEVLEEIQSGHFANEWVTNYKKdKKSAFETMLLELENHEIEKVGKDLRKMM--w
+#=GR GCF_900696045.1_ORF93:gid:ilvC:pid:WP_134482574.1:loc:102230:103235:strand:-:185:328     PP 9***********************************************************************************.***************************99878999***********************9..6
+AP018533.1.region002_ORF14:gid::pid::loc:11925:12948:strand:-:184:329                            FHDETETDLFGEQAVLCGGVVDLMKCGFETLVEAGYAPENAYFECIHEMKLIIDLINKGGVAAMNYSISDTAEFGEYVSGPRVLpYEETKKNMKAVLNDIQDGTFAGRWIAENKSfGRTFFNSKRAQLAQHQMEIVGAELRKNMLW.
+#=GR AP018533.1.region002_ORF14:gid::pid::loc:11925:12948:strand:-:184:329                    PP 89*********************************************************************************9789***************************99**************************9976.
+GCF_900066015.1_ORF220:gid:ilvC:pid:WP_095041766.1:loc:266216:267218:strand:-:184:327            FTEETETDLFGEQVILCGGVSHLIESAFNTLVEAGYQPEIAYFECLHELKLIVDLIYQGGLNYMRYSVSDTAEHGDYTAGPKIV.TDQTRQAMKGILADIQSGAYAEGWIDENAQ.GRPWFDQRRADARDSRVEHVGRDLRRMMPW.
+#=GR GCF_900066015.1_ORF220:gid:ilvC:pid:WP_095041766.1:loc:266216:267218:strand:-:184:327    PP 99**********************************************************************************.******************************.****************************98.
+#=GC PP_cons                                                                                     99**********************************************************************************.******************************.***************************977.
+#=GC RF                                                                                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

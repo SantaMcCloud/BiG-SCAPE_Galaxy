@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1443:gid::pid::loc:1651366:1652020:strand:+:3:211         KKLLYINVNSKPEDlSSSKTVARKFINKFMEKNKdFEVEEIDLYKEHIPRLEYQYFEkrnsivseenaKnLDDKD-RKELTKIRNlCDQFVSASVYVIAAPMWSLSFPAPLKEYIDCIIQDGKTISFEGNDK-PQGILNdiDRSMVYIQSSGGHIPWV-----LKPVMNKGLNYVESIMKFIGIKKFDELLVDGTGtSEE
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1443:gid::pid::loc:1651366:1652020:strand:+:3:211 PP 69**********99*************************************************987642455555.6688899999*****************************************98885.5777878**************5553.....34579**************************999888
+BGC0001543_ORF24:gid::pid:CCG06127.1:loc:47681:48233:strand:-:1:172                            MKTTLLMFHSRY--.-RPSRINAALMAAAQTLD-.N-LDVVDMNR------------...........-.-LYPDE-RIDVATEI.-ERLLQSERLILQFPIQWYSTPPLLQRWQDLVLTHMYYLDYENTG----RRFE..GAPIMVAATAGNTEAAYQPRGRNRFTMETLLTPLQATANRCRLPWGDPFVVYQAD.YLM
+#=GR BGC0001543_ORF24:gid::pid:CCG06127.1:loc:47681:48233:strand:-:1:172                    PP 99*********9....4589************9..5.********..........................79995.5*******..************************************99666555....89**..*****************************************************88.777
+#=GC PP_cons                                                                                   89**********99.*7799************9*.7*********************...........2.567775659999999.*************************************998877775.578899..*************8777*****7778***************************99.888
+#=GC RF                                                                                        xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx...........x.xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1443:gid::pid::loc:1651366:1652020:strand:+:3:211         ERQAAIEKASEKI----hgi
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1443:gid::pid::loc:1651366:1652020:strand:+:3:211 PP 8899999998887....589
+BGC0001543_ORF24:gid::pid:CCG06127.1:loc:47681:48233:strand:-:1:172                            D--AELDIACERYLT--hi.
+#=GR BGC0001543_ORF24:gid::pid:CCG06127.1:loc:47681:48233:strand:-:1:172                    PP 5..346667667665..57.
+#=GC PP_cons                                                                                   789668888777765.....
+#=GC RF                                                                                        xxxxxxxxxxxxxxxxx...
+//

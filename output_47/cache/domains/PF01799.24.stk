@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF2013:gid::pid::loc:2241913:2242360:strand:-:72:143         TLEGVLDEAK.--KFGDFLADEGADQCGFCAPGFIMMVLAMKREL-QNPTEEEVIDYVNGNLCRCTGYKGQLRAIH.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2013:gid::pid::loc:2241913:2242360:strand:-:72:143 PP 8999997755...9*******************************.77777***********************96.
+GCA_000085225.1_ASM8522v1_genomic_ORF2020:gid::pid::loc:2251222:2251693:strand:-:74:147         TIESFANGEN.LHPIQEAFIEVGAVQCGYCTPGMIITTQALLNRN-ASPNEDEIKEAFKENLCRCTGYVKIIEAVK.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2020:gid::pid::loc:2251222:2251693:strand:-:74:147 PP 9*****9967.**********************************.77777***********************97.
+GCA_000085225.1_ASM8522v1_genomic_ORF2032:gid::pid::loc:2266469:2266919:strand:-:72:143         TIEGLENE--.VKEFSEVLVKEGAEQCGFCSPGFILTVLAMKDEL-ENPTDDEIKHYLTGNLCRCTGYMGQLRAIK.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2032:gid::pid::loc:2266469:2266919:strand:-:72:143 PP 9****977...56********************************.67777***********************97.
+GCA_000085225.1_ASM8522v1_genomic_ORF3099:gid::pid::loc:3537104:3539666:strand:-:70:142         TIEGLSERER.-DVFAYSFASQGAVQCGFCIPGMVISSKALIDVN-NNPTEDDIKKALKGNICRCTGYVKIIKAV-d
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3099:gid::pid::loc:3537104:3539666:strand:-:70:142 PP 9*****9976..8********************************.88888***********************9.6
+GCF_018304705.1_ORF2873:gid::pid:WP_211423925.1:loc:3423136:3423610:strand:-:73:145             TIEGLSPD-G.MHPVQQAWKLEDVAQCGYCQPGQVMAAAALLAAK-PKPTEEDIANAMAGNLCRCGTYQRIRAAVQ.
+#=GR GCF_018304705.1_ORF2873:gid::pid:WP_211423925.1:loc:3423136:3423610:strand:-:73:145     PP 9****966.6.8*********************************.77777***********************97.
+GCF_900066015.1_ORF466:gid::pid:WP_095041986.1:loc:542811:545793:strand:+:72:146                TIEGLNARVGeLHPLQQAFIETGAIQSGYSTPAMILAAKALLDRN-LNPTESEVRDALSGVLCRETGYLRPVMAV-l
+#=GR GCF_900066015.1_ORF466:gid::pid:WP_095041986.1:loc:542811:545793:strand:+:72:146        PP 9*****99878**********************************.77777*****************9999887.7
+GCF_900066015.1_ORF2972:gid::pid:WP_095044315.1:loc:3451982:3453425:strand:-:400:473            TIEGLADNGA.LHPIQRAFINTGAVQCGYCIPGFLMSGAKLLEEQ-PAPELSHIEQAFSGNLCRCTGYYKIIEAVH.
+#=GR GCF_900066015.1_ORF2972:gid::pid:WP_095044315.1:loc:3451982:3453425:strand:-:400:473    PP 9*****8855.**********************************.77777***********************96.
+GCF_900066015.1_ORF3661:gid::pid:WP_095045137.1:loc:4270005:4272705:strand:-:72:144             TIEGLGDYRQ.-SVFANAFVAKGGVQCGFCIPGMVISANCLINKN-AEPTRDDIAQALTHHLCRCTGYKKIIDAIE.
+#=GR GCF_900066015.1_ORF3661:gid::pid:WP_095045137.1:loc:4270005:4272705:strand:-:72:144     PP 9*****8866..9********************************.66666***********************96.
+#=GC PP_cons                                                                                    9****98866.89********************************.77777***********************96.
+#=GC RF                                                                                         xxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

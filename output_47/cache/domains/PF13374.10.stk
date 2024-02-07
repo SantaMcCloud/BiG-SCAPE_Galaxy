@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF11:gid::pid:WP_211421357.1:loc:11121:14457:strand:+:371:412               VALLLNNLAETLRRRGDDNRAEPLYQRAIATFEAKVGGNSPH
+#=GR GCF_018304705.1_ORF11:gid::pid:WP_211421357.1:loc:11121:14457:strand:+:371:412       PP 5778*********************************99996
+GCF_018304705.1_ORF2224:gid::pid:WP_211421357.1:loc:2651539:2654875:strand:+:371:412         VALLLNNLAETLRRRGDDNRAEPLYQRAIATFEAKVGGNSPH
+#=GR GCF_018304705.1_ORF2224:gid::pid:WP_211421357.1:loc:2651539:2654875:strand:+:371:412 PP 5778*********************************99996
+GCF_008000775.1_ORF3229:gid::pid:WP_147664328.1:loc:3625598:3627587:strand:+:504:540         -AAFLTNIGIIYYESKEYSRALPFYYDSLKI-EDLLGRN---
+#=GR GCF_008000775.1_ORF3229:gid::pid:WP_147664328.1:loc:3625598:3627587:strand:+:504:540 PP .6789**************************.9999986...
+#=GC PP_cons                                                                                 57789********************************98996
+#=GC RF                                                                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

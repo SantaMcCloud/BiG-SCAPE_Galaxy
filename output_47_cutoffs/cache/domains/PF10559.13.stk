@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCF_000011105.1_ORF1636:gid:secY:pid:WP_010885818.1:loc:1536781:1538188:strand:-:38:71             VLYYVLAEIPVYGIP-KKIQDYFQFLRVVLAGRNG
+#=GR GCF_000011105.1_ORF1636:gid:secY:pid:WP_010885818.1:loc:1536781:1538188:strand:-:38:71     PP 8**************.89**************998
+GCF_026242195.1_ORF1284:gid:secY:pid:WP_266086413.1:loc:200863845:200865318:strand:+:38:70         VLYFALTNVTLYGVNVQ--GDLFGQFRSVLAGAQG
+#=GR GCF_026242195.1_ORF1284:gid:secY:pid:WP_266086413.1:loc:200863845:200865318:strand:+:38:70 PP 8*************954..7**************9
+GCF_900696045.1_ORF2337:gid:secY:pid:WP_134485108.1:loc:2444484:2445936:strand:+:45:78             LVYLVMGQVPLFGVNVDPATDPLAFARVIFAAQQ-
+#=GR GCF_900696045.1_ORF2337:gid:secY:pid:WP_134485108.1:loc:2444484:2445936:strand:+:45:78     PP 79*************999*************997.
+GCF_008000775.1_ORF898:gid:secY:pid:WP_162306565.1:loc:983025:984540:strand:+:40:74                VIYIIMSNIPIYGIATDAGNDMYYWLRVILASKRG
+#=GR GCF_008000775.1_ORF898:gid:secY:pid:WP_162306565.1:loc:983025:984540:strand:+:40:74        PP 8**************99*****************9
+#=GC PP_cons                                                                                       89*************889*9************999
+#=GC RF                                                                                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

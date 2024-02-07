@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF1438:gid::pid:WP_246840694.1:loc:1734109:1735297:strand:+:11:92          lrev----KRQGCRVVLVTKEKFRhEDWPF.ES.LDELIPLPNDATPELFIYTVAQLARPRKLHTVVALEELDVLTAALIREHLRLPG
+#=GR GCF_018304705.1_ORF1438:gid::pid:WP_246840694.1:loc:1734109:1735297:strand:+:11:92  PP 8766....788**********644344457.88.*****************************************************7
+NZ_CP072636.1.region002_ORF6:gid::pid:WP_246840694.1:loc:5893:7081:strand:+:11:92           lrev----KRQGCRVVLVTKEKFRhEDWPF.ES.LDELIPLPNDATPELFIYTVAQLARPRKLHTVVALEELDVLTAALIREHLRLPG
+#=GR NZ_CP072636.1.region002_ORF6:gid::pid:WP_246840694.1:loc:5893:7081:strand:+:11:92   PP 8766....788**********644344457.88.*****************************************************7
+GCF_900066015.1_ORF3422:gid::pid:WP_095044737.1:loc:3949287:3950547:strand:+:25:102         .fra--AAERLGVEIVVGLDLPDA.LA---.-EqWPDALPLPFG-DEAEAARRIVAAAAERPWQGILSVDDSGSIVAATAAAALDLPH
+#=GR GCF_900066015.1_ORF3422:gid::pid:WP_095044737.1:loc:3949287:3950547:strand:+:25:102 PP .985..8**********8765555.55.....44667*****99.7999999999999*****************************7
+GCF_900066015.1_ORF3472:gid::pid:WP_095044960.1:loc:4017627:4018824:strand:+:21:102         ...l-TAAKDLGATVLLLTKEKLA.-AEEWpREsIDELLLMPDIHKRPDIIHAVSYLARGRQIDAIVPLDDYEVETAAMLREHLRLPG
+#=GR GCF_900066015.1_ORF3472:gid::pid:WP_095044960.1:loc:4017627:4018824:strand:+:21:102 PP ...7.69*************9855..44441336*****9999999999999***********************************7
+#=GC PP_cons                                                                                .....69*899******9998655.44456.66.999*****999999999************************************7
+#=GC RF                                                                                     ....xxxxxxxxxxxxxxxxxxxx.xxxxx.xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

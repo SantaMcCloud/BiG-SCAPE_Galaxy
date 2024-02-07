@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF1163:gid:ribH:pid:WP_266086296.1:loc:200762121:200762532:strand:+:1:132         .-MKIGLVVSEFNTEVTHEMEERAVEKADELGV---EVITVRVPGAYDAPLAVKRLCE.RDgTDAVATAGAVVTGDTDHDAVVTETAAEALTRLSLEHDKPVTLGVAGPGmSGAEARERL-----DYGARAVESAVEMVRTL-e..
+#=GR GCF_026242195.1_ORF1163:gid:ribH:pid:WP_266086296.1:loc:200762121:200762532:strand:+:1:132 PP ..79****************************9...599*******************.5449***********************************************9999999999.....9*************976.7..
+GCF_018304705.1_ORF42:gid:ribH:pid:WP_058867701.1:loc:60225:60714:strand:+:12:151                  .GLRVAFVVSRWNDFVVNRLLSGALDTFERLGGRLDDCAVVRVPGSFEIPLTVKKLAL.TSaWEAIVCLGALVRGETPHFDYIAAEVTKGIAAVSLETGVPVTYGVITAE.NLEQAIDRAGMKAGNKGVEAVLAAIELANLY-r..
+#=GR GCF_018304705.1_ORF42:gid:ribH:pid:WP_058867701.1:loc:60225:60714:strand:+:12:151          PP .589*****************************9************************.6636***********************************************.*****************************97.5..
+GCF_900696045.1_ORF874:gid:ribH:pid:WP_134483246.1:loc:917026:917467:strand:+:2:137                e-VRIGIVVSEFNSEITIPMLDEAKRFANNHTD-LKISFVCFVPGVFDMPIMIEELLK.KKnVDAVVTLGAIIKGETSHDRLIARVTAKSINELSLKYRKPISLGITGPDmTFEQAEARI----IPVTQHAINTALVMTK---rlr
+#=GR GCF_900696045.1_ORF874:gid:ribH:pid:WP_134483246.1:loc:917026:917467:strand:+:2:137        PP 6.79***************************94.37888999****************.6648********************************************************9....3556666666666655...567
+AP018533.1.region002_ORF3:gid::pid::loc:2931:3402:strand:+:12:151                                  s-IKVGIVAARFNEFITSKLLSGALDGLLRHEVRENDVHVAWVPGAFEIPLVAAKMAKsGR.YDAVICLGAVIRGSTSHYDYVCNEVSKGIASVSLESGVPVLFGVLTTE.NIEQAIERAGTKAGNKGYDCAVSAIEMVNLL-h..
+#=GR AP018533.1.region002_ORF3:gid::pid::loc:2931:3402:strand:+:12:151                          PP 7.79******************************************************766.************************************************.*****************************97.7..
+GCA_000085225.1_ASM8522v1_genomic_ORF1674:gid::pid::loc:1883938:1884400:strand:-:11:150            d-LKIGIINSRFNEFITSKLLSGAEDCLLRHDVSPENIEIVWVPGAFEIPLVAQKMAKsGR.YDAIICLGCVIRGATSHYDYVCSEVSKGIAKVSLDSELPVIFGIVTTE.NIEQAIERAGTKAGNKGYDCAMNALEMANLF-k..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1674:gid::pid::loc:1883938:1884400:strand:-:11:150    PP 6.89******************************************************766.************************************************.*****************************97.5..
+#=GC PP_cons                                                                                       .579****************************8*8999********************.66.8***********************************************.*************899999999999999886....
+#=GC RF                                                                                            .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

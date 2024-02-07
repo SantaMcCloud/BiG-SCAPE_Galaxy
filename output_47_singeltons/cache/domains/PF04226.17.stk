@@ -1,0 +1,9 @@
+# STOCKHOLM 1.0
+
+BGC0002656_ORF19:gid::pid:WP_037568392.1:loc:21500:21779:strand:+:34:81                   IIFGILGAWLGNALAGWIGV.rHTSGVDWIRHGLQVGCAIVIVALGS----gl
+#=GR BGC0002656_ORF19:gid::pid:WP_037568392.1:loc:21500:21779:strand:+:34:81           PP 9*******************.***********************976....89
+GCF_900066015.1_ORF859:gid::pid:WP_197699875.1:loc:1035981:1036242:strand:-:34:84         ILAGIIGAFVGGALYGLLFGggINFEWNITSFIVALIGAVIVLAVWNFISR..
+#=GR GCF_900066015.1_ORF859:gid::pid:WP_197699875.1:loc:1035981:1036242:strand:-:34:84 PP 89************999988889999**********************987..
+#=GC PP_cons                                                                              89************999999..9*********************998*987..
+#=GC RF                                                                                   xxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

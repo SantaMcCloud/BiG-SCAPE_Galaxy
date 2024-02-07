@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF120:gid::pid:WP_266085375.1:loc:111060:111816:strand:-:86:237             CFFDIETTGLDAERNKVTTVSFHR-.......DGD-TKT.........LVR--GDDLTPGNVSAE--.--FEASDLVVSYNGRRFDEPFLETDL...-GVS--F...EVPHIDLMYLC...RRVGL....TG.GLKGAEEA.LGVGR...DgVEDIDGREAVRLWHAY-EDGDTEALERLVRYNRYDTENLRVVLE---e
+#=GR GCF_026242195.1_ORF120:gid::pid:WP_266085375.1:loc:111060:111816:strand:-:86:237     PP 7**********************7........666.555.........764..999999999999.....************************....655..5...5**********...*****....**.********.*****...53799*************.69*******************998776...5
+FP929039.1.region004_ORF17:gid::pid::loc:20110:21169:strand:-:25:194                         LYFDIETTGLSAKRSDLYLIGCSYF.......SDSAFRT.........QL-IFNDNGTSEPEMLSHFeQILKNHKILVSYNGDTFDIPYLLKKM...EQFDVDTtldNIQSVDIYRTT...RKYKKllrlDSaKQFDIEHL.IDFQR...N.-TFISGGDLISAYKHYLSSHDESLLDDMLTHNHDDIRGLISISE---f
+#=GR FP929039.1.region004_ORF17:gid::pid::loc:20110:21169:strand:-:25:194                 PP 7************************.......*****96.........44.577777888899999*9**************************...999999988888*******99...6633336777779999****.*****...*..9*************************************99876...6
+GCF_900066015.1_ORF3414:gid::pid:WP_102136587.1:loc:3938245:3939523:strand:+:102:284         LFLDTETTGLAGAGALAFMVGVAFFepqpvvvD-----GqaevrdvlvVRQLFLRDPGDEPVMLAYLdELLEGKAGLITFNGRSFDVPLLDNRYllnRRLGRLP...AMPHIDLLPPArrlYRARL...gSC.ALGALEQSlLGLSR...T.QDDVPGWLIPSLYLNYLRSGDATELARVFYHNEMDMLSMVTLAG---r
+#=GR GCF_900066015.1_ORF3414:gid::pid:WP_102136587.1:loc:3938245:3939523:strand:+:102:284 PP 7***********99*********9955555542.....04444567779****************99999************************8765555555...99******65533378888...555.********9*****...*.*****************************************976...5
+GCF_008000775.1_ORF2012:gid::pid:WP_162306670.1:loc:2217751:2218573:strand:-:70:222          LYFDIEATGLDITKDSITTISTF--.......DGTEIRY.........FV----KDQNLKEFIPY--.--LEKFDAIATFDGEKMDLPFIESKL...-G--FNF...YHIHFDLFKIS...RKLGI....SG.GLKQIENY.LGISRntkN.LDGIDGKTAIYLWKEYLLTNDKRYLDTLLAYNIEDAVNLERILYWF-y
+#=GR GCF_008000775.1_ORF2012:gid::pid:WP_162306670.1:loc:2217751:2218573:strand:-:70:222  PP 7********************99.........6999996.........65....68899999999.....************************....5..667...7**********...*****....**.********.*****5444.677999************************************9997.5
+GCF_008000775.1_ORF2960:gid::pid:WP_147664079.1:loc:3304573:3305485:strand:+:109:259         AFLDIETTGLNRFRNKITTIAVYD-.......-GIQCH-.........---NFVNGKNLDDFPEF--.--IKKFPAIATYYGKGFDIPFINHKL...-GIHMD-...-QIHYDLCFLL...RKVGI....TG.GLKSIEKQ.FKISR..gN.MADLDGYSAVVLWKKYQKTKEEKYLHTLLAYNNEDVINLEPLLC---i
+#=GR GCF_008000775.1_ORF2960:gid::pid:WP_147664079.1:loc:3304573:3305485:strand:+:109:259 PP 69*********************5.........65554.............44458888888888.....99**********************....99998.....**********...*****....**.********.*****..98.9**************************************99975...6
+#=GC PP_cons                                                                                 7**********************89.......6878774.........6676777989999999999.**************************...7777776...79******999...99888....88.********.*****...7.899**************9*********************9997697..
+#=GC RF                                                                                      xxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxx.........xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxx...xxxxxxxxxxx...xxxxx....xx.xxxxxxxx.xxxxx...x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+GCF_026242195.1_ORF120:gid::pid:WP_266085375.1:loc:111060:111816:strand:-:86:237             vh
+#=GR GCF_026242195.1_ORF120:gid::pid:WP_266085375.1:loc:111060:111816:strand:-:86:237     PP 68
+FP929039.1.region004_ORF17:gid::pid::loc:20110:21169:strand:-:25:194                         vn
+#=GR FP929039.1.region004_ORF17:gid::pid::loc:20110:21169:strand:-:25:194                 PP 78
+GCF_900066015.1_ORF3414:gid::pid:WP_102136587.1:loc:3938245:3939523:strand:+:102:284         if
+#=GR GCF_900066015.1_ORF3414:gid::pid:WP_102136587.1:loc:3938245:3939523:strand:+:102:284 PP 79
+GCF_008000775.1_ORF2012:gid::pid:WP_162306670.1:loc:2217751:2218573:strand:-:70:222          ..
+#=GR GCF_008000775.1_ORF2012:gid::pid:WP_162306670.1:loc:2217751:2218573:strand:-:70:222  PP ..
+GCF_008000775.1_ORF2960:gid::pid:WP_147664079.1:loc:3304573:3305485:strand:+:109:259         ay
+#=GR GCF_008000775.1_ORF2960:gid::pid:WP_147664079.1:loc:3304573:3305485:strand:+:109:259 PP 78
+#=GC PP_cons                                                                                 ..
+#=GC RF                                                                                      ..
+//

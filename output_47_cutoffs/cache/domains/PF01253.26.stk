@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF843:gid:yciH:pid:WP_266085813.1:loc:100257388:100257682:strand:+:23:95         .......e-SQSIKIRIEERRYGKEVTVVEGFDPDDIDVSEIATKLKKKLACGGTA-EDG---RVELQGNHQGRVGDILEDEGF-n
+#=GR GCF_026242195.1_ORF843:gid:yciH:pid:WP_266085813.1:loc:100257388:100257682:strand:+:23:95 PP .......5.799*******************************************6.999...8******************98.6
+GCF_900696045.1_ORF1920:gid::pid:WP_269472347.1:loc:2003030:2003258:strand:+:1:68                 mtvqlyvi------------KRGKRVTQIKGF-TDQNQMESIAHELKKTIGTGGTA-KNG---IIVLQGDHRSKVTEFLLSKGF-s
+#=GR GCF_900696045.1_ORF1920:gid::pid:WP_269472347.1:loc:2003030:2003258:strand:+:1:68         PP 97655544............568*********.999*******************6.999...9******************98.6
+GCF_900696045.1_ORF2554:gid:yciH:pid:WP_134485289.1:loc:2666955:2667264:strand:+:23:95            .......e-DTRIVVRLETRRFSKTTTMIEGLDPKINDIHTIVKELKSRLACGGTA-KDG---FILLQGDHRDIVKNYLVVKGF-n
+#=GR GCF_900696045.1_ORF2554:gid:yciH:pid:WP_134485289.1:loc:2666955:2667264:strand:+:23:95    PP .......6.5789******************************************6.***...9****************9997.6
+GCF_008000775.1_ORF583:gid:yciH:pid:WP_244626296.1:loc:643173:643497:strand:-:28:100              .......e-EQTITIFIDKRKWGRAMSVINFANFSGANLKKICKQAKGYCASGGTV-KGN---TIEIQGDHRRKLKKFLLNLGY-t
+#=GR GCF_008000775.1_ORF583:gid:yciH:pid:WP_244626296.1:loc:643173:643497:strand:-:28:100      PP .......5.799*****************999888********************9.655...8****************9887.6
+#=GC PP_cons                                                                                      .........689********99**********999********************7.888...9****************9997..
+#=GC RF                                                                                           ........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

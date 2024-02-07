@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF2870:gid::pid::loc:3418489:3419334:strand:-:11:73                     .EVATALAQGQPVVALESTVIAHGLPYPVNVETALAMEAEVRAGGAVPATVGVVGGGW----------------..----------------------------------------------------------------------------------------------------------------------------
+#=GR GCF_018304705.1_ORF2870:gid::pid::loc:3418489:3419334:strand:-:11:73             PP .79***************************************************9976..............................................................................................................................................
+GCF_900066015.1_ORF196:gid::pid:WP_095041744.1:loc:233264:234176:strand:-:10:300         s-IRQALADGAPVVALESTVITHGLPYPQNVATALAMEAAVRAGGAQPATIAVLHGRLTVGLELDDIERLGQLAgsGVVRKCSRRDLPIAVACGEDGATTVAGTMVVAHMAGIELFATGGIGGVHRG--HPFDVSADLRELGQTPVTVVSSGAKSILDLPATREVLETEGVTIVGYGVDELPAFFARSCGLPVDVRLDSP
+#=GR GCF_900066015.1_ORF196:gid::pid:WP_095041744.1:loc:233264:234176:strand:-:10:300 PP 6.89******************************************************************9966556799**********************************************9..99*********************************************************************
+#=GC PP_cons                                                                             .799****************************************************88************9966..6799**********************************************9..99*********************************************************************
+#=GC RF                                                                                  .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_018304705.1_ORF2870:gid::pid::loc:3418489:3419334:strand:-:11:73                     ----------------------------------------------------------------------------------------------wwgwts
+#=GR GCF_018304705.1_ORF2870:gid::pid::loc:3418489:3419334:strand:-:11:73             PP ..............................................................................................555778
+GCF_900066015.1_ORF196:gid::pid:WP_095041744.1:loc:233264:234176:strand:-:10:300         AAVAALIVARRQLGLAGGTLVTVPAPEEACMDPDEAEAAAAQAAREADAAGIHGPLATPWLLRRVVELTDGRSMTANTALLTNNGRIAAEIAVA......
+#=GR GCF_900066015.1_ORF196:gid::pid:WP_095041744.1:loc:233264:234176:strand:-:10:300 PP ********************************************************************************************85......
+#=GC PP_cons                                                                             ********************************************************************************************85......
+#=GC RF                                                                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......
+//

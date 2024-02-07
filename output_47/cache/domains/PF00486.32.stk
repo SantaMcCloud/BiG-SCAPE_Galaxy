@@ -1,0 +1,145 @@
+# STOCKHOLM 1.0
+
+FP929039.1.region006_ORF9:gid::pid::loc:7598:8261:strand:-:144:219                               ........d-QEMVLTKNEMIIFQLLLANREKIVSRDEIMTDLWDNDE.......FVNDNALTVNISRLRGKLADL..GYD-.DAIETRKKQGYRL..
+#=GR FP929039.1.region006_ORF9:gid::pid::loc:7598:8261:strand:-:144:219                       PP ........5.7899**********************************.......********************9..855..5**********97..
+GCA_000085225.1_ASM8522v1_genomic_ORF346:gid::pid::loc:391118:391820:strand:-:153:229            .......ni--PVQLTSKEFDLLAFLASNKGRVFTKKQIYTQVWEEEY.......AFDDSNIMSFISKLRKKIEPD..PNHP.FYILTVRGVGYRF..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF346:gid::pid::loc:391118:391820:strand:-:153:229    PP .......87..699**********************************.......*********************..****.***********97..
+GCA_000085225.1_ASM8522v1_genomic_ORF428:gid::pid::loc:489526:490189:strand:-:144:217            .......nv--EVLLTAGEYKLLLSLMENKNRAMTRTKLLEMLWDVDG......nFVNDNTLTVTIKRLREKLKN-..---P.PCIKTLRGIGYRM..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF428:gid::pid::loc:489526:490189:strand:-:144:217    PP .......86..689********************************99......9********************......6.7**********96..
+GCA_000085225.1_ASM8522v1_genomic_ORF451:gid::pid::loc:509627:510320:strand:+:151:227            .........GKNIDLTKIEYDIVELLALHAGQVFSREQIYEKVWGCDS.......EGDSSTVVERVKKIRAKFSAV..TPEK.EYISTVWGIGYK-w.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF451:gid::pid::loc:509627:510320:strand:+:151:227    PP .........689************************************.......*********************..99**.***********8.6.
+GCA_000085225.1_ASM8522v1_genomic_ORF457:gid::pid::loc:517319:517994:strand:-:147:222            ........n-NQISLSKKEFDIVELLSMNPGQVFDKEKIYDRVWGYNS.......NGNSDVIMEHIRKIRIKLSKH..T-LE.NYIETVWGVGYK-w.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF457:gid::pid::loc:517319:517994:strand:-:147:222    PP ........6.689***********************************.......********************6..6.88.9**********8.6.
+GCA_000085225.1_ASM8522v1_genomic_ORF466:gid::pid::loc:525688:526336:strand:+:139:210            ........d-KELLLTKKELELIRCLINNKGMVLSREKLLDLVWGLDY.......EGDFRTVDTHIRRLRVKIGE-..----.DIIKTYRGLGYSL..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF466:gid::pid::loc:525688:526336:strand:+:139:210    PP ........6.7899**********************************.......********************........89*********86..
+GCA_000085225.1_ASM8522v1_genomic_ORF475:gid::pid::loc:541432:542137:strand:+:155:231            .........GEEIHLTPIEYKIIELMSKYSGRVLTHKFIIDKVWGNYY.......ESENQSLRVFMASIRRKIEKN..PAQP.EYILTEVGVGYRM..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF475:gid::pid::loc:541432:542137:strand:+:155:231    PP .........799************************************.......*********************..****.***********96..
+GCA_000085225.1_ASM8522v1_genomic_ORF602:gid::pid::loc:687768:688458:strand:+:150:226            .......gi--DLNLTHTEFEIVKLLATNQGRAFSKEQLYNTIWKEPY.......YGNENVLNTHINRLRNKLSDG..IEKN.NYIKTLWGIGYKM..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF602:gid::pid::loc:687768:688458:strand:+:150:226    PP .......87..589**********************************.......*********************..9999.***********96..
+GCA_000085225.1_ASM8522v1_genomic_ORF631:gid::pid::loc:732397:733105:strand:+:156:232            .........GQEISLTAKEHSLLLKLYENKGRIVTNDSLCQAIWGDDM.......YGYENTLMVHVRRVREKIEKT..PSTP.KHLITVRGLGYKL..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF631:gid::pid::loc:732397:733105:strand:+:156:232    PP .........799************************************.......*********************..****.***********97..
+GCA_000085225.1_ASM8522v1_genomic_ORF788:gid::pid::loc:923411:924104:strand:+:150:226            .........GEPMLLPPKEFGVLLYCARHQGKILTKQQIYEAVWGEPY.......VYDDSNIMAIISRLRKKIELD..PSSP.IYLQTIKGIGYQF..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF788:gid::pid::loc:923411:924104:strand:+:150:226    PP .........67889**********************************.......*********************..****.***********97..
+GCA_000085225.1_ASM8522v1_genomic_ORF901:gid::pid::loc:1051450:1052134:strand:+:146:223          .......ef--EVELTTAEYKLLCLFMKNKNIVLTRKNILDKLWDGNG......sFIDDNTLSVYVRRLRNKIEDN..PENP.KFLLTVRRMGYK-w.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF901:gid::pid::loc:1051450:1052134:strand:+:146:223  PP .......98..69********************************999......9*********************..****.***********8.6.
+GCA_000085225.1_ASM8522v1_genomic_ORF910:gid::pid::loc:1061617:1062322:strand:+:156:230          ......knv--NIDLTPNEYNLLTYLFENIDRAVSRDELLNKIWGYDI.......EVETRAADDTVKRLRKKILD-..--TN.ILIETVWGFGFRL..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF910:gid::pid::loc:1061617:1062322:strand:+:156:230  PP ......976..599**********************************.......********************.....56.9**********97..
+GCA_000085225.1_ASM8522v1_genomic_ORF1362:gid::pid::loc:1553697:1554402:strand:+:148:225         ........d-KEIFLTSVEYKLLLILIQNKNTVLSRTQILEKLWDVTY......dFVNDNTLTVYIKRLREKIGDD..LCEP.IYIETVRGIGYK-w.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1362:gid::pid::loc:1553697:1554402:strand:+:148:225 PP ........5.7899**********************************......9*********************..889*.***********8.6.
+GCA_000085225.1_ASM8522v1_genomic_ORF1431:gid::pid::loc:1633475:1634150:strand:-:148:223         ........d-NTIELTKNEIKILHELMKYKGQIVSRNKLMKKLWDNDW.......FVDDNTLTVNVNRIRSKLNEI..G-LE.DFIETKRGLGYI-i.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1431:gid::pid::loc:1633475:1634150:strand:-:148:223 PP ........6.679***********************************.......********************8..8.88.8**********7.6.
+GCA_000085225.1_ASM8522v1_genomic_ORF1599:gid::pid::loc:1798527:1799229:strand:+:155:231         .........GKEVALTPIEFSILWYLCEHQGKVVPSEELFEAVWGEKY.......LDNNNTVMAHIGRLREKIHEP..SKNP.KFIKTVWGVGYT-i.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1599:gid::pid::loc:1798527:1799229:strand:+:155:231 PP .........789************************************.......*********************..****.***********7.6.
+GCA_000085225.1_ASM8522v1_genomic_ORF1648:gid::pid::loc:1861526:1862252:strand:+:160:236         .........GKSIGLSAKELKILSLFAHNQNQIISKEKLWDKVWGEDY.......VGFDNTIMVHIRKIREKLEDN..PSKP.EYILTIKGLGYKL..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1648:gid::pid::loc:1861526:1862252:strand:+:160:236 PP .........67899**********************************.......*********************..****.***********97..
+GCA_000085225.1_ASM8522v1_genomic_ORF1665:gid::pid::loc:1875627:1876299:strand:+:145:220         ........k-EEIKLQNKQFNLLEYFVLNKGSILLKEQIYDRIWGIDS.......DATIEIVEVYVSNLRKKLSKY..GYDK.-YIKTKRKVGYIF..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1665:gid::pid::loc:1875627:1876299:strand:+:145:220 PP ........6.78************************************.......********************9..9665..**********86..
+GCA_000085225.1_ASM8522v1_genomic_ORF1763:gid::pid::loc:1972838:1973537:strand:+:152:228         .........GKEIELTPTEFSIVKYLISNAKQSLSRDQILDEVWGTNY.......LYDFKIVDVNIRRIRNKIEDD..PSKP.KYIQTIWGYGYCF..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1763:gid::pid::loc:1972838:1973537:strand:+:152:228 PP .........789************************************.......*********************..****.***********97..
+GCA_000085225.1_ASM8522v1_genomic_ORF1811:gid::pid::loc:2026141:2026840:strand:+:153:229         .......dv--EVHLTPIEYNILSLLAKHHGKVLTHNFIIKEIWGSVI.......GNETKSLRVFMATLRRKIEKQ..PANP.RYIITEVGVGYRL..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1811:gid::pid::loc:2026141:2026840:strand:+:153:229 PP .......86..79***********************************.......*********************..****.***********97..
+GCA_000085225.1_ASM8522v1_genomic_ORF1895:gid::pid::loc:2114819:2115491:strand:-:141:219         .....nkac---LELSSVEYKLLSYLIENKGQILLKEQILHHIWDSEE......nYVDDNIVSVNIRRLRVKVEDD..PSNP.KYIKTAYGMGYL-w.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1895:gid::pid::loc:2114819:2115491:strand:-:141:219 PP .....9765...79********************************99......9*********************..****.***********6.7.
+GCA_000085225.1_ASM8522v1_genomic_ORF1897:gid::pid::loc:2116974:2117661:strand:+:146:221         .........GNQIIFTPLEYRTLKLLTENPKSILTRKVLLEKLWDIDA......nFVDEHTLTSVISRIRSKIEKD..--NL.KYIKTVYGMGYM-w.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1897:gid::pid::loc:2116974:2117661:strand:+:146:221 PP .........578999*********************************......9********************4....56.8**********8.6.
+GCA_000085225.1_ASM8522v1_genomic_ORF2047:gid::pid::loc:2283511:2284180:strand:-:147:218         .........GEPIELTLKEFNILKALIEKYPQVITREGLLDSIWGYDY.......YGDTRIVDAHIKNIRKKISL-..----.PYIKTVKGIGYTL..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2047:gid::pid::loc:2283511:2284180:strand:-:147:218 PP .........789************************************.......********************........5**********86..
+GCA_000085225.1_ASM8522v1_genomic_ORF2226:gid::pid::loc:2494724:2495417:strand:-:151:227         .........GENIKMTPIEYKIIELLLENKGRVFSIDEIYEKVWNEES.......FNSENTVAVHIRRIREKIEIN..PKEP.RFLKVVWGVGYKI..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2226:gid::pid::loc:2494724:2495417:strand:-:151:227 PP .........689************************************.......*********************..****.***********85..
+GCA_000085225.1_ASM8522v1_genomic_ORF2242:gid::pid::loc:2508178:2508895:strand:+:157:233         .........GEEIKMTPLEYKILTLLMSRKGKIFSSREIYENVWNEDA.......YSCERTIAVHIRRIREKIEIN..PKEP.KYLKVVWGIGYKI..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2242:gid::pid::loc:2508178:2508895:strand:+:157:233 PP .........789************************************.......*********************..****.***********85..
+GCA_000085225.1_ASM8522v1_genomic_ORF2466:gid::pid::loc:2758532:2759240:strand:-:150:227         ........e-EEIILSKTETKLLKYLMENSMQTLTKEQLLESLWDSSG......nFVDDNTIAVNIRRLRQKVEKN..PSEP.KYIKTVRGVGYM-w.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2466:gid::pid::loc:2758532:2759240:strand:-:150:227 PP ........6.7899********************************99......9*********************..****.***********8.6.
+GCA_000085225.1_ASM8522v1_genomic_ORF2502:gid::pid::loc:2802185:2802902:strand:-:160:235         ........g-KYIKTTPIEFKILSLLMRNAGRVFSADEIYERVWNENA.......-INTDTVMVHVRNIREKIEID..PKNP.KYLKVVWGVGYKI..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2502:gid::pid::loc:2802185:2802902:strand:-:160:235 PP ........6.56899*******************************98........********************..****.***********85..
+GCA_000085225.1_ASM8522v1_genomic_ORF2571:gid::pid::loc:2882468:2883161:strand:-:153:229         ........s-EKIELTLKEFELLKLLIQNKGKVLSRNYLLDKIWGYEY.......YGETRTVDVHIRYLRKKIEDE..DKSE.KYIETIRGVGYKI..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2571:gid::pid::loc:2882468:2883161:strand:-:153:229 PP ........7.689***********************************.......*********************..999*.***********85..
+GCA_000085225.1_ASM8522v1_genomic_ORF2656:gid::pid::loc:2991890:2992595:strand:-:156:233         .........GEPVFLTTIEYSILILMLKNRKKVFSSENLYETIWDEQY......fYTANNTIMVHIRNLRKKLEKD..QKNP.QYIKTAWGKGYY-i.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2656:gid::pid::loc:2991890:2992595:strand:-:156:233 PP .........68999**********************************......99********************..****.***********7.6.
+GCA_000085225.1_ASM8522v1_genomic_ORF2812:gid::pid::loc:3188505:3189120:strand:-:128:204         ......qna--VIELSRTELKIMYYLFQNVGSIVPRIDLVEYLWDNHI.......HIDDNALSVNITRLREKLRGI..G-IT.DLIITKRGMGYRI..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2812:gid::pid::loc:3188505:3189120:strand:-:128:204 PP ......975..599**********************************.......********************8..8.78.8**********95..
+GCA_000085225.1_ASM8522v1_genomic_ORF2874:gid::pid::loc:3260767:3261460:strand:-:151:226         .........GENLIITKKEGILIECLIKRYPKVVSRDYLLEKIWDDIE.......FVEENTLNVNVSRIRKRFEEL..G-ID.NAVQTVRGLGYKL..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2874:gid::pid::loc:3260767:3261460:strand:-:151:226 PP .........577889*********************************.......********************8..8.56.6**********97..
+GCA_000085225.1_ASM8522v1_genomic_ORF2939:gid::pid::loc:3338146:3338821:strand:-:149:224         ........d-KSIELTKNEIKILTLLLKNKNRVVSRESLMMTLWDNDE.......FVTDNALTVNMNRLRSKVKEL..GFDD.-FIKTKKGIGYI-i.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2939:gid::pid::loc:3338146:3338821:strand:-:149:224 PP ........6.789***********************************.......********************9..9887..**********7.6.
+GCA_000085225.1_ASM8522v1_genomic_ORF3130:gid::pid::loc:3578269:3578941:strand:-:145:219         ......edk--LIDLTYKEFELLRLFMENPNQVFSREKLLNCIWGYDF.......EGNTRTVDTHIKTLRKKLGS-..--EG.HHIVTLIRSGYKF..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3130:gid::pid::loc:3578269:3578941:strand:-:145:219 PP ......964..599**********************************.......********************.....56.99*********97..
+GCA_000085225.1_ASM8522v1_genomic_ORF3196:gid::pid::loc:3650618:3651317:strand:-:155:232         .........GKALSLTPTEFSILHVLLKNKGSVVNSENLFHAIWKDEY......yNKSNNTITVHIRHLREKLGDT..VDEA.KYIKTIWGVGYKI..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3196:gid::pid::loc:3650618:3651317:strand:-:155:232 PP .........6789***********************************......9999******************..9999.***********85..
+GCA_000085225.1_ASM8522v1_genomic_ORF3197:gid::pid::loc:3651698:3652379:strand:-:146:223         .....edki---IKLTPTENKLLNFFIENPEKTLTTKEIYEHVWMNEY.......LEDNYSVVVAVNGLRKKIEKD..YKNP.QKIITIRGAGYYF..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3197:gid::pid::loc:3651698:3652379:strand:-:146:223 PP .....9754...89**********************************.......*********************..****.***********86..
+GCA_000085225.1_ASM8522v1_genomic_ORF3199:gid::pid::loc:3654515:3655193:strand:-:147:223         .........GESIDLTTMEFEILLFLAENKEQVFSKIEIYNQVWKMPD.......IGDQHTVQVHIAQMRKKINSL..SREH.QYIQTVWGKGYKF..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3199:gid::pid::loc:3654515:3655193:strand:-:147:223 PP .........689************************************.......*********************..****.***********97..
+GCA_000085225.1_ASM8522v1_genomic_ORF3253:gid::pid::loc:3714892:3715552:strand:-:144:218         .........GKKINFTKSEYLICEFLAKNKGQVFSKERIYESVYGFDG.......ESDISTITEHIKNIRSKLKQ-..-YDI.YTIETVWGIGYK-w.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3253:gid::pid::loc:3714892:3715552:strand:-:144:218 PP .........689************************************.......********************....567.89*********8.6.
+GCA_000085225.1_ASM8522v1_genomic_ORF3277:gid::pid::loc:3738573:3739404:strand:-:195:271         ........r-NEIELTGREYHLLSYMAQNVNKIIGKERLYEQVWGVYS.......SICDNTIMVHIRHIREKIEDN..PSNP.KILITVKGLGYKL..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3277:gid::pid::loc:3738573:3739404:strand:-:195:271 PP ........7.68************************************.......*********************..****.***********97..
+GCA_000085225.1_ASM8522v1_genomic_ORF3508:gid::pid::loc:3985356:3986043:strand:-:144:221         .........GNEVFLSALEYRLLLVFISNPKSIITRVRLLDELWDAAG......eFVNDNTLTVYIKRLREKIEDD..PSSP.QIILTVRGTGYRL..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3508:gid::pid::loc:3985356:3986043:strand:-:144:221 PP .........67999*******************************999......9*********************..****.***********97..
+GCA_000085225.1_ASM8522v1_genomic_ORF3522:gid::pid::loc:4005251:4005944:strand:-:152:228         .........GNEIILTSREFDILYLLANNKGRVYSTEEIFEKVWKEKY.......YQSNNTVMVHMSRIRDKIEKY..TDGE.KIIHTVWGVGYKI..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3522:gid::pid::loc:4005251:4005944:strand:-:152:228 PP .........6899***********************************.......*********************..*999.***********85..
+GCF_018304705.1_ORF1130:gid::pid:WP_211423159.1:loc:1359309:1360029:strand:-:150:222             .........GQEISMTRKEFALLKLLAQSKGRVLTREYLLDRVWGIDY.......DGETRTLDVHIRRVRQKLGID..G---.-YIETAVGIGYRF..
+#=GR GCF_018304705.1_ORF1130:gid::pid:WP_211423159.1:loc:1359309:1360029:strand:-:150:222     PP .........799************************************.......********************6..6.....**********97..
+GCF_018304705.1_ORF1705:gid::pid:WP_211421789.1:loc:2043398:2044106:strand:-:153:227             .........GKAIELTPTEFRILLTMARRPGQVFSRDRLLDELQDEE-.......-GYLRNVDPHIARLRAKIEPI..PGRP.TYVQTVWGQGYKF..
+#=GR GCF_018304705.1_ORF1705:gid::pid:WP_211421789.1:loc:2043398:2044106:strand:-:153:227     PP .........688*******************************9987.........6*******************..****.***********97..
+GCF_018304705.1_ORF2792:gid::pid:WP_211424474.1:loc:3332847:3333555:strand:-:146:222             .........GQTVAVTSVEFDLLAVLLQHAGQIVSRDDLSLRALGRSF.......HPLDRSVDMHISNLRKKLGPH..ADGS.ERIKSVRGVGYL-y.
+#=GR GCF_018304705.1_ORF2792:gid::pid:WP_211424474.1:loc:3332847:3333555:strand:-:146:222     PP .........6899***********************************.......*********************..9999.***********6.7.
+AP018533.1.region001_ORF2:gid::pid::loc:1296:1956:strand:-:144:215                               .......gv--PLELSRTEQRLLRLLAEHRGQTLPRARLLEQVWDGGE.......FVDENALSVAVNRLRAKLTD-..--AP.--IRTVYGVGYV-w.
+#=GR AP018533.1.region001_ORF2:gid::pid::loc:1296:1956:strand:-:144:215                       PP .......65..799**********************************.......********************.....34...*********7.7.
+AP018533.1.region006_ORF14:gid::pid::loc:21291:21993:strand:-:148:221                            ........e-REVTLTLKEFQVLCLLMERAGTVFTRDQLLNTIWGYEF.......DGASRTVDVHIRTLRQKLGR-..--SG.DCIETVRGVGYK-v.
+#=GR AP018533.1.region006_ORF14:gid::pid::loc:21291:21993:strand:-:148:221                    PP ........6.789***********************************.......********************.....56.9**********8.6.
+AP018533.1.region002_ORF4:gid::pid::loc:3416:3827:strand:+:57:129                                .........GTALALTRIEFNMLLFLASNPGVTLSKEDLFFAVWGRDS.......ADTLKVVANTVSNLRRKLGG-..--SH.TYIRTVRG-GY--af
+#=GR AP018533.1.region002_ORF4:gid::pid::loc:3416:3827:strand:+:57:129                        PP .........56799**********************************.......********************.....56.8******9.66..56
+AP018533.1.region002_ORF9:gid::pid::loc:7191:7905:strand:+:150:226                               .......gv--PVDLTAKEFDLMELLMRNPGRVYSRENLLNVVWGYEY.......IGDYRTVDVHVRRLREKLELD..PANP.EYIRTKWGVGYYL..
+#=GR AP018533.1.region002_ORF9:gid::pid::loc:7191:7905:strand:+:150:226                       PP .......65..79***********************************.......*********************..****.***********86..
+GCF_900066015.1_ORF13:gid::pid:WP_095041572.1:loc:20399:21074:strand:+:147:221                   ........p--PVRLTTLEMKLLEALMRDPGRVLSADALIAAVWGPEG.......-GDRTMLKQLVYRLRAKIEDD..ATPA.AFIETVPGIGYAF..
+#=GR GCF_900066015.1_ORF13:gid::pid:WP_095041572.1:loc:20399:21074:strand:+:147:221           PP ........8..589*******************************998........*******************9..8667.9**********86..
+GCF_900066015.1_ORF124:gid::pid:WP_162292420.1:loc:150915:151554:strand:+:132:209                ....eldpp-----LSLAQFRLLEMLYDADGSVCDRDDIIEAVWPGTGg.....lGVSEQAIDALVRRLRDRLAEI..D-EH.NYIVTVRGHGFRL..
+#=GR GCF_900066015.1_ORF124:gid::pid:WP_162292420.1:loc:150915:151554:strand:+:132:209        PP ....*9875.....78899**************************9999.....9********************6..6.77.8**********97..
+GCF_900066015.1_ORF225:gid::pid:WP_095041770.1:loc:273976:274690:strand:-:153:230                ........y-QTILLTNVQFDLLYHLMSHADQVFNSQQLLQDVWDYPR......dTGSPELVRAHIKNLREKIEPS..PADP.IYIKTIQGHGYSF..
+#=GR GCF_900066015.1_ORF225:gid::pid:WP_095041770.1:loc:273976:274690:strand:-:153:230        PP ........9.5789********************************99......89********************..****.***********86..
+GCF_900066015.1_ORF318:gid::pid:WP_162292426.1:loc:373671:374391:strand:-:145:221                .......kg--EFALTPKLASLLEQFIRHPNELLTRRQLMLWVWQTDF.......IGDTRTLDVHIRWVRECIEVD..PSHP.QLLTTVRGQGYLL..
+#=GR GCF_900066015.1_ORF318:gid::pid:WP_162292426.1:loc:373671:374391:strand:-:145:221        PP .......87..578**********************************.......*********************..****.***********86..
+GCF_900066015.1_ORF1113:gid::pid:WP_095042589.1:loc:1328862:1329537:strand:+:145:220             ........d-RPIDLSPREFAVLEYLMRHPNQVLTRTQIGEHVWNLDF.......FNESNVIDVYVGYLRRKIED-..GHGQ.PLIHTIRGVGYRL..
+#=GR GCF_900066015.1_ORF1113:gid::pid:WP_095042589.1:loc:1328862:1329537:strand:+:145:220     PP ........6.789***********************************.......********************...5566.6**********97..
+GCF_900066015.1_ORF1215:gid::pid:WP_095042693.1:loc:1443878:1444583:strand:-:150:226             ......ata---ADLTPSEFDLLATLLSSPGRVFSRLELLDKLQGDAY.......EGYERTIDVHIRNLRTKIEPD..PRNP.RYVVTVYGIGYRL..
+#=GR GCF_900066015.1_ORF1215:gid::pid:WP_095042693.1:loc:1443878:1444583:strand:-:150:226     PP ......975...68**********************************.......*********************..****.***********97..
+GCF_900066015.1_ORF1547:gid::pid:WP_095042997.1:loc:1850341:1851088:strand:-:154:231             .......gk--AEALTPTETKLLYILMRKAGHTVPTDYILRRLWPTEP.......-VFEDRLHVHLHRLRRKIEDKkdKSRP.RYIISERGAGYSF..
+#=GR GCF_900066015.1_ORF1547:gid::pid:WP_095042997.1:loc:1850341:1851088:strand:-:154:231     PP .......65..568*********************************9........99999**************9666677.***********86..
+GCF_900066015.1_ORF1590:gid::pid:WP_095043028.1:loc:1907381:1908068:strand:-:147:223             ........g-RLIDLTPTEFALLLVFMEQPGYVLTRDELMRRGLGLNF.......EGVERTLDSHIRNLRQKLEPD..PAAP.SYIQTVYGVGYRL..
+#=GR GCF_900066015.1_ORF1590:gid::pid:WP_095043028.1:loc:1907381:1908068:strand:-:147:223     PP ........6.5699**********************************.......*********************..****.***********97..
+GCF_900066015.1_ORF1812:gid::pid:WP_162292462.1:loc:2139935:2140775:strand:-:187:265             .......ph--TVELSRGESAVLACLMTHPNQTLTTAQLARLAWSYHLs.....dAEAGELIRPYIHRLRRKLDRY..LPQT.NPIVTVRGRGYQF..
+#=GR GCF_900066015.1_ORF1812:gid::pid:WP_162292462.1:loc:2139935:2140775:strand:-:187:265     PP .......96..699********************************997.....6777899***************..6688.9**********97..
+GCF_900066015.1_ORF2413:gid::pid:WP_095043795.1:loc:2818637:2819390:strand:+:162:238             .........GERIDLRPTEYRLLNHLIQNAGWVVPHDTLLAKVWGYEY.......RDETHYLRLYINYLRKKIEED..PANP.RYILTERGVGYRF..
+#=GR GCF_900066015.1_ORF2413:gid::pid:WP_095043795.1:loc:2818637:2819390:strand:+:162:238     PP .........689************************************.......*********************..****.***********97..
+GCF_900066015.1_ORF2507:gid::pid:WP_095043885.1:loc:2941403:2942114:strand:-:157:232             ........g-ELVSLTPTETKLLYILVRNGGRIVTTEFLLNRIWPMQD.......-AKEDRLHVHVHRLRGKIEQD..PNSP.VYILAERGVGYSF..
+#=GR GCF_900066015.1_ORF2507:gid::pid:WP_095043885.1:loc:2941403:2942114:strand:-:157:232     PP ........5.6699*********************************8........77777***************..****.***********86..
+GCF_900066015.1_ORF2670:gid::pid:WP_095044034.1:loc:3117610:3118288:strand:+:146:221             .......ga--TFDLTAKEYELLELFMRHPRQVLTRDVIFDHVWNYDF.......GGESNIIEVYVRYLRQKTEQ-..GDMA.RLIHTVRGIGYVL..
+#=GR GCF_900066015.1_ORF2670:gid::pid:WP_095044034.1:loc:3117610:3118288:strand:+:146:221     PP .......65..679**********************************.......********************...7788.9**********97..
+GCF_900066015.1_ORF2723:gid::pid:WP_095044081.1:loc:3174227:3174926:strand:-:149:225             .........GEPLKLTPTEYALLRLLIQHAGRVLTHKQILREVWGPDY.......VEETHYLRVYFAQLRQKLEDD..PSRP.RLILTEPGVGYRL..
+#=GR GCF_900066015.1_ORF2723:gid::pid:WP_095044081.1:loc:3174227:3174926:strand:-:149:225     PP .........689************************************.......*********************..****.***********97..
+GCF_900066015.1_ORF2837:gid::pid:WP_095044188.1:loc:3303542:3304244:strand:-:149:222             .........GEAIILRAREFDLLLTLADHANQVLSRDQLLDQAWGYEY.......HGQTRTVDVHVAQLRDRLAD-..--SG.VEIETVWGRGYKL..
+#=GR GCF_900066015.1_ORF2837:gid::pid:WP_095044188.1:loc:3303542:3304244:strand:-:149:222     PP .........67899**********************************.......********************.....56.9**********97..
+GCF_900066015.1_ORF3069:gid::pid:WP_162292499.1:loc:3582346:3583069:strand:-:162:237             ........g-GEIALTPTETKLLYILMRHAGQIVTTDFILRRLWPMET.......-AYEDRLRVYVHRLRRKIEQQ..PEQP.KYITSQRGIGYSF..
+#=GR GCF_900066015.1_ORF3069:gid::pid:WP_162292499.1:loc:3582346:3583069:strand:-:162:237     PP ........5.689**********************************9........77777***************..****.***********86..
+GCF_900066015.1_ORF3413:gid::pid:WP_095044728.1:loc:3936800:3938123:strand:-:362:435             .........GQELNLTTSQFNILVQLCRHPDQVVRGEDLEMAVWGDVL.......VDDPDRLKTLIKRLRRAVDPF..G---.NWIISERGVGYAL..
+#=GR GCF_900066015.1_ORF3413:gid::pid:WP_095044728.1:loc:3936800:3938123:strand:-:362:435     PP .........799************************************.......********************5..4....8**********86..
+GCF_900066015.1_ORF3440:gid::pid:WP_095044753.1:loc:3978825:3979512:strand:-:148:224             .........GQPVHLTPNEFKLLVALAQHPGQTLSREQLLDELHGATL.......GGVDRSVDSHVKNLRRKLERN..ATAL.PRIETVYGVGYRL..
+#=GR GCF_900066015.1_ORF3440:gid::pid:WP_095044753.1:loc:3978825:3979512:strand:-:148:224     PP .........799************************************.......********************9..7777.8**********97..
+GCF_900066015.1_ORF3456:gid::pid:WP_095044945.1:loc:3999828:4000521:strand:-:149:226             .........GHEVHFTPQEYDILRLLATHPGKIMTHRAILSAVWGPEY.......ADMTHYVRIYVNQIRKKLGEN..PAAGvRYILNEPGVGYRF..
+#=GR GCF_900066015.1_ORF3456:gid::pid:WP_095044945.1:loc:3999828:4000521:strand:-:149:226     PP .........679************************************.......*********************..98888***********97..
+GCF_900066015.1_ORF3460:gid::pid:WP_095044949.1:loc:4003613:4004339:strand:+:163:239             .........GAPVRLKPKEFDLLLFLARNRGVALSRDLLLERVWGWTF.......DGNSRTVDVHVRWLREKIEPD..PADP.ARIITVRAVGYRF..
+#=GR GCF_900066015.1_ORF3460:gid::pid:WP_095044949.1:loc:4003613:4004339:strand:+:163:239     PP .........5689***********************************.......*********************..****.***********97..
+GCF_900066015.1_ORF3533:gid::pid:WP_157913301.1:loc:4097465:4098902:strand:+:392:474             ........n-EPKNLTELQANLYSVFRNKPDEVLTFEELGRKVWGWAAdrqseatGDEVRKIRIAVSKLRRQLEE-..SATG.ERITNMRGWGYRF..
+#=GR GCF_900066015.1_ORF3533:gid::pid:WP_157913301.1:loc:4097465:4098902:strand:+:392:474     PP ........6.5678999****************************9884222222334578**************...5588.9**********97..
+GCF_900066015.1_ORF3847:gid::pid:WP_095045315.1:loc:4508491:4509208:strand:+:155:231             .........GRPIALTAKEFAVLHTLALDAGKVVSTEDILSRVWGAEF.......MGEPQVVYVNIRWLREKIETD..PNQP.RRIINVRGVGYKL..
+#=GR GCF_900066015.1_ORF3847:gid::pid:WP_095045315.1:loc:4508491:4509208:strand:+:155:231     PP .........689************************************.......*********************..****.***********97..
+BGC0002285_ORF14:gid::pid:RMI87915.1:loc:13851:14445:strand:-:107:181                            .........GRELDLTYLEFELLAHLVRRPHLVQSRETLVAAVWGYHH.......VGDGRTVDVHVARLRRKLGS-..-AHR.HRIVTVRSIGYK-y.
+#=GR BGC0002285_ORF14:gid::pid:RMI87915.1:loc:13851:14445:strand:-:107:181                    PP .........6899***********************************.......********************....568.89*********8.6.
+BGC0000082_ORF39:gid::pid:ACB46500.1:loc:100108:100912:strand:-:19:92                            svgtykmev------------LLRTLLIRNGQVVSLDQLTQELWGETP......pVRAGASLHVYVSQLRKVLNK-..FSLN.SDVITTRAPGYIL..
+#=GR BGC0000082_ORF39:gid::pid:ACB46500.1:loc:100108:100912:strand:-:19:92                    PP *99877765............99*************************......88999****************...5588.8999*******86..
+AP018533.1.region007_ORF5:gid::pid::loc:4584:5262:strand:+:147:222                               ........d-QPVELTKKEFDLLRHLLENKGHVLSRETLLDSVWGFDF.......VGETNSVDVYIRFLRSKLDE-..AFGF.KLIHTVRGVGYV-i.
+#=GR AP018533.1.region007_ORF5:gid::pid::loc:4584:5262:strand:+:147:222                       PP ........5.89************************************.......********************...6678.9**********8.5.
+#=GC PP_cons                                                                                     .........67899**********************************.......********************9..9989.9**********87..
+#=GC RF                                                                                          .........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxx..xxxx.xxxxxxxxxxxxx..
+//

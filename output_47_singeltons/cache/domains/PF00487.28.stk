@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+NZ_CP072637.1.region003_ORF4:gid::pid:WP_211423349.1:loc:7541:8543:strand:-:33:316          lratssllldwgiivglvtatvwlnh--PLLWCLApLGIAAAQHGL-AILAHQAAHYRMY----ETRWLNDAVGMLCAAPLGVSMHTYRIIHRIHHNHLYSP-IDPDMALMAGYPRGRWHLLKKFIRDLLGIT-AVKNYLYFFGRPLRRTAPEKPAAHVSivddtsenlrRAARRDRRFVIVFhVTLLVAAVAGGWWQSY
+#=GR NZ_CP072637.1.region003_ORF4:gid::pid:WP_211423349.1:loc:7541:8543:strand:-:33:316  PP ********************987764..344455544444444666.7*********999....9***************************99*******9.******999999999998666666666655.333444445555555555555444446667777777333333333333324444444444444444
+GCF_018304705.1_ORF3073:gid::pid:WP_211423349.1:loc:3671804:3672806:strand:-:33:316         lratssllldwgiivglvtatvwlnh--PLLWCLApLGIAAAQHGL-AILAHQAAHYRMY----ETRWLNDAVGMLCAAPLGVSMHTYRIIHRIHHNHLYSP-IDPDMALMAGYPRGRWHLLKKFIRDLLGIT-AVKNYLYFFGRPLRRTAPEKPAAHVSivddtsenlrRAARRDRRFVIVFhVTLLVAAVAGGWWQSY
+#=GR GCF_018304705.1_ORF3073:gid::pid:WP_211423349.1:loc:3671804:3672806:strand:-:33:316 PP ********************987764..344455544444444666.7*********999....9***************************99*******9.******999999999998666666666655.333444445555555555555444446667777777333333333333324444444444444444
+#=GC PP_cons                                                                                ............................3444555.4444444666.7*********999....9***************************99*******9.******999999999998666666666655.33344444555555555555544444..........3333333333333.4444444444444444
+#=GC RF                                                                                     ..........................xxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxx.xxxxxxxxxxxxxxxx
+
+NZ_CP072637.1.region003_ORF4:gid::pid:WP_211423349.1:loc:7541:8543:strand:-:33:316          vvLWLLPLVTLLQWLLRLRALCEHGAVADTSTPLRAARTNL-VPWYIRWWLFPHQmhYHIEHHLYPSVPHYRLPACHAALREAGA----------ladaevsss
+#=GR NZ_CP072637.1.region003_ORF4:gid::pid:WP_211423349.1:loc:7541:8543:strand:-:33:316  PP 68***************************************.********9999999************************9755..........455667889
+GCF_018304705.1_ORF3073:gid::pid:WP_211423349.1:loc:3671804:3672806:strand:-:33:316         vvLWLLPLVTLLQWLLRLRALCEHGAVADTSTPLRAARTNL-VPWYIRWWLFPHQmhYHIEHHLYPSVPHYRLPACHAALREAGA----------ladaevsss
+#=GR GCF_018304705.1_ORF3073:gid::pid:WP_211423349.1:loc:3671804:3672806:strand:-:33:316 PP 68***************************************.********9999999************************9755..........455667889
+#=GC PP_cons                                                                                ..***************************************.********99999..************************9755...................
+#=GC RF                                                                                     ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........
+//

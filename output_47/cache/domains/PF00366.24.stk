@@ -1,0 +1,19 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF92:gid::pid::loc:111377:111632:strand:+:11:78              GRVVSDKMDKTIVVAVEEFVRHPLYNKRVKRTKKFKAHDEKNI.CNIGDRVKIMETRPLSKDKRFRLVE.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF92:gid::pid::loc:111377:111632:strand:+:11:78      PP 89*****************************************.***********************97.
+GCF_018304705.1_ORF1945:gid:rpsQ:pid:WP_211421586.1:loc:2317167:2317422:strand:+:12:78          GFVVSTKNKKTVTVKVERLVMHPIYKKFVRRRSKFLAHDELS-.CRVGDKVKIIESRPLSARKRWIVKE.
+#=GR GCF_018304705.1_ORF1945:gid:rpsQ:pid:WP_211421586.1:loc:2317167:2317422:strand:+:12:78  PP 78**************************************98..**********************976.
+GCF_026242195.1_ORF1270:gid::pid:WP_266086399.1:loc:200857094:200857424:strand:+:35:103         GRVATDSMDKTVVVEREHDVKVPKYDRYMRRRSRTPAHSPPCVdAEEGDTVRIAECRPLSKTKQFVVIE.
+#=GR GCF_026242195.1_ORF1270:gid::pid:WP_266086399.1:loc:200857094:200857424:strand:+:35:103 PP 89*****************************************************************86.
+GCF_900696045.1_ORF2701:gid::pid:WP_134485473.1:loc:2813912:2814236:strand:-:36:104             GIVVSHKSKNMVVVEREYSRFVSKYKRYERSKSKIHAFISDCQeVEDGNKVKIAECRPLSKTVSFAVVE.
+#=GR GCF_900696045.1_ORF2701:gid::pid:WP_134485473.1:loc:2813912:2814236:strand:-:36:104     PP 89*****************************************************************97.
+GCF_000011105.1_ORF1650:gid::pid:WP_010885831.1:loc:1544606:1544948:strand:-:36:104             GIVISDKPRKTVTVERQYYHYLKKYERYELRRSRIHAHNPPCInAKVGDRVLIAETRPLSKTKHFVVV-a
+#=GR GCF_000011105.1_ORF1650:gid::pid:WP_010885831.1:loc:1544606:1544948:strand:-:36:104     PP 89*****************************************************************8.7
+GCF_900066015.1_ORF3225:gid:rpsQ:pid:WP_095044552.1:loc:3762079:3762331:strand:+:10:77          GVVTSDKMDKTIVVAVATTKRHPIYGKIVSRVKKYKAHDENNE.SRTGDRVLIIESSPYSREKRFALV-s
+#=GR GCF_900066015.1_ORF3225:gid:rpsQ:pid:WP_095044552.1:loc:3762079:3762331:strand:+:10:77  PP 8******************************************.*********************998.6
+GCF_008000775.1_ORF1157:gid::pid:WP_244626333.1:loc:1266558:1266906:strand:-:41:109             GNVVSTKMHKTVVIQRDYNYYISKYQRYERRKSKITAHLPDCIeVKEGDQVRVAECRKISKTVAFVVIE.
+#=GR GCF_008000775.1_ORF1157:gid::pid:WP_244626333.1:loc:1266558:1266906:strand:-:41:109     PP 78*****************************************************************86.
+#=GC PP_cons                                                                                    89*****************************************.***********************86.
+#=GC RF                                                                                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx.
+//

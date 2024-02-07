@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF1194:gid:dnaA:pid:WP_058868075.1:loc:1438281:1439676:strand:-:132:350         LNPKYTFETFVVGSCNQFARAAAMAVADTPTRTYNPLFIYGGVGLGKTHLMHAIGHAIRNRDRHMRLVYISSEKFMNELINAIRYDKAQAFREKYRSIDVLLIDDIQFIAGKERTQEEFFHTFNALYDAQKQIVISSDCPPREIPTLEERLHSRFEWGLIADLQPPDLETKVAILKRKADLEKIDLSDNVALFIAGKIKS
+#=GR GCF_018304705.1_ORF1194:gid:dnaA:pid:WP_058868075.1:loc:1438281:1439676:strand:-:132:350 PP 89******************************************************************************************************************************************************************************************************
+GCF_900066015.1_ORF3968:gid:dnaA:pid:WP_095045429.1:loc:4658730:4660146:strand:+:132:348         LNRRNTFSTFIVGPNNRLAHAAALSVAENPGQTYNPLFIYGGVGLGKTHLLHAIGHRCRQDG--YNVRYISAETFTNDLVMAIRTKTTPDFRERYRTVDVLLIDDIQFIAGKEGTQDEFFHTFNDLHSHGKQVIISSDRPPKSLATLEERLLSRFEWGLTADVQPPDEETRRAILLAKAEELNCYVPDKVIEFIAHNSRQ
+#=GR GCF_900066015.1_ORF3968:gid:dnaA:pid:WP_095045429.1:loc:4658730:4660146:strand:+:132:348 PP 89*******************************************************98875..6688************************************************************************************************************************************
+GCA_000085225.1_ASM8522v1_genomic_ORF1:gid::pid::loc:0:1320:strand:+:103:321                     LNPKYTFDTFVIGNSNRFAHAACVAVAESPAKAYNPLFLYGGVGLGKTHLMHAIGHHIVSQKKDSKVVYVSSEKFTNELINSIKDDKNEEFRNKYRNVDVLLIDDIQFIAGKERTQEEFFHTFNTLHEANKQIIISSDRPPKDIPTLEDRLRSRFEMGLITDIQAPDFETRIAILRKKAQLERIDVPNEVMSYIAKNIKS
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1:gid::pid::loc:0:1320:strand:+:103:321             PP 89******************************************************************************************************************************************************************************************************
+#=GC PP_cons                                                                                     89********************************************************9998**9999************************************************************************************************************************************
+#=GC RF                                                                                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_018304705.1_ORF1194:gid:dnaA:pid:WP_058868075.1:loc:1438281:1439676:strand:-:132:350         NIRELEGSLIRLVAYASL-r
+#=GR GCF_018304705.1_ORF1194:gid:dnaA:pid:WP_058868075.1:loc:1438281:1439676:strand:-:132:350 PP **************9975.8
+GCF_900066015.1_ORF3968:gid:dnaA:pid:WP_095045429.1:loc:4658730:4660146:strand:+:132:348         NIRELEGALNKVVAYANL-t
+#=GR GCF_900066015.1_ORF3968:gid:dnaA:pid:WP_095045429.1:loc:4658730:4660146:strand:+:132:348 PP **************9875.7
+GCA_000085225.1_ASM8522v1_genomic_ORF1:gid::pid::loc:0:1320:strand:+:103:321                     NIRELEGALTRVVAYSSL-s
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1:gid::pid::loc:0:1320:strand:+:103:321             PP ***************986.7
+#=GC PP_cons                                                                                     **************9975..
+#=GC RF                                                                                          xxxxxxxxxxxxxxxxxxx.
+//

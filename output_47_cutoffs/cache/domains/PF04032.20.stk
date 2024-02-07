@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCF_000011105.1_ORF1498:gid::pid:WP_010885676.1:loc:1419581:1419944:strand:-:22:101         ..RIDTLFTLAER-VARYSPDLAKRYVELALEIQKKAKVKIPRKWKRRYCKRCHTFLIPGVNARVRLRTKRMPH---------VVITCLECG
+#=GR GCF_000011105.1_ORF1498:gid::pid:WP_010885676.1:loc:1419581:1419944:strand:-:22:101 PP ..899*******7.*****************************************************8766542.........68******7
+GCF_026242195.1_ORF682:gid::pid:WP_266088663.1:loc:6262277:6262559:strand:-:7:85            ..RIERLFELADE-VHGDDPERATRYVERAREISTSERVRIPSHLKRRFCGSCGAHLVPGDNARVRLRPQDEH----------VVVRCLDCG
+#=GR GCF_026242195.1_ORF682:gid::pid:WP_266088663.1:loc:6262277:6262559:strand:-:7:85    PP ..899*******8.*****************************************************887765..........79******7
+GCF_900696045.1_ORF867:gid::pid:WP_134483240.1:loc:912279:912588:strand:+:13:89             rv--KNLIDTALY----SSDEFALDHIKIARKIISKYKLKIPFEYKILFCKNCKRYIVPGKDSRIRIGRSNT-------KA--LRITCKYCN
+#=GR GCF_900696045.1_ORF867:gid::pid:WP_134483240.1:loc:912279:912588:strand:+:13:89     PP 65..556666666....78888889999***************************************54332.......23..67******6
+GCF_008000775.1_ORF3159:gid::pid:WP_244626279.1:loc:3540043:3540478:strand:+:33:114         ..RIEELLELAKK-THAEDPKLANRYVTLARNIAMGTKVAIPAILKRYICHNCKQLLVPGRNMRFRINNKVHY-------GTYVSVTCLTCG
+#=GR GCF_008000775.1_ORF3159:gid::pid:WP_244626279.1:loc:3540043:3540478:strand:+:33:114 PP ..78999*****7.*****************************************************765532.......24578******7
+#=GC PP_cons                                                                                ..89889999997.***999***********************************************7655442.....234578******7
+#=GC RF                                                                                     ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

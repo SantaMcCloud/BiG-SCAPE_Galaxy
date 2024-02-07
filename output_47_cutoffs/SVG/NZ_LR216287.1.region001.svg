@@ -1,0 +1,256 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="753.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="743.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (NFRAN_RS09650)
+isocitrate/isopropylmalate dehydrogenase family protein</title>
+			<polygon class=" (NFRAN_RS09650)
+isocitrate/isopropylmalate dehydrogenase family protein" points="45,25 41,25 41,10 11,40 41,70 41,55 45,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Iso_dh (PF00180)
+"Isocitrate/isopropylmalate dehydrogenase"</title>
+				<polygon class="PF00180" points="15,40 27,28 44,28 44,52 27,52" stroke-linejoin="round" width="32" height="24" fill="rgb(123,178,48)" stroke="rgb(98,142,38)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (NFRAN_RS09655)
+hypothetical protein</title>
+			<polygon class=" (NFRAN_RS09655)
+hypothetical protein" points="46,40 65,10 65,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (NFRAN_RS09660)
+ribonuclease HI family protein</title>
+			<polygon class=" (NFRAN_RS09660)
+ribonuclease HI family protein" points="70,10 83,40 70,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RVT_3 (PF13456)
+"Reverse transcriptase-like"</title>
+				<polygon class="PF13456" points="70,28 74,28 80,40 74,52 70,52" stroke-linejoin="round" width="12" height="24" fill="rgb(74,228,100)" stroke="rgb(59,182,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (NFRAN_RS09665)
+GTP-binding protein</title>
+			<polygon class=" (NFRAN_RS09665)
+GTP-binding protein" points="132,25 125,25 125,10 95,40 125,70 125,55 132,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TGS (PF02824)
+"TGS domain"</title>
+				<polygon class="PF02824" points="99,40 102,37 102,43" stroke-linejoin="round" width="7" height="24" fill="rgb(180,188,47)" stroke="rgb(144,150,37)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MMR_HSR1_Xtn (PF16897)
+"C-terminal region of MMR_HSR1 domain"</title>
+				<polygon class="PF16897" points="103,36 111,28 113,28 113,52 111,52 103,44" stroke-linejoin="round" width="10" height="24" fill="rgb(77,88,220)" stroke="rgb(61,70,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MMR_HSR1 (PF01926)
+"50S ribosome-binding GTPase"</title>
+				<rect class="PF01926" x="114" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(83,88,199)" stroke="rgb(66,70,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (NFRAN_RS09670)
+hypothetical protein</title>
+			<polygon class=" (NFRAN_RS09670)
+hypothetical protein" points="140,40 158,10 158,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (NFRAN_RS09675)
+coenzyme F420-0:L-glutamate ligase</title>
+			<polygon class=" (NFRAN_RS09675)
+coenzyme F420-0:L-glutamate ligase" points="162,40 187,10 187,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>F420_ligase (PF01996)
+"F420-0:Gamma-glutamyl ligase"</title>
+				<polygon class="PF01996" points="166,40 176,28 186,28 186,52 176,52" stroke-linejoin="round" width="21" height="24" fill="rgb(208,115,102)" stroke="rgb(166,92,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (NFRAN_RS09680)
+DDE-type integrase/transposase/recombinase</title>
+			<polygon class=" (NFRAN_RS09680)
+DDE-type integrase/transposase/recombinase" points="189,40 209,10 209,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_Tnp_IS240 (PF13610)
+"DDE domain"</title>
+				<polygon class="PF13610" points="193,40 201,28 202,28 202,52 201,52" stroke-linejoin="round" width="13" height="24" fill="rgb(218,62,190)" stroke="rgb(174,49,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (NFRAN_RS09685)
+3-isopropylmalate dehydratase large subunit</title>
+			<polygon class=" (NFRAN_RS09685)
+3-isopropylmalate dehydratase large subunit" points="214,25 226,25 226,10 256,40 226,70 226,55 214,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aconitase (PF00330)
+"Aconitase family (aconitate hydratase)"</title>
+				<polygon class="PF00330" points="214,28 240,28 252,40 240,52 214,52" stroke-linejoin="round" width="40" height="24" fill="rgb(199,148,53)" stroke="rgb(159,118,42)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>leuD (NFRAN_RS09690)
+3-isopropylmalate dehydratase small subunit</title>
+			<polygon class="leuD (NFRAN_RS09690)
+3-isopropylmalate dehydratase small subunit" points="256,10 272,40 256,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aconitase_C (PF00694)
+"Aconitase C-terminal domain"</title>
+				<polygon class="PF00694" points="256,28 262,28 267,37 267,43 262,52 256,52" stroke-linejoin="round" width="11" height="24" fill="rgb(122,187,70)" stroke="rgb(97,149,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (NFRAN_RS09695)
+hypothetical protein</title>
+			<polygon class=" (NFRAN_RS09695)
+hypothetical protein" points="277,40 292,10 292,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (NFRAN_RS09700)
+hypothetical protein</title>
+			<polygon class=" (NFRAN_RS09700)
+hypothetical protein" points="302,40 328,10 328,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (NFRAN_RS13905)
+hypothetical protein</title>
+			<polygon class=" (NFRAN_RS13905)
+hypothetical protein" points="330,40 335,10 335,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (NFRAN_RS09705)
+YcaO-like family protein</title>
+			<polygon class=" (NFRAN_RS09705)
+YcaO-like family protein" points="343,25 358,25 358,10 388,40 358,70 358,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<rect class="PF02624" x="350" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(203,66,101)" stroke="rgb(162,52,80)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="366,28 371,28 383,40 371,52 366,52" stroke-linejoin="round" width="18" height="24" fill="rgb(203,66,101)" stroke="rgb(162,52,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (NFRAN_RS09710)
+TfuA-like protein</title>
+			<polygon class=" (NFRAN_RS09710)
+TfuA-like protein" points="387,10 409,40 387,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TfuA (PF07812)
+"TfuA-like protein"</title>
+				<polygon class="PF07812" points="392,28 396,28 403,37 403,43 396,52 392,52" stroke-linejoin="round" width="11" height="24" fill="rgb(62,202,88)" stroke="rgb(49,161,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (NFRAN_RS09715)
+hypothetical protein</title>
+			<polygon class=" (NFRAN_RS09715)
+hypothetical protein" points="411,10 430,40 411,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (NFRAN_RS09720)
+metallophosphoesterase</title>
+			<polygon class=" (NFRAN_RS09720)
+metallophosphoesterase" points="439,10 459,40 439,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Metallophos_2 (PF12850)
+"Calcineurin-like phosphoesterase superfamily domain"</title>
+				<polygon class="PF12850" points="439,28 447,28 455,40 455,40 447,52 439,52" stroke-linejoin="round" width="16" height="24" fill="rgb(204,64,62)" stroke="rgb(163,51,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (NFRAN_RS13910)
+hypothetical protein</title>
+			<polygon class=" (NFRAN_RS13910)
+hypothetical protein" points="465,10 484,40 465,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (NFRAN_RS09725)
+hypothetical protein</title>
+			<polygon class=" (NFRAN_RS09725)
+hypothetical protein" points="487,40 498,10 498,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (NFRAN_RS09730)
+ABC transporter ATP-binding protein</title>
+			<polygon class=" (NFRAN_RS09730)
+ABC transporter ATP-binding protein" points="508,40 532,10 532,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="513,39 522,28 527,28 527,52 522,52 513,41" stroke-linejoin="round" width="14" height="24" fill="rgb(212,56,157)" stroke="rgb(169,44,125)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (NFRAN_RS09735)
+hypothetical protein</title>
+			<polygon class=" (NFRAN_RS09735)
+hypothetical protein" points="552,10 567,40 552,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (NFRAN_RS09740)
+amidohydrolase family protein</title>
+			<polygon class=" (NFRAN_RS09740)
+amidohydrolase family protein" points="617,25 598,25 598,10 568,40 598,70 598,55 617,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidohydro_1 (PF01979)
+"Amidohydrolase family"</title>
+				<polygon class="PF01979" points="572,40 584,28 599,28 599,52 584,52" stroke-linejoin="round" width="29" height="24" fill="rgb(153,197,82)" stroke="rgb(122,157,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rpiA (NFRAN_RS09745)
+ribose 5-phosphate isomerase A</title>
+			<polygon class="rpiA (NFRAN_RS09745)
+ribose 5-phosphate isomerase A" points="619,40 643,10 643,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rib_5-P_isom_A (PF06026)
+"Ribose 5-phosphate isomerase A (phosphoriboisomerase A)"</title>
+				<polygon class="PF06026" points="623,40 633,28 636,28 636,52 633,52" stroke-linejoin="round" width="16" height="24" fill="rgb(100,185,69)" stroke="rgb(80,148,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (NFRAN_RS09750)
+hypothetical protein</title>
+			<polygon class=" (NFRAN_RS09750)
+hypothetical protein" points="678,25 676,25 676,10 646,40 676,70 676,55 678,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (NFRAN_RS09755)
+50S ribosomal protein L37e</title>
+			<polygon class=" (NFRAN_RS09755)
+50S ribosomal protein L37e" points="682,40 687,10 687,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L37e (PF01907)
+"Ribosomal protein L37e"</title>
+				<polygon class="PF01907" points="685,40 687,28 687,28 687,52 687,52" stroke-linejoin="round" width="5" height="24" fill="rgb(142,216,103)" stroke="rgb(113,172,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (NFRAN_RS09760)
+LSm family protein</title>
+			<polygon class=" (NFRAN_RS09760)
+LSm family protein" points="689,40 696,10 696,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LSM (PF01423)
+"LSM domain"</title>
+				<polygon class="PF01423" points="692,40 695,28 695,28 695,52 695,52" stroke-linejoin="round" width="6" height="24" fill="rgb(211,69,205)" stroke="rgb(168,55,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (NFRAN_RS09765)
+creatininase family protein</title>
+			<polygon class=" (NFRAN_RS09765)
+creatininase family protein" points="700,40 724,10 724,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Creatininase (PF02633)
+"Creatinine amidohydrolase"</title>
+				<polygon class="PF02633" points="704,40 714,28 722,28 722,52 714,52" stroke-linejoin="round" width="22" height="24" fill="rgb(91,209,192)" stroke="rgb(72,167,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

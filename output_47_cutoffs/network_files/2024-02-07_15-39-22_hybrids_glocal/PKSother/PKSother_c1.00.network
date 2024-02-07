@@ -1,0 +1,4 @@
+Clustername 1	Clustername 2	Raw distance	Squared similarity	Jaccard index	DSS index	Adjacency index	raw DSS non-anchor	raw DSS anchor	Non-anchor domains	Anchor domains	Combined group	Shared group
+GCF_900066015.1	NZ_CP072636.1.region004	0.9972856640815735	7.367745638475753e-06	0.013833992183208466	0.0023613928351551294	0.0028804608155041933	0.9975970983505249	1.0	5235	23	T3PKS - terpene.hglE-KS.betalactone	
+GCF_018304705.1	GCF_900066015.1	0.9424169659614563	0.003315804060548544	0.20816084742546082	0.07341659069061279	0.05013192445039749	0.9253852367401123	1.0	2696	11	T3PKS.ranthipeptide.lassopeptide.terpene.RRE-containing.RiPP-like - terpene.hglE-KS.betalactone	
+GCF_018304705.1	NZ_CP072636.1.region004	0.0	1.0	1.0	1.0	1.0	0.0	0.0	38	1	T3PKS - T3PKS.ranthipeptide.lassopeptide.terpene.RRE-containing.RiPP-like	

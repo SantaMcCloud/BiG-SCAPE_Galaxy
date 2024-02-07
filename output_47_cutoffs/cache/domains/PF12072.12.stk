@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1217:gid::pid::loc:1399550:1401113:strand:+:12:205         ds--VVMIVIGAAVGIIAGYFVRKNISEAKIGQAENLAKEIIDKAHHDSETVQKEKLLEAKEEIHKWRTEAERENRERRTEVQKYEKRVVQKEEVLDRKLQNLESKEVNLSEKLKV-------VEKKEEEVEVIKTQQLEKLESISGITSDKAKEIILTNAERDVRREMSIMIKEIESQAKEEADKKSREIIGYAIQKCA
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1217:gid::pid::loc:1399550:1401113:strand:+:12:205 PP 96..799*************************************************************************************************************.......*****************************************************************************
+GCF_900066015.1_ORF3194:gid:rny:pid:WP_095044523.1:loc:3732461:3733994:strand:-:2:195           el--WIGLLIGVVVGAVIAALVTRAVLQPRIAETVAAAEAEISEKRLAAERESDNILRVSREETQELRLEAEKAIERRYQDLARAEERVDRRGANQDQQAKNLEQREQVLNKRQGR-------LDKRQNDLGNLEQEHRQKLEETAAMTTDEARQVLIQQVEKEAQQDLARVVREIDNRAKETAEEQARKIIALSIQRLA
+#=GR GCF_900066015.1_ORF3194:gid:rny:pid:WP_095044523.1:loc:3732461:3733994:strand:-:2:195   PP 97..577899*******************************************************************************************************999.......9****************************************************************************
+#=GC PP_cons                                                                                    ....68899*********************************************************************************************************99.......*****************************************************************************
+#=GC RF                                                                                         ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1217:gid::pid::loc:1399550:1401113:strand:+:12:205         ADH
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1217:gid::pid::loc:1399550:1401113:strand:+:12:205 PP **8
+GCF_900066015.1_ORF3194:gid:rny:pid:WP_095044523.1:loc:3732461:3733994:strand:-:2:195           GDQ
+#=GR GCF_900066015.1_ORF3194:gid:rny:pid:WP_095044523.1:loc:3732461:3733994:strand:-:2:195   PP *95
+#=GC PP_cons                                                                                    *97
+#=GC RF                                                                                         xxx
+//

@@ -1,0 +1,33 @@
+# STOCKHOLM 1.0
+
+BGC0000082_ORF10:gid::pid:ACB46471.1:loc:10560:22326:strand:-:3018:3118              ...........HPLAAASLPVAGDDRRVLSGRISLRTHPWLAYHQVNDVVLVPGTAFVELALHAAREVG--.-CAAVEELTLLTPLVVPERGGVRIQVVVGAPE..aTGARPVTVHSR..
+#=GR BGC0000082_ORF10:gid::pid:ACB46471.1:loc:10560:22326:strand:-:3018:3118      PP ...........**********************************************************....77*****************************..9*********97..
+BGC0000082_ORF10:gid::pid:ACB46471.1:loc:10560:22326:strand:-:949:1047               ..........p---LAAETMLADGTGHLFSGRLSLGTHGWLADHTVHGSVIVPATAFAELALHAAHRAG--.-CARLEELTLRTPLTLPDGDAVRIQVIVGVPG..pDGERPVGIHSR..
+#=GR BGC0000082_ORF10:gid::pid:ACB46471.1:loc:10560:22326:strand:-:949:1047       PP ..........9...677889999**********************************************....77*****************************..**********97..
+BGC0000082_ORF25:gid::pid:ACB46486.1:loc:43117:48496:strand:-:905:1005               ...........HPLLAALVELPEGRGLAATGRVGTDTHPWLAGYLVQGTAVLPAVAVLDLVLSTGRHLG--.-LHHLEELTLDGPIVLPEDGGVDLRVQVSGPD..dAGRHTVGVHTR..
+#=GR BGC0000082_ORF25:gid::pid:ACB46486.1:loc:43117:48496:strand:-:905:1005       PP ...........**********************************************************....66**************************999..99*****99986..
+BGC0000082_ORF26:gid::pid:ACB46487.1:loc:48519:69138:strand:-:5981:6080              ...........HPFLGAGAELP-DGGFLFTGRISAETHPWLTDHVLHGSPVVPASALVDMALYAGGRSGCD.---RIGELTLSAPLVLPETGAVHVQVVVGPPG..gSGTRNVTIRSR..
+#=GR BGC0000082_ORF26:gid::pid:ACB46487.1:loc:48519:69138:strand:-:5981:6080      PP ...........***********.**********************************************88....*****************************..*********997..
+BGC0000082_ORF26:gid::pid:ACB46487.1:loc:48519:69138:strand:-:4331:4431              ...........HGLLRTATPLAETGGWLLGGRASRRTHPWLAEHTVNGAALVPGTVFLDLAVHAARVGGCD.---RIDELTVESPLTLPERGSVDLQVTVSGRD..aHGARSIAISSR..
+#=GR BGC0000082_ORF26:gid::pid:ACB46487.1:loc:48519:69138:strand:-:4331:4431      PP ...........99*****************************************************99977....*****************************..9********997..
+BGC0000082_ORF26:gid::pid:ACB46487.1:loc:48519:69138:strand:-:2587:2686              ...........HPVVGSTTDLPEEQGHVFTGRISTTTHPWLADHAVLETVLMPGTGFLDIALHAAAHLGHR.---HVEELTVENPLTFSGTAAVQLHVAIAPDG...RGDHTVTVHSR..
+#=GR BGC0000082_ORF26:gid::pid:ACB46487.1:loc:48519:69138:strand:-:2587:2686      PP ...........**********************************************************66....*****************************...*********97..
+BGC0000082_ORF26:gid::pid:ACB46487.1:loc:48519:69138:strand:-:908:1007               ...........HPVITEVTELPDERGLIFTGRLSAATHPWLAAYAIREATVVPATVLLDIALHAARHVG--.-LTAVETLTVQTPLVLPDTGTTRLHVSVGQED...RGRRAITVHSR..
+#=GR BGC0000082_ORF26:gid::pid:ACB46487.1:loc:48519:69138:strand:-:908:1007       PP ...........**********************************************************....66*****************************...*********97..
+BGC0000082_ORF27:gid::pid:ACB46488.1:loc:69154:87880:strand:-:5348:5448              ...........HPLVSGVVELPGSQGLVLTGRISTATHPWLADHAVLGTVLLPGAALVDVTLHAGARVG--.-CARIDDLVLDHPLVLPEQGAADLRVQVNGPD..eDGRRAFTVHS-l.
+#=GR BGC0000082_ORF27:gid::pid:ACB46488.1:loc:69154:87880:strand:-:5348:5448      PP ...........**********************************************************....77***************************99..9*********9.7.
+BGC0000082_ORF27:gid::pid:ACB46488.1:loc:69154:87880:strand:-:3650:3752              ...........HALVSAATELPEGNGHILTGRISTATHPWLADHAVLGTVLLPGSAFLDLALRAAIEVGGD.---RVDGLTLENPLTLRGDAPVELHVGVGAPDgpdGGHRTVTIHSR..
+#=GR BGC0000082_ORF27:gid::pid:ACB46488.1:loc:69154:87880:strand:-:3650:3752      PP ...........99*********************************************************9....******************************9999*******97..
+BGC0000082_ORF27:gid::pid:ACB46488.1:loc:69154:87880:strand:-:1914:2014              ...........HPFLHTVTDLADGDGHVFTGRLSPSARPWLADHAVRGAALLPGTAFLDMVARAGEELG--.-YGSVEELTLEAPLPIPADGDVRLQVVVGAAD..gSGRRPVRLFSR..
+#=GR BGC0000082_ORF27:gid::pid:ACB46488.1:loc:69154:87880:strand:-:1914:2014      PP ...........**********************************************************....56*****************************..*********997..
+BGC0002452_ORF20:gid:lcmA3:pid:BBM96639.1:loc:27093:39249:strand:-:2568:2668         ...........HPLLGGGVELPGSGEHVYTARVGVDAAPWLADHALMGTVLLPGAAFADLALWAGRQAG--.-TARLEELTLAAPLVVPGTGGRRLRLTVGGSG..aDGARRFTVHGR..
+#=GR BGC0002452_ORF20:gid:lcmA3:pid:BBM96639.1:loc:27093:39249:strand:-:2568:2668 PP ...........**********************************************************....66*****************************..9********965..
+BGC0002452_ORF21:gid:lcmA2:pid:BBM96640.1:loc:39355:45229:strand:-:934:1034          ...........HPLFAAAVELPGADTTVWTGRLSSPELPWLAGHLVWDRGVVPGAALLEAVLRIGTRVG--.-LPRVAELVLETPLTWSPDVPAQLRAVVGAPG..aGGAREITLHSR..
+#=GR BGC0002452_ORF21:gid:lcmA2:pid:BBM96640.1:loc:39355:45229:strand:-:934:1034  PP ...........**********************************************************....88*****************************..99999***9997..
+BGC0002452_ORF22:gid:lcmA1:pid:BBM96641.1:loc:45329:58454:strand:-:3409:3509         ...........HPFLTGATPIAGSGATLFTGRLSLAAHPWLADHVVSGSVLLPGTAFADLLLRVADELGA-.--GAVEEFDLRAPLVLPERGVTQIQVLAEAPD..kRGLRAVTVAA-r.
+#=GR BGC0002452_ORF22:gid:lcmA1:pid:BBM96641.1:loc:45329:58454:strand:-:3409:3509 PP ...........**********************************************************5....5****************************9..88999999876.5.
+BGC0001543_ORF11:gid::pid:CCG06114.1:loc:27604:28462:strand:-:27:116                 pagdgyrvalr------------------------DDHPYFSHHRVRGWKVLPGVVYLELALSAVARARPDfNTCFVDEVVWLRPVLANT-PETEIDVQLAPIS...PTRIEFRIA--hg
+#=GR BGC0001543_ORF11:gid::pid:CCG06114.1:loc:27604:28462:strand:-:27:116         PP **999887664........................59*************************************************9999.5***********9...99***9996..79
+#=GC PP_cons                                                                         ...........**********************************************************88.*77*****************************...********997..
+#=GC RF                                                                              ...........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxx..
+//

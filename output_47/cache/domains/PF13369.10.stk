@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF622:gid::pid:WP_211422711.1:loc:752492:753350:strand:+:48:201            aaip----GQLDALADALWEW..AEETGQPEPlTIEAVAEGFV-ALGFRGNTENYDDRRNSFLEDVLTRRVGIPITLSVVFIELAARFGLRCEGINFPGHFLVRYS..-GPDGV..GYLDPFHQCRWLDNDGLQQLLHQVHGP.EVELCAEHLKVAQPADMFLRMLN.
+#=GR GCF_018304705.1_ORF622:gid::pid:WP_211422711.1:loc:752492:753350:strand:+:48:201    PP 8765....69*********99..8888555555999*****85.9***********************************************************99...99***..***************************.*********************97.
+GCF_900696045.1_ORF1493:gid::pid:WP_134484256.1:loc:1546411:1547350:strand:-:71:230         ...s-EYLIKIDEIGKELSSKikYSKSMRPTQ.IIEKFNDFFFEEKGFKPNINDYYNPVNNYLNIVLEKRTGIPITLSLLYIHIISYLNFKLYPVNFPSHFLIKYIldENA--NdfIVIDPFNRGRIIDDYILQDLLKNAYPGlDISVSKNLLDIAKPTQILTRILN.
+#=GR GCF_900696045.1_ORF1493:gid::pid:WP_134484256.1:loc:1546411:1547350:strand:-:71:230 PP ...7.68889*********995556669999*.***********************************************************************9843444..356***********************998789********************96.
+GCF_900066015.1_ORF301:gid::pid:WP_162292425.1:loc:353083:353905:strand:+:36:189            adym----GVLHELSEEAADY..VDIAAPVAE.QAEQLAAYLFRRRGFQGNRHTYADPRNSYLNEVIDRRLGIPITLSILYISVAEQLGLPAYGIGLPGHFIVGIR..-AEGAD..RWLDPFHEGRWLDLADCADLIRLSSGY.AGPIEASWFSPVKGRVILARLL-s
+#=GR GCF_900066015.1_ORF301:gid::pid:WP_162292425.1:loc:353083:353905:strand:+:36:189    PP 8755....5689999999999..99999999*.***********************************************************************99...999**..***************************.99******************98.6
+#=GC PP_cons                                                                                .....6887899*******99..888888888.9*******98*************************************************************99..477**7..*************************99.*********************96.
+#=GC RF                                                                                     ....xxxxxxxxxxxxxxxxx..xxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx.
+//

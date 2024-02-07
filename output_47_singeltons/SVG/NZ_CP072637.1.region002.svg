@@ -1,0 +1,197 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="738.8" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="728.8" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (J8C03_RS15420)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS15420)
+hypothetical protein" points="22,40 47,10 47,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (J8C03_RS15425)
+VOC family protein</title>
+			<polygon class=" (J8C03_RS15425)
+VOC family protein" points="50,40 65,10 65,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyoxalase (PF00903)
+"Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"</title>
+				<polygon class="PF00903" points="53,40 59,28 64,28 64,52 59,52" stroke-linejoin="round" width="12" height="24" fill="rgb(193,155,75)" stroke="rgb(154,123,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15430)
+COX15/CtaA family protein</title>
+			<polygon class=" (J8C03_RS15430)
+COX15/CtaA family protein" points="103,25 100,25 100,10 70,40 100,70 100,55 103,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>COX15-CtaA (PF02628)
+"Cytochrome oxidase assembly protein"</title>
+				<polygon class="PF02628" points="74,40 86,28 101,28 101,52 86,52" stroke-linejoin="round" width="28" height="24" fill="rgb(94,131,228)" stroke="rgb(75,104,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15435)
+phage integrase N-terminal SAM-like domain-containing protein</title>
+			<polygon class=" (J8C03_RS15435)
+phage integrase N-terminal SAM-like domain-containing protein" points="103,40 130,10 130,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phage_int_SAM_1 (PF02899)
+"Phage integrase, N-terminal SAM-like domain"</title>
+				<rect class="PF02899" x="121" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(144,180,66)" stroke="rgb(115,144,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15440)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS15440)
+hypothetical protein" points="131,40 144,10 144,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (J8C03_RS15445)
+C25 family cysteine peptidase</title>
+			<polygon class=" (J8C03_RS15445)
+C25 family cysteine peptidase" points="249,25 178,25 178,10 148,40 178,70 178,55 249,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C25 (PF01364)
+"Peptidase family C25"</title>
+				<polygon class="PF01364" points="152,40 164,28 181,28 181,52 164,52" stroke-linejoin="round" width="33" height="24" fill="rgb(91,189,93)" stroke="rgb(72,151,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15450)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS15450)
+hypothetical protein" points="288,25 281,25 281,10 251,40 281,70 281,55 288,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (J8C03_RS15455)
+S26 family signal peptidase</title>
+			<polygon class=" (J8C03_RS15455)
+S26 family signal peptidase" points="289,40 303,10 303,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S24 (PF00717)
+"Peptidase S24-like"</title>
+				<polygon class="PF00717" points="292,40 298,28 301,28 301,52 298,52 292,40" stroke-linejoin="round" width="9" height="24" fill="rgb(83,179,111)" stroke="rgb(66,143,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15460)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS15460)
+hypothetical protein" points="303,40 331,10 331,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (J8C03_RS15465)
+radical SAM protein</title>
+			<polygon class=" (J8C03_RS15465)
+radical SAM protein" points="384,25 373,25 373,10 343,40 373,70 373,55 384,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="365" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(160,228,99)" stroke="rgb(128,182,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15470)
+PqqD family peptide modification chaperone</title>
+			<polygon class=" (J8C03_RS15470)
+PqqD family peptide modification chaperone" points="385,40 395,10 395,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="388,40 392,28 393,28 393,52 392,52" stroke-linejoin="round" width="7" height="24" fill="rgb(200,109,227)" stroke="rgb(160,87,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15475)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS15475)
+hypothetical protein" points="407,25 508,25 508,10 538,40 508,70 508,55 407,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Kelch_1 (PF01344)
+"Kelch motif"</title>
+				<rect class="PF01344" x="460" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(184,68,96)" stroke="rgb(147,54,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15480)
+NAD+ synthase</title>
+			<polygon class=" (J8C03_RS15480)
+NAD+ synthase" points="594,25 570,25 570,10 540,40 570,70 570,55 594,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_synthase (PF02540)
+"NAD synthase"</title>
+				<polygon class="PF02540" points="544,40 556,28 566,28 566,52 556,52" stroke-linejoin="round" width="24" height="24" fill="rgb(180,69,212)" stroke="rgb(143,55,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CN_hydrolase (PF00795)
+"Carbon-nitrogen hydrolase"</title>
+				<rect class="PF00795" x="569" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(186,128,69)" stroke="rgb(148,102,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15485)
+HU family DNA-binding protein</title>
+			<polygon class=" (J8C03_RS15485)
+HU family DNA-binding protein" points="604,10 617,40 604,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_DNA_binding (PF00216)
+"Bacterial DNA-binding protein"</title>
+				<polygon class="PF00216" points="608,28 608,28 613,40 608,52 608,52" stroke-linejoin="round" width="8" height="24" fill="rgb(211,88,56)" stroke="rgb(168,70,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS16280)
+histidine kinase</title>
+			<polygon class=" (J8C03_RS16280)
+histidine kinase" points="627,10 640,40 627,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Reg_prop (PF07494)
+"Two component regulator propeller"</title>
+				<polygon class="PF07494" points="630,28 631,28 632,29 632,51 631,52 630,52" stroke-linejoin="round" width="2" height="24" fill="rgb(51,194,91)" stroke="rgb(40,155,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Reg_prop (PF07494)
+"Two component regulator propeller"</title>
+				<polygon class="PF07494" points="634,34 636,38 636,42 634,46" stroke-linejoin="round" width="2" height="24" fill="rgb(51,194,91)" stroke="rgb(40,155,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS16285)
+RNA-guided endonuclease TnpB family protein</title>
+			<polygon class=" (J8C03_RS16285)
+RNA-guided endonuclease TnpB family protein" points="695,25 681,25 681,10 651,40 681,70 681,55 695,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OrfB_Zn_ribbon (PF07282)
+"Putative transposase DNA-binding domain"</title>
+				<polygon class="PF07282" points="656,39 663,32 663,48 656,41" stroke-linejoin="round" width="7" height="24" fill="rgb(228,144,110)" stroke="rgb(182,115,88)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OrfB_IS605 (PF01385)
+"Probable transposase"</title>
+				<polygon class="PF01385" points="664,31 667,28 677,28 677,52 667,52 664,49" stroke-linejoin="round" width="13" height="24" fill="rgb(73,190,229)" stroke="rgb(58,152,183)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_OrfB_IS605 (PF12323)
+"Helix-turn-helix domain"</title>
+				<rect class="PF12323" x="690" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(216,110,224)" stroke="rgb(172,88,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15495)
+IS607 family transposase</title>
+			<polygon class=" (J8C03_RS15495)
+IS607 family transposase" points="696,40 717,10 717,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Resolvase (PF00239)
+"Resolvase, N terminal domain"</title>
+				<polygon class="PF00239" points="700,40 709,28 711,28 711,52 709,52" stroke-linejoin="round" width="14" height="24" fill="rgb(227,58,76)" stroke="rgb(181,46,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MerR (PF00376)
+"MerR family regulatory protein"</title>
+				<rect class="PF00376" x="713" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(74,94,193)" stroke="rgb(59,75,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

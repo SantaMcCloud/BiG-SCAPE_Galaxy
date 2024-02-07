@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCF_000011105.1_ORF1318:gid::pid:WP_048053595.1:loc:1263535:1265482:strand:+:9:76           ...DQILRDIRAVVNQMVPKEAKITEIEFEGPELVIYVKNPEAIMKDGEL.IKDLAKVLKKRISVRPDPEVL.
+#=GR GCF_000011105.1_ORF1318:gid::pid:WP_048053595.1:loc:1263535:1265482:strand:+:9:76   PP ...57999******************************************.*******************98.
+GCF_026242195.1_ORF173:gid::pid:WP_266085457.1:loc:163301:165209:strand:+:4:71              ..d-EELEDLQERIEDEIPGGIAISDVEYEGPELVIYTSDPKKFADDGDL.VRDLARKLRKRITVRPDPGVL.
+#=GR GCF_026242195.1_ORF173:gid::pid:WP_266085457.1:loc:163301:165209:strand:+:4:71      PP ..5.789*******************************************.******************997.
+GCF_900696045.1_ORF2309:gid::pid:WP_134485081.1:loc:2411083:2412979:strand:-:13:79          sda----QSIMATILKNLPRECSLTKIEYEGPRIALHTNNPKFLLENNKI.LPNIVAQIKKRIVLRIDETL-r
+#=GR GCF_900696045.1_ORF2309:gid::pid:WP_134485081.1:loc:2411083:2412979:strand:-:13:79  PP 875....7899***************************************.*****************976.6
+GCF_900696045.1_ORF2669:gid::pid:WP_232038038.1:loc:2789019:2791122:strand:-:33:100         vae----ESFEERILKSIPKEAQITSIRFEAANIALYTKNPRFALTELTLhLSALSKSMKKRFIIRTDPSIR.
+#=GR GCF_900696045.1_ORF2669:gid::pid:WP_232038038.1:loc:2789019:2791122:strand:-:33:100 PP 987....56789******************************99855554399*****************96.
+GCF_008000775.1_ORF1239:gid::pid:WP_147662348.1:loc:1347621:1349520:strand:+:1:68           ..m-DSLEKLRKIIKESIPKSAEITDVLYEGPEISVYSKNENFIGNDHAE.IKNLVKKLRKRIVVRSDPSIR.
+#=GR GCF_008000775.1_ORF1239:gid::pid:WP_147662348.1:loc:1347621:1349520:strand:+:1:68   PP ..7.679*******************************************.*******************96.
+#=GC PP_cons                                                                                ...57898999**********************************99999.******************987.
+#=GC RF                                                                                     ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxx.
+//

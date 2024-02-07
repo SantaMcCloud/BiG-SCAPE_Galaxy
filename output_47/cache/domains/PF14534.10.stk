@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF1871:gid::pid:WP_211421647.1:loc:2229211:2229658:strand:-:33:142         ........IRTLLDNQAAAWNRGDLEGFMDGYWRSPELTFVSGTTV.TkgWEATLARYRQryqsEGRAMGTLDFQDLVIEMVgPRAALVRGAWRVVLPE.Q----VASGRFTLLVRRF.PNGWRI
+#=GR GCF_018304705.1_ORF1871:gid::pid:WP_211421647.1:loc:2229211:2229658:strand:-:33:142 PP ........678888899*********99888888888888888887.634456666665555549999**************55588*********996.5....599**********.*****8
+GCF_900696045.1_ORF982:gid::pid:WP_134483414.1:loc:1032424:1032802:strand:+:8:116           edllnsqv---------KEVNKGNIDFLMTLYENDVCFANQPGQVVkD..KELICKAFHE....LINKGIKLDARAKRVYYV.DNLALLITEWSLNGREsDGTPINHTGNGTIVFRRQpDNTWLM
+#=GR GCF_900696045.1_ORF982:gid::pid:WP_134483414.1:loc:1032424:1032802:strand:+:8:116   PP 98877765.........56899***********************956..7777777665....444457888888999999.**************88799****************999**87
+NZ_CP072636.1.region003_ORF7:gid::pid:WP_211421647.1:loc:7806:8253:strand:-:33:142          ........IRTLLDNQAAAWNRGDLEGFMDGYWRSPELTFVSGTTV.TkgWEATLARYRQryqsEGRAMGTLDFQDLVIEMVgPRAALVRGAWRVVLPE.Q----VASGRFTLLVRRF.PNGWRI
+#=GR NZ_CP072636.1.region003_ORF7:gid::pid:WP_211421647.1:loc:7806:8253:strand:-:33:142  PP ........678888899*********99888888888888888887.634456666665555549999**************55588*********996.5....599**********.*****8
+#=GC PP_cons                                                                                ........678888899899******99999998888888888887.6..5666666655....778889999999******.7788*********997.69***79***********.****98
+#=GC RF                                                                                     ........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x..xxxxxxxxxx....xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx.xxxxxx
+//

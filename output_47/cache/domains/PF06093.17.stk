@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF769:gid::pid:WP_266088846.1:loc:50102630:50102816:strand:+:3:61         .q-LACRECHRVTRDEV-----CPAC-----------GSENLSEDWSGYVVIIEPGESEIAEK--MEVDLAGKYALKVR
+#=GR GCF_026242195.1_ORF769:gid::pid:WP_266088846.1:loc:50102630:50102816:strand:+:3:61 PP .7.59*******99888.....****...........**************************..************96
+GCF_900696045.1_ORF2004:gid::pid:WP_134484819.1:loc:2081940:2082129:strand:-:4:62          ev--ACKKCKALTTGKM-----CPVC-----------KSTELTKDWFGIMLILEPKKSKVATT--LEITVPHKYALKVT
+#=GR GCF_900696045.1_ORF2004:gid::pid:WP_134484819.1:loc:2081940:2082129:strand:-:4:62  PP 76..9********9998.....****...........99************************..************95
+GCF_000011105.1_ORF1786:gid::pid:WP_010885973.1:loc:1661093:1661279:strand:+:3:61          ..EKACRNCHYITTEDQ-----CPVC-----------GSRDLSEEWFDLVIIIDVENSEIAKR--IGAKVPGKYAIRVR
+#=GR GCF_000011105.1_ORF1786:gid::pid:WP_010885973.1:loc:1661093:1661279:strand:+:3:61  PP ..69*************.....****...........**************************..************96
+GCF_008000775.1_ORF3368:gid::pid:WP_147664464.1:loc:3778650:3778839:strand:+:4:62          ..ERACRTCHLITHKTF-----CPKC-----------KTPTLSDDFSGAVIILDPQNSLIARR--LNFDVRGKYALRVR
+#=GR GCF_008000775.1_ORF3368:gid::pid:WP_147664464.1:loc:3778650:3778839:strand:+:4:62  PP ..69********98877.....****...........8999**********************..999*********96
+#=GC PP_cons                                                                               ..68********99998.....****...........99************************..************96
+#=GC RF                                                                                    ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

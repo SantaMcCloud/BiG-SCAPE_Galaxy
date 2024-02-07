@@ -1,0 +1,173 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="478.56666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="468.56666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>SCO6759
+putative phytoene synthase</title>
+			<polygon class="SCO6759
+putative phytoene synthase" points="10,25 10,25 10,10 40,40 10,70 10,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="11,28 24,28 36,40 24,52 11,52" stroke-linejoin="round" width="27" height="24" fill="rgb(212,169,101)" stroke="rgb(169,135,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>SCO6760
+putative phytoene synthase</title>
+			<polygon class="SCO6760
+putative phytoene synthase" points="40,25 41,25 41,10 71,40 41,70 41,55 40,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="42,28 55,28 67,40 55,52 42,52" stroke-linejoin="round" width="26" height="24" fill="rgb(212,169,101)" stroke="rgb(169,135,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>SCO6761
+small hypothetical protein</title>
+			<polygon class="SCO6761
+small hypothetical protein" points="71,10 76,40 71,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6380 (PF19907)
+"Family of unknown function (DUF6380)"</title>
+				<polygon class="PF19907" points="71,28 73,40 71,52" stroke-linejoin="round" width="5" height="24" fill="rgb(218,95,208)" stroke="rgb(174,76,166)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>SCO6762
+putative phytoene dehydrogenase</title>
+			<polygon class="SCO6762
+putative phytoene dehydrogenase" points="77,25 94,25 94,10 124,40 94,70 94,55 77,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="80,28 108,28 120,40 108,52 80,52" stroke-linejoin="round" width="42" height="24" fill="rgb(148,194,68)" stroke="rgb(118,155,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>SCO6763
+putative polyprenyl synthatase</title>
+			<polygon class="SCO6763
+putative polyprenyl synthatase" points="124,25 131,25 131,10 161,40 131,70 131,55 124,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="131,28 145,28 155,38 155,42 145,52 131,52" stroke-linejoin="round" width="24" height="24" fill="rgb(93,199,141)" stroke="rgb(74,159,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>SCO6764
+putative squalene-hopene cyclase</title>
+			<polygon class="SCO6764
+putative squalene-hopene cyclase" points="166,25 204,25 204,10 234,40 204,70 204,55 166,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="170" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(88,155,201)" stroke="rgb(70,124,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="199,28 217,28 229,40 217,52 199,52" stroke-linejoin="round" width="31" height="24" fill="rgb(136,224,87)" stroke="rgb(108,179,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>SCO6765
+putative lipoprotein</title>
+			<polygon class="SCO6765
+putative lipoprotein" points="234,10 255,40 234,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PNP_UDP_1 (PF01048)
+"Phosphorylase superfamily"</title>
+				<polygon class="PF01048" points="236,28 243,28 251,40 243,52 236,52" stroke-linejoin="round" width="17" height="24" fill="rgb(71,136,197)" stroke="rgb(56,108,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>SCO6766
+conserved hypothetical protein</title>
+			<polygon class="SCO6766
+conserved hypothetical protein" points="256,25 260,25 260,10 290,40 260,70 260,55 256,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="259,28 273,28 274,29 274,51 273,52 259,52" stroke-linejoin="round" width="15" height="24" fill="rgb(224,83,137)" stroke="rgb(179,66,109)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF3463 (PF11946)
+"Domain of unknown function (DUF3463)"</title>
+				<polygon class="PF11946" points="275,30 285,40 275,50" stroke-linejoin="round" width="13" height="24" fill="rgb(47,182,100)" stroke="rgb(37,145,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>SCO6767
+GcpE protein homolog, conserved hypothetical protein</title>
+			<polygon class="SCO6767
+GcpE protein homolog, conserved hypothetical protein" points="290,25 298,25 298,10 328,40 298,70 298,55 290,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GcpE (PF04551)
+"GcpE protein"</title>
+				<polygon class="PF04551" points="292,28 312,28 324,40 312,52 292,52" stroke-linejoin="round" width="34" height="24" fill="rgb(108,59,202)" stroke="rgb(86,47,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>SCO6768
+probable transketolase</title>
+			<polygon class="SCO6768
+probable transketolase" points="329,25 364,25 364,10 394,40 364,70 364,55 329,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DXP_synthase_N (PF13292)
+"1-deoxy-D-xylulose-5-phosphate synthase"</title>
+				<rect class="PF13292" x="329" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(98,221,214)" stroke="rgb(78,176,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Transket_pyr (PF02779)
+"Transketolase, pyrimidine binding domain"</title>
+				<rect class="PF02779" x="360" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(101,211,176)" stroke="rgb(80,168,140)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Transketolase_C (PF02780)
+"Transketolase, C-terminal domain"</title>
+				<polygon class="PF02780" points="378,28 378,28 389,39 389,41 378,52 378,52" stroke-linejoin="round" width="11" height="24" fill="rgb(72,98,217)" stroke="rgb(57,78,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>SCO6769
+probable aminotransferase</title>
+			<polygon class="SCO6769
+probable aminotransferase" points="395,25 411,25 411,10 441,40 411,70 411,55 395,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="398,28 424,28 436,40 424,52 398,52" stroke-linejoin="round" width="40" height="24" fill="rgb(51,183,87)" stroke="rgb(40,146,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>SCO6770
+putative DNA-binding protein</title>
+			<polygon class="SCO6770
+putative DNA-binding protein" points="444,10 464,40 444,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_31 (PF13560)
+"Helix-turn-helix domain"</title>
+				<rect class="PF13560" x="445" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(61,135,203)" stroke="rgb(48,107,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cupin_2 (PF07883)
+"Cupin domain"</title>
+				<polygon class="PF07883" points="455,32 460,40 455,48" stroke-linejoin="round" width="7" height="24" fill="rgb(107,199,86)" stroke="rgb(85,159,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>SCO6771
+putative small hydrophobic secreted protein</title>
+			<polygon class="SCO6771
+putative small hydrophobic secreted protein" points="464,10 468,40 464,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6126 (PF19621)
+"Family of unknown function (DUF6126)"</title>
+				<polygon class="PF19621" points="464,33 464,40 464,47" stroke-linejoin="round" width="3" height="24" fill="rgb(93,115,221)" stroke="rgb(74,92,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

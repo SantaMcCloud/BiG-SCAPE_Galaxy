@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_000011105.1_ORF205:gid::pid:WP_010884331.1:loc:202521:203673:strand:+:6:369            GIDSGTKSMDIFGFDDeTGEVIVDVAVDRNEVTKNPRIIVDILREVqrehgTIDAIVGPSGYGIPLKPAREATNEEIALATFITKADVERrlkiVGLRELMVLMrEAKDL...NIYFTPGVIHLPTVPEWRKANKIDLGTSDKVFTVVLSIVRHSEREgiPYDKVNLIAVEIGFAYTSAMAVKNGQIVDAMAGTAgFTGY
+#=GR GCF_000011105.1_ORF205:gid::pid:WP_010884331.1:loc:202521:203673:strand:+:6:369    PP 9*************9989***********************9999888888899****************************998886667899********99556899...*******************************************99999***************************************
+GCF_008000775.1_ORF1775:gid::pid:WP_147662870.1:loc:1928762:1929860:strand:-:5:353         GIDPGTSSWDIFGYDVgTNEICIDTSIESKLIMKNPDLLFLSLEEI....ePFDLMIAPSGFGHPIKKVQELTNEDIYYMALSTEKTSQI....VGLKKILHKL.KQMKWkrgEAYVIPGIKHLPTVKKFRKINRIDLGTADKVCSVVVGIRDIMEMCkiQCSDVNYIMIELGAAFSAIIAIERGQIIDGIGGSN.VMGF
+#=GR GCF_008000775.1_ORF1775:gid::pid:WP_147662870.1:loc:1928762:1929860:strand:-:5:353 PP 9************99769***************************9....5679*********************************999....*******999.776666779****************************************99886789999******************************.****
+#=GC PP_cons                                                                               9*************98.9*************************999.....789*****************************9999888....********99.66778...******************************************999..999********************************.****
+#=GC RF                                                                                    xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxx.xxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxx
+
+GCF_000011105.1_ORF205:gid::pid:WP_010884331.1:loc:202521:203673:strand:+:6:369            LGMGFMDSELAYALANALeDFSKLKLFEGGAAYIGGIDpfevspeEFVKLAKEDenvakGYNAMIEgIVKDVFSLLPSV-I...PDAIYLSGRFSRIPEFFKDVKESLEEAfsmygfsievRKLESRAKAKEAAEGGAILANAIAGGIYRELIEVLKLRESSGKIFDWVHL.
+#=GR GCF_000011105.1_ORF205:gid::pid:WP_010884331.1:loc:202521:203673:strand:+:6:369    PP *************9976559****************998888887666655555778888*******************.7...778*********************9999*******77777788899**************************************975.
+GCF_008000775.1_ORF1775:gid::pid:WP_147662870.1:loc:1928762:1929860:strand:-:5:353         RASGSLDAELAYLMN---.PLTKTEIYKGGAISIGGNEnn..tpeELFFRTKDEpqakiAIQSYVDdIVKGVFAISSVFNQatpPNFILLSGRLANEKFIERIFDEKLRTIap......vrVMKTYSNIAKRAAQGAAFIAEGLIGGNIQPIIKNLQLEAAEGNILDFIY-l
+#=GR GCF_008000775.1_ORF1775:gid::pid:WP_147662870.1:loc:1928762:1929860:strand:-:5:353 PP ***************....****************99888..8885544443334667799999999***98777665433111556*********************99999......9656667778***************************************96.6
+#=GC PP_cons                                                                               **************9765.9***************999.......555554444.....9999999.***99988887735...667*********************999..........667777889**************************************975.
+#=GC RF                                                                                    xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx.......xxxxxxxxx.....xxxxxxx.xxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

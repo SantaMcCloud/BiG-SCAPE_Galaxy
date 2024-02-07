@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF2066:gid::pid:WP_266087520.1:loc:3214361380:3214361944:strand:+:11:77         .VFVVSTAVATAVLRDIVASIAVFAAFSLGISVIWLVLQAPDVALTEAAVGAGIMSVLLLVTVAKTA-r..
+#=GR GCF_026242195.1_ORF2066:gid::pid:WP_266087520.1:loc:3214361380:3214361944:strand:+:11:77 PP .6899**********************************************************9986.6..
+GCF_000011105.1_ORF886:gid::pid:WP_010885035.1:loc:852805:853294:strand:-:8:72                   .VVMLTLALIVILHRDFMTSLIVYSLTSLVFILLVLLSYAPDVALSGI-VVGGIVTGLFVFGYE----rag
+#=GR GCF_000011105.1_ORF886:gid::pid:WP_010885035.1:loc:852805:853294:strand:-:8:72           PP .58999******************************************.999*******98766....579
+GCF_000011105.1_ORF1340:gid::pid:WP_010885511.1:loc:1283752:1284007:strand:+:12:78               l-GIILTSALMITLRDLLGAAIASAAMSLLLSLEFYMLHAPDVAIAEAAVGAGVVTAIVVYAIAKTER...
+#=GR GCF_000011105.1_ORF1340:gid::pid:WP_010885511.1:loc:1283752:1284007:strand:+:12:78       PP 6.68999**********************************************************986...
+GCF_000011105.1_ORF1363:gid::pid:WP_010885535.1:loc:1303445:1303730:strand:-:13:79               .LLMIISAILSVEWRDLLAATVGMAAVSLFASILFFLLQAPDVAMTEAAIGAALSGAVFIFAIKRT--yr.
+#=GR GCF_000011105.1_ORF1363:gid::pid:WP_010885535.1:loc:1303445:1303730:strand:-:13:79       PP .69*************************************************************98..57.
+#=GC PP_cons                                                                                     .6899********************************************************9999876...
+#=GC RF                                                                                          .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

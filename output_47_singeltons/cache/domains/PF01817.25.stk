@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF820:gid::pid:WP_211422544.1:loc:976799:977105:strand:-:7:84                RRLIDETDAQLLALLNRRAELVIAIAHLKHAQGLPVHIPAREMEVLTQVITsntGP----LDDQAVRRLFESIIAESRRLEH.
+#=GR GCF_018304705.1_ORF820:gid::pid:WP_211422544.1:loc:976799:977105:strand:-:7:84        PP 889************************************************76666....*******************995.
+GCF_900696045.1_ORF95:gid::pid:WP_172601996.1:loc:104355:105903:strand:-:10:88                RNDMKEITNQILGLISHRMEIAKKIGEIKTILDLEIVDDKAELDIKTHVLG...NSKSLNLDPEFTGRIINLLITEAVRIQE.
+#=GR GCF_900696045.1_ORF95:gid::pid:WP_172601996.1:loc:104355:105903:strand:-:10:88        PP 8999***********************************************...*************************996.
+GCF_900696045.1_ORF1881:gid::pid:WP_134484720.1:loc:1967111:1967405:strand:+:13:90            RANIDLIDGKIVSLLVQRGKYVMQAAKYKK-NITEVEDQARIKNIITKVRG...YAKQMDFDPNTIEQIYRYLIQVYIQLEK.
+#=GR GCF_900696045.1_ORF1881:gid::pid:WP_134484720.1:loc:1967111:1967405:strand:+:13:90    PP 99***************************6.5559****************...************************9985.
+GCA_000085225.1_ASM8522v1_genomic_ORF1817:gid::pid::loc:2033068:2034265:strand:+:8:85         RNEIDNIDKEIIQLFEKRMNTVLEIARHKMKNNTTILQKDREEKVLSRAID...NL-DNKAYSQETVQFFNSIMEISRGLQK.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1817:gid::pid::loc:2033068:2034265:strand:+:8:85 PP 9**************************************************...65.34566666779************96.
+GCF_008000775.1_ORF2190:gid::pid:WP_147663277.1:loc:2411783:2412890:strand:+:283:361          RRRINYVDEDIIDLIANRLHLVPALIEFKSKNSIPVYQPEREQQLREKYEH...LAKKYNISPELIQKIFNLIIAEMRSLQK.
+#=GR GCF_008000775.1_ORF2190:gid::pid:WP_147663277.1:loc:2411783:2412890:strand:+:283:361  PP 99*************************************************...**************************96.
+GCF_008000775.1_ORF3642:gid::pid:WP_147664732.1:loc:4113605:4113860:strand:-:8:84             RRKIDKIDYKLVNLINERATISKLIGELKKKKLISVIQEEREKIIYERIEN...NS--KIISKEDIGKIWKEIINVCRKIQ-v
+#=GR GCF_008000775.1_ORF3642:gid::pid:WP_147664732.1:loc:4113605:4113860:strand:-:8:84     PP 99****************************9999*****************...54..89*******************99.8
+#=GC PP_cons                                                                                  899**************************9*999*****************...88*8899999999************996.
+#=GC RF                                                                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

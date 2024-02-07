@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF846:gid:tsf:pid:WP_211422525.1:loc:1005761:1006430:strand:+:2:202            advsaaavkalrektgagmmeckkaleeaqgneekaitilrer---------------------------------------------------------------NKHIAGKKESRVAA..-EGLVEAYIHTGGRIGVLVEVNCETDFvarsedfrEFVRDIALQICALNAEYVSAEEIPAEVLEKEREIARAQVAADp
+#=GR GCF_018304705.1_ORF846:gid:tsf:pid:WP_211422525.1:loc:1005761:1006430:strand:+:2:202    PP *988877776666666665555555444444443333333333...............................................................33455556666666...7888*******************998999*******************************************99977
+GCF_900066015.1_ORF1083:gid:tsf:pid:WP_095042562.1:loc:1291920:1292526:strand:-:2:197           ..................aittamvkelreatgagvleakkal-------------------------------------------------ETHDGDFNKAVDMLREKGAARAAKRADRsaNQGIIELYTHPGNRVGVMLELNCETDFvamnaqfrELAHNLALHIAAAAPRYMNIEDVPAAELEREMSVLKAQALAE.
+#=GR GCF_900066015.1_ORF1083:gid:tsf:pid:WP_095042562.1:loc:1291920:1292526:strand:-:2:197   PP ..................9887777666666555554444333.................................................56667788999999***9999999998887899*********************99899************************************************.
+GCA_000085225.1_ASM8522v1_genomic_ORF2078:gid::pid::loc:2315362:2316274:strand:-:73:285         ...........................................ASMVEVNSETDFVAKNEDFKVFVKDAACMALATDKEDIASLLGETHKEGITLQEVLNNRVAKIGEKLDFRRFAKVVT..NGQV-AGYIHGGGKIGVLVEMETEARDak....vlELGKDVAMQVAAMNPKYVSRDEVDAEYIAHETEVLTQQALNE.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2078:gid::pid::loc:2315362:2316274:strand:-:73:285 PP ...........................................679**************************************************************************..7777.******************999999....********************************************.
+#=GC PP_cons                                                                                    ...........................................679**********************************************788889999*****78888888888888..88889*******************998........*****************************************9.
+#=GC RF                                                                                         ...........................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+GCF_018304705.1_ORF846:gid:tsf:pid:WP_211422525.1:loc:1005761:1006430:strand:+:2:202            ktaNKPAHIIENIIESRLGKFRAETCLLEQPFVKDQGVTVAELVKQLIAktgeniRIRRFVRFKMGE
+#=GR GCF_018304705.1_ORF846:gid:tsf:pid:WP_211422525.1:loc:1005761:1006430:strand:+:2:202    PP 777******************************************9877789999***********8
+GCF_900066015.1_ORF1083:gid:tsf:pid:WP_095042562.1:loc:1291920:1292526:strand:-:2:197           ...GKPEAVAEKIVAGRLNKFYEEICLMEQPFVKDEKVKIKDMVTDAIRmtgenvIVRRFARYELGE
+#=GR GCF_900066015.1_ORF1083:gid:tsf:pid:WP_095042562.1:loc:1291920:1292526:strand:-:2:197   PP ...******************************************9988899998999********8
+GCA_000085225.1_ASM8522v1_genomic_ORF2078:gid::pid::loc:2315362:2316274:strand:-:73:285         ...GKPANIVEKMVKGRLEKELKEVCLLEQTFVKNPDITVKQLVADVAKavgsdiKVVKVVRFEVGE
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2078:gid::pid::loc:2315362:2316274:strand:-:73:285 PP ...********************************************999****************8
+#=GC PP_cons                                                                                    ...******************************************9988......9**********8
+#=GC RF                                                                                         ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxx
+//

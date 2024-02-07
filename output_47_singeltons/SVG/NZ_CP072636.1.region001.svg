@@ -1,0 +1,239 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="773.2666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="763.2666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>hutF (J8C03_RS00985)
+formimidoylglutamate deiminase</title>
+			<polygon class="hutF (J8C03_RS00985)
+formimidoylglutamate deiminase" points="107,25 89,25 89,10 59,40 89,70 89,55 107,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidohydro_1 (PF01979)
+"Amidohydrolase family"</title>
+				<polygon class="PF01979" points="64,39 75,28 101,28 101,52 75,52 64,41" stroke-linejoin="round" width="37" height="24" fill="rgb(206,53,163)" stroke="rgb(164,42,130)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hutG (J8C03_RS00990)
+N-formylglutamate deformylase</title>
+			<polygon class="hutG (J8C03_RS00990)
+N-formylglutamate deformylase" points="108,40 135,10 135,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FGase (PF05013)
+"N-formylglutamate amidohydrolase"</title>
+				<polygon class="PF05013" points="112,40 123,28 132,28 132,52 123,52" stroke-linejoin="round" width="21" height="24" fill="rgb(123,196,66)" stroke="rgb(98,156,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hutI (J8C03_RS00995)
+imidazolonepropionase</title>
+			<polygon class="hutI (J8C03_RS00995)
+imidazolonepropionase" points="174,25 164,25 164,10 134,40 164,70 164,55 174,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidohydro_1 (PF01979)
+"Amidohydrolase family"</title>
+				<polygon class="PF01979" points="138,40 150,28 168,28 168,52 150,52" stroke-linejoin="round" width="34" height="24" fill="rgb(206,53,163)" stroke="rgb(164,42,130)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hutU (J8C03_RS01000)
+urocanate hydratase</title>
+			<polygon class="hutU (J8C03_RS01000)
+urocanate hydratase" points="180,25 205,25 205,10 235,40 205,70 205,55 180,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Urocanase_N (PF17391)
+"Urocanase N-terminal domain"</title>
+				<rect class="PF17391" x="180" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(182,47,135)" stroke="rgb(145,37,108)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Urocanase (PF01175)
+"Urocanase Rossmann-like domain"</title>
+				<rect class="PF01175" x="193" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(104,224,119)" stroke="rgb(83,179,95)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Urocanase_C (PF17392)
+"Urocanase C-terminal domain"</title>
+				<polygon class="PF17392" points="215,28 219,28 231,40 219,52 215,52" stroke-linejoin="round" width="19" height="24" fill="rgb(54,204,198)" stroke="rgb(43,163,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cobU (J8C03_RS01005)
+bifunctional adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase</title>
+			<polygon class="cobU (J8C03_RS01005)
+bifunctional adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase" points="236,10 254,40 236,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CobU (PF02283)
+"Cobinamide kinase / cobinamide phosphate guanyltransferase"</title>
+				<polygon class="PF02283" points="236,28 243,28 250,40 243,52 236,52" stroke-linejoin="round" width="17" height="24" fill="rgb(184,149,48)" stroke="rgb(147,119,38)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS01010)
+formylglycine-generating enzyme family protein</title>
+			<polygon class=" (J8C03_RS01010)
+formylglycine-generating enzyme family protein" points="259,25 270,25 270,10 300,40 270,70 270,55 259,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FGE-sulfatase (PF03781)
+"Sulfatase-modifying factor enzyme 1"</title>
+				<polygon class="PF03781" points="271,28 284,28 295,39 295,41 284,52 271,52" stroke-linejoin="round" width="24" height="24" fill="rgb(223,56,78)" stroke="rgb(178,44,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS01015)
+50S ribosomal protein L11 methyltransferase</title>
+			<polygon class=" (J8C03_RS01015)
+50S ribosomal protein L11 methyltransferase" points="336,25 328,25 328,10 298,40 328,70 328,55 336,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PRMT5_C (PF17286)
+"PRMT5 oligomerisation domain"</title>
+				<polygon class="PF17286" points="307,35 314,28 315,28 315,52 314,52 307,45" stroke-linejoin="round" width="8" height="24" fill="rgb(97,218,126)" stroke="rgb(77,174,100)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PrmA (PF06325)
+"Ribosomal protein L11 methyltransferase (PrmA)"</title>
+				<rect class="PF06325" x="322" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(179,97,72)" stroke="rgb(143,77,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS01020)
+PqqD family peptide modification chaperone</title>
+			<polygon class=" (J8C03_RS01020)
+PqqD family peptide modification chaperone" points="343,10 353,40 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="344,28 345,28 350,40 350,40 345,52 344,52" stroke-linejoin="round" width="6" height="24" fill="rgb(200,109,227)" stroke="rgb(160,87,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS01025)
+lasso peptide biosynthesis B2 protein</title>
+			<polygon class=" (J8C03_RS01025)
+lasso peptide biosynthesis B2 protein" points="353,10 368,40 353,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transglut_core3 (PF13471)
+"Transglutaminase-like superfamily"</title>
+				<polygon class="PF13471" points="356,28 358,28 365,40 358,52 356,52" stroke-linejoin="round" width="11" height="24" fill="rgb(218,60,137)" stroke="rgb(174,47,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS01030)
+asparagine synthetase B</title>
+			<polygon class=" (J8C03_RS01030)
+asparagine synthetase B" points="368,25 374,25 374,10 404,40 374,70 374,55 368,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GATase_7 (PF13537)
+"Glutamine amidotransferase domain"</title>
+				<rect class="PF13537" x="372" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(90,207,54)" stroke="rgb(72,165,43)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="392,32 400,40 392,48" stroke-linejoin="round" width="11" height="24" fill="rgb(191,107,227)" stroke="rgb(152,85,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS01035)
+asparagine synthase-related protein</title>
+			<polygon class=" (J8C03_RS01035)
+asparagine synthase-related protein" points="404,10 429,40 404,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="404,28 416,28 425,40 416,52 404,52" stroke-linejoin="round" width="22" height="24" fill="rgb(191,107,227)" stroke="rgb(152,85,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>allorf_0259337_0259546 (allorf_0259337_0259546)</title>
+			<polygon class="allorf_0259337_0259546 (allorf_0259337_0259546)" points="430,10 437,40 430,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (J8C03_RS01040)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS01040)
+hypothetical protein" points="460,25 461,25 461,10 491,40 461,70 461,55 460,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>hisIE (J8C03_RS01045)
+bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE</title>
+			<polygon class="hisIE (J8C03_RS01045)
+bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE" points="495,10 519,40 495,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PRA-CH (PF01502)
+"Phosphoribosyl-AMP cyclohydrolase"</title>
+				<rect class="PF01502" x="497" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(90,142,192)" stroke="rgb(72,113,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS01050)
+chorismate-binding protein</title>
+			<polygon class=" (J8C03_RS01050)
+chorismate-binding protein" points="520,25 539,25 539,10 569,40 539,70 539,55 520,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Anth_synt_I_N (PF04715)
+"Anthranilate synthase component I, N terminal region"</title>
+				<rect class="PF04715" x="523" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(215,125,79)" stroke="rgb(172,100,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Chorismate_bind (PF00425)
+"chorismate binding enzyme"</title>
+				<polygon class="PF00425" points="542,28 553,28 565,40 553,52 542,52" stroke-linejoin="round" width="24" height="24" fill="rgb(93,225,150)" stroke="rgb(74,180,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15970)
+metalloregulator ArsR/SmtB family transcription factor</title>
+			<polygon class=" (J8C03_RS15970)
+metalloregulator ArsR/SmtB family transcription factor" points="576,10 587,40 576,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_5 (PF01022)
+"Bacterial regulatory protein, arsR family"</title>
+				<polygon class="PF01022" points="579,28 579,28 583,37 583,43 579,52 579,52" stroke-linejoin="round" width="4" height="24" fill="rgb(199,215,81)" stroke="rgb(159,172,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15975)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS15975)
+hypothetical protein" points="590,10 601,40 590,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>cpdA (J8C03_RS01060)
+3',5'-cyclic-AMP phosphodiesterase</title>
+			<polygon class="cpdA (J8C03_RS01060)
+3',5'-cyclic-AMP phosphodiesterase" points="602,40 630,10 630,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Metallophos (PF00149)
+"Calcineurin-like phosphoesterase"</title>
+				<polygon class="PF00149" points="608,38 617,28 627,28 627,52 617,52 608,42" stroke-linejoin="round" width="19" height="24" fill="rgb(71,195,229)" stroke="rgb(56,155,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS01065)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS01065)
+hypothetical protein" points="637,25 651,25 651,10 681,40 651,70 651,55 637,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>dtd (J8C03_RS01070)
+D-aminoacyl-tRNA deacylase</title>
+			<polygon class="dtd (J8C03_RS01070)
+D-aminoacyl-tRNA deacylase" points="681,40 696,10 696,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Tyr_Deacylase (PF02580)
+"D-Tyr-tRNA(Tyr) deacylase"</title>
+				<polygon class="PF02580" points="684,40 690,28 696,28 696,52 690,52" stroke-linejoin="round" width="14" height="24" fill="rgb(85,214,211)" stroke="rgb(68,171,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS01075)
+N-6 DNA methylase</title>
+			<polygon class=" (J8C03_RS01075)
+N-6 DNA methylase" points="746,25 729,25 729,10 699,40 729,70 729,55 746,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>N6_Mtase (PF02384)
+"N-6 DNA Methylase"</title>
+				<rect class="PF02384" x="725" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(91,222,92)" stroke="rgb(72,177,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

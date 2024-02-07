@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_900696045.1_ORF1502:gid::pid:WP_134484269.1:loc:1556570:1557779:strand:+:186:396         .DKYRLTPSESRKMIQDQGWENTVAFQTRNVPHVAHEMLQKAALN-IFD.gLFINPLIGKKKKGDFKDDVILNSYVTLIDNYYPKSRIIFSTLHTEMKYAGPREAIHHAIMRQNFGCSHIIIGRDHAGVGN......YYSPFAAHEIFKDYPD-LEIKPIFFPAFYFCKKCQGYVNERTCP.HESEFREELSGTKMRKM.
+#=GR GCF_900696045.1_ORF1502:gid::pid:WP_134484269.1:loc:1556570:1557779:strand:+:186:396 PP .58******************************************.888.8********************************************************************************......***************5.***************************.*****************.
+GCF_900066015.1_ORF1016:gid::pid:WP_197699889.1:loc:1220662:1222408:strand:+:173:391         k-SLRLTPAETRARLEQFGHQNVIAFQTRNPLHRVHEELTKRATM-EKDgvLLLHPSVGMTKPGDVDHFTRVRTYKALAQRYYDPDRILLSLLPLAMRMGGPREAVWHAIIRRNHGANHLIVGRDHAGPGNdstgkpIYGPYDAQDLVEQFSEELGVAAVPFQMLVYLPEEDRYE--EVTKvNKETKTASISGTQVREQy
+#=GR GCF_900066015.1_ORF1016:gid::pid:WP_197699889.1:loc:1220662:1222408:strand:+:173:391 PP 6.68****************************************9.66668*************************************************************************************************************************774..444449999***********876
+#=GC PP_cons                                                                                 .579*****************************************.777..********************************************************************************......***************8*******************887**7777.9**************98.
+#=GC RF                                                                                      .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx.
+
+GCF_900696045.1_ORF1502:gid::pid:WP_134484269.1:loc:1556570:1557779:strand:+:186:396         FSSGELPPSHLMRPEISKVILS-y
+#=GR GCF_900696045.1_ORF1502:gid::pid:WP_134484269.1:loc:1556570:1557779:strand:+:186:396 PP *******************986.6
+GCF_900066015.1_ORF1016:gid::pid:WP_197699889.1:loc:1220662:1222408:strand:+:173:391         LQNGKQLPEWFTRPEVAEILAE-t
+#=GR GCF_900066015.1_ORF1016:gid::pid:WP_197699889.1:loc:1220662:1222408:strand:+:173:391 PP ********************87.7
+#=GC PP_cons                                                                                 *******************987..
+#=GC RF                                                                                      xxxxxxxxxxxxxxxxxxxxxxx.
+//

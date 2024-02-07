@@ -1,0 +1,25 @@
+# STOCKHOLM 1.0
+
+NZ_CP072637.1.region002_ORF17:gid::pid:WP_211424019.1:loc:20583:21228:strand:-:6:43           .STGKAAKLLGVSVKTLQRWEREGrLI-PVARTDSNRRLY
+#=GR NZ_CP072637.1.region002_ORF17:gid::pid:WP_211424019.1:loc:20583:21228:strand:-:6:43   PP .689********************777.***********9
+GCA_000085225.1_ASM8522v1_genomic_ORF3123:gid::pid::loc:3571284:3572031:strand:+:5:42         .TTSEVADLIGVHPNTVRLYEELN.LIPKPKRNTNGYRIF
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3123:gid::pid::loc:3571284:3572031:strand:+:5:42 PP .89*********************.*************97
+GCF_018304705.1_ORF1727:gid::pid:WP_211423235.1:loc:2066921:2067554:strand:+:7:44             s-IHKAAGFLGVSAQTLRRWEREGwLL-PDERTPGGHRRY
+#=GR GCF_018304705.1_ORF1727:gid::pid:WP_211423235.1:loc:2066921:2067554:strand:+:7:44     PP 6.667999*******************.************
+GCF_018304705.1_ORF2287:gid::pid:WP_211424026.1:loc:2720485:2721130:strand:+:6:43             .STGKAAKLLGVSVKTLQRWEREGrLI-PVARTDSNRRLY
+#=GR GCF_018304705.1_ORF2287:gid::pid:WP_211424026.1:loc:2720485:2721130:strand:+:6:43     PP .689********************777.***********9
+GCF_018304705.1_ORF2653:gid::pid:WP_211423749.1:loc:3167931:3168582:strand:-:8:45             .STGKAAKLLGVSVKTLQRWEREGrLI-PVARTDSNRRLY
+#=GR GCF_018304705.1_ORF2653:gid::pid:WP_211423749.1:loc:3167931:3168582:strand:-:8:45     PP .689********************777.***********9
+GCF_018304705.1_ORF2775:gid::pid:WP_211424645.1:loc:3313745:3314390:strand:+:6:43             .STGKAAKLLGVSVKTLQRWEREGrLI-PVARTDSNRRLY
+#=GR GCF_018304705.1_ORF2775:gid::pid:WP_211424645.1:loc:3313745:3314390:strand:+:6:43     PP .689********************777.***********9
+GCF_018304705.1_ORF2909:gid::pid:WP_211424015.1:loc:3461977:3462622:strand:+:6:43             .STGKAAKLLGVSVKTLQRWEREGrLI-PVARTDSNRRLY
+#=GR GCF_018304705.1_ORF2909:gid::pid:WP_211424015.1:loc:3461977:3462622:strand:+:6:43     PP .689********************777.***********9
+GCF_018304705.1_ORF2919:gid::pid:WP_211423956.1:loc:3474865:3475510:strand:-:6:43             .STGKAAKLLGVSVKTLQRWEREGrLI-PVARTDSNRRLY
+#=GR GCF_018304705.1_ORF2919:gid::pid:WP_211423956.1:loc:3474865:3475510:strand:-:6:43     PP .689********************777.***********9
+GCF_018304705.1_ORF2951:gid::pid:WP_211423981.1:loc:3506309:3506960:strand:+:8:45             .STGKAAKLLGVSVKTLQRWEREGrLI-PVARTDSNRRLY
+#=GR GCF_018304705.1_ORF2951:gid::pid:WP_211423981.1:loc:3506309:3506960:strand:+:8:45     PP .689********************777.***********9
+GCF_018304705.1_ORF3060:gid::pid:WP_211424019.1:loc:3650258:3650903:strand:-:6:43             .STGKAAKLLGVSVKTLQRWEREGrLI-PVARTDSNRRLY
+#=GR GCF_018304705.1_ORF3060:gid::pid:WP_211424019.1:loc:3650258:3650903:strand:-:6:43     PP .689********************777.***********9
+#=GC PP_cons                                                                                  .6899*******************.88************9
+#=GC RF                                                                                       .xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx
+//

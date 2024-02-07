@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+BGC0002544_ORF9:gid:AMET_0601:pid:QIE08753.1:loc:10063:10270:strand:+:1:53         .MTNPFDDDNGRFYALVNDEGQYSLWPTFAEVPAGWRIVFGEDSRQACLDHIE-a
+#=GR BGC0002544_ORF9:gid:AMET_0601:pid:QIE08753.1:loc:10063:10270:strand:+:1:53 PP .9**************************************************9.6
+BGC0002293_ORF4:gid:ohmB:pid:QGA70149.1:loc:43412:43634:strand:+:1:53              .MTNPFDDPEGRFLVLVNDEGQHSLWPAFADVPEGWETAHPEDTREACLAYIE-k
+#=GR BGC0002293_ORF4:gid:ohmB:pid:QGA70149.1:loc:43412:43634:strand:+:1:53      PP .9**************************************************9.5
+BGC0000833_ORF3:gid:couY:pid:AAG29779.1:loc:3103:3319:strand:+:2:54                a-TNPFDDENGVYLLLVNDEGQHSLWPSFAALPKGWTVILDEASRQECLDYVNE.
+#=GR BGC0000833_ORF3:gid:couY:pid:AAG29779.1:loc:3103:3319:strand:+:2:54        PP 7.8*************************************************86.
+#=GC PP_cons                                                                       .99*************************************************96.
+#=GC RF                                                                            .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

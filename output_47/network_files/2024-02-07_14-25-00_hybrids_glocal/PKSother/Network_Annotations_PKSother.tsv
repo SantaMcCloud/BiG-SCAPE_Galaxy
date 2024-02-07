@@ -1,0 +1,4 @@
+BGC	Accession ID	Description	Product Prediction	BiG-SCAPE class	Organism	Taxonomy
+GCF_018304705.1	NZ_CP072636.1	Chloracidobacterium sp. 2 chromosome 1, complete sequence	lassopeptide.terpene.RiPP-like.T3PKS.RRE-containing.ranthipeptide	Others	Chloracidobacterium sp. 2	Bacteria,Acidobacteria,Blastocatellia,Chloracidobacterium,Chloracidobacterium aggregatum
+GCF_900066015.1	NZ_LN890655.1	Candidatus Promineofilum breve strain Cfx-K chromosome I, complete sequence	betalactone.terpene.hglE-KS	Others	Candidatus Promineofilum breve	Bacteria,Chloroflexi,Ardenticatenia,Ardenticatenales,Ardenticatenaceae,Candidatus Promineofilum
+NZ_CP072636.1.region004	NZ_CP072636.1	Chloracidobacterium sp. 2 chromosome 1, complete sequence	T3PKS	PKSother	Chloracidobacterium sp. 2	Bacteria,Acidobacteria,Blastocatellia,Chloracidobacterium,Chloracidobacterium aggregatum

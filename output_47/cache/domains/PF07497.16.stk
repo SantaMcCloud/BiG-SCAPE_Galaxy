@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF3405:gid::pid::loc:3874344:3875934:strand:-:166:238         .v-VGVLEILPD...GFGFLRGS..NYLSTEGDVYVSPSQIRRFNMKTGDKIKGITRHPKSGEKFRALLYVQKINDENPD
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3405:gid::pid::loc:3874344:3875934:strand:-:166:238 PP .7.5********...********..****************************************************996
+GCF_018304705.1_ORF1169:gid:rho:pid:WP_246604679.1:loc:1408151:1409375:strand:-:43:117           .s-EGVLECLPD...GFGFLRAPdyNYLPGPDDIYVSPSQIRKFDLRTGDTISGQIRPPKEGERYFALIKVEAINFEPPD
+#=GR GCF_018304705.1_ORF1169:gid:rho:pid:WP_246604679.1:loc:1408151:1409375:strand:-:43:117   PP .6.8********...*************************************************************9995
+GCF_900066015.1_ORF1077:gid:rho:pid:WP_095042557.1:loc:1286199:1287477:strand:-:51:126           rg--GVLEIVEDdkqTMGFLRSG..SYLPSKDDIYVSNSQIRRIGLKTGDMVYGQVRVPKDNEKYYSLLRVEAVNGMSPE
+#=GR GCF_900066015.1_ORF1077:gid:rho:pid:WP_095042557.1:loc:1286199:1287477:strand:-:51:126   PP 85..9*****8844459******..*****************************************************97
+#=GC PP_cons                                                                                     ...7******99...8*******..****************************************************996
+#=GC RF                                                                                          ..xxxxxxxxxx...xxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+NZ_CP072637.1.region003_ORF9:gid::pid::loc:14299:15109:strand:-:31:270         APGRPGVRSTWTSGGKLGVGTAVSRRSRVWFTLGATGLTEVYYPTVDMPNLRALDFVIVGNGYVGCASRDALERETRRTRDDALSFAQTMSD-GKRWRITQRYACDPNRDALLIEVEVTALDGGNYEVFALLDPAVANSGLGDTGEH----RGRTLVASDRdattnqTIAMAFAAQPAFEVVSSGFAGVSDGWTDLAADG
+#=GR NZ_CP072637.1.region003_ORF9:gid::pid::loc:14299:15109:strand:-:31:270 PP 8*********************************************************5555555667778899****************66.99****************************************************....9********55555569********************************
+GCF_018304705.1_ORF3078:gid::pid::loc:3678562:3679372:strand:-:31:270          APGRPGVRSTWTSGGKLGVGTAVSRRSRVWFTLGATGLTEVYYPTVDMPNLRALDFVIVGNGYVGCASRDALERETRRTRDDALSFAQTMSD-GKRWRITQRYACDPNRDALLIEVEVTALDGGNYEVFALLDPAVANSGLGDTGEH----RGRTLVASDRdattnqTIAMAFAAQPAFEVVSSGFAGVSDGWTDLAADG
+#=GR GCF_018304705.1_ORF3078:gid::pid::loc:3678562:3679372:strand:-:31:270  PP 8*********************************************************5555555667778899****************66.99****************************************************....9********55555569********************************
+#=GC PP_cons                                                                   8*********************************************************5555555667778899****************66.99****************************************************....9********5......9********************************
+#=GC RF                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+NZ_CP072637.1.region003_ORF9:gid::pid::loc:14299:15109:strand:-:31:270         RLDGREQRAVDGNVVQIGQLSA---PRTTLALAFADRPETAASVAAA----------------------a
+#=GR NZ_CP072637.1.region003_ORF9:gid::pid::loc:14299:15109:strand:-:31:270 PP *********************5...999*************998876......................6
+GCF_018304705.1_ORF3078:gid::pid::loc:3678562:3679372:strand:-:31:270          RLDGREQRAVDGNVVQIGQLSA---PRTTLALAFADRPETAASVAAA----------------------a
+#=GR GCF_018304705.1_ORF3078:gid::pid::loc:3678562:3679372:strand:-:31:270  PP *********************5...999*************998876......................6
+#=GC PP_cons                                                                   *********************5...999*************998876.......................
+#=GC RF                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

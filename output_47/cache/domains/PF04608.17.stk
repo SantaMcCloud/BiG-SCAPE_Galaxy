@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF2131:gid::pid:WP_249355536.1:loc:2532657:2533242:strand:+:26:183          ......................................................vw--ATGLFSGFSPVAPGTAGSAVMAALYYAGgrlgwfQPFALDTLVWLLLAAVVVSYSGGWAAERAEHFFGAKDPNEVVVDEFAGQLITYLFLplvpqlagrawafelwTLGGFLLFRLFDVIKPYPARRFEALRGGLGIMADDI
+#=GR GCF_018304705.1_ORF2131:gid::pid:WP_249355536.1:loc:2532657:2533242:strand:+:26:183  PP ......................................................75..89999************9999999999999987655566667777888888899999*******************************9555566667777788889999********************************
+GCF_000011105.1_ORF335:gid:cobZ:pid:WP_010884462.1:loc:336810:337254:strand:-:12:133         kgitlekmldaalelyiggekgrvreklreimlhyledvnvqalltsailleenfk------------------------------......---------------------------------VEGDPVNLIADELIGIDIAEYIG................GKLGLFNFFYYDTKKPGILSEL-------PPFLDDA
+#=GR GCF_000011105.1_ORF335:gid:cobZ:pid:WP_010884462.1:loc:336810:337254:strand:-:12:133 PP ****9999999999988888888888888777777777776666555555443333.....................................................................344***************99999................********************99.......89*****
+#=GC PP_cons                                                                                 ..........................................................89999************99999999999......55566667777888888899999**********677***************99997................99***************************99*****
+#=GC RF                                                                                      ........................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_018304705.1_ORF2131:gid::pid:WP_249355536.1:loc:2532657:2533242:strand:+:26:183          VAGIQAGLVLLL--ca
+#=GR GCF_018304705.1_ORF2131:gid::pid:WP_249355536.1:loc:2532657:2533242:strand:+:26:183  PP ********9987..57
+GCF_000011105.1_ORF335:gid:cobZ:pid:WP_010884462.1:loc:336810:337254:strand:-:12:133         IGGFIAGCMSRLF-q.
+#=GR GCF_000011105.1_ORF335:gid:cobZ:pid:WP_010884462.1:loc:336810:337254:strand:-:12:133 PP ********99875.7.
+#=GC PP_cons                                                                                 ********99875...
+#=GC RF                                                                                      xxxxxxxxxxxxxx..
+//

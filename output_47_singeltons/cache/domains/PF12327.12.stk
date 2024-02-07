@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF1204:gid:ftsZ:pid:WP_266086337.1:loc:200800020:200801340:strand:-:303:397         GVAMIGLGESDT.ENKAEESVQKALRSPLLD.VNIDGASSALVNVTGGNDMTIEEAEGVVDDIYDRIDSDARIIWGTSVDEELEGSMRTMIVVTGVE.
+#=GR GCF_026242195.1_ORF1204:gid:ftsZ:pid:WP_266086337.1:loc:200800020:200801340:strand:-:303:397 PP 99**********.******************.***************************************************************95.
+GCF_026242195.1_ORF1235:gid:ftsZ:pid:WP_266086367.1:loc:200824918:200826115:strand:-:236:330         GVAVMLVGETQE.RDKSKAVVEDALNHPLLD.VDYRGATGSLVHITGGPDLTLGEAEGVAQNITERLGERANVIWGARIREEYEGKVRVMAIMTGVD.
+#=GR GCF_026242195.1_ORF1235:gid:ftsZ:pid:WP_266086367.1:loc:200824918:200826115:strand:-:236:330 PP 99**********.******************.***************************************************************96.
+GCF_000011105.1_ORF5:gid:ftsZ:pid:WP_010884123.1:loc:1332:2451:strand:-:251:344                      GVAMIGIGESDS.EKRALEAAEQALNSPLLD.VDISGAKGALISIS-GADVKLEEAQQIIEYVTRNVDPKAQVIWGIQLEPELEKTIRVMVIVTGI-t
+#=GR GCF_000011105.1_ORF5:gid:ftsZ:pid:WP_010884123.1:loc:1332:2451:strand:-:251:344              PP 99**********.******************.*************8.57**********************************************8.6
+GCF_000011105.1_ORF711:gid:ftsZ:pid:WP_010884860.1:loc:677667:678912:strand:-:251:345                GPALIGIGESDS.NNRAVDAVMEALNNKMLD.IEFGSGDKALVHFTVGPDVSLEEITKAMEIVYERLGEKSEIKWGAMIEEDMGKTVRAMVIMTGV-r
+#=GR GCF_000011105.1_ORF711:gid:ftsZ:pid:WP_010884860.1:loc:677667:678912:strand:-:251:345        PP 78**********.******************.***************************************************************8.5
+GCF_018304705.1_ORF589:gid:ftsZ:pid:WP_246840735.1:loc:714977:716138:strand:+:237:332                GIALMGTGQASG.ENRAIQATNAAIASPLLEeASIEGAHGVLVNVTGGSNLTLHEVNEATSIIQKAAHPEANIIFGAVIDERMQDEMKITVIATGFD.
+#=GR GCF_018304705.1_ORF589:gid:ftsZ:pid:WP_246840735.1:loc:714977:716138:strand:+:237:332        PP 89**********.**********************************************************************************96.
+GCF_900066015.1_ORF828:gid:ftsZ:pid:WP_095042326.1:loc:1002541:1003699:strand:+:218:312              GAALMAVGEGSG.DERARDAATQALSSRLLD.VTIDGARGILFNVTGGPDMTLYEINQAAAIIRETAHPDVNLIFGAVIDEKMSNKLRITVIATGFE.
+#=GR GCF_900066015.1_ORF828:gid:ftsZ:pid:WP_095042326.1:loc:1002541:1003699:strand:+:218:312      PP 89**********.******************.***************************************************************85.
+GCF_900066015.1_ORF3327:gid:ftsZ:pid:WP_095044645.1:loc:3841416:3842553:strand:-:221:315             GAALMAVGRGTG.EDRARIAAEQAISSRLLD.VTIDGAQGVLFNITGGATLSLYEVNQAAEVIRETTHPDANVIFGAVIDETMGDEIRITVIATRF-d
+#=GR GCF_900066015.1_ORF3327:gid:ftsZ:pid:WP_095044645.1:loc:3841416:3842553:strand:-:221:315     PP 89**********.******************.**************************************************************87.5
+GCA_000085225.1_ASM8522v1_genomic_ORF2579:gid::pid::loc:2889116:2890277:strand:-:223:317             GLAHMGIGSASG.ETRAIDAARQAIQSPLLE.TSIQGAKGVLLNVTGGPNLGLFEVNEASTLVMESCDPEANVIFGASIKEDLGDEIMITVIATGFE.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2579:gid::pid::loc:2889116:2890277:strand:-:223:317     PP 89**********.******************.***************************************************************85.
+GCF_008000775.1_ORF642:gid:ftsZ:pid:WP_147661771.1:loc:701692:702826:strand:+:235:330                GVAIVGIGEGEDpERRVEEAIEDAITSPLLD.FDISGAKGALIHVTGGNDLKLIETTKVADLITEQMDPKARVIWGARVDPNMNGAIRIMLLITGVK.
+#=GR GCF_008000775.1_ORF642:gid:ftsZ:pid:WP_147661771.1:loc:701692:702826:strand:+:235:330        PP 99********99677899*************.***************************************************************96.
+#=GC PP_cons                                                                                         89**********.******************.***************9***********************************************86.
+#=GC RF                                                                                              xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,248 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="747.2" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="737.2" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (J8C03_RS11745)
+tetratricopeptide repeat protein</title>
+			<polygon class=" (J8C03_RS11745)
+tetratricopeptide repeat protein" points="55,25 86,25 86,10 116,40 86,70 86,55 55,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPR_11 (PF13414)
+"TPR repeat"</title>
+				<rect class="PF13414" x="59" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(167,212,105)" stroke="rgb(133,169,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPR_9 (PF13371)
+"Tetratricopeptide repeat"</title>
+				<rect class="PF13371" x="72" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(217,113,227)" stroke="rgb(173,90,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPR_16 (PF13432)
+"Tetratricopeptide repeat"</title>
+				<rect class="PF13432" x="79" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(177,180,65)" stroke="rgb(141,144,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPR_8 (PF13181)
+"Tetratricopeptide repeat"</title>
+				<rect class="PF13181" x="85" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(208,197,66)" stroke="rgb(166,157,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ank_2 (PF12796)
+"Ankyrin repeats (3 copies)"</title>
+				<polygon class="PF12796" points="100,28 100,28 109,37 109,43 100,52 100,52" stroke-linejoin="round" width="9" height="24" fill="rgb(65,154,193)" stroke="rgb(51,123,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11750)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS11750)
+hypothetical protein" points="116,40 145,10 145,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (J8C03_RS11755)
+WG repeat-containing protein</title>
+			<polygon class=" (J8C03_RS11755)
+WG repeat-containing protein" points="147,40 170,10 170,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>WG_beta_rep (PF14903)
+"WG containing repeat"</title>
+				<polygon class="PF14903" points="151,40 153,37 153,43" stroke-linejoin="round" width="3" height="24" fill="rgb(153,180,49)" stroke="rgb(122,144,39)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WG_beta_rep (PF14903)
+"WG containing repeat"</title>
+				<polygon class="PF14903" points="153,37 156,34 156,46 153,43" stroke-linejoin="round" width="3" height="24" fill="rgb(153,180,49)" stroke="rgb(122,144,39)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WG_beta_rep (PF14903)
+"WG containing repeat"</title>
+				<polygon class="PF14903" points="157,32 160,28 160,28 160,52 160,52 157,48" stroke-linejoin="round" width="3" height="24" fill="rgb(153,180,49)" stroke="rgb(122,144,39)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WG_beta_rep (PF14903)
+"WG containing repeat"</title>
+				<polygon class="PF14903" points="160,28 160,28 163,28 163,52 160,52 160,52" stroke-linejoin="round" width="3" height="24" fill="rgb(153,180,49)" stroke="rgb(122,144,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS16155)
+CofH family radical SAM protein</title>
+			<polygon class=" (J8C03_RS16155)
+CofH family radical SAM protein" points="177,25 179,25 179,10 209,40 179,70 179,55 177,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="181,28 193,28 198,33 198,47 193,52 181,52" stroke-linejoin="round" width="17" height="24" fill="rgb(158,71,222)" stroke="rgb(126,56,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CofH_C (PF19288)
+"CofH/MqnC C-terminal region"</title>
+				<polygon class="PF19288" points="199,34 205,40 199,46" stroke-linejoin="round" width="9" height="24" fill="rgb(214,96,125)" stroke="rgb(171,76,99)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11760)
+circularly permuted type 2 ATP-grasp protein</title>
+			<polygon class=" (J8C03_RS11760)
+circularly permuted type 2 ATP-grasp protein" points="259,25 241,25 241,10 211,40 241,70 241,55 259,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CP_ATPgrasp_2 (PF14403)
+"Circularly permuted ATP-grasp type 2"</title>
+				<polygon class="PF14403" points="215,40 227,28 251,28 251,52 227,52" stroke-linejoin="round" width="37" height="24" fill="rgb(65,124,227)" stroke="rgb(52,99,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11765)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS11765)
+hypothetical protein" points="266,40 290,10 290,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (J8C03_RS11770)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS11770)
+hypothetical protein" points="292,40 316,10 316,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (J8C03_RS11775)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS11775)
+hypothetical protein" points="317,40 342,10 342,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>hpnD (J8C03_RS11780)
+presqualene diphosphate synthase HpnD</title>
+			<polygon class="hpnD (J8C03_RS11780)
+presqualene diphosphate synthase HpnD" points="343,40 372,10 372,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="347,40 359,28 369,28 369,52 359,52" stroke-linejoin="round" width="25" height="24" fill="rgb(95,215,124)" stroke="rgb(76,172,99)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hpnC (J8C03_RS11785)
+squalene synthase HpnC</title>
+			<polygon class="hpnC (J8C03_RS11785)
+squalene synthase HpnC" points="402,25 402,25 402,10 372,40 402,70 402,55 402,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="376,40 388,28 399,28 399,52 388,52" stroke-linejoin="round" width="25" height="24" fill="rgb(95,215,124)" stroke="rgb(76,172,99)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11790)
+response regulator</title>
+			<polygon class=" (J8C03_RS11790)
+response regulator" points="501,25 439,25 439,10 409,40 439,70 439,55 501,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hpt (PF01627)
+"Hpt domain"</title>
+				<polygon class="PF01627" points="413,40 418,35 418,45" stroke-linejoin="round" width="8" height="24" fill="rgb(209,93,171)" stroke="rgb(167,74,136)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="424,29 425,28 435,28 435,52 425,52 424,51" stroke-linejoin="round" width="11" height="24" fill="rgb(224,109,96)" stroke="rgb(179,87,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<rect class="PF00072" x="441" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(224,109,96)" stroke="rgb(179,87,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<rect class="PF02518" x="454" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(145,182,60)" stroke="rgb(115,145,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="471" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(90,209,91)" stroke="rgb(72,167,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CHASE3 (PF05227)
+"CHASE3 domain"</title>
+				<rect class="PF05227" x="483" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(76,186,170)" stroke="rgb(60,148,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11795)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS11795)
+hypothetical protein" points="504,40 514,10 514,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BsuBI_PstI_RE (PF06616)
+"BsuBI/PstI restriction endonuclease domain"</title>
+				<polygon class="PF06616" points="507,40 511,28 513,28 513,52 511,52" stroke-linejoin="round" width="9" height="24" fill="rgb(131,210,79)" stroke="rgb(104,168,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11800)
+Eco57I restriction-modification methylase domain-containing protein</title>
+			<polygon class=" (J8C03_RS11800)
+Eco57I restriction-modification methylase domain-containing protein" points="565,25 545,25 545,10 515,40 545,70 545,55 565,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Eco57I (PF07669)
+"Eco57I restriction-modification methylase"</title>
+				<rect class="PF07669" x="540" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(173,206,93)" stroke="rgb(138,164,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11805)
+alpha-E domain-containing protein</title>
+			<polygon class=" (J8C03_RS11805)
+alpha-E domain-containing protein" points="573,25 574,25 574,10 604,40 574,70 574,55 573,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Alpha-E (PF04168)
+"A predicted alpha-helical domain with a conserved ER motif."</title>
+				<polygon class="PF04168" points="573,28 588,28 600,40 588,52 573,52" stroke-linejoin="round" width="31" height="24" fill="rgb(190,92,60)" stroke="rgb(152,73,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11810)
+peptidase</title>
+			<polygon class=" (J8C03_RS11810)
+peptidase" points="605,10 629,40 605,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Proteasome (PF00227)
+"Proteasome subunit"</title>
+				<polygon class="PF00227" points="605,28 616,28 624,39 624,41 616,52 605,52" stroke-linejoin="round" width="19" height="24" fill="rgb(79,61,221)" stroke="rgb(63,48,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11815)
+Hpt domain-containing protein</title>
+			<polygon class=" (J8C03_RS11815)
+Hpt domain-containing protein" points="629,10 640,40 629,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hpt (PF01627)
+"Hpt domain"</title>
+				<polygon class="PF01627" points="631,28 632,28 637,40 632,52 631,52" stroke-linejoin="round" width="8" height="24" fill="rgb(209,93,171)" stroke="rgb(167,74,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS11820)
+SDR family oxidoreductase</title>
+			<polygon class=" (J8C03_RS11820)
+SDR family oxidoreductase" points="642,10 669,40 642,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="644,28 653,28 665,40 653,52 644,52" stroke-linejoin="round" width="24" height="24" fill="rgb(207,187,59)" stroke="rgb(165,149,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bluB (J8C03_RS11825)
+5,6-dimethylbenzimidazole synthase</title>
+			<polygon class="bluB (J8C03_RS11825)
+5,6-dimethylbenzimidazole synthase" points="669,10 691,40 669,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nitroreductase (PF00881)
+"Nitroreductase family"</title>
+				<polygon class="PF00881" points="670,28 678,28 686,39 686,41 678,52 670,52" stroke-linejoin="round" width="16" height="24" fill="rgb(52,150,191)" stroke="rgb(41,120,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

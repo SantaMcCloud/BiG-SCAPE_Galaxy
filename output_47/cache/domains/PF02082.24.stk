@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1166:gid::pid::loc:1345139:1345586:strand:+:3:133         .LSTKGRYGLKAMFELALNQ.DNGPVSLKFIAKKQKISDQYLEQIFSSLKKSGLVKSVRGAQGGYLLSKNAEDITVGDILVVLEGPV.ALSDC..-VLDEDVCENSNMCVTKIVWEKMKKGIEDVIDSITLKDMIND..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1166:gid::pid::loc:1345139:1345586:strand:+:3:133 PP .79*****************.******************************************************************.*****...9999**********************************985..
+GCA_000085225.1_ASM8522v1_genomic_ORF2692:gid::pid::loc:3036309:3036708:strand:-:2:132         .ISEDVDYSIRIIRAIFNNG.EDKPIDAKMILKSEDIPILTLYRLLRKLCANNILTFNKEDGKTYMLNVSLDTISLRTIVEVIDGKI.YINKC..TRYVSNCSNCLKGCKVNRELLEIEKEIYKLLSRKSIRQIL--e.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2692:gid::pid::loc:3036309:3036708:strand:-:2:132 PP .57889**************.**********************************999888779***********************.*****..9999999999**************************9987..5.
+GCF_018304705.1_ORF2795:gid::pid:WP_058868397.1:loc:3335510:3335990:strand:+:3:136             i-TAQEEYGLRCLIQLARQP.DGQGLTLKQIGEREGISTANAGKILWLLSNAGIVKSARGIKGGYMLARPADQITVSEVISVFEHAD.LEEHCksFSGIQEVCVHNTDCGIRPVLQILNETVKQVLSRITLAQLVH-h.
+#=GR GCF_018304705.1_ORF2795:gid::pid:WP_058868397.1:loc:3335510:3335990:strand:+:3:136     PP 5.77889*************.***************************************************************777.66778779999***********************************97.6.
+BGC0002285_ORF12:gid::pid:RMI87914.1:loc:13016:13475:strand:-:3:133                            .ISARADYAVRAALELASSG.DDGPLKAEAIADAQDIPHKFLESILNDMRRGGLVVSQRGGNGGYRLAKPADAISIADVIRVVEGPL.VSVRG..-VRPPELSYSGPAESLLPLWIALRSNVRQILEGVSLADVA--ss
+#=GR BGC0002285_ORF12:gid::pid:RMI87914.1:loc:13016:13475:strand:-:3:133                    PP .6899***************.******************************************************************.77677...9999*********************************97..58
+BGC0002452_ORF46:gid::pid:BBM96665.1:loc:86540:87008:strand:+:3:133                            .ISAKSDYALRAMAQLARDGaDGSPVKAGRVASEQDIPLKFLQGVLSELRRARLVHSTRGPEGGFVLARPAAEITLADVYRAIDGPLiNV-RD..-TRLSDIGYAGPAEPLRELWMAARSSLRNVLEQVTLADL---da
+#=GR BGC0002452_ORF46:gid::pid:BBM96665.1:loc:86540:87008:strand:+:3:133                    PP .689***************9999****************************************************************555.55...6888888899999************************8...89
+#=GC PP_cons                                                                                   .68899**************.****************************************99*********************999.88888..989999999*****************************9885..
+#=GC RF                                                                                        .xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

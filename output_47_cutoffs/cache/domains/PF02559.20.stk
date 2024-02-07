@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1153:gid::pid::loc:1330671:1331169:strand:-:2:62            .YKIGESVMYPKEGACYISGL.VTKDIN..HHIQKYYELTVIYnsNLKISIPVLNADKigVRPI-m..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1153:gid::pid::loc:1330671:1331169:strand:-:2:62    PP .79******************.******..99999*****99999*************888887.5..
+GCA_000085225.1_ASM8522v1_genomic_ORF2923:gid::pid::loc:3320371:3320875:strand:-:4:64            .FKIDDYIMYGMTGVCKVMDItNERFTN..GIKKEYYVLSPIYsnNTVIKIPVDNEKV.pMRKL-l..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF2923:gid::pid::loc:3320371:3320875:strand:-:4:64    PP .8*******************8666788..************999*************.***97.6..
+GCA_000085225.1_ASM8522v1_genomic_ORF3420:gid::pid::loc:3890063:3893450:strand:-:492:548         .LSVGDYVVHENSGVGRYTGI.EQITVN..AIKKDYMKIVYQG..GDNLYVPIDQMDK..VQKYI...
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3420:gid::pid::loc:3890063:3893450:strand:-:492:548 PP .78******************.******..*************..*************..****8...
+GCF_018304705.1_ORF803:gid:mfd:pid:WP_211422558.1:loc:959624:963311:strand:-:560:618             .LKVGDFVVHVNHGIGRFLGL.QQVQVDhrTPPCEVMVLEYAD..QQRLSVPVERLDL..VQKF-s..
+#=GR GCF_018304705.1_ORF803:gid:mfd:pid:WP_211422558.1:loc:959624:963311:strand:-:560:618     PP .89******************.9999998888899********..*************..**97.6..
+GCF_018304705.1_ORF1576:gid::pid:WP_063896901.1:loc:1888338:1888878:strand:+:3:62                .FKVGDKVIYPNHGIGVIEVI.KRMEFD..GVEMEFYQLRLSG.nNTTVNVPVDKVQSigIR---tpi
+#=GR GCF_018304705.1_ORF1576:gid::pid:WP_063896901.1:loc:1888338:1888878:strand:+:3:62        PP .9*******************.******..*************.************996665...789
+GCF_900066015.1_ORF3011:gid:mfd:pid:WP_197699802.1:loc:3505192:3508903:strand:-:543:599          i-KQGDYIVHLDYGIGRFEGL.VVRNLG..GMEREYLLVKYAN..GDTLYVPVHHADR..LGKW-i..
+#=GR GCF_900066015.1_ORF3011:gid:mfd:pid:WP_197699802.1:loc:3505192:3508903:strand:-:543:599  PP 6.89*****************.99999*..*************..************9..8775.6..
+#=GC PP_cons                                                                                     .89******************.999999..999**********..*************..98978...
+#=GC RF                                                                                          .xxxxxxxxxxxxxxxxxxxx.xxxxxx..xxxxxxxxxxxxx..xxxxxxxxxxxxx..xxxxx...
+//

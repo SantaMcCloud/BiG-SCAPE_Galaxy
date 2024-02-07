@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF1444:gid::pid:WP_211422013.1:loc:1738527:1739646:strand:+:42:288           ...ev--TDWAALLTSAQQHGLEDYLFRRLTRTG--VLLPDVIREHVRLLQAHKAAWTLQLTAQMDRILDALQSAGIAAVPLKGPLLG.ErLYGADGFRSSSDLDVLVPYQQVHPALAAVAALGYQTDAAtlekalAGDHNIALD-NISPPLELHFHLFRR--FGVTLQAEDFLAR-AVPYRTQRGRlIQVLAPEDEFLF
+#=GR GCF_018304705.1_ORF1444:gid::pid:WP_211422013.1:loc:1738527:1739646:strand:+:42:288   PP ...87..69*************************..58888***********************************************.66***********************************9998777776444555555.35556********88..6788899999996.99998865555************
+GCF_018304705.1_ORF2512:gid::pid:WP_211423625.1:loc:3004093:3005245:strand:+:37:285           dglsv-----AEIMAVLQSHRLGPLLCAQLLPETW-ATLPGELQTWLKASARGQVVLDLQQTLALQELLPLAQARGIRVLLLKGVPVGyR.YYAEPHHRVKTDVDLLVGPADVSGLVALLEALGYTRSVGit.gqlVNRQTTLAR--GDVALDVHWSAANT-ALFAHVLDFETMWRERLPISELGAA.ACAPADEDLFLH
+#=GR GCF_018304705.1_ORF2512:gid::pid:WP_211423625.1:loc:3004093:3005245:strand:+:37:285   PP 98876.....578999***************9995.77888***********************************************55.**********************************9766543.334333445555..99**********98.78888888888889999********.************
+NZ_CP072636.1.region002_ORF12:gid::pid:WP_211422013.1:loc:10311:11430:strand:+:42:288         ...ev--TDWAALLTSAQQHGLEDYLFRRLTRTG--VLLPDVIREHVRLLQAHKAAWTLQLTAQMDRILDALQSAGIAAVPLKGPLLG.ErLYGADGFRSSSDLDVLVPYQQVHPALAAVAALGYQTDAAtlekalAGDHNIALD-NISPPLELHFHLFRR--FGVTLQAEDFLAR-AVPYRTQRGRlIQVLAPEDEFLF
+#=GR NZ_CP072636.1.region002_ORF12:gid::pid:WP_211422013.1:loc:10311:11430:strand:+:42:288 PP ...87..69*************************..58888***********************************************.66***********************************9998777776444555555.35556********88..6788899999996.99998865555************
+#=GC PP_cons                                                                                  .......69*899*********************5.68888***********************************************.6.***********************************9887......444555555.36677********88.7788888999999799999997777.************
+#=GC RF                                                                                       .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx
+
+GCF_018304705.1_ORF1444:gid::pid:WP_211422013.1:loc:1738527:1739646:strand:+:42:288           LCVHAAAHSFA---RLAWLFDLKLLLHRH-PAFDWETLCRRMHDWQVTTAVIFACELLRQRL-r
+#=GR GCF_018304705.1_ORF1444:gid::pid:WP_211422013.1:loc:1738527:1739646:strand:+:42:288   PP **********6...5************95.*************************9998765.8
+GCF_018304705.1_ORF2512:gid::pid:WP_211423625.1:loc:3004093:3005245:strand:+:37:285           ACFHLALHISYE-FALVWLYDIHLMATRW-PPEALERCLLRARQLQIARVCLACLALSRAWFG.
+#=GR GCF_018304705.1_ORF2512:gid::pid:WP_211423625.1:loc:3004093:3005245:strand:+:37:285   PP **********86.**************98.8889999999*********************97.
+NZ_CP072636.1.region002_ORF12:gid::pid:WP_211422013.1:loc:10311:11430:strand:+:42:288         LCVHAAAHSFA---RLAWLFDLKLLLHRH-PAFDWETLCRRMHDWQVTTAVIFACELLRQRL-r
+#=GR NZ_CP072636.1.region002_ORF12:gid::pid:WP_211422013.1:loc:10311:11430:strand:+:42:288 PP **********6...5************95.*************************9998765.8
+#=GC PP_cons                                                                                  **********76.*7************96.999************************998777.
+#=GC RF                                                                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

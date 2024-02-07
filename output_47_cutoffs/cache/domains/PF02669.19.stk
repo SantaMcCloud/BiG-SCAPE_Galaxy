@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1566:gid::pid::loc:1765409:1766036:strand:+:4:203         l-KPALLVSIVLLVVCGLVYPLVLTGVSQVAFKDKANGSMIEVNGVKVGSELIGQSFTDARFFKGRVSSVNYNtytkedlvpdkdgnasygGVSSGSFNYGATNPELHDRVQKDIEKFLKDNPTVKREDIPTDLLTASGSGLDPNISPASAKIQIPAIAKASGISESKLQKIVDDNTSKKLFGVLGEDRVNVLKVNIEV-
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1566:gid::pid::loc:1765409:1766036:strand:+:4:203 PP 6.689******************************************************************999999999999999999999********************************************************************************************************987.
+GCF_900066015.1_ORF2725:gid:kdpC:pid:WP_197699784.1:loc:3177625:3178195:strand:-:6:187         a-RPALMMLVVLTLLTGIIYPLVVTGLAQLLFPAQANGSLLGDAARPVGSALLGQANDDPRYFQPRPSATGYG..................TLPSSGSNMAPTSAALAELVTQRAAGFRAAHALDAAAPVPVEMLFASGSGLDPHISPAAARLQVARVAAARGLDEAQVAALVEEHVAGPQLGLLGEPRVNVLLLNLALD
+#=GR GCF_900066015.1_ORF2725:gid:kdpC:pid:WP_197699784.1:loc:3177625:3178195:strand:-:6:187 PP 7.799*************************************88*****************************..................**********************************999***********************************************************************9
+#=GC PP_cons                                                                                   ..789*************************************99***************************99..................**********************************************************************************************************989
+#=GC RF                                                                                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1566:gid::pid::loc:1765409:1766036:strand:+:4:203         -ak
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1566:gid::pid::loc:1765409:1766036:strand:+:4:203 PP .68
+GCF_900066015.1_ORF2725:gid:kdpC:pid:WP_197699784.1:loc:3177625:3178195:strand:-:6:187         Q..
+#=GR GCF_900066015.1_ORF2725:gid:kdpC:pid:WP_197699784.1:loc:3177625:3178195:strand:-:6:187 PP 6..
+#=GC PP_cons                                                                                   6..
+#=GC RF                                                                                        x..
+//

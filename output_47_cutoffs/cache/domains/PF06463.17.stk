@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCF_000011105.1_ORF106:gid:moaA:pid:WP_048053033.1:loc:97803:98736:strand:-:176:307                    ai--LQLIELEVPREMENS--QFFKDFFYPLKPLEEKFEKLAVKvKER.rMHRRRKYFIpIDGKiVEVEVVRSMHNTvFCMNCTRLRLTADGYLKTCLLRRDDlIDILGPLRNGA.SDADLIEIFKRAVLLRRPYW--ts
+#=GR GCF_000011105.1_ORF106:gid:moaA:pid:WP_048053033.1:loc:97803:98736:strand:-:176:307            PP 86..788998887777654..444445567888999999988885333.588888887743444599************************************9***********.************99998765..79
+GCF_026242195.1_ORF2186:gid:moaA:pid:WP_266087738.1:loc:6428767372:6428768407:strand:+:187:304         .l-RLQIIEYMPELVGDV---DYRVDIDEIHGYLDERAETVET-.-RE..MHARDRYII.DGTV.--VEIVDPVENAeFCANCHRVRVTHEGELKGCLNRNDDlISTE------DaSDEELRDAFERVVDNRVPYY--ge
+#=GR GCF_026242195.1_ORF2186:gid:moaA:pid:WP_266087738.1:loc:6428767372:6428768407:strand:+:187:304 PP .7.6899****9887753...5677788888888888777766...56..9********.9998...9********99***********************9744444......3367779999999999997765..79
+GCA_000085225.1_ASM8522v1_genomic_ORF1692:gid::pid::loc:1901830:1902790:strand:+:181:302               ..IDVRFIELMPLGEANRVYKKGYFNVKEMIEKIYG---LYKVK.NDE..KSTAEYYMF.KGAK.GRIGIITPLSCS.FCNTCNRIRLTSSGAIKLCLHSKEE.IDIKPFLHKPL.L---FRESMKDIIKQKPEKHH-l.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1692:gid::pid::loc:1901830:1902790:strand:+:181:302       PP ..69*********************99998877755...55555.667..89*******.****.************.*************************.**********7.4...899***********997.6.
+GCF_018304705.1_ORF2831:gid:moaA:pid:WP_211423891.1:loc:3371369:3372395:strand:+:195:324               .v-SLRFIEYMPLDGPGEWQPTLVVPGREVRDRIQARYPLIPIAgQSP..SETARRYRF.ADGApGEIGIIAPVTEP.FCGACSRLRLTADGKLRTCLFSVVE.YDLRDALRAGA.GQRELAERILTAVAQKEAGHR-i.
+#=GR GCF_018304705.1_ORF2831:gid:moaA:pid:WP_211423891.1:loc:3371369:3372395:strand:+:195:324       PP .6.79***************************************7777..*********.99988************.*************************.***********.999**************9996.7.
+GCF_900066015.1_ORF157:gid:moaA:pid:WP_095041707.1:loc:186155:187136:strand:-:181:310                  .w-QVRFIEMMPFGDVADFQLSGVVTQAELQETIAGALGELRPV.NQGvlDGEASLFQL.DGAP.GKIGFISSISQP.FCASCNRARLTADGRLRLCLLREKE.VDLMTPLRAGA.TDEELEAIIKKGIWWKPWGH--gl
+#=GR GCF_900066015.1_ORF157:gid:moaA:pid:WP_095041707.1:loc:186155:187136:strand:-:181:310          PP .5.89*******************************99998887.66669*********.****.************.*************************.***********.****************9988..57
+#=GC PP_cons                                                                                           ..6799*****99999888**88888888999998899988878.656..9999***99.8888.************.************************9.9999******8.8999**********9998877...
+#=GC RF                                                                                                ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxx..xxxxxxxxx.xxxx.xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx..
+//

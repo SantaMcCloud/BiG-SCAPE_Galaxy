@@ -1,0 +1,151 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="752.6666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="742.6666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (J8C03_RS16300)
+Hint domain-containing protein</title>
+			<polygon class=" (J8C03_RS16300)
+Hint domain-containing protein" points="157,25 49,25 49,10 19,40 49,70 49,55 157,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribonuc_red_lgC (PF02867)
+"Ribonucleotide reductase, barrel domain"</title>
+				<polygon class="PF02867" points="23,40 35,28 111,28 111,52 35,52" stroke-linejoin="round" width="89" height="24" fill="rgb(132,57,179)" stroke="rgb(105,45,143)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Intein_splicing (PF14890)
+"Intein splicing domain"</title>
+				<rect class="PF14890" x="111" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(80,213,144)" stroke="rgb(64,170,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ribonuc_red_lgN (PF00317)
+"Ribonucleotide reductase, all-alpha domain"</title>
+				<rect class="PF00317" x="147" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(93,190,126)" stroke="rgb(74,152,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chlG (J8C03_RS15560)
+chlorophyll synthase ChlG</title>
+			<polygon class="chlG (J8C03_RS15560)
+chlorophyll synthase ChlG" points="177,25 178,25 178,10 208,40 178,70 178,55 177,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UbiA (PF01040)
+"UbiA prenyltransferase family"</title>
+				<polygon class="PF01040" points="181,28 191,28 203,40 191,52 181,52" stroke-linejoin="round" width="26" height="24" fill="rgb(83,101,220)" stroke="rgb(66,80,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15565)
+CYTH and CHAD domain-containing protein</title>
+			<polygon class=" (J8C03_RS15565)
+CYTH and CHAD domain-containing protein" points="260,25 238,25 238,10 208,40 238,70 238,55 260,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CHAD (PF05235)
+"CHAD domain"</title>
+				<polygon class="PF05235" points="214,38 224,28 236,28 236,52 224,52 214,42" stroke-linejoin="round" width="22" height="24" fill="rgb(90,198,166)" stroke="rgb(72,158,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CYTH (PF01928)
+"CYTH domain"</title>
+				<rect class="PF01928" x="239" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(104,218,155)" stroke="rgb(83,174,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15570)
+fatty acid desaturase family protein</title>
+			<polygon class=" (J8C03_RS15570)
+fatty acid desaturase family protein" points="294,25 291,25 291,10 261,40 291,70 291,55 294,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FA_desaturase (PF00487)
+"Fatty acid desaturase"</title>
+				<polygon class="PF00487" points="265,40 277,28 290,28 290,52 277,52" stroke-linejoin="round" width="28" height="24" fill="rgb(180,77,171)" stroke="rgb(144,61,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15575)
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase</title>
+			<polygon class=" (J8C03_RS15575)
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase" points="335,25 326,25 326,10 296,40 326,70 326,55 335,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LYTB (PF02401)
+"LytB protein"</title>
+				<polygon class="PF02401" points="300,40 312,28 329,28 329,52 312,52" stroke-linejoin="round" width="33" height="24" fill="rgb(84,117,182)" stroke="rgb(67,93,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>shc (J8C03_RS15580)
+squalene--hopene cyclase</title>
+			<polygon class="shc (J8C03_RS15580)
+squalene--hopene cyclase" points="343,25 379,25 379,10 409,40 379,70 379,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="346" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(142,71,192)" stroke="rgb(113,56,153)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="376,28 392,28 404,40 392,52 376,52" stroke-linejoin="round" width="31" height="24" fill="rgb(215,101,109)" stroke="rgb(172,80,87)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15585)
+helix-turn-helix transcriptional regulator</title>
+			<polygon class=" (J8C03_RS15585)
+helix-turn-helix transcriptional regulator" points="413,10 439,40 413,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="430,34 435,40 430,46" stroke-linejoin="round" width="8" height="24" fill="rgb(126,95,206)" stroke="rgb(100,76,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS16305)
+glycoside hydrolase family 15 protein</title>
+			<polygon class=" (J8C03_RS16305)
+glycoside hydrolase family 15 protein" points="475,25 472,25 472,10 442,40 472,70 472,55 475,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_hydro_15 (PF00723)
+"Glycosyl hydrolases family 15"</title>
+				<polygon class="PF00723" points="446,40 458,28 474,28 474,52 458,52" stroke-linejoin="round" width="30" height="24" fill="rgb(188,220,77)" stroke="rgb(150,176,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS16310)
+glucoamylase</title>
+			<polygon class=" (J8C03_RS16310)
+glucoamylase" points="486,40 513,10 513,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glucodextran_N (PF09137)
+"Glucodextranase, domain N"</title>
+				<polygon class="PF09137" points="490,40 501,28 509,28 509,52 501,52" stroke-linejoin="round" width="23" height="24" fill="rgb(54,201,127)" stroke="rgb(43,160,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15595)
+alpha-amylase family glycosyl hydrolase</title>
+			<polygon class=" (J8C03_RS15595)
+alpha-amylase family glycosyl hydrolase" points="576,25 544,25 544,10 514,40 544,70 544,55 576,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Alpha-amylase (PF00128)
+"Alpha amylase, catalytic domain"</title>
+				<polygon class="PF00128" points="527,31 530,28 558,28 558,52 530,52 527,49" stroke-linejoin="round" width="31" height="24" fill="rgb(188,118,66)" stroke="rgb(150,94,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cyc-maltodext_N (PF09087)
+"Cyclomaltodextrinase, N-terminal"</title>
+				<rect class="PF09087" x="565" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(120,54,184)" stroke="rgb(96,43,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS15600)
+TonB-dependent receptor</title>
+			<polygon class=" (J8C03_RS15600)
+TonB-dependent receptor" points="685,25 608,25 608,10 578,40 608,70 608,55 685,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CarboxypepD_reg (PF13620)
+"Carboxypeptidase regulatory-like domain"</title>
+				<rect class="PF13620" x="675" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(61,227,66)" stroke="rgb(48,181,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

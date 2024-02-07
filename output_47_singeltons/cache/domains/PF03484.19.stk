@@ -1,0 +1,19 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF51:gid:pheT:pid:WP_266085280.1:loc:58242:59916:strand:+:280:349               .k-TVTHDRIESMLGVEFGTDDVVDLLERSGMDAeteTRDGATAYDVTVPPYRTDVMHPLDVVDDIGRAYGF.
+#=GR GCF_026242195.1_ORF51:gid:pheT:pid:WP_266085280.1:loc:58242:59916:strand:+:280:349       PP .8.6899**************************976667777899**************************8.
+GCF_000011105.1_ORF612:gid:pheT:pid:WP_010884752.1:loc:588830:590501:strand:-:283:348            .f-EVELDYIRKLSGLELNDGEIKELLEKMMYEV...-EISRGRAKLKYPAFRDDIMHARDILEDVLIAYGY.
+#=GR GCF_000011105.1_ORF612:gid:pheT:pid:WP_010884752.1:loc:588830:590501:strand:-:283:348    PP .6.789****************************....*********************************9.
+GCF_018304705.1_ORF2051:gid:pheT:pid:WP_211424220.1:loc:2438142:2440191:strand:-:293:359         ..VRLRHARIAALTGVEVTPSRAADILTGLGFEL...VTEDEGESEWIVPGFRVDVSIEEDLIEEVVRHVGY.
+#=GR GCF_018304705.1_ORF2051:gid:pheT:pid:WP_211424220.1:loc:2438142:2440191:strand:-:293:359 PP ..689****************************9...9*********************************9.
+GCF_900696045.1_ORF382:gid:pheT:pid:WP_134482827.1:loc:420101:421799:strand:-:281:347            ..IEVEAIQINDLLGLNLPEAKIIECLNKCRCDG...LVERPGVIRCIAPNYRIDLFDSCDVVEEVAIGYG-i
+#=GR GCF_900696045.1_ORF382:gid:pheT:pid:WP_134482827.1:loc:420101:421799:strand:-:281:347    PP ..6788899************************7...79*******************************9.7
+GCF_900066015.1_ORF2369:gid:pheT:pid:WP_095043752.1:loc:2760236:2762789:strand:+:453:518         ..VDLDPVYARKLSGLDLPAAEMAAMLERLEFAV...-EMRGDRLRTTTPDHRMDVEGPHDLVEEICRLYGY.
+#=GR GCF_900066015.1_ORF2369:gid:pheT:pid:WP_095043752.1:loc:2760236:2762789:strand:+:453:518 PP ..578999*************************9....**********************************.
+GCA_000085225.1_ASM8522v1_genomic_ORF667:gid::pid::loc:776705:779099:strand:+:412:478            lv--VNPQRINHLLGVDVPMEQFVGILESLEFKC...NLVANDKLEIDVPSFRTDMEQEADVWEEIARIYGF.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF667:gid::pid::loc:776705:779099:strand:+:412:478    PP 86..799***************************...**********************************8.
+GCF_008000775.1_ORF3639:gid:pheT:pid:WP_147664730.1:loc:4110614:4112309:strand:+:284:351         ..MEVHIDYINSYLGLKLSAIDIIKCLKKVRLDA..sKTKDKNKLNVKIPPYRVDFMHEVDIVEDVAIGYGY.
+#=GR GCF_008000775.1_ORF3639:gid:pheT:pid:WP_147664730.1:loc:4110614:4112309:strand:+:284:351 PP ..5899***************************9..8999*******************************9.
+#=GC PP_cons                                                                                     ..67899**************************9...89999*****************************9.
+#=GC RF                                                                                          ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

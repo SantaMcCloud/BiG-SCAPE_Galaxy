@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+NZ_CP072636.1.region003_ORF4:gid::pid:WP_211421650.1:loc:5000:5894:strand:+:8:277          r-VGLGWRAPLAADIMANLERIEVIEVIADDYFDAPRKDRQALRWLGRQSPLVLHGVSLGLASTAPVDPVRLDHLARLIGEVEPWLWSEHLAFVRGGGVEVGHLAAPPRTAATIEGTARNLTTARTIVGSPPLVENISTIIEPPGSALDEVTWLEGILAATENGLLLDLHNLYANACNFDFDPREAIARLPLERVGYIHL
+#=GR NZ_CP072636.1.region003_ORF4:gid::pid:WP_211421650.1:loc:5000:5894:strand:+:8:277  PP 6.8*************99999***********************************************************************************************************************************************************************************
+GCF_018304705.1_ORF1868:gid::pid:WP_211421650.1:loc:2226405:2227299:strand:+:8:277         r-VGLGWRAPLAADIMANLERIEVIEVIADDYFDAPRKDRQALRWLGRQSPLVLHGVSLGLASTAPVDPVRLDHLARLIGEVEPWLWSEHLAFVRGGGVEVGHLAAPPRTAATIEGTARNLTTARTIVGSPPLVENISTIIEPPGSALDEVTWLEGILAATENGLLLDLHNLYANACNFDFDPREAIARLPLERVGYIHL
+#=GR GCF_018304705.1_ORF1868:gid::pid:WP_211421650.1:loc:2226405:2227299:strand:+:8:277 PP 6.8*************99999***********************************************************************************************************************************************************************************
+#=GC PP_cons                                                                               ..8*************99999***********************************************************************************************************************************************************************************
+#=GC RF                                                                                    .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+NZ_CP072636.1.region003_ORF4:gid::pid:WP_211421650.1:loc:5000:5894:strand:+:8:277          AGGkwvqaT---RfpgrRLLDDHRHATPQPVFDLLTEVARRAyQPLVVILERDGDYPPFAELLDELDAARAAL-a
+#=GR NZ_CP072636.1.region003_ORF4:gid::pid:WP_211421650.1:loc:5000:5894:strand:+:8:277  PP ***765431...145559*******************99987256699*********************9875.7
+GCF_018304705.1_ORF1868:gid::pid:WP_211421650.1:loc:2226405:2227299:strand:+:8:277         AGGkwvqaT---RfpgrRLLDDHRHATPQPVFDLLTEVARRAyQPLVVILERDGDYPPFAELLDELDAARAAL-a
+#=GR GCF_018304705.1_ORF1868:gid::pid:WP_211421650.1:loc:2226405:2227299:strand:+:8:277 PP ***765431...145559*******************99987256699*********************9875.7
+#=GC PP_cons                                                                               ***.....1...1....9*******************99987.56699*********************9875..
+#=GC RF                                                                                    xxx.....xxxxx....xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

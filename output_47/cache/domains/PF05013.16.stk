@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+NZ_CP072636.1.region001_ORF2:gid:hutG:pid:WP_211423063.1:loc:2955:3768:strand:-:17:236         v-PVLISLPHVGTVVPPEIAA-DWTDEARTLPDTDWHLGELYAFARQLDVGILQARLSRYVVDVNRPPDDLPLYH-GKHYTELCPTRMFTGEPIYCEgkTPDAMEIARRRAHYWQPYHDALEQELTRLQARHGYVILWEGHSIKSRLPWLFEGTLPDFNLGTASGASCAPELRQALCAALAAQkELTYVADDRFKGGYIT
+#=GR NZ_CP072636.1.region001_ORF2:gid:hutG:pid:WP_211423063.1:loc:2955:3768:strand:-:17:236 PP 5.9****************76.****************************************************9.*********************99669******************************************************************************5555****************
+GCF_018304705.1_ORF198:gid:hutG:pid:WP_211423063.1:loc:249678:250491:strand:-:17:236           v-PVLISLPHVGTVVPPEIAA-DWTDEARTLPDTDWHLGELYAFARQLDVGILQARLSRYVVDVNRPPDDLPLYH-GKHYTELCPTRMFTGEPIYCEgkTPDAMEIARRRAHYWQPYHDALEQELTRLQARHGYVILWEGHSIKSRLPWLFEGTLPDFNLGTASGASCAPELRQALCAALAAQkELTYVADDRFKGGYIT
+#=GR GCF_018304705.1_ORF198:gid:hutG:pid:WP_211423063.1:loc:249678:250491:strand:-:17:236   PP 5.9****************76.****************************************************9.*********************99669******************************************************************************5555****************
+#=GC PP_cons                                                                                   ..9****************76.****************************************************9.*********************..669******************************************************************************555.****************
+#=GC RF                                                                                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx
+
+NZ_CP072636.1.region001_ORF2:gid:hutG:pid:WP_211423063.1:loc:2955:3768:strand:-:17:236         RHYGRPEQGRHAVQLEMAWSCYM
+#=GR NZ_CP072636.1.region001_ORF2:gid:hutG:pid:WP_211423063.1:loc:2955:3768:strand:-:17:236 PP **********************9
+GCF_018304705.1_ORF198:gid:hutG:pid:WP_211423063.1:loc:249678:250491:strand:-:17:236           RHYGRPEQGRHAVQLEMAWSCYM
+#=GR GCF_018304705.1_ORF198:gid:hutG:pid:WP_211423063.1:loc:249678:250491:strand:-:17:236   PP **********************9
+#=GC PP_cons                                                                                   **********************9
+#=GC RF                                                                                        xxxxxxxxxxxxxxxxxxxxxxx
+//

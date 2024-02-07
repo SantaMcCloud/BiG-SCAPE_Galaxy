@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+AP018533.1.region004_ORF6:gid::pid::loc:4542:5187:strand:+:2:91                                nvfeavkqsvttrqaaehygi----------------------.-H...---VGRNGMACCPFH.NDKTPSMKLD---RRYHCFG.CGADGDVIDFAAALYGLGKK.EAAIQLAQDFGLSYED---wkp..
+#=GR AP018533.1.region004_ORF6:gid::pid::loc:4542:5187:strand:+:2:91                        PP 977666555555555555554........................3......467779******.*******986...56*****.********************.**********998875...779..
+GCF_018304705.1_ORF1010:gid:dnaG:pid:WP_211422381.1:loc:1207635:1209564:strand:-:3:99          ...................ld--RQTVDDLRAQADIVRVVSGY.VT...LRKRGANYLACCPFH.SEKTPSFNVHPGKQVFKCFG.CGIGGDVFTFVMRMENVGFA.EAVRIVAEVCGLPLP----ear..
+#=GR GCF_018304705.1_ORF1010:gid:dnaG:pid:WP_211422381.1:loc:1207635:1209564:strand:-:3:99  PP ...................85..789*****************.**...***************.********************.********************.*******99988765....679..
+GCF_900066015.1_ORF1684:gid:dnaG:pid:WP_095043111.1:loc:2001122:2003201:strand:-:1:99          ...................mt----DLQEIKNRLDLVDVVQDYgVQ...LRKSGRNYAGFCPFHpNTRTPAFYIFPESQTWRCFGaCADGGDVFSFVMKKNGWDFK.ETLADLAKRAGVELAD---arp..
+#=GR GCF_900066015.1_ORF1684:gid:dnaG:pid:WP_095043111.1:loc:2001122:2003201:strand:-:1:99  PP ...................86....5799*****************...***************5569****************88********************.************9876...579..
+GCA_000085225.1_ASM8522v1_genomic_ORF1352:gid::pid::loc:1544219:1546010:strand:+:4:100         ....................i--KDIIEEIKARCDIASIISEY.MN...IKQSGANYKGLCPFH.GEKTPSFYINTSKQIYKCFG.CGEGGDVINFVMKMENLDFM.DAVKILANKCGIEINTN--mn...
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1352:gid::pid::loc:1544219:1546010:strand:+:4:100 PP ....................8..5789****************.**...***************.********************.********************.*************9986..68...
+GCF_008000775.1_ORF2235:gid::pid:WP_147663319.1:loc:2460792:2464557:strand:-:75:174            .............pnrnqhhn----------SEKKIWDIIKEK.VKipdLVSVENNYLECPQYG.NETGRSAKYYPDSEIWRCYK.CKKSGDVIELYRLQNNLSLRwDAIEKMALEYKLPF-----nnisk
+#=GR GCF_008000775.1_ORF2235:gid::pid:WP_147663319.1:loc:2460792:2464557:strand:-:75:174    PP .............*9987765..........67799*******.98444567788999877788.99999***************.**********9999999985599999999888765.....56889
+#=GC PP_cons                                                                                   .......................68899***999*********.*8...99989999**999**.99*******9***99*****.*******************9.********999987766.......
+#=GC RF                                                                                        .....................xxxxxxxxxxxxxxxxxxxxxx.xx...xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx.....
+//

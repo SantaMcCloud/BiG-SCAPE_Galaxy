@@ -1,0 +1,6 @@
+Clustername 1	Clustername 2	Raw distance	Squared similarity	Jaccard index	DSS index	Adjacency index	raw DSS non-anchor	raw DSS anchor	Non-anchor domains	Anchor domains	Combined group	Shared group
+GCF_018304705.1	NZ_CP072636.1.region001	8.673617379884035e-18	1.0	1.0	1.0	1.0	0.0	0.0	22	0	RRE-containing.lassopeptide - T3PKS.ranthipeptide.lassopeptide.terpene.RRE-containing.RiPP-like	
+GCF_018304705.1	NZ_CP072636.1.region002	8.673617379884035e-18	1.0	1.0	1.0	1.0	0.0	0.0	19	0	RRE-containing - T3PKS.ranthipeptide.lassopeptide.terpene.RRE-containing.RiPP-like	
+GCF_900696045.1	NZ_LR216287.1.region001	8.673617379884035e-18	1.0	1.0	1.0	1.0	0.0	0.0	17	2	thioamitides - thioamitides	thioamitides
+GCF_018304705.1	NZ_CP072636.1.region003	8.673617379884035e-18	1.0	1.0	1.0	1.0	0.0	0.0	8	0	RiPP-like - T3PKS.ranthipeptide.lassopeptide.terpene.RRE-containing.RiPP-like	
+GCF_018304705.1	NZ_CP072637.1.region002	8.673617379884035e-18	1.0	1.0	1.0	1.0	0.0	0.0	18	0	T3PKS.ranthipeptide.lassopeptide.terpene.RRE-containing.RiPP-like - ranthipeptide	

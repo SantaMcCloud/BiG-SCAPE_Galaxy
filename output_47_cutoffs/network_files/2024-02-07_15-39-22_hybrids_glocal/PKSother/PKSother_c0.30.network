@@ -1,0 +1,2 @@
+Clustername 1	Clustername 2	Raw distance	Squared similarity	Jaccard index	DSS index	Adjacency index	raw DSS non-anchor	raw DSS anchor	Non-anchor domains	Anchor domains	Combined group	Shared group
+GCF_018304705.1	NZ_CP072636.1.region004	0.0	1.0	1.0	1.0	1.0	0.0	0.0	38	1	T3PKS - T3PKS.ranthipeptide.lassopeptide.terpene.RRE-containing.RiPP-like	

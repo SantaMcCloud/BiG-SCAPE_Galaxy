@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF1474:gid::pid:WP_211421990.1:loc:1775386:1776154:strand:+:19:49         ..ssd-------LVAYLYGEATPAEIASFERHLQTCPVCR
+#=GR GCF_018304705.1_ORF1474:gid::pid:WP_211421990.1:loc:1775386:1776154:strand:+:19:49 PP ..986.......78*************************9
+GCF_018304705.1_ORF2539:gid::pid:WP_211423648.1:loc:3033738:3034587:strand:+:3:37          .....CERCLEQLDAYLDGELDAPDASLLSAHLRQCPNCQ
+#=GR GCF_018304705.1_ORF2539:gid::pid:WP_211423648.1:loc:3033738:3034587:strand:+:3:37  PP .....**********************************6
+GCF_900066015.1_ORF1734:gid::pid:WP_157913017.1:loc:2058596:2059148:strand:+:5:38          erfyl------LMMAALDDELPLEERDELDAHLRLCADCA
+#=GR GCF_900066015.1_ORF1734:gid::pid:WP_157913017.1:loc:2058596:2059148:strand:+:5:38  PP 88775......99**************************6
+GCF_900066015.1_ORF3536:gid::pid:WP_095045018.1:loc:4103580:4104027:strand:-:4:37          ...eh---TLSLITDYALGLLAAEERRRVEAHARLCPACR
+#=GR GCF_900066015.1_ORF3536:gid::pid:WP_095045018.1:loc:4103580:4104027:strand:-:4:37  PP ...75...678****************************9
+GCF_900066015.1_ORF4111:gid::pid:WP_095045559.1:loc:4822915:4823656:strand:-:7:40          ...at---IRERLPAYALGCLDEAEVDETAHHVDDCPDCA
+#=GR GCF_900066015.1_ORF4111:gid::pid:WP_095045559.1:loc:4822915:4823656:strand:-:7:40  PP ...86...89*****************************6
+#=GC PP_cons                                                                               .....***899*99*************************7
+#=GC RF                                                                                    .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

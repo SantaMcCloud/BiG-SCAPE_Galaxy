@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+GCF_000011105.1_ORF842:gid:hypF:pid:WP_010884989.1:loc:801901:804223:strand:+:109:142            .ICDDCLKELFDPTN.KRYMYPFIVCTNCGPRFTII.
+#=GR GCF_000011105.1_ORF842:gid:hypF:pid:WP_010884989.1:loc:801901:804223:strand:+:109:142    PP .8*************.******************97.
+GCF_000011105.1_ORF842:gid:hypF:pid:WP_010884989.1:loc:801901:804223:strand:+:159:192            .MCEFCRSEYEDPLN.RRYHAEPVACPTCGPSYRLY.
+#=GR GCF_000011105.1_ORF842:gid:hypF:pid:WP_010884989.1:loc:801901:804223:strand:+:159:192    PP .9*************.*****************985.
+GCF_900066015.1_ORF1039:gid:hypF:pid:WP_095042522.1:loc:1245943:1248367:strand:+:114:147         .VCPDCLRELFDPTD.RRYRYPFINCTNCGPRYTII.
+#=GR GCF_900066015.1_ORF1039:gid:hypF:pid:WP_095042522.1:loc:1245943:1248367:strand:+:114:147 PP .6*************.******************97.
+GCF_900066015.1_ORF1039:gid:hypF:pid:WP_095042522.1:loc:1245943:1248367:strand:+:164:197         .LCPDCAAEYGDPLD.RRFHAQPVACPACGPHLWL-e
+#=GR GCF_900066015.1_ORF1039:gid:hypF:pid:WP_095042522.1:loc:1245943:1248367:strand:+:164:197 PP .7*************.******************8.8
+GCF_008000775.1_ORF3894:gid:hypF:pid:WP_147665086.1:loc:4396792:4399210:strand:+:113:147         .MCDKCLHDFNNKSNsSFFHYPFISCAQCGPRFTIM.
+#=GR GCF_008000775.1_ORF3894:gid:hypF:pid:WP_147665086.1:loc:4396792:4399210:strand:+:113:147 PP .9*************9******************96.
+GCF_008000775.1_ORF3894:gid:hypF:pid:WP_147665086.1:loc:4396792:4399210:strand:+:164:195         f-CEDCKKIFSNIDN.RRFHAQTFGCNSCGPHY---f
+#=GR GCF_008000775.1_ORF3894:gid:hypF:pid:WP_147665086.1:loc:4396792:4399210:strand:+:164:195 PP 8.*************.****************9...6
+#=GC PP_cons                                                                                     .8*************.******************96.
+#=GC RF                                                                                          .xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx.
+//

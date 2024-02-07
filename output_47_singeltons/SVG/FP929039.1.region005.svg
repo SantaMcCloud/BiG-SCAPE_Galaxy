@@ -1,0 +1,151 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="835.0333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="825.0333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_2596)</title>
+			<polygon class=" (ctg1_2596)" points="114,25 84,25 84,10 54,40 84,70 84,55 114,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gp_dh_C (PF02800)
+"Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain"</title>
+				<rect class="PF02800" x="94" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(203,60,58)" stroke="rgb(162,47,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Gp_dh_N (PF00044)
+"Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain"</title>
+				<rect class="PF00044" x="103" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(205,57,208)" stroke="rgb(163,45,166)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2597)</title>
+			<polygon class=" (ctg1_2597)" points="126,25 132,25 132,10 162,40 132,70 132,55 126,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2598)</title>
+			<polygon class=" (ctg1_2598)" points="172,40 189,10 189,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2599)</title>
+			<polygon class=" (ctg1_2599)" points="227,25 221,25 221,10 191,40 221,70 221,55 227,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA_Me_trans_C (PF20258)
+"Aminomethyltransferase beta-barrel domain"</title>
+				<polygon class="PF20258" points="195,40 198,37 198,43" stroke-linejoin="round" width="7" height="24" fill="rgb(88,179,177)" stroke="rgb(70,143,141)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>tRNA_Me_trans_M (PF20259)
+"tRNA methyl transferase PRC-barrel domain"</title>
+				<polygon class="PF20259" points="199,36 205,30 205,50 199,44" stroke-linejoin="round" width="6" height="24" fill="rgb(190,85,130)" stroke="rgb(152,67,104)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>tRNA_Me_trans (PF03054)
+"tRNA methyl transferase HUP domain"</title>
+				<polygon class="PF03054" points="206,29 207,28 226,28 226,52 207,52 206,51" stroke-linejoin="round" width="20" height="24" fill="rgb(68,214,192)" stroke="rgb(54,171,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2600)</title>
+			<polygon class=" (ctg1_2600)" points="269,25 258,25 258,10 228,40 258,70 258,55 269,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_5 (PF00266)
+"Aminotransferase class-V"</title>
+				<polygon class="PF00266" points="232,40 244,28 266,28 266,52 244,52" stroke-linejoin="round" width="36" height="24" fill="rgb(95,128,193)" stroke="rgb(76,102,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2601)</title>
+			<polygon class=" (ctg1_2601)" points="323,25 304,25 304,10 274,40 304,70 304,55 323,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MatE (PF01554)
+"MatE"</title>
+				<polygon class="PF01554" points="278,40 290,28 294,28 294,52 290,52 278,40" stroke-linejoin="round" width="16" height="24" fill="rgb(62,190,107)" stroke="rgb(49,152,85)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MatE (PF01554)
+"MatE"</title>
+				<rect class="PF01554" x="301" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(62,190,107)" stroke="rgb(49,152,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2602)</title>
+			<polygon class=" (ctg1_2602)" points="378,25 373,25 373,10 343,40 373,70 373,55 378,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ETF_alpha (PF00766)
+"Electron transfer flavoprotein FAD-binding domain"</title>
+				<polygon class="PF00766" points="347,40 355,32 355,48 347,40" stroke-linejoin="round" width="8" height="24" fill="rgb(178,88,143)" stroke="rgb(142,70,114)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ETF (PF01012)
+"Electron transfer flavoprotein domain"</title>
+				<polygon class="PF01012" points="357,30 359,28 376,28 376,52 359,52 357,50" stroke-linejoin="round" width="19" height="24" fill="rgb(54,193,192)" stroke="rgb(43,154,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2603)</title>
+			<polygon class=" (ctg1_2603)" points="418,25 409,25 409,10 379,40 409,70 409,55 418,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ETF (PF01012)
+"Electron transfer flavoprotein domain"</title>
+				<polygon class="PF01012" points="383,40 395,28 395,28 395,52 395,52 383,40" stroke-linejoin="round" width="12" height="24" fill="rgb(54,193,192)" stroke="rgb(43,154,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2604)</title>
+			<polygon class=" (ctg1_2604)" points="431,40 460,10 460,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>3HCDH (PF00725)
+"3-hydroxyacyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00725" points="435,40 441,34 441,46" stroke-linejoin="round" width="9" height="24" fill="rgb(92,214,144)" stroke="rgb(73,171,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>3HCDH_N (PF02737)
+"3-hydroxyacyl-CoA dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02737" points="442,33 447,28 459,28 459,52 447,52 442,47" stroke-linejoin="round" width="17" height="24" fill="rgb(189,178,79)" stroke="rgb(151,142,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2605)</title>
+			<polygon class=" (ctg1_2605)" points="465,40 491,10 491,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ECH_1 (PF00378)
+"Enoyl-CoA hydratase/isomerase"</title>
+				<polygon class="PF00378" points="469,40 480,28 490,28 490,52 480,52" stroke-linejoin="round" width="24" height="24" fill="rgb(182,226,99)" stroke="rgb(145,180,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2606)</title>
+			<polygon class=" (ctg1_2606)" points="591,25 529,25 529,10 499,40 529,70 529,55 591,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3362 (PF11842)
+"Domain of unknown function (DUF3362)"</title>
+				<rect class="PF11842" x="528" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(183,103,85)" stroke="rgb(146,82,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="540" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(160,228,99)" stroke="rgb(128,182,79)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM_N (PF08497)
+"Radical SAM N-terminal"</title>
+				<rect class="PF08497" x="561" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(202,94,62)" stroke="rgb(161,75,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2607)</title>
+			<polygon class=" (ctg1_2607)" points="625,25 622,25 622,10 592,40 622,70 622,55 625,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MreB_Mbl (PF06723)
+"MreB/Mbl protein"</title>
+				<polygon class="PF06723" points="596,40 608,28 624,28 624,52 608,52" stroke-linejoin="round" width="32" height="24" fill="rgb(90,202,93)" stroke="rgb(72,161,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2608)</title>
+			<polygon class=" (ctg1_2608)" points="739,25 658,25 658,10 628,40 658,70 658,55 739,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2609)</title>
+			<polygon class=" (ctg1_2609)" points="739,40 759,10 759,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

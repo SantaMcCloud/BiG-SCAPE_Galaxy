@@ -1,0 +1,374 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1392.6333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1382.6333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (J8C03_RS09740)
+endonuclease/exonuclease/phosphatase family protein</title>
+			<polygon class=" (J8C03_RS09740)
+endonuclease/exonuclease/phosphatase family protein" points="25,25 116,25 116,10 146,40 116,70 116,55 25,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Exo_endo_phos (PF03372)
+"Endonuclease/Exonuclease/phosphatase family"</title>
+				<rect class="PF03372" x="92" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(68,179,77)" stroke="rgb(54,143,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS09745)
+endonuclease/exonuclease/phosphatase family protein</title>
+			<polygon class=" (J8C03_RS09745)
+endonuclease/exonuclease/phosphatase family protein" points="158,25 250,25 250,10 280,40 250,70 250,55 158,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Exo_endo_phos (PF03372)
+"Endonuclease/Exonuclease/phosphatase family"</title>
+				<rect class="PF03372" x="225" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(68,179,77)" stroke="rgb(54,143,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS09750)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS09750)
+hypothetical protein" points="322,25 314,25 314,10 284,40 314,70 314,55 322,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (J8C03_RS09755)
+DMT family protein</title>
+			<polygon class=" (J8C03_RS09755)
+DMT family protein" points="324,40 335,10 335,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DMT_6 (PF04342)
+"Putative member of DMT superfamily (DUF486)"</title>
+				<polygon class="PF04342" points="327,40 332,28 335,28 335,52 332,52" stroke-linejoin="round" width="10" height="24" fill="rgb(67,47,190)" stroke="rgb(53,37,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS16100)
+DUF309 domain-containing protein</title>
+			<polygon class=" (J8C03_RS16100)
+DUF309 domain-containing protein" points="336,40 362,10 362,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF309 (PF03745)
+"Domain of unknown function (DUF309)"</title>
+				<polygon class="PF03745" points="341,39 346,33 346,47 341,41" stroke-linejoin="round" width="5" height="24" fill="rgb(71,118,204)" stroke="rgb(56,94,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fmt (J8C03_RS09765)
+methionyl-tRNA formyltransferase</title>
+			<polygon class="fmt (J8C03_RS09765)
+methionyl-tRNA formyltransferase" points="395,25 393,25 393,10 363,40 393,70 393,55 395,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Formyl_trans_C (PF02911)
+"Formyl transferase, C-terminal domain"</title>
+				<polygon class="PF02911" points="367,40 375,32 375,48" stroke-linejoin="round" width="10" height="24" fill="rgb(184,133,89)" stroke="rgb(147,106,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Formyl_trans_N (PF00551)
+"Formyl transferase"</title>
+				<polygon class="PF00551" points="377,30 379,28 394,28 394,52 379,52 377,50" stroke-linejoin="round" width="17" height="24" fill="rgb(115,103,209)" stroke="rgb(91,82,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS09770)
+S8 family serine peptidase</title>
+			<polygon class=" (J8C03_RS09770)
+S8 family serine peptidase" points="407,25 549,25 549,10 579,40 549,70 549,55 407,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<rect class="PF00082" x="441" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(155,91,223)" stroke="rgb(123,72,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mltG (J8C03_RS09775)
+endolytic transglycosylase MltG</title>
+			<polygon class="mltG (J8C03_RS09775)
+endolytic transglycosylase MltG" points="587,25 592,25 592,10 622,40 592,70 592,55 587,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YceG (PF02618)
+"YceG-like family"</title>
+				<polygon class="PF02618" points="591,28 606,28 618,40 606,52 591,52" stroke-linejoin="round" width="28" height="24" fill="rgb(153,217,69)" stroke="rgb(122,173,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS09780)
+serine hydrolase</title>
+			<polygon class=" (J8C03_RS09780)
+serine hydrolase" points="622,25 628,25 628,10 658,40 628,70 628,55 622,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Beta-lactamase (PF00144)
+"Beta-lactamase"</title>
+				<polygon class="PF00144" points="622,28 642,28 654,40 642,52 622,52" stroke-linejoin="round" width="35" height="24" fill="rgb(204,94,144)" stroke="rgb(163,75,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS09785)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS09785)
+hypothetical protein" points="662,10 672,40 662,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (J8C03_RS09790)
+naringenin-chalcone synthase</title>
+			<polygon class=" (J8C03_RS09790)
+naringenin-chalcone synthase" points="676,25 685,25 685,10 715,40 685,70 685,55 676,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chal_sti_synt_C (PF02797)
+"Chalcone and stilbene synthases, C-terminal domain"</title>
+				<polygon class="PF02797" points="698,28 699,28 711,40 699,52 698,52" stroke-linejoin="round" width="14" height="24" fill="rgb(208,62,175)" stroke="rgb(166,49,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS09795)
+hypothetical protein</title>
+			<polygon class=" (J8C03_RS09795)
+hypothetical protein" points="716,10 731,40 716,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ubiG (J8C03_RS09800)
+bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG</title>
+			<polygon class="ubiG (J8C03_RS09800)
+bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG" points="731,10 755,40 731,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="736,28 742,28 745,32 745,48 742,52 736,52" stroke-linejoin="round" width="9" height="24" fill="rgb(81,180,137)" stroke="rgb(64,144,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS09805)
+TRAM domain-containing protein</title>
+			<polygon class=" (J8C03_RS09805)
+TRAM domain-containing protein" points="793,25 785,25 785,10 755,40 785,70 785,55 793,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TRAM (PF01938)
+"TRAM domain"</title>
+				<polygon class="PF01938" points="761,38 766,33 766,47 761,42" stroke-linejoin="round" width="5" height="24" fill="rgb(186,93,188)" stroke="rgb(148,74,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PIN (PF01850)
+"PIN domain"</title>
+				<polygon class="PF01850" points="769,30 771,28 779,28 779,52 771,52 769,50" stroke-linejoin="round" width="10" height="24" fill="rgb(64,211,226)" stroke="rgb(51,168,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS09810)
+ABC transporter permease</title>
+			<polygon class=" (J8C03_RS09810)
+ABC transporter permease" points="801,25 807,25 807,10 837,40 807,70 807,55 801,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MacB_PCD (PF12704)
+"MacB-like periplasmic core domain"</title>
+				<polygon class="PF12704" points="802,28 821,28 822,29 822,51 821,52 802,52" stroke-linejoin="round" width="20" height="24" fill="rgb(205,79,67)" stroke="rgb(164,63,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FtsX (PF02687)
+"FtsX-like permease family"</title>
+				<polygon class="PF02687" points="825,32 833,40 825,48" stroke-linejoin="round" width="11" height="24" fill="rgb(84,207,192)" stroke="rgb(67,165,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS09815)
+MFS transporter</title>
+			<polygon class=" (J8C03_RS09815)
+MFS transporter" points="842,25 854,25 854,10 884,40 854,70 854,55 842,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="843,28 868,28 876,36 876,44 868,52 843,52" stroke-linejoin="round" width="33" height="24" fill="rgb(194,92,193)" stroke="rgb(155,73,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS09820)
+serpin family protein</title>
+			<polygon class=" (J8C03_RS09820)
+serpin family protein" points="886,25 899,25 899,10 929,40 899,70 899,55 886,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Serpin (PF00079)
+"Serpin (serine protease inhibitor)"</title>
+				<polygon class="PF00079" points="892,28 913,28 925,40 913,52 892,52" stroke-linejoin="round" width="36" height="24" fill="rgb(222,128,91)" stroke="rgb(177,102,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS09825)
+MFS transporter</title>
+			<polygon class=" (J8C03_RS09825)
+MFS transporter" points="972,25 959,25 959,10 929,40 959,70 959,55 972,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="933,40 945,28 948,28 948,52 945,52" stroke-linejoin="round" width="19" height="24" fill="rgb(194,92,193)" stroke="rgb(155,73,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<rect class="PF07690" x="948" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(194,92,193)" stroke="rgb(155,73,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>def (J8C03_RS09830)
+peptide deformylase</title>
+			<polygon class="def (J8C03_RS09830)
+peptide deformylase" points="977,10 993,40 977,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pep_deformylase (PF01327)
+"Polypeptide deformylase"</title>
+				<polygon class="PF01327" points="977,28 983,28 990,40 983,52 977,52" stroke-linejoin="round" width="15" height="24" fill="rgb(182,149,86)" stroke="rgb(145,119,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS09835)
+menaquinone biosynthesis protein</title>
+			<polygon class=" (J8C03_RS09835)
+menaquinone biosynthesis protein" points="994,10 1021,40 994,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>VitK2_biosynth (PF02621)
+"Menaquinone biosynthesis"</title>
+				<polygon class="PF02621" points="994,28 1005,28 1017,40 1005,52 994,52" stroke-linejoin="round" width="24" height="24" fill="rgb(219,69,87)" stroke="rgb(175,55,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS09840)
+FAD-binding oxidoreductase</title>
+			<polygon class=" (J8C03_RS09840)
+FAD-binding oxidoreductase" points="1062,25 1052,25 1052,10 1022,40 1052,70 1052,55 1062,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DAO (PF01266)
+"FAD dependent oxidoreductase"</title>
+				<polygon class="PF01266" points="1026,40 1038,28 1059,28 1059,52 1038,52" stroke-linejoin="round" width="35" height="24" fill="rgb(179,49,111)" stroke="rgb(143,39,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hemA (J8C03_RS09845)
+glutamyl-tRNA reductase</title>
+			<polygon class="hemA (J8C03_RS09845)
+glutamyl-tRNA reductase" points="1107,25 1092,25 1092,10 1062,40 1092,70 1092,55 1107,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GlutR_dimer (PF00745)
+"Glutamyl-tRNAGlu reductase, dimerisation domain"</title>
+				<polygon class="PF00745" points="1066,40 1074,32 1074,48" stroke-linejoin="round" width="9" height="24" fill="rgb(116,91,219)" stroke="rgb(92,72,175)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Shikimate_DH (PF01488)
+"Shikimate / quinate 5-dehydrogenase"</title>
+				<polygon class="PF01488" points="1076,30 1078,28 1089,28 1089,52 1078,52 1076,50" stroke-linejoin="round" width="13" height="24" fill="rgb(178,81,64)" stroke="rgb(142,64,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GlutR_N (PF05201)
+"Glutamyl-tRNAGlu reductase, N-terminal domain"</title>
+				<rect class="PF05201" x="1091" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(225,163,59)" stroke="rgb(180,130,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS09850)
+cytochrome c biogenesis protein CcsA</title>
+			<polygon class=" (J8C03_RS09850)
+cytochrome c biogenesis protein CcsA" points="1110,40 1137,10 1137,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cytochrom_C_asm (PF01578)
+"Cytochrome C assembly protein"</title>
+				<polygon class="PF01578" points="1114,40 1125,28 1130,28 1130,52 1125,52" stroke-linejoin="round" width="20" height="24" fill="rgb(205,103,72)" stroke="rgb(164,82,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS09855)
+ADP-ribosylglycohydrolase family protein</title>
+			<polygon class=" (J8C03_RS09855)
+ADP-ribosylglycohydrolase family protein" points="1143,25 1143,25 1143,10 1173,40 1143,70 1143,55 1143,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADP_ribosyl_GH (PF03747)
+"ADP-ribosylglycohydrolase"</title>
+				<polygon class="PF03747" points="1143,28 1157,28 1169,40 1169,40 1157,52 1143,52" stroke-linejoin="round" width="26" height="24" fill="rgb(84,209,173)" stroke="rgb(67,167,138)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (J8C03_RS09860)
+ABC transporter ATP-binding protein</title>
+			<polygon class=" (J8C03_RS09860)
+ABC transporter ATP-binding protein" points="1211,25 1204,25 1204,10 1174,40 1204,70 1204,55 1211,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TOBE_2 (PF08402)
+"TOBE domain"</title>
+				<polygon class="PF08402" points="1178,40 1182,36 1182,44" stroke-linejoin="round" width="7" height="24" fill="rgb(73,201,53)" stroke="rgb(58,160,42)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="1194" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(207,100,105)" stroke="rgb(165,80,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rpsL (J8C03_RS09865)
+30S ribosomal protein S12</title>
+			<polygon class="rpsL (J8C03_RS09865)
+30S ribosomal protein S12" points="1230,10 1244,40 1230,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosom_S12_S23 (PF00164)
+"Ribosomal protein S12/S23"</title>
+				<polygon class="PF00164" points="1231,28 1234,28 1240,40 1234,52 1231,52" stroke-linejoin="round" width="11" height="24" fill="rgb(69,125,203)" stroke="rgb(55,100,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rpsG (J8C03_RS09870)
+30S ribosomal protein S7</title>
+			<polygon class="rpsG (J8C03_RS09870)
+30S ribosomal protein S7" points="1246,10 1261,40 1246,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_S7 (PF00177)
+"Ribosomal protein S7p/S5e"</title>
+				<polygon class="PF00177" points="1246,28 1251,28 1258,40 1251,52 1246,52" stroke-linejoin="round" width="14" height="24" fill="rgb(107,215,126)" stroke="rgb(85,172,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fusA (J8C03_RS09875)
+elongation factor G</title>
+			<polygon class="fusA (J8C03_RS09875)
+elongation factor G" points="1263,25 1303,25 1303,10 1333,40 1303,70 1303,55 1263,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GTP_EFTU (PF00009)
+"Elongation factor Tu GTP binding domain"</title>
+				<rect class="PF00009" x="1263" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(213,102,165)" stroke="rgb(170,81,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GTP_EFTU_D2 (PF03144)
+"Elongation factor Tu domain 2"</title>
+				<rect class="PF03144" x="1296" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(74,207,115)" stroke="rgb(59,165,92)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EFG_III (PF14492)
+"Elongation Factor G, domain III"</title>
+				<rect class="PF14492" x="1304" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(214,201,106)" stroke="rgb(171,160,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EFG_IV (PF03764)
+"Elongation factor G, domain IV"</title>
+				<polygon class="PF03764" points="1311,28 1317,28 1322,33 1322,47 1317,52 1311,52" stroke-linejoin="round" width="11" height="24" fill="rgb(71,62,198)" stroke="rgb(56,49,158)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EFG_C (PF00679)
+"Elongation factor G C-terminus"</title>
+				<polygon class="PF00679" points="1323,34 1329,40 1323,46" stroke-linejoin="round" width="8" height="24" fill="rgb(63,187,84)" stroke="rgb(50,149,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tuf (J8C03_RS09880)
+elongation factor Tu</title>
+			<polygon class="tuf (J8C03_RS09880)
+elongation factor Tu" points="1335,25 1344,25 1344,10 1374,40 1344,70 1344,55 1335,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GTP_EFTU (PF00009)
+"Elongation factor Tu GTP binding domain"</title>
+				<rect class="PF00009" x="1336" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(213,102,165)" stroke="rgb(170,81,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GTP_EFTU_D2 (PF03144)
+"Elongation factor Tu domain 2"</title>
+				<polygon class="PF03144" points="1357,28 1358,28 1363,33 1363,47 1358,52 1357,52" stroke-linejoin="round" width="6" height="24" fill="rgb(74,207,115)" stroke="rgb(59,165,92)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GTP_EFTU_D3 (PF03143)
+"Elongation factor Tu C-terminal domain"</title>
+				<polygon class="PF03143" points="1364,34 1370,40 1364,46" stroke-linejoin="round" width="9" height="24" fill="rgb(64,51,187)" stroke="rgb(51,40,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,32 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF776:gid:sucC:pid:WP_266085701.1:loc:100204700:100205843:strand:+:2:195         ....................................RLHEYQAKQVFADAGIPTPSSEVVETADAAREAAERIGG.TV-AVKAQVHVGGRGKAGGIELADDADEAHEAAEGILGMDLK-------GKHVEKVLVEEAV.DFVDELYVGVTTDRGEGRAVAMVSSEGGVNIEEVAEENPDAIARTHVDPAYDLRPFEAREV
+#=GR GCF_026242195.1_ORF776:gid:sucC:pid:WP_266085701.1:loc:100204700:100205843:strand:+:2:195 PP ....................................59*************************************.*9.9**************************************.......*************.*************************************************************
+GCF_018304705.1_ORF51:gid::pid:WP_058867421.1:loc:68197:69430:strand:+:2:197                      ....................................NLYEYEGKSLFKKYGIRVPEGIFINSPQNAGNIEAFVEEvGEVAVKAQVLAGKRGKAGGIRFCKTAEGAELAVELLLHATIH-------GSESVGVLVEQRL.SIVGEYYLSLTFDGWHRAPVVILSQQGGVEVEELTQRHPEKLVIRPIDSIFGLPEWKAREI
+#=GR GCF_018304705.1_ORF51:gid::pid:WP_058867421.1:loc:68197:69430:strand:+:2:197              PP ....................................79**************************9988877665425678*********************************99999.......99999********.*************************************************************
+GCF_018304705.1_ORF1696:gid:sucC:pid:WP_211421798.1:loc:2031200:2032361:strand:+:2:203            ....................................KIHEYQAKRLLAKFGVPVPRHHVALNAMDACMAAEALGT.FPVVLKAQIHAGGRGKGGGVKLASSLEEVEAIALRMLGHKLVTPQTGPEGRTVHRLIVEEGL.HIDRELYLSLLIDRTTSSPIIMASEAGGMEIEEVAAATPEKILREVIDPALGLQPYQARKI
+#=GR GCF_018304705.1_ORF1696:gid:sucC:pid:WP_211421798.1:loc:2031200:2032361:strand:+:2:203    PP ....................................69*************************************.**************************************************************.*************************************************************
+GCF_900696045.1_ORF627:gid::pid:WP_134483032.1:loc:675163:676279:strand:-:2:190                   ...................................r-LLEYQGKELFNQFDIKTPTSILVQNLEEARTAAEKLGY.PF-VLKSQLTVGGRGKAGAIQKCKDSFELETKFNELLHKEVK-------GELPRGILLEKMV.DIVKEIYLSIFLNRSKRCFSIIASSEGGVDIEHT----ENKII-QDISISNNLSKELASEI
+#=GR GCF_900696045.1_ORF627:gid::pid:WP_134483032.1:loc:675163:676279:strand:-:2:190           PP ...................................5.89***********************************9.88.***************************************.......*************.*******************************974....34555.4788999**********
+GCF_900066015.1_ORF636:gid:sucC:pid:WP_095042146.1:loc:758254:759415:strand:-:2:196               ....................................NLHEYQAKRLFAEHGIPIPRGEVAQTPAEARAITQELGG.RA-VVKSQVLTGGRGKAGGIKLAQSPDEAEANAKAILGMQIK-------GLTVNKVLVDELApGIRQELYLAVLIDRGNRRPMIMASAAGGMDIEEVAETTPEKIHLLQVDPNLGVRGFQTTYL
+#=GR GCF_900066015.1_ORF636:gid:sucC:pid:WP_095042146.1:loc:758254:759415:strand:-:2:196       PP ....................................79*************************************.*9.***************************************.......*********997626************************************************************
+GCF_008000775.1_ORF2428:gid::pid:WP_147663531.1:loc:2686633:2687917:strand:-:6:204                iyeydgkkliaselpkyfpefefhgklavltpdtdi---------------------------DKLAKELPWLKT.DKLVAKPDQLFGKRGKANLLLLDADLKQLKAFAAEKLNKTFE--ISGKKGT-LTRLLVEPFI.PHDTEYYISITSDRDND--IVHFSLEGGIFVEE----NWDKVTHIPIPFDSDIDSFDF---
+#=GR GCF_008000775.1_ORF2428:gid::pid:WP_147663531.1:loc:2686633:2687917:strand:-:6:204        PP 888888888888888888877777776665555433...........................344444455799.***************************************999..6778885.789*******.**************987..5678******9886....899**********99998765...
+#=GC PP_cons                                                                                      ....................................69*************************999999999999.9999****************************************8899999*9*******99.9******************999**********99****99999*99**********99***
+#=GC RF                                                                                           ....................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_026242195.1_ORF776:gid:sucC:pid:WP_266085701.1:loc:100204700:100205843:strand:+:2:195         VYGANVDRETARDVTGVLSTLYELWDERDADDAEINPLM-v.
+#=GR GCF_026242195.1_ORF776:gid:sucC:pid:WP_266085701.1:loc:100204700:100205843:strand:+:2:195 PP *************************************97.6.
+GCF_018304705.1_ORF51:gid::pid:WP_058867421.1:loc:68197:69430:strand:+:2:197                      AAEAGFREERMRKMADLMVRAYRCFRENDVRLLEINPVI-e.
+#=GR GCF_018304705.1_ORF51:gid::pid:WP_058867421.1:loc:68197:69430:strand:+:2:197              PP *************************************87.6.
+GCF_018304705.1_ORF1696:gid:sucC:pid:WP_211421798.1:loc:2031200:2032361:strand:+:2:203            AFGLGFTGSQAGKVVKILLALYWAFVESDASLVEINPF--ll
+#=GR GCF_018304705.1_ORF1696:gid:sucC:pid:WP_211421798.1:loc:2031200:2032361:strand:+:2:203    PP *************************************8..58
+GCF_900696045.1_ORF627:gid::pid:WP_134483032.1:loc:675163:676279:strand:-:2:190                   TNKLNIPKEYQEGFITLLFNLFKIVVEKEAELAEINPLA-i.
+#=GR GCF_900696045.1_ORF627:gid::pid:WP_134483032.1:loc:675163:676279:strand:-:2:190           PP **************************************8.5.
+GCF_900066015.1_ORF636:gid:sucC:pid:WP_095042146.1:loc:758254:759415:strand:-:2:196               AQRMGLPREVWGDFHKIVVGLYNCFRANDASLTEINPLI-i.
+#=GR GCF_900066015.1_ORF636:gid:sucC:pid:WP_095042146.1:loc:758254:759415:strand:-:2:196       PP **************************************8.5.
+GCF_008000775.1_ORF2428:gid::pid:WP_147663531.1:loc:2686633:2687917:strand:-:6:204                AGKLPDVGDYSDVLIPFVKALLHVYQDQDFTFLEINPFA-i.
+#=GR GCF_008000775.1_ORF2428:gid::pid:WP_147663531.1:loc:2686633:2687917:strand:-:6:204        PP 44444456778899999********************97.5.
+#=GC PP_cons                                                                                      999999999****************************97...
+#=GC RF                                                                                           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

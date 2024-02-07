@@ -1,0 +1,7 @@
+BGC	Accession ID	Description	Product Prediction	BiG-SCAPE class	Organism	Taxonomy
+GCF_018304705.1	NZ_CP072636.1	Chloracidobacterium sp. 2 chromosome 1, complete sequence	lassopeptide.ranthipeptide.T3PKS.terpene.RRE-containing.RiPP-like	Others	Chloracidobacterium sp. 2	Bacteria,Acidobacteria,Blastocatellia,Chloracidobacterium,Chloracidobacterium aggregatum
+GCF_026242195.1	NZ_RKLV01000001.1	Haladaptatus sp. F3-133 F3-133-c1, whole genome shotgun sequence	terpene	Terpene	Haladaptatus sp. F3-133	Archaea,Euryarchaeota,Stenosarchaea group,Halobacteria,Halobacteriales,Halobacteriaceae,Haladaptatus
+GCF_900066015.1	NZ_LN890655.1	Candidatus Promineofilum breve strain Cfx-K chromosome I, complete sequence	betalactone.terpene.hglE-KS	Others	Candidatus Promineofilum breve	Bacteria,Chloroflexi,Ardenticatenia,Ardenticatenales,Ardenticatenaceae,Candidatus Promineofilum
+NZ_CP072636.1.region005	NZ_CP072636.1	Chloracidobacterium sp. 2 chromosome 1, complete sequence	terpene	Terpene	Chloracidobacterium sp. 2	Bacteria,Acidobacteria,Blastocatellia,Chloracidobacterium,Chloracidobacterium aggregatum
+NZ_CP072637.1.region001	NZ_CP072637.1	Chloracidobacterium sp. 2 chromosome 2, complete sequence	terpene	Terpene	Chloracidobacterium sp. 2	Bacteria,Acidobacteria,Blastocatellia,Chloracidobacterium,Chloracidobacterium aggregatum
+NZ_CP072637.1.region003	NZ_CP072637.1	Chloracidobacterium sp. 2 chromosome 2, complete sequence	terpene	Terpene	Chloracidobacterium sp. 2	Bacteria,Acidobacteria,Blastocatellia,Chloracidobacterium,Chloracidobacterium aggregatum

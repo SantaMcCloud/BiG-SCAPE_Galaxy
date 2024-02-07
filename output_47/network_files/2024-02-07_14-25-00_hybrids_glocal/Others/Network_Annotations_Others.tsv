@@ -1,0 +1,36 @@
+BGC	Accession ID	Description	Product Prediction	BiG-SCAPE class	Organism	Taxonomy
+AP018533.1.region001	AP018533.1	AP018533.1 Clostridiales bacterium CCNA10 DNA, complete genome	Oxidative_glycerol	Others		
+AP018533.1.region002	AP018533.1	AP018533.1 Clostridiales bacterium CCNA10 DNA, complete genome	TPP_AA_metabolism	Others		
+AP018533.1.region003	AP018533.1	AP018533.1 Clostridiales bacterium CCNA10 DNA, complete genome	Rnf_complex	Others		
+AP018533.1.region004	AP018533.1	AP018533.1 Clostridiales bacterium CCNA10 DNA, complete genome	glutamate2butyric	Others		
+AP018533.1.region005	AP018533.1	AP018533.1 Clostridiales bacterium CCNA10 DNA, complete genome	Rnf_complex	Others		
+AP018533.1.region006	AP018533.1	AP018533.1 Clostridiales bacterium CCNA10 DNA, complete genome	Others_HGD_unassigned	Others		
+AP018533.1.region007	AP018533.1	AP018533.1 Clostridiales bacterium CCNA10 DNA, complete genome	GR_fatty_acids.Pyruvate2acetate-formate	Others		
+AP018533.1.region008	AP018533.1	AP018533.1 Clostridiales bacterium CCNA10 DNA, complete genome	acetate2butyrate	Others		
+BGC0000082	BGC0000082	Actinomadura kijaniata fructokinase gene, partial cds; kijanimicin gene cluster, complete sequence; and D-ala, D-ala carboxypeptidase, conserved hypothetical protein, permease, and selenium binding protein genes, complete cds	unknown	Others	Actinomadura kijaniata	Bacteria,Actinobacteria,Streptosporangiales,Thermomonosporaceae,Actinomadura
+BGC0000282	BGC0000282	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome	unknown	Others	Streptomyces griseus subsp. griseus NBRC 13350	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0000324	BGC0000324	Streptomyces coelicolor A3(2) complete genome	unknown	Others	Streptomyces coelicolor A3(2)	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces albidoflavus group
+BGC0000501	BGC0000501	Catenulispora acidiphila DSM 44928 chromosome, complete genome	unknown	Others	Catenulispora acidiphila DSM 44928	Bacteria,Actinobacteria,Catenulisporales,Catenulisporaceae,Catenulispora
+BGC0000663	BGC0000663	Streptomyces coelicolor A3(2) complete genome	unknown	Others	Streptomyces coelicolor A3(2)	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces albidoflavus group
+BGC0000833	BGC0000833	Streptomyces rishiriensis strain DSM 40489 hypothetical protein gene, partial cds; putative FK506-binding protein gene, complete cds; coumermycin A1 biosynthetic gene cluster, complete sequence; and DNA gyrase subunit B (gyrB-Rc) and DNA gyrase subunit B (parYR) genes, complete cds	unknown	Others	Streptomyces rishiriensis	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0000943	BGC0000943	Staphylococcus aureus strain NCTC8325 genome assembly, chromosome: 1	unknown	Others	Staphylococcus aureus subsp. aureus NCTC 8325	Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus
+BGC0001483	BGC0001483	Streptomyces sp. RM-5-8 pri gene cluster, complete sequence	unknown	Others	Streptomyces sp. RM-5-8	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001543	BGC0001543	Hahella chejuensis chejuenolide biosynthetic gene cluster, strain MB-1084	unknown	Others	Hahella chejuensis	Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Hahellaceae,Hahella
+BGC0002174	BGC0002174	Epichloe festucae epls mRNA for e-poly-L-lysine synthetase, complete cds	unknown	Others	Epichloe festucae	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Clavicipitaceae,Epichloe
+BGC0002285	BGC0002285	Streptomyces sp. ZS0098 contig5, whole genome shotgun sequence	unknown	Others	Streptomyces sp. ZS0098	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0002293	BGC0002293	Streptomyces sp. strain SNJ042 hypothetical protein and transposase genes, complete cds; ohmyungsamycin gene cluster, complete sequence; and hypothetical protein and acetyl xylan esterase genes, complete cds	unknown	Others	Streptomyces sp.	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0002452	BGC0002452	Streptomyces kitasatoensis KA-6 DNA, gene cluster for leucomycin biosynthesis	unknown	Others	Streptomyces kitasatoensis	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0002544	BGC0002544	Amycolatopsis methanolica strain 239T siderophore biosynthetic gene cluster, complete sequence	unknown	Others	Amycolatopsis methanolica	Bacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Amycolatopsis,Amycolatopsis methanolica group
+BGC0002656	BGC0002656	Streptacidiphilus oryzae TH49 BS73DRAFT_unitig_0_quiver.4_C, whole genome shotgun sequence	unknown	Others	Streptacidiphilus oryzae TH49	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptacidiphilus
+BGC0002669	BGC0002669	Streptomyces sp. NRRL S-87 contig3.1, whole genome shotgun sequence	unknown	Others	Streptomyces sp. NRRL S-87	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0002683	BGC0002683	Nostoc sp. PCC 7120 DNA, complete genome	unknown	Others	Nostoc sp. PCC 7120 = FACHB-418	Bacteria,Cyanobacteria,Nostocales,Nostocaceae,Nostoc
+FP929039.1.region001	FP929039.1	FP929039.1 Coprococcus sp. ART55/1 draft genome	Rnf_complex	Others		
+FP929039.1.region002	FP929039.1	FP929039.1 Coprococcus sp. ART55/1 draft genome	OD_AA_metabolism	Others		
+FP929039.1.region003	FP929039.1	FP929039.1 Coprococcus sp. ART55/1 draft genome	Others_HGD_unassigned	Others		
+FP929039.1.region004	FP929039.1	FP929039.1 Coprococcus sp. ART55/1 draft genome	succinate2propionate	Others		
+FP929039.1.region005	FP929039.1	FP929039.1 Coprococcus sp. ART55/1 draft genome	acetate2butyrate	Others		
+FP929039.1.region006	FP929039.1	FP929039.1 Coprococcus sp. ART55/1 draft genome	Pyruvate2acetate-formate	Others		
+GCA_000085225.1_ASM8522v1_genomic	FN538970.1	FN538970.1 Clostridium difficile CD196 complete genome, strain CD196	Pyruvate2acetate-formate.Acetyl-CoA_pathway.Flavoenzyme_sugar_catabolism.proline2aminovalerate.Arginine2putrescine.OD_lactate_related.aminobutyrate2Butyrate.p-cresol.OD_aldehydes_related.EUT_pathway.Rnf_complex.Putrescine2spermidine.OD_unknown.Others_HGD_unassigned.acetate2butyrate.PFOR_II_pathway.Leucine_reduction.porA.Glycine_reductase.Hydroxy-L-proline2proline.OD_fatty_acids	Others	.	
+GCF_008000775.1	NZ_CP042905.1	Candidatus Prometheoarchaeum syntrophicum strain MK-D1 chromosome, complete genome	phosphonate.hydrogen-cyanide	Others	Candidatus Prometheoarchaeum syntrophicum	Archaea,Asgard group,Candidatus Lokiarchaeota,Candidatus Prometheoarchaeum
+GCF_018304705.1	NZ_CP072636.1	Chloracidobacterium sp. 2 chromosome 1, complete sequence	lassopeptide.terpene.RiPP-like.T3PKS.RRE-containing.ranthipeptide	Others	Chloracidobacterium sp. 2	Bacteria,Acidobacteria,Blastocatellia,Chloracidobacterium,Chloracidobacterium aggregatum
+GCF_900066015.1	NZ_LN890655.1	Candidatus Promineofilum breve strain Cfx-K chromosome I, complete sequence	betalactone.terpene.hglE-KS	Others	Candidatus Promineofilum breve	Bacteria,Chloroflexi,Ardenticatenia,Ardenticatenales,Ardenticatenaceae,Candidatus Promineofilum

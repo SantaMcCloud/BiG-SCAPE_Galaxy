@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_000011105.1_ORF1666:gid::pid:WP_173026600.1:loc:1554280:1555081:strand:+:2:262                   fi--ETQEKEPEIKIPLPRVGITNLRTIAKINWKGR-VYTFIPTFEITIDLPREKKGIHMSRLVESITdAMSEAIEEevkkihTSLEElalaVIQRLEEKHR-HKRAEVWIRTTLILEKMTPASNKLSYEPYDVEVGVIKEG-DKIKKTLKVKVIGNTACPHAMANN----.-..................-EGKTHIQR
+#=GR GCF_000011105.1_ORF1666:gid::pid:WP_173026600.1:loc:1554280:1555081:strand:+:2:262           PP 87..689**************************775.67*****************************7777888877866665555577778889999998.9********************************999855.37**********************.........................9*******
+GCF_026242195.1_ORF2072:gid:mptA:pid:WP_266087527.1:loc:3214367586:3214368513:strand:-:6:293         ..LPDVQAAKPDVEVGLNRVGVTDVKKLVKVSRDDDRPLVFTAEFNVYVDLPSGRKGIDMSRNMEVTN.EVLDDLTRd...pvYRVEDlcaeIASRLLDRHSYTTRAEVEMEAEYMYREETPSTERETQGFADVCATAVANG-DGVRKSIGVEVTGTTACPCAQGMMRKDAgDklrelgleedsveefldeIPQAAHNQR
+#=GR GCF_026242195.1_ORF2072:gid:mptA:pid:WP_266087527.1:loc:3214367586:3214368513:strand:-:6:293 PP ..79****************************************************************.666666657...78555555557************************************************65.36**********************9999736999********9999877********
+#=GC PP_cons                                                                                         ..7989***************************987*88*****************************.66777776......55555....9999999999***********************************99955.37**********************9999.3..................7********
+#=GC RF                                                                                              ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx......xxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x..................xxxxxxxxx
+
+GCF_000011105.1_ORF1666:gid::pid:WP_173026600.1:loc:1554280:1555081:strand:+:2:262                   AIGELEVT-TDFNEYVTLEDMIEVVESSFSSPTYTLLKTPDENSVVRRMYENPKFVEDVAREILIKA-KKKFPGKI.....HVKVVSNESIHKHDVIA
+#=GR GCF_000011105.1_ORF1666:gid::pid:WP_173026600.1:loc:1554280:1555081:strand:+:2:262           PP ********.667899****************************************************.66688899.....***************98
+GCF_026242195.1_ORF2072:gid:mptA:pid:WP_266087527.1:loc:3214367586:3214368513:strand:-:6:293         SQSYLEVE-ADDDVHVGLDRLIEAARDSMSSRIYNLAKRPDEHSMTREMHENARFVEDVVREMARNVSERFEL--PddavvTMKQENEESIHQHNAYS
+#=GR GCF_026242195.1_ORF2072:gid:mptA:pid:WP_266087527.1:loc:3214367586:3214368513:strand:-:6:293 PP ********.679999****************************************************555444..255788***************95
+#=GC PP_cons                                                                                         ********.678999****************************************************566566895.....***************97
+#=GC RF                                                                                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxx
+//

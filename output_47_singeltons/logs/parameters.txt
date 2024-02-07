@@ -1,0 +1,1 @@
+/home/sf373/miniconda3/envs/__bigscape@1.1.8/bin/bigscape --inputdir input/ --outputdir output_47_singeltons/ --pfam_dir pfam/ --include_gbk_str A B G F N C --include_singletons

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF872:gid::pid:WP_266085851.1:loc:100284961:100285615:strand:+:9:212         RFVLDTSTFITEEIRR--GDETCEEAVDRLLELVADARLDLNISCYFPPSIYRELEAMLEDRGVSDDVFKKLNTWVIKKDPARYEVMIPTELVYDFIDEMSDRVNRGLRVSEKAVRKAEKYEPHEGEVEEMTEVDEVISDLRSEYRTALRQGVLDSREDFDLLILARELDACVVTEDQGIVNWASDFGLRHLKGRDFPGL
+#=GR GCF_026242195.1_ORF872:gid::pid:WP_266085851.1:loc:100284961:100285615:strand:+:9:212 PP 8***************..*******************************************************************************************************998778999**********************************************************************
+GCF_000011105.1_ORF1716:gid::pid:WP_048053492.1:loc:1597656:1598271:strand:+:3:192            KFVLDTSIFVNPDVRKKFGETPT-EAMKTFLHYAENLF--GKVEFYMPPGIYRELMHFVEEEEVSPD----IELYIIKKPPNVHDIKIPAFVVYELIEDIRRRVDKGLRVAEKAVRESVIDTS---------NVDKIIQKLRRNYRKALREGILDSKEDFELILLAKEIDGIIVSADVGILTWAEKMGIKWVDAFKFKEV
+#=GR GCF_000011105.1_ORF1716:gid::pid:WP_048053492.1:loc:1597656:1598271:strand:+:3:192    PP 7*********************9.*********99864..45699**********************....9***********************************************9987.........79******************************************************************
+#=GC PP_cons                                                                                  7*********************************9987**778*****************************************************************************9988778999**89******************************************************************
+#=GC RF                                                                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_026242195.1_ORF872:gid::pid:WP_266085851.1:loc:100284961:100285615:strand:+:9:212         VEEYLE.
+#=GR GCF_026242195.1_ORF872:gid::pid:WP_266085851.1:loc:100284961:100285615:strand:+:9:212 PP ****95.
+GCF_000011105.1_ORF1716:gid::pid:WP_048053492.1:loc:1597656:1598271:strand:+:3:192            LSELV-e
+#=GR GCF_000011105.1_ORF1716:gid::pid:WP_048053492.1:loc:1597656:1598271:strand:+:3:192    PP **997.6
+#=GC PP_cons                                                                                  ***985.
+#=GC RF                                                                                       xxxxxx.
+//

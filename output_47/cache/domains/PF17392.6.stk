@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+NZ_CP072636.1.region001_ORF4:gid:hutU:pid:WP_211423061.1:loc:5129:6806:strand:+:351:546          ...PLFCRGKGPFRWVALSGDPEDIYRTDRRLMELF...........PDNDHLHRWLTMAEQRIAFQGLPARICWLGLGERHRAGLAFNEMVRKGELKAPVVIGRDHLDAGSVASPNRETEQMRDGSDAVSDWPLLNALLNTASGATWVSLHHGGGVGMGYSQHAGMVIVCDGTEAAERRLERVLWNDPATGVMRHADAG
+#=GR NZ_CP072636.1.region001_ORF4:gid:hutU:pid:WP_211423061.1:loc:5129:6806:strand:+:351:546  PP ...89*******************************...........*********************************************************************************************************************************************************
+GCF_018304705.1_ORF200:gid:hutU:pid:WP_211423061.1:loc:251852:253529:strand:+:351:546            ...PLFCRGKGPFRWVALSGDPEDIYRTDRRLMELF...........PDNDHLHRWLTMAEQRIAFQGLPARICWLGLGERHRAGLAFNEMVRKGELKAPVVIGRDHLDAGSVASPNRETEQMRDGSDAVSDWPLLNALLNTASGATWVSLHHGGGVGMGYSQHAGMVIVCDGTEAAERRLERVLWNDPATGVMRHADAG
+#=GR GCF_018304705.1_ORF200:gid:hutU:pid:WP_211423061.1:loc:251852:253529:strand:+:351:546    PP ...89*******************************...........*********************************************************************************************************************************************************
+GCF_900066015.1_ORF2045:gid:hutU:pid:WP_095043445.1:loc:2383067:2384717:strand:-:344:539         ...PLFCEGKGPFRWVALSGDPEDIRVTDEAVLELF...........PDDAHLHRWIRMAQERVQFQGLPARICWLGYGERHRAGLRFNELVASGAVKAPIVIGRDHLDAGSVASPNRETEGMRDGSDAIADWAILNALINTAAGATWVSFHHGGGVGIGYSLHAGQVIVADGTPAAARRLERVLTVDPGMGVVRHADAG
+#=GR GCF_900066015.1_ORF2045:gid:hutU:pid:WP_095043445.1:loc:2383067:2384717:strand:-:344:539 PP ...89*******************************...........*********************************************************************************************************************************************************
+GCF_008000775.1_ORF10:gid::pid:WP_147661165.1:loc:10249:12280:strand:-:438:644                   pic--FDYGYGPFRWVCLSRKDEDLDKTDIAARDIIkeiwesrpikrGQDRDNYIWMRDAKENKMVVGTKARILYADGEGRVKIALKFNEMVRDNEI-GPVMLGRDHHDVSGTDSPFRETSNIKDGSNIMADMAHQSWAGNAARGMTMVVLQNGGGVGTGKVINGGFGLVLDGSERVDNIIKLALDWDVYCGIARRAWAR
+#=GR GCF_008000775.1_ORF10:gid::pid:WP_147661165.1:loc:10249:12280:strand:-:438:644           PP 764..9****************************************99*************************************************.******************************************************************************************************
+#=GC PP_cons                                                                                     ...89*******************************...........*********************************************************************************************************************************************************
+#=GC RF                                                                                          ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+NZ_CP072636.1.region001_ORF4:gid:hutU:pid:WP_211423061.1:loc:5129:6806:strand:+:351:546          YADAVECAR-a
+#=GR NZ_CP072636.1.region001_ORF4:gid:hutU:pid:WP_211423061.1:loc:5129:6806:strand:+:351:546  PP ****99875.7
+GCF_018304705.1_ORF200:gid:hutU:pid:WP_211423061.1:loc:251852:253529:strand:+:351:546            YADAVECAR-a
+#=GR GCF_018304705.1_ORF200:gid:hutU:pid:WP_211423061.1:loc:251852:253529:strand:+:351:546    PP ****99875.7
+GCF_900066015.1_ORF2045:gid:hutU:pid:WP_095043445.1:loc:2383067:2384717:strand:-:344:539         YERAIEVAR-e
+#=GR GCF_900066015.1_ORF2045:gid:hutU:pid:WP_095043445.1:loc:2383067:2384717:strand:-:344:539 PP ******987.5
+GCF_008000775.1_ORF10:gid::pid:WP_147661165.1:loc:10249:12280:strand:-:438:644                   NPHAIETAK-t
+#=GR GCF_008000775.1_ORF10:gid::pid:WP_147661165.1:loc:10249:12280:strand:-:438:644           PP *****9987.7
+#=GC PP_cons                                                                                     *****9986..
+#=GC RF                                                                                          xxxxxxxxxx.
+//

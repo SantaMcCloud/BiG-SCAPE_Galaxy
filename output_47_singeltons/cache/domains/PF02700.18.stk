@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF213:gid:purS:pid:WP_266085514.1:loc:203195:203444:strand:+:4:79            e-AVVRVTLKGGVLDPEAKTIQRSLNRL.GFG-VENLRTADEYVVEIDAV.DENEAREQAEEMCERL.LANPTIHDYTVEV.
+#=GR GCF_026242195.1_ORF213:gid:purS:pid:WP_266085514.1:loc:203195:203444:strand:+:4:79    PP 6.78************************.**9.*****************.****************.***********96.
+GCF_000011105.1_ORF1831:gid:purS:pid:WP_010886021.1:loc:1698103:1698343:strand:-:4:76         .KVRVLVRLKEGLNDPEGRVIGNALKNL.GYK-VEDLRVPKCFEFILESD.NPE---KDVEEMCKRL.LANPLIHTWEYTI.
+#=GR GCF_000011105.1_ORF1831:gid:purS:pid:WP_010886021.1:loc:1698103:1698343:strand:-:4:76 PP .79*************************.***.***************87.765...7*********.**********975.
+BGC0002669_ORF38:gid:purS:pid:WP_030193610.1:loc:38254:38500:strand:+:3:79                    r-VVVDVMLKPEILDPQGQAVQRALPRL.GFKGIADVRQGKRFELEVEGP.VDQAALDRIHEMAETF.LANTVIEDFTVKV.
+#=GR BGC0002669_ORF38:gid:purS:pid:WP_030193610.1:loc:38254:38500:strand:+:3:79            PP 6.89************************.*********************.9999************.**********986.
+GCF_018304705.1_ORF1796:gid:purS:pid:WP_058867124.1:loc:2140293:2140542:strand:+:2:79         .KATVHVTLKPGVLDPQGQTIQRASEAL.GFTRIRDVRQGKFFEVELADSdDTEAARAELERFAREV.LANPVIEDYRIE-f
+#=GR GCF_018304705.1_ORF1796:gid:purS:pid:WP_058867124.1:loc:2140293:2140542:strand:+:2:79 PP .799************************.******************9998999*************.**********98.6
+GCF_900696045.1_ORF2671:gid::pid:WP_134485424.1:loc:2791598:2791877:strand:-:11:89            q-VIVTISNKPFLNDPEGETVLKDLILKeGYQDILSVRSAKSLSIKVLAR.DNQDALDKIKRMCEDLrIYNPIVSTCELT-i
+#=GR GCF_900696045.1_ORF2671:gid::pid:WP_134485424.1:loc:2791598:2791877:strand:-:11:89    PP 5.78*********************9999*********************.************************99976.6
+#=GC PP_cons                                                                                  .789************************.*******************99.999***9*********.*********9986.
+#=GC RF                                                                                       .xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx.xxxxxxxxxxxxx.
+//

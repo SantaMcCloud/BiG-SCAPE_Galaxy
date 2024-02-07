@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+NZ_CP072636.1.region001_ORF4:gid:hutU:pid:WP_211423061.1:loc:5129:6806:strand:+:5:131          .........l-RAPRGTELSCRNWQIEAAYRMLHNNLDPEVAERPEDLVVYGGAGKAARNWACFEAICDTLRRLGEDETLLIQSGKPVGVFRTHPDAPRVLLANSNLVPRWATWEHFDELDRRGLMMYGQMTAGSWI
+#=GR NZ_CP072636.1.region001_ORF4:gid:hutU:pid:WP_211423061.1:loc:5129:6806:strand:+:5:131  PP .........5.89***************************************************************************************************************************7
+GCF_018304705.1_ORF200:gid:hutU:pid:WP_211423061.1:loc:251852:253529:strand:+:5:131            .........l-RAPRGTELSCRNWQIEAAYRMLHNNLDPEVAERPEDLVVYGGAGKAARNWACFEAICDTLRRLGEDETLLIQSGKPVGVFRTHPDAPRVLLANSNLVPRWATWEHFDELDRRGLMMYGQMTAGSWI
+#=GR GCF_018304705.1_ORF200:gid:hutU:pid:WP_211423061.1:loc:251852:253529:strand:+:5:131    PP .........5.89***************************************************************************************************************************7
+GCF_900066015.1_ORF2045:gid:hutU:pid:WP_095043445.1:loc:2383067:2384717:strand:-:5:131         ..........IRAPRGTKLHCQGWLQEAAYRMIQNNLDPEVAYDPEHLIVYGGRGRAARNWEAFDAILRSLTELADDETLLVQSGKPVAVFRTHADAPRVLIANSNIVPHWATQENFDRWEAEGLIMYGQMTAGSWI
+#=GR GCF_900066015.1_ORF2045:gid:hutU:pid:WP_095043445.1:loc:2383067:2384717:strand:-:5:131 PP ..........79****************************************************************************************************************************7
+GCF_008000775.1_ORF10:gid::pid:WP_147661165.1:loc:10249:12280:strand:-:87:210                  gkpqeeykgi-------------EESRAIQVMIDNNLDFEIALFPYELVTYGSTAQVCQNWMQYQLIKKYLEIMKDNQTLVVMSGHPLGLFPSSRNAPRVILTNGLMIGMFDNTEDFQRAQVLGVSNYGQMTCGGWM
+#=GR GCF_008000775.1_ORF10:gid::pid:WP_147661165.1:loc:10249:12280:strand:-:87:210          PP 9887665544.............4678*************************************************************************************************************8
+#=GC PP_cons                                                                                   ..........789**********999**************************************************************************************************************7
+#=GC RF                                                                                        ..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

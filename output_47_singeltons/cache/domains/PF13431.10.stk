@@ -1,0 +1,9 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF2128:gid::pid:WP_266087623.1:loc:6428711291:6428711996:strand:+:138:171         tv--ERALEKDERSSEAWYNRAVFLNERGSHEDAL-r
+#=GR GCF_026242195.1_ORF2128:gid::pid:WP_266087623.1:loc:6428711291:6428711996:strand:+:138:171 PP 87..79***************************98.6
+GCA_000085225.1_ASM8522v1_genomic_ORF1113:gid::pid::loc:1289505:1290327:strand:-:174:206           .i--KKAIEIDDKNPLAYYTQSYIYIELQRYDEAL-k
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1113:gid::pid::loc:1289505:1290327:strand:-:174:206   PP .7..79****************************8.5
+#=GC PP_cons                                                                                       ....79****************************8..
+#=GC RF                                                                                            ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

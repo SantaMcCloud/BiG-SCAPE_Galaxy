@@ -1,0 +1,19 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase              PF00069.29   263 BGC0000501_ORF1:gid::pid:ACU73103.1:loc:0:2613:strand:+ -            870   1.8e-10   40.9   0.0   1   1   3.7e-14   2.5e-10   40.4   0.0    12   191   237   428   226   455 0.81 Protein kinase domain
+RIO1                 PF01163.26   187 BGC0000501_ORF1:gid::pid:ACU73103.1:loc:0:2613:strand:+ -            870   1.6e-05   24.8   0.0   1   1   4.3e-09     3e-05   23.9   0.0    55   149   274   386   268   394 0.75 RIO1 family
+RamS                 PF19402.3     43 BGC0000501_ORF2:gid::pid:ACU73104.1:loc:2618:2774:strand:+ -             51   6.2e-13   49.1   4.4   1   1   3.4e-17   7.1e-13   48.9   4.4     1    42     5    49     5    50 0.89 Lanthionine-containing peptide SapB precursor RamS
+ABC_tran             PF00005.31   137 BGC0000501_ORF4:gid::pid:ACU73106.1:loc:3741:5382:strand:+ -            546   1.9e-19   70.9   0.0   1   1   2.7e-23   2.8e-19   70.3   0.0     1   137   335   478   335   478 0.88 ABC transporter
+ABC_membrane         PF00664.27   274 BGC0000501_ORF4:gid::pid:ACU73106.1:loc:3741:5382:strand:+ -            546   3.4e-16   59.9   0.0   1   1   4.5e-20   4.7e-16   59.5   0.0     4   268    19   277    16   281 0.95 ABC transporter transmembrane region
+ABC_tran             PF00005.31   137 BGC0000501_ORF5:gid::pid:ACU73107.1:loc:5378:7208:strand:+ -            609     6e-21   75.7   0.0   1   1   4.2e-25   8.8e-21   75.2   0.0     1   136   350   495   350   496 0.86 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      output_47/cache/fasta/BGC0000501.fasta
+# Target file:     pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout output_47/cache/domtable/BGC0000501.domtable --cut_tc --cpu 0 pfam/Pfam-A.hmm output_47/cache/fasta/BGC0000501.fasta 
+# Current dir:     /home/sf373/sf373/BiG-SCAPE
+# Date:            Wed Feb  7 14:25:15 2024
+# [ok]

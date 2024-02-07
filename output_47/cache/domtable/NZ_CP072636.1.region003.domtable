@@ -1,0 +1,25 @@
+#                                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AhpC-TSA             PF00578.25   124 NZ_CP072636.1.region003_ORF1:gid::pid:WP_211421652.1:loc:362:1067:strand:- -            234   2.4e-08   34.1   0.0   1   1   1.8e-12   3.7e-08   33.6   0.0     5    90    53   140    49   151 0.93 AhpC/TSA family
+Lon_C                PF05362.17   205 NZ_CP072636.1.region003_ORF2:gid:lon:pid:WP_246840682.1:loc:1063:3499:strand:- -            811   5.8e-90  300.5   0.4   1   1   2.6e-93   1.1e-89  299.6   0.4     2   203   596   797   595   799 0.99 Lon protease (S16) C-terminal proteolytic domain
+LON_substr_bdg       PF02190.20   200 NZ_CP072636.1.region003_ORF2:gid:lon:pid:WP_246840682.1:loc:1063:3499:strand:- -            811   2.1e-51  175.0   0.9   1   1     5e-55   2.1e-51  175.0   0.9     1   200    35   228    35   228 0.96 ATP-dependent protease La (LON) substrate-binding domain
+AAA                  PF00004.33   131 NZ_CP072636.1.region003_ORF2:gid:lon:pid:WP_246840682.1:loc:1063:3499:strand:- -            811   5.8e-24   85.2   0.0   1   1   3.6e-27   1.5e-23   83.9   0.0     1   126   378   515   378   520 0.95 ATPase family associated with various cellular activities (AAA)
+AAA_5                PF07728.18   139 NZ_CP072636.1.region003_ORF2:gid:lon:pid:WP_246840682.1:loc:1063:3499:strand:- -            811     1e-08   35.5   0.0   1   1     6e-12   2.5e-08   34.2   0.0     2   139   378   512   377   512 0.86 AAA domain (dynein-related subfamily)
+ChlI                 PF13541.10   121 NZ_CP072636.1.region003_ORF2:gid:lon:pid:WP_246840682.1:loc:1063:3499:strand:- -            811   3.5e-08   33.6   0.0   1   1   2.4e-11   9.8e-08   32.1   0.0     7   121   645   766   639   766 0.81 Subunit ChlI of Mg-chelatase
+DUF692               PF05114.17   263 NZ_CP072636.1.region003_ORF4:gid::pid:WP_211421650.1:loc:5000:5894:strand:+ -            297   2.5e-69  233.7   0.0   1   1   1.4e-73   2.8e-69  233.5   0.0     2   262     9   276     8   277 0.96 Protein of unknown function (DUF692)
+ABC1                 PF03109.20   244 NZ_CP072636.1.region003_ORF6:gid::pid:WP_211421648.1:loc:6167:7658:strand:- -            496   1.4e-81  273.4   0.0   1   1   1.8e-85   1.8e-81  273.1   0.0     1   242   115   359   115   361 0.96 ABC1 atypical kinase-like domain
+APH                  PF01636.27   239 NZ_CP072636.1.region003_ORF6:gid::pid:WP_211421648.1:loc:6167:7658:strand:- -            496   2.2e-05   24.6   7.8   1   1   3.8e-09   3.9e-05   23.8   2.7   157   202   296   336    88   338 0.85 Phosphotransferase enzyme family
+DUF4440              PF14534.10   107 NZ_CP072636.1.region003_ORF7:gid::pid:WP_211421647.1:loc:7806:8253:strand:- -            148   9.6e-08   32.6   0.3   1   1   1.1e-11   1.2e-07   32.3   0.3     1   107    33   142    33   142 0.82 Domain of unknown function (DUF4440)
+SnoaL_3              PF13474.10   121 NZ_CP072636.1.region003_ORF7:gid::pid:WP_211421647.1:loc:7806:8253:strand:- -            148     3e-05   24.5   0.0   1   1   3.6e-09   3.8e-05   24.2   0.0     1   117    33   148    33   148 0.80 SnoaL-like domain
+dUTPase              PF00692.23   129 NZ_CP072636.1.region003_ORF9:gid:dcd:pid:WP_058867202.1:loc:9588:10146:strand:+ -            185   3.7e-08   33.3   0.0   1   1   2.6e-12   5.3e-08   32.8   0.0    26   122    81   177    76   182 0.88 dUTPase
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      output_47/cache/fasta/NZ_CP072636.1.region003.fasta
+# Target file:     pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout output_47/cache/domtable/NZ_CP072636.1.region003.domtable --cut_tc --cpu 0 pfam/Pfam-A.hmm output_47/cache/fasta/NZ_CP072636.1.region003.fasta 
+# Current dir:     /home/sf373/sf373/BiG-SCAPE
+# Date:            Wed Feb  7 14:27:16 2024
+# [ok]

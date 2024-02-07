@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+AP018533.1.region001_ORF12:gid::pid::loc:10000:10999:strand:-:19:328                            v-GLGLAYPDILDVD--.GHLVISKDLADADRVTIVTYGGSGHEPAQAGFVGTGMLDVQAVGDIFAAPNGKLVFDAMKLADKGHGVLLLTLNYAGDQLAGKQAMKLAEKAGLNFRQVVTGEEVQF-DPNGEDNKRGLAGAVALYHIAAAAAREGKSLDEVAEIAQRYADNMASITVKSTDATHPQNGMSFGDLGEtDLME
+#=GR AP018533.1.region001_ORF12:gid::pid::loc:10000:10999:strand:-:19:328                    PP 8.6677899977776...45899999999************************************************************************************************.6788999******************************************************99999976377**
+GCF_900066015.1_ORF1786:gid:dhaK:pid:WP_095043207.1:loc:2114153:2115230:strand:+:17:353         .EGMAAAHPDQLKVHYDdANFVYRADAPVPGKVAIISGGGSGHEPMHGGFVGMGMLDAACPGEVFTSPTPVQMYEAAKMVNSGAGVLFLVKNYTGDVLNFETAAELAHGDGIPVQNILIDDDVAVKDSLYTAGRRGVGTTVLVEKIVGAAAEAGYNLDQCADLARKANSYGRSMGMALTSCTVPAAGKPTFELGE.NEME
+#=GR GCF_900066015.1_ORF1786:gid:dhaK:pid:WP_095043207.1:loc:2114153:2115230:strand:+:17:353 PP .69***********988799*******************************************************************************************************************************************************************************.****
+#=GC PP_cons                                                                                    .6888999999988888.6799999999**************************************************************************************************89999**********************************************************99*998.89**
+#=GC RF                                                                                         .xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxx
+
+AP018533.1.region001_ORF12:gid::pid::loc:10000:10999:strand:-:19:328                            IGAGQHGEGGGVRVPMMSSKETVATVADALFKKLEL........................KAGDQTFVMVNGCGATTMMEMLVLFKDTVEFLKAKDIEVVASMVGEILTVQEAGGFQLNIAKWDDEFIRLWKAPCHTPA.
+#=GR AP018533.1.region001_ORF12:gid::pid::loc:10000:10999:strand:-:19:328                    PP ********************************9999........................*****************************************************************************96.
+GCF_900066015.1_ORF1786:gid:dhaK:pid:WP_095043207.1:loc:2114153:2115230:strand:+:17:353         FGIGIHGEPGQKRMPFTTADEVTKLMAEEIITDPAYtrvvrewdrdagdwvdisltdeplKKGDRVIAFVNSMGGTPVSELYAVYRKLDEVCKAHGIEIARNLIGPYITSLEMAGMSITLLKADDEILKFWDAPVKTP-g
+#=GR GCF_900066015.1_ORF1786:gid:dhaK:pid:WP_095043207.1:loc:2114153:2115230:strand:+:17:353 PP *******************************85554779999**************999888**************************************************************************98.6
+#=GC PP_cons                                                                                    *******************************97777........................99**************************************************************************986.
+#=GC RF                                                                                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

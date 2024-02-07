@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1088:gid::pid::loc:1262707:1264573:strand:+:5:281         LDKVNSPKDIKNMSIEEMDLLAKDIRKFLVKSVSKTGGHLASNLGVVELTLALHKVFDSPKDKIVWDVGHQSYVHKIVTGRKDCFVSLRQFNGLSGFPKENESPHDIFDTGHSSTSISIATGIACARDIKKENYSVISVIGDGSITGGMALEALNQL.GYIDTNMIVILNDNEMSIDKNVGGMSKYLSSIIRNSTVEKMT
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1088:gid::pid::loc:1262707:1264573:strand:+:5:281 PP 799**********************************************************************************************************************************************************.******************************************
+BGC0000663_ORF10:gid:SCO6768:pid:CAB39701.1:loc:9596:11567:strand:+:4:279                      LENIRGPRDLKALSEAELGELSDEIRDFLVHAVARTGGHLGPNLGVVELTVALHRVFESPDDRILWDTGHQSYVHKLLTGRQD-FSKLRSKGGLSGYPSREESAHDVIENSHASTVLGWADGLAKARQVQGERSHVVAVIGDGALTGGMAWEALNNIaAARDRPLIIVVNDNERSYAPTIGGLANHLATLRTTDGYERAL
+#=GR BGC0000663_ORF10:gid:SCO6768:pid:CAB39701.1:loc:9596:11567:strand:+:4:279              PP 789******************************************************************************98.************************************************************************94566899************************************
+#=GC PP_cons                                                                                   799*******************************************************************************9**************************************************************************.78899*************************************
+#=GC RF                                                                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1088:gid::pid::loc:1262707:1264573:strand:+:5:281         DEVDKILN.vTQTGEILSKTAHRFKDKLMYSFSPqdCSFFDSLGIRYYGPIDGHNTKELIDILRKAKHKKGPVLLHVIT
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1088:gid::pid::loc:1262707:1264573:strand:+:5:281 PP *******9.8899******************9964589***************************************98
+BGC0000663_ORF10:gid:SCO6768:pid:CAB39701.1:loc:9596:11567:strand:+:4:279                      AWGKDVLQrtPVVGHTVYEALHGAKKGFKDAFAP..QGLFEDLGLKYLGPIDGHDIGAVESALRRAKRFHGPVLVHCLT
+#=GR BGC0000663_ORF10:gid:SCO6768:pid:CAB39701.1:loc:9596:11567:strand:+:4:279              PP *******988889*********************..****************************************998
+#=GC PP_cons                                                                                   *******9..899********************8..99***************************************98
+#=GC RF                                                                                        xxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+GCF_026242195.1_ORF1844:gid:ligA:pid:WP_266087125.1:loc:1607104291:1607106325:strand:+:595:672         ..etg---DALEGTKVVFtGSVEGYTRRELTDLLEKNGADVTSSVSGETDYLVAGEN-PGENKIEDAREHGVETLDEEGFQE--rv
+#=GR GCF_026242195.1_ORF1844:gid:ligA:pid:WP_266087125.1:loc:1607104291:1607106325:strand:+:595:672 PP ..876...5689999999***************************************.9*******************9876..78
+GCF_018304705.1_ORF2408:gid:ligA:pid:WP_211423541.1:loc:2871733:2873785:strand:-:607:681               ..tar-----LAGKQFVLtGTLPNLTREEATARIEAAGGRVTSAVSKKTDYVVVGEN--PGSKLARAEALGIPVLDEAGLLAL-l.
+#=GR GCF_018304705.1_ORF2408:gid:ligA:pid:WP_211423541.1:loc:2871733:2873785:strand:-:607:681       PP ..*98.....78*********************************************..88******************9987.5.
+GCF_900066015.1_ORF279:gid:ligA:pid:WP_095041818.1:loc:333326:335363:strand:+:597:671                  sqtli-------GQIFVItGTLPTMSREAATALIETHGGKVTGSVSAKTNYLLAGEA-AG-SKLAKAQQLGVPVIDEAALTALI..
+#=GR GCF_900066015.1_ORF279:gid:ligA:pid:WP_095041818.1:loc:333326:335363:strand:+:597:671          PP *9988.......779******************************************.77.****************9888876..
+GCA_000085225.1_ASM8522v1_genomic_ORF3241:gid::pid::loc:3702416:3704441:strand:-:584:660               ....k-VEKIFEGMKIVLtGTLPTLKRNDAKDMIEKRGGKATSSVSKSTTFVLAGEE-AG-SKLTKANDLGIKVIDEERFLEL-l.
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF3241:gid::pid::loc:3702416:3704441:strand:-:584:660       PP ....6.79*************************************************.77.*****************99987.5.
+#=GC PP_cons                                                                                           ......797889999***.**************************************.889****************9998776..
+#=GC RF                                                                                                .....xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

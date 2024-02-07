@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+NZ_CP072637.1.region003_ORF6:gid:shc:pid:WP_211423351.1:loc:10000:11980:strand:+:38:329         .IRKAQAYLLSKQYPEGYWWAELEANVTLTAEYVFLHKVLGTDgeRTRQFEKIRTYLRRQQREHGGWELYYGDGGELSTSIEAYFALKLLGDSPDLPHMARARQFILARGGITKARVFTKIHLALFGAFPWEGCPTLPPWIMLLPDWFPFTIYELASWARSSTVPLLLVSDRKPVVRVP-GGDADELYAEGRAQADLSLP
+#=GR NZ_CP072637.1.region003_ORF6:gid:shc:pid:WP_211423351.1:loc:10000:11980:strand:+:38:329 PP .789************************************77622567889*******************************************************************************************************************************9.999*****************
+GCF_018304705.1_ORF3075:gid:shc:pid:WP_211423351.1:loc:3674263:3676243:strand:+:38:329          .IRKAQAYLLSKQYPEGYWWAELEANVTLTAEYVFLHKVLGTDgeRTRQFEKIRTYLRRQQREHGGWELYYGDGGELSTSIEAYFALKLLGDSPDLPHMARARQFILARGGITKARVFTKIHLALFGAFPWEGCPTLPPWIMLLPDWFPFTIYELASWARSSTVPLLLVSDRKPVVRVP-GGDADELYAEGRAQADLSLP
+#=GR GCF_018304705.1_ORF3075:gid:shc:pid:WP_211423351.1:loc:3674263:3676243:strand:+:38:329  PP .789************************************77622567889*******************************************************************************************************************************9.999*****************
+BGC0000663_ORF6:gid:SCO6764:pid:CAB39697.1:loc:4699:6742:strand:+:42:328                        t-RRATDFLLAKQDAEGWWKGDLETNVTMDAEDLLLRQFLGIQ..DEETTRAAALFIRGEQREDGTWATFYGGPGELSTTIEAYVALRLAGDSPEAPHMARAAEWIRSRGGIASARVFTRIWLALFGWWKWDDLPELPPELIYFPTWVPLNIYDFGCWARQTIVPLTIVSAKRPVRPAP--FPLDELHTDPARPNPPRP-
+#=GR BGC0000663_ORF6:gid:SCO6764:pid:CAB39697.1:loc:4699:6742:strand:+:42:328                PP 8.589**************************************..**************************************************************************************************************************************..*********998888886.
+#=GC PP_cons                                                                                    .779************************************887..778899*******************************************************************************************************************************9.999*********9999999*
+#=GC RF                                                                                         .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+NZ_CP072637.1.region003_ORF6:gid:shc:pid:WP_211423351.1:loc:10000:11980:strand:+:38:329         NPAGPLSLGGVFIGFDRMLKLMERFDLSPRRAEALARAEQWTLDHQDDSGDWGGIIPAMLNSLLGLHCRGYAPTHPAMQKGIAAVERFCIETED.
+#=GR NZ_CP072637.1.region003_ORF6:gid:shc:pid:WP_211423351.1:loc:10000:11980:strand:+:38:329 PP *******************************************************************************************985.
+GCF_018304705.1_ORF3075:gid:shc:pid:WP_211423351.1:loc:3674263:3676243:strand:+:38:329          NPAGPLSLGGVFIGFDRMLKLMERFDLSPRRAEALARAEQWTLDHQDDSGDWGGIIPAMLNSLLGLHCRGYAPTHPAMQKGIAAVERFCIETED.
+#=GR GCF_018304705.1_ORF3075:gid:shc:pid:WP_211423351.1:loc:3674263:3676243:strand:+:38:329  PP *******************************************************************************************985.
+BGC0000663_ORF6:gid:SCO6764:pid:CAB39697.1:loc:4699:6742:strand:+:42:328                        -LAPVASWDGAFQRIDKALHAYRKVAPRRLRRAAMNSAARWIIERQENDGCWGGIQPPAVYSVIALYLLGYDLEHPVMRAGLESLDRFAVWRE-d
+#=GR BGC0000663_ORF6:gid:SCO6764:pid:CAB39697.1:loc:4699:6742:strand:+:42:328                PP .45578************************************************************************************987.5
+#=GC PP_cons                                                                                    *88899************************************************************************************9985.
+#=GC RF                                                                                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

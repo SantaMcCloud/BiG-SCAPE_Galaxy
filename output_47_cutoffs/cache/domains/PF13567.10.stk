@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_018304705.1_ORF1745:gid::pid:WP_211424155.1:loc:2087832:2090559:strand:+:15:213         splfwaavglsvgiwlaswlpet----SPWWWGLGCFSVWLLWASRRRqpsFAPESGLRLAVLCTVLGGAWCAALEQAARE.APDRVRVRlrmlppDASLQLTGCLVDWPEPAVGRLSFDVDVATLqsTPSAAPVPARGRVRLVLPLTRPEqvheweqaNLTPGDLLAVTATLGRRGRHANPGSYAVGDYLDWRGYDAQG
+#=GR GCF_018304705.1_ORF1745:gid::pid:WP_211424155.1:loc:2087832:2090559:strand:+:15:213 PP *******************8764....556666666666666655543455444444888888888888888887777777.6666666688999999999***********************99999999***************************************************************99998
+GCF_900066015.1_ORF3070:gid::pid:WP_095044408.1:loc:3583356:3585813:strand:+:43:201         .....................ld--LPVVAWLAVALPVIAGAILWW--...-RRGRVGLALAACGAMALGGARYVASLPVLsPAIVQYYN.....gAQDVVILGRVMAEPERDDHRARLRIAASEL..VSDGRARPVAGALLVETNRYPAI........--PYGATVRLRGDLDAPIAT---GSPSYAAYLERQGLGSLM
+#=GR GCF_900066015.1_ORF3070:gid::pid:WP_095044408.1:loc:3583356:3585813:strand:+:43:201 PP .....................86..789999999999999999998......45555555555555555555554444444144555555.....79*****************************..*****************999999..........******************...8889*********99888
+#=GC PP_cons                                                                                .........................78777777777777777777743...444455666666666666666666666655.55666666......99****************************..999*****************999........***********************999**********99998
+#=GC RF                                                                                     .......................xxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_018304705.1_ORF1745:gid::pid:WP_211424155.1:loc:2087832:2090559:strand:+:15:213         QV------ia
+#=GR GCF_018304705.1_ORF1745:gid::pid:WP_211424155.1:loc:2087832:2090559:strand:+:15:213 PP 76......99
+GCF_900066015.1_ORF3070:gid::pid:WP_095044408.1:loc:3583356:3585813:strand:+:43:201         SFPAVE--iv
+#=GR GCF_900066015.1_ORF3070:gid::pid:WP_095044408.1:loc:3583356:3585813:strand:+:43:201 PP 877665..67
+#=GC PP_cons                                                                                767665....
+#=GC RF                                                                                     xxxxxxxx..
+//

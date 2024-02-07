@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+BGC0002669_ORF20:gid::pid:WP_030193564.1:loc:16079:16769:strand:-:51:168                      DGKFLQSFSISPKEILRAMD.RGVRLYGSSSMGALRAAELDVYGMTGVGTVYTMYASGTLEDDDEVAITFDSE--SLRPVCEPMVNIRVAMDAALRRRVVNKENAELFLKTAKSLYFPQRT
+#=GR BGC0002669_ORF20:gid::pid:WP_030193564.1:loc:16079:16769:strand:-:51:168              PP 9*******************.***************************************************9..8********************************************7
+GCF_900696045.1_ORF1981:gid::pid:WP_134484801.1:loc:2064784:2065453:strand:+:52:169           DGFFLQDYPPTPIEVYNLLKkKGTTVYGSSSLGALRAVELSKFGMIGVGKIFNLFRKGIIDSDDEVAVTFTDY---SNFKSEALIDIRYNLFLAHKSKVIDKEAKRIILRISKQTYFPYRT
+#=GR GCF_900696045.1_ORF1981:gid::pid:WP_134484801.1:loc:2064784:2065453:strand:+:52:169   PP 9****************996369***********************************************998...57789**************************************97
+NZ_LR216287.1.region001_ORF14:gid::pid:WP_134484801.1:loc:11325:11994:strand:+:52:169         DGFFLQDYPPTPIEVYNLLKkKGTTVYGSSSLGALRAVELSKFGMIGVGKIFNLFRKGIIDSDDEVAVTFTDY---SNFKSEALIDIRYNLFLAHKSKVIDKEAKRIILRISKQTYFPYRT
+#=GR NZ_LR216287.1.region001_ORF14:gid::pid:WP_134484801.1:loc:11325:11994:strand:+:52:169 PP 9****************996369***********************************************998...57789**************************************97
+#=GC PP_cons                                                                                  9****************998.89************************************************98..87889***************************************97
+#=GC RF                                                                                       xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

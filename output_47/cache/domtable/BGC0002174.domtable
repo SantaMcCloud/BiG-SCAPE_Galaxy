@@ -1,0 +1,15 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.32   382 BGC0002174_ORF1:gid:epls:pid:BBU42014.1:loc:0:3894:strand:+ -           1297   1.2e-58  198.9   2.5   1   1   1.5e-60     1e-56  192.6   2.5     2   379    29   352    28   354 0.87 AMP-binding enzyme
+PP-binding           PF00550.29    67 BGC0002174_ORF1:gid:epls:pid:BBU42014.1:loc:0:3894:strand:+ -           1297   3.4e-12   46.6   0.0   1   1   1.1e-15   7.5e-12   45.5   0.0     2    67   507   568   506   568 0.95 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      output_47/cache/fasta/BGC0002174.fasta
+# Target file:     pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout output_47/cache/domtable/BGC0002174.domtable --cut_tc --cpu 0 pfam/Pfam-A.hmm output_47/cache/fasta/BGC0002174.fasta 
+# Current dir:     /home/sf373/sf373/BiG-SCAPE
+# Date:            Wed Feb  7 14:25:39 2024
+# [ok]

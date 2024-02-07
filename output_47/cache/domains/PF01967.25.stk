@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCA_000085225.1_ASM8522v1_genomic_ORF1693:gid::pid::loc:1902793:1903264:strand:+:13:148               MVDISEKDDTKRTAVATATITLSKEALEKVKNGQIKKGDVLSVAQVAGIMGAKNTSSNIPMCHQIKLVGCDLEFDVDDYMSAIKIYATCKSLGKTGVEMEALNACSLAALTIYDMCKAVDKK.......MVISNIHLVEKTGG..
+#=GR GCA_000085225.1_ASM8522v1_genomic_ORF1693:gid::pid::loc:1902793:1903264:strand:+:13:148       PP 9*************************************************************************************************************************.......*************9..
+GCF_018304705.1_ORF725:gid:moaC:pid:WP_211422623.1:loc:871704:872229:strand:-:14:147                  MVDVGEKPITDRTATASGVVLMRPETLAAIRARTTPKGDPLETARLAGIMAAKQTDRLIPLCHTLPLAYVNVELTLA--ADHILITATARARASTGVEMEALTAVSVAALTLFDMCKAIDRT.......MRITDIQVRSKTGG..
+#=GR GCF_018304705.1_ORF725:gid:moaC:pid:WP_211422623.1:loc:871704:872229:strand:-:14:147          PP 9*************************************************************************987..89*****************************************.......*************9..
+GCF_026242195.1_ORF2199:gid:moaC:pid:WP_266087761.1:loc:6428779401:6428779881:strand:-:17:156         MVDVTEKDDVRRESTASGGIRLREETVTAIREGDVEKGNVLSTARIAAIDAVKHTWEDVPMCHQIPVTGIDTGFELE--EDAVVARVSVTSTGKTGVEMEALNGVTRALLTVWDMVKSAEKDedggypeARIEDVTVDEKV--k.
+#=GR GCF_026242195.1_ORF2199:gid:moaC:pid:WP_266087761.1:loc:6428779401:6428779881:strand:-:17:156 PP 9*************************************************************************987..79****************************************9999*9999******99996..6.
+GCF_000011105.1_ORF1689:gid:moaC:pid:WP_010885871.1:loc:1575448:1575928:strand:-:15:155               MVEIGYKDVVFRKAVAKGRIKLKPETVKLIKEGKIEKGNVLATAQIAGILAVKRTPELIPLCHPIPITGVDITFDFG--EDYIEVTCEVRAYYKTGVEMEALTGVTVALLAIWDMVKAVEKDekgqypyTRIENVHVVEKV--kt
+#=GR GCF_000011105.1_ORF1689:gid:moaC:pid:WP_010885871.1:loc:1575448:1575928:strand:-:15:155       PP 9*************************************************************************987..89**********************************************************96..59
+GCF_900066015.1_ORF2406:gid:moaC:pid:WP_095043788.1:loc:2811897:2812386:strand:-:16:151               MVDVGDKAVTERVAVARGRVTMRPDTLDLIMEGGLKKGDVLAVAQVAGIMAAKRTSELIPLCHPLLLNQVVVTCAPNPDASAIDIEATVRVSGKTGVEMEALTAVTVAGLTIYDMAKAVDRD.......MRLTDVRLISKAGG..
+#=GR GCF_900066015.1_ORF2406:gid:moaC:pid:WP_095043788.1:loc:2811897:2812386:strand:-:16:151       PP 9*************************************************************************************************************************.......*************9..
+#=GC PP_cons                                                                                          9*************************************************************************998**9******************************************.......***********8*9..
+#=GC RF                                                                                               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxx..
+//
