@@ -4,7 +4,7 @@ TODO:
 - ABGEBEN!!!!!!
     - klären noch wie man das mit der Pfam-A file macht da man die auch für den Test hochladen muss
     - location nutzen mit test für die Pfamm
-    - vier einzelnen collection machen für jede file type jeweils => gemacht aber jetzt nuch mit clans-off, clans-cutoff und mit cutoffs teesten wie es dann mit dem Output ausssieht!
+    - Output in der Help section überarbteiten dabei wichtig dass das c cutoff beudteutet und das genauer erklären => dabei auch in einer Liste angeben was alles als ausputngeben wird!!!!!!
 
 ERRORS COMMING FROM OPTIONS:
 - domain_overlap_cutoff -> Wird nicht zum float gecastet wenn man diese Option nutzt!

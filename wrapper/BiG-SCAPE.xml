@@ -55,8 +55,8 @@
               #end if
               --cutoffs $cutoffs
               ${clans_off}
-              #if $clans_cutoff.is_select == "yes":
-                     --clans_cutoff $clans_cutoff_val1 $clans_cutoff_val2
+              #if $clan_cutoff.is_select == "yes":
+                     --clan_cutoff $clan_cutoff_val1 $clan_cutoff_val2
               #end if
               ${hybrids_off}
               --mode ${mode.value}
@@ -158,16 +158,16 @@
               <param argument="--clans-off" type="boolean" truevalue="--clans-off" falsevalue="" checked="False"
                      label="Turn off cluster GCFs into GCCs"
                      help="By default, BiG-SCAPE will perform a second layer of clustering to group GCFs into GCCs. Toggle to deactivate this." />
-              <conditional name="clans_cutoff" >
+              <conditional name="clan_cutoff" >
                      <param name="is_select" type="select" label="Change cutoff values for cluster GCF into GCC?"
                             help="Select yes if you want to change cutoffs for cluster families into clans.">
                             <option value="yes" selected="False"> Yes </option>
                             <option value="no" selected="True"> No </option>
                      </param>
                      <when value="yes">
-                            <param name="clans_cutoff_val1" type="float" value="0.3" min="0.1" max="1.0" label="GCF cutoff value"
+                            <param name="clan_cutoff_val1" type="float" value="0.3" min="0.1" max="1.0" label="GCF cutoff value"
                                    help="This value is for finding GCFs which will be used for clan calling. The default value is 0.3." />
-                            <param name="clans_cutoff_val2" type="float" value="0.7" min="0.1" max="1.0" label="GCC cutoff value"
+                            <param name="clan_cutoff_val2" type="float" value="0.7" min="0.1" max="1.0" label="GCC cutoff value"
                                    help="This value is for clustering families into clans. The default value is 0.7. Every pair of GCFs linked with a distance of this value or less will be taken into account!" />
                      </when>
                      <when value="no" />
