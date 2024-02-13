@@ -1,5 +1,5 @@
 <tool id="big-scape" name="BiG-SCAPE" version="1.1.8+galaxy0" profile="21.05">
-       <description> construct sequence similarity networks of BGCs and groups them into GCF</description>
+       <description> Construct sequence similarity networks of BGCs and groups them into GCF</description>
        <requirements>
               <requirement type="package" version="1.1.8">bigscape</requirement>
        </requirements>
@@ -118,7 +118,7 @@
               </conditional>
               <param argument="--pfam_dir" format=".hmm" type="data"
                      label="Data file Pfam-A.hmm"
-                     help="Add Pfam-A.hmm file here please. Look at the help section where you can download it!" />
+                     help="Add Pfam-A.hmm.gz file here please. Look at the help section where you can download it!" />
               <param argument="--verbose" type="boolean" truevalue="--verbose" falsevalue="" checked="False"
                      label="Print more detailed information about each step"
                      help="Getting more information about the analysis if toggled is true." />
@@ -154,7 +154,7 @@
               </param>
               <param argument="--cutoffs" type="text" value="0.3" optional="false"
                      label="GCF cutoff value"
-                     help="Generate networks using muliple raw distance cutoffs values. The default value here is 0.3. multipe values are possible but only use float numbers between 0.1 and 1.0 SPACE SEPERATE THEM!"/>
+                     help="Generate networks using muliple raw distance cutoffs values. The default value here is 0.3, which always will be used. multipe values are possible but only use float numbers between 0.1 and 1.0 SPACE SEPERATE THEM!"/>
               <param argument="--clans-off" type="boolean" truevalue="--clans-off" falsevalue="" checked="False"
                      label="Turn off cluster GCFs into GCCs"
                      help="By default, BiG-SCAPE will perform a second layer of clustering to group GCFs into GCCs. Toggle to deactivate this." />
@@ -225,11 +225,12 @@
               </collection>
               <collection name="tsv_collection_2" type="list" label="${tool.name}: CLAN TABULAR FILES COLLECTION" format="tabular">
                      <discover_datasets pattern="(?P&lt;identifier_0&gt;[^_]+)_clans_(?P&lt;designation&gt;.+)\.tsv" directory="result/network_files" recurse="true"/>
+                     <filter> clans_off == False </filter>
               </collection>
-              <collection name="tsv_collection_3" type="list" label="${tool.name}: CLUSTERING TABULAR FILES COLLECTION" format="tabular">
-                     <discover_datasets pattern="(?P&lt;identifier_0&gt;[^_]+)_clustering_(?P&lt;designation&gt;.+)\.tsv" directory="result/network_files" recurse="true"/>
+              <collection name="tsv_collection_3" type="list:list" label="${tool.name}: CLUSTERING TABULAR FILES COLLECTION" format="tabular">
+                     <discover_datasets pattern="(?P&lt;identifier_0&gt;[^_]+)_clustering_(?P&lt;identifier_1&gt;.+)\.tsv" directory="result/network_files" recurse="true"/>
               </collection>
-              <collection name="newtwork_collection" type="list" label="${tool.name}: NETWORK FILES COLLECTION">
+              <collection name="newtwork_collection" type="list" label="${tool.name}: NETWORK FILES COLLECTION" format="network">
                      <discover_datasets pattern="(?P&lt;designation&gt;.+)\.network" directory="result/network_files" recurse="true"/>
               </collection>
               <data name="logfile" label="${tool.name}: LOG FILE" format="log">
@@ -237,14 +238,15 @@
               </data>
        </outputs>
        <tests>
-              <test expect_num_outputs="2">
+              <test expect_num_outputs="5">
                      <param name="pfam_dir" value="Pfam-A.hmm" ftype="hmm3"/>
                      <param name="inputdir" value="GCF_000011105.1.gbk,GCF_008000775.1.gbk,GCF_026242195.1.gbk,GCF_900066015.1.gbk" ftype="genbank" />
               </test>
-              <test expect_num_outputs="3">
+              <test expect_num_outputs="6">
                      <param name="pfam_dir" value="Pfam-A.hmm" ftype="hmm3"/>
                      <param name="inputdir" value="GCF_000011105.1.gbk,GCF_008000775.1.gbk,GCF_026242195.1.gbk,GCF_900066015.1.gbk" ftype="genbank" />
                      <param name="log" value="true" />
+                     <param name="cutoffs" value="0.3 1.0"/>
                      <output name="html" >
                             <assert_contents>
                                    <has_line line="&lt;!DOCTYPE html&gt;" />
@@ -255,13 +257,47 @@
                                           <has_line line="   - - Processing input files - -" />
                             </assert_contents>
                      </output>
-                     <output_collection name="tsv_collection" type="list">
-                            <element name="Network_Annotations_Full" >
+                     <output_collection name="tsv_collection_1" type="list">
+                            <element name="Full" >
                                    <assert_contents>
                                           <has_text text="Accession ID" n="1"/>
                                    </assert_contents>
                             </element>
                      </output_collection>
+                     <output_collection name="tsv_collection_2" type="list">
+                            <element name="Others">
+                                   <assert_contents>
+                                          <has_text text="Clan Number" n="1"/>
+                                   </assert_contents>
+                            </element>
+                     </output_collection>
+                     <output_collection name="tsv_collection_3" type="list:list">
+                            <element name="Others">
+                                   <element name="c0.30">
+                                          <assert_contents>
+                                                 <has_text text="Family Number" n="1" />
+                                          </assert_contents>
+                                   </element>
+                                   <element name="c1.00">
+                                          <assert_contents>
+                                                 <has_text text="Family Number" n="1" />
+                                          </assert_contents>
+                                   </element>
+                            </element>
+                     </output_collection>
+                     <output_collection name="newtwork_collection" type="list">
+                            <element name="Others_c0.30">
+                                   <assert_contents>
+                                          <has_text text="Raw distance" n="1"/>
+                                   </assert_contents>
+                            </element>
+                     </output_collection>
+              </test>
+              <test expect_num_outputs="5">
+                     <param name="pfam_dir" value="Pfam-A.hmm" ftype="hmm3"/>
+                     <param name="inputdir" value="GCF_000011105.1.gbk,GCF_008000775.1.gbk,GCF_026242195.1.gbk,GCF_900066015.1.gbk" ftype="genbank" />
+                     <param name="log" value="true" />
+                     <param name="clans_off" value="true" />
               </test>
        </tests>
        <help> 
@@ -301,7 +337,7 @@
 
               .. class:: infomark
 
-              Note: You can download `Pfam-A.hmm <https://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz>`_ and gunzip it or you can use the command: *$ wget https://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz && gunzip Pfam-A.hmm.gz* in e.g. VSC.
+              Note: You can download `Pfam-A.hmm.gz <https://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz>`_ here and then unzip it or you can use the command: *$ wget https://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz && gunzip Pfam-A.hmm.gz* in e.g. VSC.
 
               There are two additionally inputs which can be used:
 
@@ -344,8 +380,17 @@
 
               **Output**
 
-              BiG-SCAPE will produce one HTML Output together with a dataset with different tabular files depending on the input. When the log file option is set it will create an another output, where all prints made from this tool are stored.
+              - A HTML output, when turn on you can see the result in certain graphics in galaxy. This output has a overall graphic and certain BiG-SCAPE class based grapics.
 
+              - A annotaion tabulare collection. Here BiG-SCAPE will produce for each BiG-SCAPE class a file where each cluster will be listed which was used in this class, also there will be file where the hole input will be listed.
+
+              - A clan tabulare collection. Here BiG-SCAPE will produce for each BiG-SCAPE class a file, if this feature is not turn off, where all used cluster in this class will be numbered and each number stands for a clan.
+
+              - A tabulare collection of differen clustering. Here for each BiG-SCAPE class it can happen, based if multiple cufoffs are used as input, that we have for each cutoff a new file. Because of this the collection first only list the names of the classes while click on a name will reveal all produce clustering files for this class. In these files the used clustern will be numbered and each number stand for a new GCF.
+
+              - A network collection. Here for each BiG-SCAPE class and for each cutoff BiG-SCAPE will create a network file where the cluster will be comapred based on the cutoff. in this file evrey calcualtion will be stored, as example the raw distance between 2 cluster will be stored. (NOTE: it can happen that some of this file will be empty since the are not covered by the cutoff, if this happen either use a bigger cutoff or use the inlcude singleton option)
+
+              - A log file where all prints which BiG-SCAPE will do are stored. This file is optional and can be turn on.
 
               **Additionally information for the alignment Mode**
 

@@ -3,8 +3,6 @@ Fragen die noch offen sind:
 TODO:
 - ABGEBEN!!!!!!
     - klären noch wie man das mit der Pfam-A file macht da man die auch für den Test hochladen muss
-    - location nutzen mit test für die Pfamm
-    - Output in der Help section überarbteiten dabei wichtig dass das c cutoff beudteutet und das genauer erklären => dabei auch in einer Liste angeben was alles als ausputngeben wird!!!!!!
 
 ERRORS COMMING FROM OPTIONS:
 - domain_overlap_cutoff -> Wird nicht zum float gecastet wenn man diese Option nutzt!
@@ -109,3 +107,6 @@ DONE:
 - added the package since it is updated, it works since it didtn work local, stange but when it works it work.
 - Change that you always need a input and can choose if you want to inlcude mibig as option
 - remove the options [--include_gbk_str] and [--exclude_gbk_str] since we always want to inlcude all files, when doing a systemlink we will add 'region.' in front of the file name to make sure they all will be inlcuded!
+- create more outputs which are now more filtered which means for each file there is a collection baesd on the purpose of this file
+- rewrote in the help section the output part.
+- rewrote test section and added a new test so each output will be tested. Did try out the locatation option but this doesnt work since, i think, the format isnt supported by galaxy. I can not unzip the file beacuse it is not recognized as .gz file! 
