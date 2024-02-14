@@ -11,69 +11,69 @@
                 "inputs": {
                     "inputdir": [
                         {
-                            "id": "6adae57c2d36ddd8",
+                            "id": "2f5a4b9b639981bf",
                             "src": "hda"
                         },
                         {
-                            "id": "e07ae955aaa3db10",
+                            "id": "efa560140fa17632",
                             "src": "hda"
                         },
                         {
-                            "id": "c23788214fd041a7",
+                            "id": "5e03149cb26b7d20",
                             "src": "hda"
                         },
                         {
-                            "id": "73dc3eb8a58dba9c",
+                            "id": "27ceee8550bb604f",
                             "src": "hda"
                         }
                     ],
                     "pfam_dir": {
-                        "id": "94fc377b1b546fa0",
+                        "id": "f42f9ca3ad25d56e",
                         "src": "hda"
                     }
                 },
                 "job": {
-                    "command_line": "mkdir -p /tmp/tmp85q4tu4g/job_working_directory/000/6/outputs/dataset_ca51a1f7-f251-4c8e-8a24-aca619f8bed8_files && mkdir result &&  mkdir input && ln -s /tmp/tmp85q4tu4g/files/7/2/c/dataset_72c72b89-2492-4a9a-92a3-60471e3bc519.dat input/region.GCF_000011105.1.gbk && ln -s /tmp/tmp85q4tu4g/files/0/9/a/dataset_09a2269f-6f80-476c-9aad-4e81ed958152.dat input/region.GCF_008000775.1.gbk && ln -s /tmp/tmp85q4tu4g/files/f/2/4/dataset_f24840a6-97ea-457c-a5f6-a10d717f6923.dat input/region.GCF_026242195.1.gbk && ln -s /tmp/tmp85q4tu4g/files/b/0/7/dataset_b07b3536-1a93-48b8-bf6f-e21c8eaae94e.dat input/region.GCF_900066015.1.gbk &&  mkdir pfam && ln -s /tmp/tmp85q4tu4g/files/4/d/2/dataset_4d226d97-4173-46c0-8824-fb42eb2361a3.dat pfam/Pfam-A.hmm && hmmpress pfam/Pfam-A.hmm &&   bigscape --inputdir input --outputdir result --pfam_dir pfam --cores ${GALAXY_SLOTS:-8}    --domain_overlap_cutoff 0.1 --min_bgc_size 0   --cutoffs 0.3   --mode glocal  &&  cp result/index.html /tmp/tmp85q4tu4g/job_working_directory/000/6/outputs/dataset_ca51a1f7-f251-4c8e-8a24-aca619f8bed8.dat && cp -r result/html_content /tmp/tmp85q4tu4g/job_working_directory/000/6/outputs/dataset_ca51a1f7-f251-4c8e-8a24-aca619f8bed8_files",
+                    "command_line": "mkdir -p /tmp/tmpecjp7qd0/job_working_directory/000/6/outputs/dataset_7d385582-98bb-4b92-8034-d09930745bfa_files && mkdir result &&  mkdir input && ln -s /tmp/tmpecjp7qd0/files/c/0/2/dataset_c023e506-83b0-4a8d-b875-68c4dc9b18e3.dat input/region.GCF_000011105.1.gbk && ln -s /tmp/tmpecjp7qd0/files/a/3/f/dataset_a3faf4cd-a2f8-4b5e-8ed1-5ac1dbaeef21.dat input/region.GCF_008000775.1.gbk && ln -s /tmp/tmpecjp7qd0/files/1/d/2/dataset_1d283d23-0ebe-4e1b-baa2-7701dc4f0ec4.dat input/region.GCF_026242195.1.gbk && ln -s /tmp/tmpecjp7qd0/files/5/c/c/dataset_5cc7c465-0245-4ed6-b6c8-8b5b5dd168b7.dat input/region.GCF_900066015.1.gbk &&  mkdir pfam && ln -s /tmp/tmpecjp7qd0/files/3/0/b/dataset_30b324e1-f821-4765-a761-1343b300f4c0.dat pfam/Pfam-A.hmm && hmmpress pfam/Pfam-A.hmm &&   bigscape --inputdir input --outputdir result --pfam_dir pfam --cores ${GALAXY_SLOTS:-8}    --domain_overlap_cutoff 0.1 --min_bgc_size 0   --cutoffs 0.3   --mode glocal  &&  cp result/index.html /tmp/tmpecjp7qd0/job_working_directory/000/6/outputs/dataset_7d385582-98bb-4b92-8034-d09930745bfa.dat && cp -r result/html_content /tmp/tmpecjp7qd0/job_working_directory/000/6/outputs/dataset_7d385582-98bb-4b92-8034-d09930745bfa_files",
                     "command_version": "",
                     "copied_from_job_id": null,
-                    "create_time": "2024-02-13T02:16:25.338972",
+                    "create_time": "2024-02-14T15:07:05.868512",
                     "dependencies": [],
                     "exit_code": 0,
-                    "external_id": "2145",
+                    "external_id": "13494",
                     "galaxy_version": "23.3",
                     "handler": null,
-                    "history_id": "6adae57c2d36ddd8",
-                    "id": "74792ed21840c9f2",
+                    "history_id": "2f5a4b9b639981bf",
+                    "id": "0b74055062a2103e",
                     "inputs": {
                         "inputdir": {
-                            "id": "6adae57c2d36ddd8",
+                            "id": "2f5a4b9b639981bf",
                             "src": "hda",
-                            "uuid": "72c72b89-2492-4a9a-92a3-60471e3bc519"
+                            "uuid": "c023e506-83b0-4a8d-b875-68c4dc9b18e3"
                         },
                         "inputdir1": {
-                            "id": "6adae57c2d36ddd8",
+                            "id": "2f5a4b9b639981bf",
                             "src": "hda",
-                            "uuid": "72c72b89-2492-4a9a-92a3-60471e3bc519"
+                            "uuid": "c023e506-83b0-4a8d-b875-68c4dc9b18e3"
                         },
                         "inputdir2": {
-                            "id": "e07ae955aaa3db10",
+                            "id": "efa560140fa17632",
                             "src": "hda",
-                            "uuid": "09a2269f-6f80-476c-9aad-4e81ed958152"
+                            "uuid": "a3faf4cd-a2f8-4b5e-8ed1-5ac1dbaeef21"
                         },
                         "inputdir3": {
-                            "id": "c23788214fd041a7",
+                            "id": "5e03149cb26b7d20",
                             "src": "hda",
-                            "uuid": "f24840a6-97ea-457c-a5f6-a10d717f6923"
+                            "uuid": "1d283d23-0ebe-4e1b-baa2-7701dc4f0ec4"
                         },
                         "inputdir4": {
-                            "id": "73dc3eb8a58dba9c",
+                            "id": "27ceee8550bb604f",
                             "src": "hda",
-                            "uuid": "b07b3536-1a93-48b8-bf6f-e21c8eaae94e"
+                            "uuid": "5cc7c465-0245-4ed6-b6c8-8b5b5dd168b7"
                         },
                         "pfam_dir": {
-                            "id": "94fc377b1b546fa0",
+                            "id": "f42f9ca3ad25d56e",
                             "src": "hda",
-                            "uuid": "4d226d97-4173-46c0-8824-fb42eb2361a3"
+                            "uuid": "30b324e1-f821-4765-a761-1343b300f4c0"
                         }
                     },
                     "job_messages": [],
@@ -84,82 +84,82 @@
                     "model_class": "Job",
                     "output_collections": {
                         "newtwork_collection": {
-                            "id": "73dc3eb8a58dba9c",
+                            "id": "27ceee8550bb604f",
                             "src": "hdca"
                         },
                         "tsv_collection_1": {
-                            "id": "6adae57c2d36ddd8",
+                            "id": "2f5a4b9b639981bf",
                             "src": "hdca"
                         },
                         "tsv_collection_2": {
-                            "id": "e07ae955aaa3db10",
+                            "id": "efa560140fa17632",
                             "src": "hdca"
                         },
                         "tsv_collection_3": {
-                            "id": "c23788214fd041a7",
+                            "id": "5e03149cb26b7d20",
                             "src": "hdca"
                         }
                     },
                     "outputs": {
                         "__new_primary_file_newtwork_collection|Others_c0.30__": {
-                            "id": "b44f7333c7a65e68",
+                            "id": "4da8226fb978afc1",
                             "src": "hda",
-                            "uuid": "c6d8cff7-d6be-4c6a-ad16-6fd610dd0a74"
+                            "uuid": "0c71cd68-ec9e-48e4-a21b-0490f72b72dc"
                         },
                         "__new_primary_file_newtwork_collection|Terpene_c0.30__": {
-                            "id": "85eb939d2344daab",
+                            "id": "0f5872640015b2c5",
                             "src": "hda",
-                            "uuid": "d8b4a78f-5512-4382-80cb-30608682e745"
+                            "uuid": "543f3a0f-ec34-456c-aaa7-e49730d9c699"
                         },
                         "__new_primary_file_tsv_collection_1|Full__": {
-                            "id": "cd860def96fd52bb",
+                            "id": "858c828fb4988178",
                             "src": "hda",
-                            "uuid": "f7ab409a-54e3-4055-b7fa-0bda7fb35a27"
+                            "uuid": "d31a2991-e292-47b8-a42e-db7596de049b"
                         },
                         "__new_primary_file_tsv_collection_1|Others__": {
-                            "id": "58bf13c23b24cf9a",
+                            "id": "b69aeeb764ec5d8d",
                             "src": "hda",
-                            "uuid": "e802aca8-1fe7-47bd-b7d8-b9797567199a"
+                            "uuid": "e5803235-de47-4cbb-bd58-fff5f6062643"
                         },
                         "__new_primary_file_tsv_collection_1|PKSother__": {
-                            "id": "c32568b8e185161b",
+                            "id": "c698df5a14e27079",
                             "src": "hda",
-                            "uuid": "1eab8f81-3f8b-4466-8802-d1ae5e6be085"
+                            "uuid": "a82c66fd-364a-4b00-a497-ece548cee807"
                         },
                         "__new_primary_file_tsv_collection_1|RiPPs__": {
-                            "id": "bd2983b967b6c92a",
+                            "id": "076ddac9323bf854",
                             "src": "hda",
-                            "uuid": "47f05741-1238-4ed4-b4ea-a1bb50a987fc"
+                            "uuid": "445d015d-2cc1-4dd5-ac8f-228559c536e8"
                         },
                         "__new_primary_file_tsv_collection_1|Terpene__": {
-                            "id": "81b949c70fabdbb1",
+                            "id": "e96e8b2897342930",
                             "src": "hda",
-                            "uuid": "9a112da9-528b-406b-aed4-28a441a94417"
+                            "uuid": "c114f32c-9601-46f9-bd52-dc43b18c0e28"
                         },
                         "__new_primary_file_tsv_collection_2|Others__": {
-                            "id": "8f24467e64317d25",
+                            "id": "212278e4c4483613",
                             "src": "hda",
-                            "uuid": "8caf3fe4-1465-49a9-b424-faf6eb176c87"
+                            "uuid": "2e9ebd17-6af0-4f7f-9571-4335c1182bcb"
                         },
                         "__new_primary_file_tsv_collection_2|Terpene__": {
-                            "id": "2e766c2614254c11",
+                            "id": "45f50409922a70e9",
                             "src": "hda",
-                            "uuid": "32143e8e-d87f-4859-897c-c8894f37000f"
+                            "uuid": "64d4893b-5a4e-40e5-82e5-b9e7decb9d9d"
                         },
                         "__new_primary_file_tsv_collection_3|Others:c0.30__": {
-                            "id": "587d0bd625c4b54e",
+                            "id": "bababbd05aea360e",
                             "src": "hda",
-                            "uuid": "05c37810-e800-4c5b-b871-5a133ada9fbe"
+                            "uuid": "4edb01da-1660-4f8a-a83a-4c088000e999"
                         },
                         "__new_primary_file_tsv_collection_3|Terpene:c0.30__": {
-                            "id": "9b62b300d22b42fe",
+                            "id": "268c5d65cce73fae",
                             "src": "hda",
-                            "uuid": "82f114fc-1247-44c9-b692-b80b793b585c"
+                            "uuid": "4e8d1338-983d-47f2-b3bf-27c71354dc8f"
                         },
                         "html": {
-                            "id": "74792ed21840c9f2",
+                            "id": "0b74055062a2103e",
                             "src": "hda",
-                            "uuid": "ca51a1f7-f251-4c8e-8a24-aca619f8bed8"
+                            "uuid": "7d385582-98bb-4b92-8034-d09930745bfa"
                         }
                     },
                     "params": {
@@ -187,16 +187,16 @@
                     },
                     "state": "ok",
                     "stderr": "",
-                    "stdout": "Working...    done.\nPressed and indexed 20795 HMMs (20795 names and 20795 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n\n\n   - - Processing input files - -\n Output folder already exists\n Including files with one or more of the following strings in their filename: 'cluster', 'region'\n Skipping files with one or more of the following strings in their filename: 'final'\n\nImporting GenBank files\n  Warning: unknown product 'hydrogen-cyanide'\n\n Starting with 4 files\n Files that had its sequence extracted: 4\n\nCreating output directories\n\nTrying threading on 1 cores\n\nPredicting domains using hmmscan\n Predicting domains for 4 fasta files\n Finished generating domtable files.\n\nParsing hmmscan domtable files\n Processing 4 domtable files\n New domain sequences to be added; cleaning domains folder\n Finished generating pfs and pfd files.\n\nProcessing domains sequence files\n Adding sequences to corresponding domains file\n Reading the ordered list of domains from the pfs files\n Creating arrower-like figures for each BGC\n  Parsing hmm file for domain information\n    Done\n  Domains colors file was not found. An empty file will be created\n  Reading BGC information and writing SVG\n Finished creating figures\n\n\n   - - Calculating distance matrix - -\nPerforming multiple alignment of domain sequences\n\n Using hmmalign\nlaunch_hmmalign took 289.222 seconds\n Trying to read domain alignments (*.algn files)\n\nGenerating distance network files with ALL available input files\n   Writing the complete Annotations file for the complete set\n\n Working for each BGC class\n  Sorting the input BGCs\n\n  Warning: unknown product 'hydrogen-cyanide'\n\n  RiPPs (1 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.004 seconds\n\n  Others (2 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.422 seconds\n   Writing output files\n  Calling Gene Cluster Families\n  Cutoff: 0.3\n\n  Terpene (2 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.225 seconds\n   Writing output files\n  Calling Gene Cluster Families\n  Cutoff: 0.3\n\n  PKSother (1 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.006 seconds\n\n\n\tMain function took 2885.951 s\n",
+                    "stdout": "Working...    done.\nPressed and indexed 12 HMMs (12 names and 12 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n\n\n   - - Processing input files - -\n Output folder already exists\n Including files with one or more of the following strings in their filename: 'cluster', 'region'\n Skipping files with one or more of the following strings in their filename: 'final'\n\nImporting GenBank files\n  Warning: unknown product 'hydrogen-cyanide'\n\n Starting with 4 files\n Files that had its sequence extracted: 4\n\nCreating output directories\n\nTrying threading on 1 cores\n\nPredicting domains using hmmscan\n Predicting domains for 4 fasta files\n Finished generating domtable files.\n\nParsing hmmscan domtable files\n Processing 4 domtable files\n New domain sequences to be added; cleaning domains folder\n Finished generating pfs and pfd files.\n\nProcessing domains sequence files\n Adding sequences to corresponding domains file\n Reading the ordered list of domains from the pfs files\n Creating arrower-like figures for each BGC\n  Parsing hmm file for domain information\n    Done\n  Domains colors file was not found. An empty file will be created\n  Reading BGC information and writing SVG\n Finished creating figures\n\n\n   - - Calculating distance matrix - -\nPerforming multiple alignment of domain sequences\n\n Using hmmalign\nlaunch_hmmalign took 0.208 seconds\n Trying to read domain alignments (*.algn files)\n\nGenerating distance network files with ALL available input files\n   Writing the complete Annotations file for the complete set\n\n Working for each BGC class\n  Sorting the input BGCs\n\n  Warning: unknown product 'hydrogen-cyanide'\n\n  RiPPs (1 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.004 seconds\n\n  Others (2 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.012 seconds\n   Writing output files\n  Calling Gene Cluster Families\n  Cutoff: 0.3\n\n  Terpene (2 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.008 seconds\n   Writing output files\n  Calling Gene Cluster Families\n  Cutoff: 0.3\n\n  PKSother (1 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.006 seconds\n\n\n\tMain function took 12.100 s\n",
                     "tool_id": "big-scape",
                     "tool_stderr": "",
-                    "tool_stdout": "Working...    done.\nPressed and indexed 20795 HMMs (20795 names and 20795 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n\n\n   - - Processing input files - -\n Output folder already exists\n Including files with one or more of the following strings in their filename: 'cluster', 'region'\n Skipping files with one or more of the following strings in their filename: 'final'\n\nImporting GenBank files\n  Warning: unknown product 'hydrogen-cyanide'\n\n Starting with 4 files\n Files that had its sequence extracted: 4\n\nCreating output directories\n\nTrying threading on 1 cores\n\nPredicting domains using hmmscan\n Predicting domains for 4 fasta files\n Finished generating domtable files.\n\nParsing hmmscan domtable files\n Processing 4 domtable files\n New domain sequences to be added; cleaning domains folder\n Finished generating pfs and pfd files.\n\nProcessing domains sequence files\n Adding sequences to corresponding domains file\n Reading the ordered list of domains from the pfs files\n Creating arrower-like figures for each BGC\n  Parsing hmm file for domain information\n    Done\n  Domains colors file was not found. An empty file will be created\n  Reading BGC information and writing SVG\n Finished creating figures\n\n\n   - - Calculating distance matrix - -\nPerforming multiple alignment of domain sequences\n\n Using hmmalign\nlaunch_hmmalign took 289.222 seconds\n Trying to read domain alignments (*.algn files)\n\nGenerating distance network files with ALL available input files\n   Writing the complete Annotations file for the complete set\n\n Working for each BGC class\n  Sorting the input BGCs\n\n  Warning: unknown product 'hydrogen-cyanide'\n\n  RiPPs (1 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.004 seconds\n\n  Others (2 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.422 seconds\n   Writing output files\n  Calling Gene Cluster Families\n  Cutoff: 0.3\n\n  Terpene (2 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.225 seconds\n   Writing output files\n  Calling Gene Cluster Families\n  Cutoff: 0.3\n\n  PKSother (1 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.006 seconds\n\n\n\tMain function took 2885.951 s\n",
-                    "update_time": "2024-02-13T03:05:35.768958",
+                    "tool_stdout": "Working...    done.\nPressed and indexed 12 HMMs (12 names and 12 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n\n\n   - - Processing input files - -\n Output folder already exists\n Including files with one or more of the following strings in their filename: 'cluster', 'region'\n Skipping files with one or more of the following strings in their filename: 'final'\n\nImporting GenBank files\n  Warning: unknown product 'hydrogen-cyanide'\n\n Starting with 4 files\n Files that had its sequence extracted: 4\n\nCreating output directories\n\nTrying threading on 1 cores\n\nPredicting domains using hmmscan\n Predicting domains for 4 fasta files\n Finished generating domtable files.\n\nParsing hmmscan domtable files\n Processing 4 domtable files\n New domain sequences to be added; cleaning domains folder\n Finished generating pfs and pfd files.\n\nProcessing domains sequence files\n Adding sequences to corresponding domains file\n Reading the ordered list of domains from the pfs files\n Creating arrower-like figures for each BGC\n  Parsing hmm file for domain information\n    Done\n  Domains colors file was not found. An empty file will be created\n  Reading BGC information and writing SVG\n Finished creating figures\n\n\n   - - Calculating distance matrix - -\nPerforming multiple alignment of domain sequences\n\n Using hmmalign\nlaunch_hmmalign took 0.208 seconds\n Trying to read domain alignments (*.algn files)\n\nGenerating distance network files with ALL available input files\n   Writing the complete Annotations file for the complete set\n\n Working for each BGC class\n  Sorting the input BGCs\n\n  Warning: unknown product 'hydrogen-cyanide'\n\n  RiPPs (1 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.004 seconds\n\n  Others (2 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.012 seconds\n   Writing output files\n  Calling Gene Cluster Families\n  Cutoff: 0.3\n\n  Terpene (2 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.008 seconds\n   Writing output files\n  Calling Gene Cluster Families\n  Cutoff: 0.3\n\n  PKSother (1 BGCs)\n   Writing annotation files\n   Calculating all pairwise distances\ngenerate_network took 0.006 seconds\n\n\n\tMain function took 12.100 s\n",
+                    "update_time": "2024-02-14T15:07:27.295445",
                     "user_email": "planemo@galaxyproject.org"
                 },
                 "status": "success",
                 "test_index": 0,
-                "time_seconds": 3119.8491225242615,
+                "time_seconds": 50.3535213470459,
                 "tool_id": "big-scape",
                 "tool_version": "1.1.8+galaxy0"
             },
@@ -209,33 +209,33 @@
                     "cutoffs": "0.3 1.0",
                     "inputdir": [
                         {
-                            "id": "c5f2922971e8f042",
+                            "id": "1815bbe8f1d7e1c3",
                             "src": "hda"
                         },
                         {
-                            "id": "2a30956d175eeed1",
+                            "id": "7145ddfb27b2585b",
                             "src": "hda"
                         },
                         {
-                            "id": "d0d500bb758583d5",
+                            "id": "e158b01b6f5236cf",
                             "src": "hda"
                         },
                         {
-                            "id": "57bd96cf2c92c16d",
+                            "id": "ff61e95d745a600d",
                             "src": "hda"
                         }
                     ],
                     "log": true,
                     "pfam_dir": {
-                        "id": "debf16ae782b7dab",
+                        "id": "acb3ee384ad46e9a",
                         "src": "hda"
                     }
                 },
                 "job": {
-                    "command_line": "mkdir -p /tmp/tmp85q4tu4g/job_working_directory/000/12/outputs/dataset_baee757a-d671-4932-8e3c-87bf3b2a35f0_files && mkdir result &&  mkdir input && ln -s /tmp/tmp85q4tu4g/files/4/8/c/dataset_48c20824-f2f9-4700-8ccc-1202fff6d8e5.dat input/region.GCF_000011105.1.gbk && ln -s /tmp/tmp85q4tu4g/files/2/e/b/dataset_2eb9f989-8942-457a-9c53-0db7a97fc2eb.dat input/region.GCF_008000775.1.gbk && ln -s /tmp/tmp85q4tu4g/files/1/9/0/dataset_1908bd4f-c548-4728-943c-03f5a3cdc97b.dat input/region.GCF_026242195.1.gbk && ln -s /tmp/tmp85q4tu4g/files/9/b/9/dataset_9b965426-697c-44f1-8c60-ae747b27e04b.dat input/region.GCF_900066015.1.gbk &&  mkdir pfam && ln -s /tmp/tmp85q4tu4g/files/9/2/9/dataset_9298732e-69e1-4719-bb8d-6f7619050bae.dat pfam/Pfam-A.hmm && hmmpress pfam/Pfam-A.hmm &&   bigscape --inputdir input --outputdir result --pfam_dir pfam --cores ${GALAXY_SLOTS:-8}  > verbose.log  --domain_overlap_cutoff 0.1 --min_bgc_size 0   --cutoffs 0.3 1.0   --mode glocal  &&  cp result/index.html /tmp/tmp85q4tu4g/job_working_directory/000/12/outputs/dataset_baee757a-d671-4932-8e3c-87bf3b2a35f0.dat && cp -r result/html_content /tmp/tmp85q4tu4g/job_working_directory/000/12/outputs/dataset_baee757a-d671-4932-8e3c-87bf3b2a35f0_files   && cp verbose.log /tmp/tmp85q4tu4g/job_working_directory/000/12/outputs/dataset_0ce85882-a6e8-45d1-896c-231d5b4fec44.dat",
+                    "command_line": "mkdir -p /tmp/tmpecjp7qd0/job_working_directory/000/12/outputs/dataset_54ab8b9d-2373-4c4d-bbf3-f37bc1f36cad_files && mkdir result &&  mkdir input && ln -s /tmp/tmpecjp7qd0/files/7/4/3/dataset_743ad891-a0f5-44dd-ad25-b3a531ff1ebe.dat input/region.GCF_000011105.1.gbk && ln -s /tmp/tmpecjp7qd0/files/b/8/5/dataset_b85a9d91-46db-4024-909c-4f4d4b172910.dat input/region.GCF_008000775.1.gbk && ln -s /tmp/tmpecjp7qd0/files/3/1/8/dataset_31833447-a440-4545-9e87-b12458a53dbf.dat input/region.GCF_026242195.1.gbk && ln -s /tmp/tmpecjp7qd0/files/2/b/5/dataset_2b56b33b-a6bf-428c-b312-686e8b8129ba.dat input/region.GCF_900066015.1.gbk &&  mkdir pfam && ln -s /tmp/tmpecjp7qd0/files/7/a/9/dataset_7a9cf0d8-4e5e-4a1b-9328-77030be02db7.dat pfam/Pfam-A.hmm && hmmpress pfam/Pfam-A.hmm &&   bigscape --inputdir input --outputdir result --pfam_dir pfam --cores ${GALAXY_SLOTS:-8}  > verbose.log  --domain_overlap_cutoff 0.1 --min_bgc_size 0   --cutoffs 0.3 1.0   --mode glocal  &&  cp result/index.html /tmp/tmpecjp7qd0/job_working_directory/000/12/outputs/dataset_54ab8b9d-2373-4c4d-bbf3-f37bc1f36cad.dat && cp -r result/html_content /tmp/tmpecjp7qd0/job_working_directory/000/12/outputs/dataset_54ab8b9d-2373-4c4d-bbf3-f37bc1f36cad_files   && cp verbose.log /tmp/tmpecjp7qd0/job_working_directory/000/12/outputs/dataset_5a41f4ac-ad2c-4efa-851a-93f485bba66e.dat",
                     "command_version": "",
                     "copied_from_job_id": null,
-                    "create_time": "2024-02-13T03:07:06.094162",
+                    "create_time": "2024-02-14T15:07:54.402359",
                     "dependencies": [
                         {
                             "cacheable": false,
@@ -261,41 +261,41 @@
                         }
                     ],
                     "exit_code": 0,
-                    "external_id": "8311",
+                    "external_id": "14135",
                     "galaxy_version": "23.3",
                     "handler": null,
-                    "history_id": "e07ae955aaa3db10",
-                    "id": "8f24467e64317d25",
+                    "history_id": "efa560140fa17632",
+                    "id": "212278e4c4483613",
                     "inputs": {
                         "inputdir": {
-                            "id": "c5f2922971e8f042",
+                            "id": "1815bbe8f1d7e1c3",
                             "src": "hda",
-                            "uuid": "48c20824-f2f9-4700-8ccc-1202fff6d8e5"
+                            "uuid": "743ad891-a0f5-44dd-ad25-b3a531ff1ebe"
                         },
                         "inputdir1": {
-                            "id": "c5f2922971e8f042",
+                            "id": "1815bbe8f1d7e1c3",
                             "src": "hda",
-                            "uuid": "48c20824-f2f9-4700-8ccc-1202fff6d8e5"
+                            "uuid": "743ad891-a0f5-44dd-ad25-b3a531ff1ebe"
                         },
                         "inputdir2": {
-                            "id": "2a30956d175eeed1",
+                            "id": "7145ddfb27b2585b",
                             "src": "hda",
-                            "uuid": "2eb9f989-8942-457a-9c53-0db7a97fc2eb"
+                            "uuid": "b85a9d91-46db-4024-909c-4f4d4b172910"
                         },
                         "inputdir3": {
-                            "id": "d0d500bb758583d5",
+                            "id": "e158b01b6f5236cf",
                             "src": "hda",
-                            "uuid": "1908bd4f-c548-4728-943c-03f5a3cdc97b"
+                            "uuid": "31833447-a440-4545-9e87-b12458a53dbf"
                         },
                         "inputdir4": {
-                            "id": "57bd96cf2c92c16d",
+                            "id": "ff61e95d745a600d",
                             "src": "hda",
-                            "uuid": "9b965426-697c-44f1-8c60-ae747b27e04b"
+                            "uuid": "2b56b33b-a6bf-428c-b312-686e8b8129ba"
                         },
                         "pfam_dir": {
-                            "id": "debf16ae782b7dab",
+                            "id": "acb3ee384ad46e9a",
                             "src": "hda",
-                            "uuid": "9298732e-69e1-4719-bb8d-6f7619050bae"
+                            "uuid": "7a9cf0d8-4e5e-4a1b-9328-77030be02db7"
                         }
                     },
                     "job_messages": [],
@@ -306,107 +306,107 @@
                     "model_class": "Job",
                     "output_collections": {
                         "newtwork_collection": {
-                            "id": "58bf13c23b24cf9a",
+                            "id": "b69aeeb764ec5d8d",
                             "src": "hdca"
                         },
                         "tsv_collection_1": {
-                            "id": "94fc377b1b546fa0",
+                            "id": "f42f9ca3ad25d56e",
                             "src": "hdca"
                         },
                         "tsv_collection_2": {
-                            "id": "74792ed21840c9f2",
+                            "id": "0b74055062a2103e",
                             "src": "hdca"
                         },
                         "tsv_collection_3": {
-                            "id": "cd860def96fd52bb",
+                            "id": "858c828fb4988178",
                             "src": "hdca"
                         }
                     },
                     "outputs": {
                         "__new_primary_file_newtwork_collection|Others_c0.30__": {
-                            "id": "34c376d39cdb4708",
+                            "id": "4af80950f0c178ee",
                             "src": "hda",
-                            "uuid": "f3d48ad5-9063-4fb1-8fc2-018f16797bdf"
+                            "uuid": "84159e5c-bd1e-43da-9618-ca33be000932"
                         },
                         "__new_primary_file_newtwork_collection|Others_c1.00__": {
-                            "id": "ad547347afa0fba0",
+                            "id": "f00c1e9b6c7db1da",
                             "src": "hda",
-                            "uuid": "85b2beef-67a9-4d7a-9a2c-025010bed2cb"
+                            "uuid": "89d6fb57-1514-48c0-9a48-55d4bf84f42d"
                         },
                         "__new_primary_file_newtwork_collection|Terpene_c0.30__": {
-                            "id": "50ac11136f6b34da",
+                            "id": "b2cdd1fdf3059182",
                             "src": "hda",
-                            "uuid": "7947aea3-db77-4d36-8139-eaf9d64f64b8"
+                            "uuid": "e06d5ca9-01a3-44de-bf38-4f0dd8a765f4"
                         },
                         "__new_primary_file_newtwork_collection|Terpene_c1.00__": {
-                            "id": "3abe3af4653c4e71",
+                            "id": "e08310d96545cea3",
                             "src": "hda",
-                            "uuid": "d5243889-77f3-4c24-845e-1b33ea50974c"
+                            "uuid": "5238f993-8f61-4632-b221-87dcf50a470f"
                         },
                         "__new_primary_file_tsv_collection_1|Full__": {
-                            "id": "238757e021d4a8ff",
+                            "id": "1b9c345d247639ff",
                             "src": "hda",
-                            "uuid": "5e8438a5-aaf4-42db-88b2-fe863c868273"
+                            "uuid": "3a98f405-2f44-4288-81dd-da12f675729a"
                         },
                         "__new_primary_file_tsv_collection_1|Others__": {
-                            "id": "2e0662aaaa6caf81",
+                            "id": "21eff2c633c0cc5a",
                             "src": "hda",
-                            "uuid": "3a1601cc-91c8-4564-b6f0-1d0493ac10ef"
+                            "uuid": "b43c6aaa-6f40-4d28-9e0d-ffa3701bb0f9"
                         },
                         "__new_primary_file_tsv_collection_1|PKSother__": {
-                            "id": "5e9e4f861de38a1d",
+                            "id": "57c9efe857541609",
                             "src": "hda",
-                            "uuid": "2c72062b-b821-4519-a174-d026ca81eb57"
+                            "uuid": "b1ca30da-dd32-4b1f-a716-f2315f73d790"
                         },
                         "__new_primary_file_tsv_collection_1|RiPPs__": {
-                            "id": "657b82e71e9ae4ba",
+                            "id": "0176f1da4ccfd8ac",
                             "src": "hda",
-                            "uuid": "2f28363a-c9ac-4140-8762-cc3ac24d6b7a"
+                            "uuid": "fa0e0ff1-1918-437a-a6e4-57f04a98b009"
                         },
                         "__new_primary_file_tsv_collection_1|Terpene__": {
-                            "id": "2e0c31c8669b5ac9",
+                            "id": "32598146352ff99a",
                             "src": "hda",
-                            "uuid": "972c8579-9b7d-44ed-ad2b-9e171af8bb17"
+                            "uuid": "e24edbb8-7371-4188-896f-370f3148cd7d"
                         },
                         "__new_primary_file_tsv_collection_2|Others__": {
-                            "id": "bc6a506798c06996",
+                            "id": "c81ecd67d68e7f80",
                             "src": "hda",
-                            "uuid": "028ec0b6-4ed8-4cfd-bbd6-8ca9bc05f24c"
+                            "uuid": "f387040c-5f99-4e52-ba9a-44db65224f8d"
                         },
                         "__new_primary_file_tsv_collection_2|Terpene__": {
-                            "id": "306d782e5905c12e",
+                            "id": "065aac54b01d1149",
                             "src": "hda",
-                            "uuid": "7d6215d2-537e-4545-abcd-b9cc2fc8281d"
+                            "uuid": "0842a4f3-29f2-4fe0-8c52-b101f0e6b679"
                         },
                         "__new_primary_file_tsv_collection_3|Others:c0.30__": {
-                            "id": "bdb7a7bc1c553a5c",
+                            "id": "efcf6048a9c10e61",
                             "src": "hda",
-                            "uuid": "d0eee8ae-0405-44b6-841b-7ed089df572d"
+                            "uuid": "7ae8d376-a802-436e-818d-899d5466b048"
                         },
                         "__new_primary_file_tsv_collection_3|Others:c1.00__": {
-                            "id": "6cd51ffe38b71dd5",
+                            "id": "f4ba94394d766a5e",
                             "src": "hda",
-                            "uuid": "a39ca763-2642-4314-b1e8-37fb1d9a8af7"
+                            "uuid": "bd08102c-4922-4a39-bec7-af7de315a3e8"
                         },
                         "__new_primary_file_tsv_collection_3|Terpene:c0.30__": {
-                            "id": "510153dea99c2741",
+                            "id": "4f004f258e2ff626",
                             "src": "hda",
-                            "uuid": "3261fee7-1954-418d-9ba8-572699f9ddd5"
+                            "uuid": "7b3498ee-8945-420d-a15c-beda52c6ba2d"
                         },
                         "__new_primary_file_tsv_collection_3|Terpene:c1.00__": {
-                            "id": "808e58222d80b3a2",
+                            "id": "570424db4ecb38b9",
                             "src": "hda",
-                            "uuid": "6f780a38-a8c9-419a-8c3d-70e54c6366b9"
+                            "uuid": "1b2ca3f3-f515-4172-924e-8cf403d7298a"
                         },
                         "html": {
-                            "id": "3461d214b5e921bc",
+                            "id": "1021cc0f25326278",
                             "src": "hda",
-                            "uuid": "baee757a-d671-4932-8e3c-87bf3b2a35f0"
+                            "uuid": "54ab8b9d-2373-4c4d-bbf3-f37bc1f36cad"
                         },
                         "logfile": {
-                            "id": "4c56c0d170177602",
+                            "id": "081152e3a3d06a65",
                             "src": "hda",
-                            "uuid": "0ce85882-a6e8-45d1-896c-231d5b4fec44"
+                            "uuid": "5a41f4ac-ad2c-4efa-851a-93f485bba66e"
                         }
                     },
                     "params": {
@@ -434,16 +434,16 @@
                     },
                     "state": "ok",
                     "stderr": "\nWARNING:galaxy.model:Datatype class not found for extension 'log'\nWARNING:galaxy.model:Datatype class not found for extension 'log'\nWARNING:galaxy.model:Datatype class not found for extension 'log'\nWARNING:galaxy.model:Datatype class not found for extension 'log'\nWARNING:galaxy.model:Datatype class not found for extension 'log'\nWARNING:galaxy.model:Datatype class not found for extension 'log'\n",
-                    "stdout": "Working...    done.\nPressed and indexed 20795 HMMs (20795 names and 20795 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n",
+                    "stdout": "Working...    done.\nPressed and indexed 12 HMMs (12 names and 12 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n",
                     "tool_id": "big-scape",
                     "tool_stderr": "",
-                    "tool_stdout": "Working...    done.\nPressed and indexed 20795 HMMs (20795 names and 20795 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n",
-                    "update_time": "2024-02-13T03:56:21.252487",
+                    "tool_stdout": "Working...    done.\nPressed and indexed 12 HMMs (12 names and 12 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n",
+                    "update_time": "2024-02-14T15:08:14.064717",
                     "user_email": "planemo@galaxyproject.org"
                 },
                 "status": "success",
                 "test_index": 1,
-                "time_seconds": 3045.8389031887054,
+                "time_seconds": 46.861467361450195,
                 "tool_id": "big-scape",
                 "tool_version": "1.1.8+galaxy0"
             },
@@ -456,33 +456,33 @@
                     "clans_off": true,
                     "inputdir": [
                         {
-                            "id": "5592f0cfd9e4bdb2",
+                            "id": "4136e13498c4cbb1",
                             "src": "hda"
                         },
                         {
-                            "id": "e4ea5dffdcc7d5d9",
+                            "id": "8e413a60772dd485",
                             "src": "hda"
                         },
                         {
-                            "id": "36d01ef05274355f",
+                            "id": "4b0589434c6ef10c",
                             "src": "hda"
                         },
                         {
-                            "id": "1921547aed45f5dd",
+                            "id": "be22b1ee6f468ebf",
                             "src": "hda"
                         }
                     ],
                     "log": true,
                     "pfam_dir": {
-                        "id": "ebc82489391ebfe1",
+                        "id": "af3c4707e24ea702",
                         "src": "hda"
                     }
                 },
                 "job": {
-                    "command_line": "mkdir -p /tmp/tmp85q4tu4g/job_working_directory/000/18/outputs/dataset_69c80eb5-55b8-4dd8-96ce-1aff7af75af0_files && mkdir result &&  mkdir input && ln -s /tmp/tmp85q4tu4g/files/d/a/0/dataset_da0096f6-338d-4d8c-9f2e-208b152c05c9.dat input/region.GCF_000011105.1.gbk && ln -s /tmp/tmp85q4tu4g/files/f/9/4/dataset_f94d8402-7ac8-4125-bc10-a4f5cefc2ac4.dat input/region.GCF_008000775.1.gbk && ln -s /tmp/tmp85q4tu4g/files/e/d/3/dataset_ed309a83-6aa8-4b06-81aa-db89c4ad49c8.dat input/region.GCF_026242195.1.gbk && ln -s /tmp/tmp85q4tu4g/files/8/0/4/dataset_8040b116-6184-4b5f-b6c6-7827428cd70a.dat input/region.GCF_900066015.1.gbk &&  mkdir pfam && ln -s /tmp/tmp85q4tu4g/files/5/a/c/dataset_5ac587bb-aab3-4c9b-9eed-cb391bd5dfc4.dat pfam/Pfam-A.hmm && hmmpress pfam/Pfam-A.hmm &&   bigscape --inputdir input --outputdir result --pfam_dir pfam --cores ${GALAXY_SLOTS:-8}  > verbose.log  --domain_overlap_cutoff 0.1 --min_bgc_size 0   --cutoffs 0.3 --clans-off  --mode glocal  &&  cp result/index.html /tmp/tmp85q4tu4g/job_working_directory/000/18/outputs/dataset_69c80eb5-55b8-4dd8-96ce-1aff7af75af0.dat && cp -r result/html_content /tmp/tmp85q4tu4g/job_working_directory/000/18/outputs/dataset_69c80eb5-55b8-4dd8-96ce-1aff7af75af0_files   && cp verbose.log /tmp/tmp85q4tu4g/job_working_directory/000/18/outputs/dataset_e84ca898-fa9e-4704-9897-38f70e96ec7b.dat",
+                    "command_line": "mkdir -p /tmp/tmpecjp7qd0/job_working_directory/000/18/outputs/dataset_200a0bd0-fbbd-43b8-9073-7458fbed605b_files && mkdir result &&  mkdir input && ln -s /tmp/tmpecjp7qd0/files/e/7/8/dataset_e7831934-a54f-4c82-9fa2-80307ad7fac7.dat input/region.GCF_000011105.1.gbk && ln -s /tmp/tmpecjp7qd0/files/e/5/d/dataset_e5d20496-3737-451e-a55d-14b1d2589645.dat input/region.GCF_008000775.1.gbk && ln -s /tmp/tmpecjp7qd0/files/5/c/8/dataset_5c8919a3-478f-4078-9fda-6428cfbeb1cf.dat input/region.GCF_026242195.1.gbk && ln -s /tmp/tmpecjp7qd0/files/3/9/a/dataset_39a6bf86-9f5c-49d0-ab71-7c4bdd3fad42.dat input/region.GCF_900066015.1.gbk &&  mkdir pfam && ln -s /tmp/tmpecjp7qd0/files/0/3/5/dataset_035c6a21-ebdf-426d-866a-d9bd255e9917.dat pfam/Pfam-A.hmm && hmmpress pfam/Pfam-A.hmm &&   bigscape --inputdir input --outputdir result --pfam_dir pfam --cores ${GALAXY_SLOTS:-8}  > verbose.log  --domain_overlap_cutoff 0.1 --min_bgc_size 0   --cutoffs 0.3 --clans-off  --mode glocal  &&  cp result/index.html /tmp/tmpecjp7qd0/job_working_directory/000/18/outputs/dataset_200a0bd0-fbbd-43b8-9073-7458fbed605b.dat && cp -r result/html_content /tmp/tmpecjp7qd0/job_working_directory/000/18/outputs/dataset_200a0bd0-fbbd-43b8-9073-7458fbed605b_files   && cp verbose.log /tmp/tmpecjp7qd0/job_working_directory/000/18/outputs/dataset_2a816664-17f9-42b6-98fb-d6b07a46ba84.dat",
                     "command_version": "",
                     "copied_from_job_id": null,
-                    "create_time": "2024-02-13T03:59:46.330922",
+                    "create_time": "2024-02-14T15:08:41.325867",
                     "dependencies": [
                         {
                             "cacheable": false,
@@ -508,41 +508,41 @@
                         }
                     ],
                     "exit_code": 0,
-                    "external_id": "16261",
+                    "external_id": "14758",
                     "galaxy_version": "23.3",
                     "handler": null,
-                    "history_id": "c23788214fd041a7",
-                    "id": "c5f2922971e8f042",
+                    "history_id": "5e03149cb26b7d20",
+                    "id": "1815bbe8f1d7e1c3",
                     "inputs": {
                         "inputdir": {
-                            "id": "5592f0cfd9e4bdb2",
+                            "id": "4136e13498c4cbb1",
                             "src": "hda",
-                            "uuid": "da0096f6-338d-4d8c-9f2e-208b152c05c9"
+                            "uuid": "e7831934-a54f-4c82-9fa2-80307ad7fac7"
                         },
                         "inputdir1": {
-                            "id": "5592f0cfd9e4bdb2",
+                            "id": "4136e13498c4cbb1",
                             "src": "hda",
-                            "uuid": "da0096f6-338d-4d8c-9f2e-208b152c05c9"
+                            "uuid": "e7831934-a54f-4c82-9fa2-80307ad7fac7"
                         },
                         "inputdir2": {
-                            "id": "e4ea5dffdcc7d5d9",
+                            "id": "8e413a60772dd485",
                             "src": "hda",
-                            "uuid": "f94d8402-7ac8-4125-bc10-a4f5cefc2ac4"
+                            "uuid": "e5d20496-3737-451e-a55d-14b1d2589645"
                         },
                         "inputdir3": {
-                            "id": "36d01ef05274355f",
+                            "id": "4b0589434c6ef10c",
                             "src": "hda",
-                            "uuid": "ed309a83-6aa8-4b06-81aa-db89c4ad49c8"
+                            "uuid": "5c8919a3-478f-4078-9fda-6428cfbeb1cf"
                         },
                         "inputdir4": {
-                            "id": "1921547aed45f5dd",
+                            "id": "be22b1ee6f468ebf",
                             "src": "hda",
-                            "uuid": "8040b116-6184-4b5f-b6c6-7827428cd70a"
+                            "uuid": "39a6bf86-9f5c-49d0-ab71-7c4bdd3fad42"
                         },
                         "pfam_dir": {
-                            "id": "ebc82489391ebfe1",
+                            "id": "af3c4707e24ea702",
                             "src": "hda",
-                            "uuid": "5ac587bb-aab3-4c9b-9eed-cb391bd5dfc4"
+                            "uuid": "035c6a21-ebdf-426d-866a-d9bd255e9917"
                         }
                     },
                     "job_messages": [],
@@ -553,73 +553,73 @@
                     "model_class": "Job",
                     "output_collections": {
                         "newtwork_collection": {
-                            "id": "81b949c70fabdbb1",
+                            "id": "e96e8b2897342930",
                             "src": "hdca"
                         },
                         "tsv_collection_1": {
-                            "id": "c32568b8e185161b",
+                            "id": "c698df5a14e27079",
                             "src": "hdca"
                         },
                         "tsv_collection_3": {
-                            "id": "bd2983b967b6c92a",
+                            "id": "076ddac9323bf854",
                             "src": "hdca"
                         }
                     },
                     "outputs": {
                         "__new_primary_file_newtwork_collection|Others_c0.30__": {
-                            "id": "3575664c961ab225",
+                            "id": "0cbdaa87561925d7",
                             "src": "hda",
-                            "uuid": "960c057a-b48f-44a4-84c7-fae8c9e152ba"
+                            "uuid": "a33ae4ec-3190-4230-a109-b479e0b800a1"
                         },
                         "__new_primary_file_newtwork_collection|Terpene_c0.30__": {
-                            "id": "c29d33a7541575d6",
+                            "id": "d04421c9d311753d",
                             "src": "hda",
-                            "uuid": "dcd5aeb2-bb27-4889-9ef2-1b9f9c43a147"
+                            "uuid": "b952331d-74d6-42e3-9491-92c59ba74b79"
                         },
                         "__new_primary_file_tsv_collection_1|Full__": {
-                            "id": "66112a6b21329dc8",
+                            "id": "2d8ec18d91186a35",
                             "src": "hda",
-                            "uuid": "75a01b5c-cdef-4f6c-ac27-1fc22129a7b9"
+                            "uuid": "ec81e473-b4c5-4a6e-a6e1-e3d631cdfb88"
                         },
                         "__new_primary_file_tsv_collection_1|Others__": {
-                            "id": "9d56bffd4530895c",
+                            "id": "1525e1cdcc4a7fa0",
                             "src": "hda",
-                            "uuid": "b2343583-7022-4500-8c34-da1f281cb813"
+                            "uuid": "80f3ffbd-b5ba-4cc6-ba48-247cd16e51ca"
                         },
                         "__new_primary_file_tsv_collection_1|PKSother__": {
-                            "id": "fbb24eb2ac778dbb",
+                            "id": "a6f3032c5c6c4101",
                             "src": "hda",
-                            "uuid": "931d748f-3e3a-4295-bde8-25e2726d5418"
+                            "uuid": "ae1fdf04-974b-4e12-9d4c-8ed838a70fd4"
                         },
                         "__new_primary_file_tsv_collection_1|RiPPs__": {
-                            "id": "a20a3b15eacef342",
+                            "id": "459b104a697cb3e5",
                             "src": "hda",
-                            "uuid": "547c2342-6682-4598-a9fe-8e6f50c1fe7c"
+                            "uuid": "095e6341-fe12-4652-885e-0c43a72da7e7"
                         },
                         "__new_primary_file_tsv_collection_1|Terpene__": {
-                            "id": "131113a66b6619b8",
+                            "id": "dae305d59339b3fe",
                             "src": "hda",
-                            "uuid": "b9fe658e-875f-4fac-a8b2-89d7699f29cd"
+                            "uuid": "4e039409-217d-4a8b-b1cb-ecf29448350a"
                         },
                         "__new_primary_file_tsv_collection_3|Others:c0.30__": {
-                            "id": "6deb3a03d8a5392d",
+                            "id": "ace52cece8edd94b",
                             "src": "hda",
-                            "uuid": "4b74b61a-19c4-40da-bc2e-def36ea4d078"
+                            "uuid": "07b9b4b2-12c9-4c2b-a367-09519f112a1f"
                         },
                         "__new_primary_file_tsv_collection_3|Terpene:c0.30__": {
-                            "id": "57ad14643ee19722",
+                            "id": "5b05314514ee10d2",
                             "src": "hda",
-                            "uuid": "05f046be-706b-41c0-8454-eac790f62efa"
+                            "uuid": "84c04f91-18e7-4483-b073-3019c839d87e"
                         },
                         "html": {
-                            "id": "ce09389f7810710f",
+                            "id": "18db06196cdfdf6a",
                             "src": "hda",
-                            "uuid": "69c80eb5-55b8-4dd8-96ce-1aff7af75af0"
+                            "uuid": "200a0bd0-fbbd-43b8-9073-7458fbed605b"
                         },
                         "logfile": {
-                            "id": "7ca23f3ab2ea9d39",
+                            "id": "b77e8f799bf49108",
                             "src": "hda",
-                            "uuid": "e84ca898-fa9e-4704-9897-38f70e96ec7b"
+                            "uuid": "2a816664-17f9-42b6-98fb-d6b07a46ba84"
                         }
                     },
                     "params": {
@@ -647,16 +647,16 @@
                     },
                     "state": "ok",
                     "stderr": "\nWARNING:galaxy.model:Datatype class not found for extension 'log'\nWARNING:galaxy.model:Datatype class not found for extension 'log'\nWARNING:galaxy.model:Datatype class not found for extension 'log'\nWARNING:galaxy.model:Datatype class not found for extension 'log'\nWARNING:galaxy.model:Datatype class not found for extension 'log'\nWARNING:galaxy.model:Datatype class not found for extension 'log'\n",
-                    "stdout": "Working...    done.\nPressed and indexed 20795 HMMs (20795 names and 20795 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n",
+                    "stdout": "Working...    done.\nPressed and indexed 12 HMMs (12 names and 12 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n",
                     "tool_id": "big-scape",
                     "tool_stderr": "",
-                    "tool_stdout": "Working...    done.\nPressed and indexed 20795 HMMs (20795 names and 20795 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n",
-                    "update_time": "2024-02-13T04:49:23.827214",
+                    "tool_stdout": "Working...    done.\nPressed and indexed 12 HMMs (12 names and 12 accessions).\nModels pressed into binary file:   pfam/Pfam-A.hmm.h3m\nSSI index for binary model file:   pfam/Pfam-A.hmm.h3i\nProfiles (MSV part) pressed into:  pfam/Pfam-A.hmm.h3f\nProfiles (remainder) pressed into: pfam/Pfam-A.hmm.h3p\n",
+                    "update_time": "2024-02-14T15:09:01.543282",
                     "user_email": "planemo@galaxyproject.org"
                 },
                 "status": "success",
                 "test_index": 2,
-                "time_seconds": 3181.7802715301514,
+                "time_seconds": 47.19806504249573,
                 "tool_id": "big-scape",
                 "tool_version": "1.1.8+galaxy0"
             },
