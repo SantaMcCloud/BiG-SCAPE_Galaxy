@@ -1,7 +1,7 @@
 <tool id="big-scape" name="BiG-SCAPE" version="1.1.8+galaxy0" profile="21.05">
        <description> Construct sequence similarity networks of BGCs and groups them into GCF</description>
        <requirements>
-              <requirement type="package" version="1.1.8">bigscape</requirement>
+              <requirement type="package" version="1.1.9">bigscape</requirement>
        </requirements>
        <command detect_errors="exit_code">
        <![CDATA[
